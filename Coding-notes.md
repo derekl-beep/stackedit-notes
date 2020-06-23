@@ -46,8 +46,14 @@ Methods:
 Write a script / function to calculate the sum of the square of all the even numbers ranging from 1 to 100.
 
 
+## Data Structures
+
+### Linked List
+
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjI1NTYwMl19
+eyJoaXN0b3J5IjpbLTYwMTkwODc2LDExNzYyNTU2MDJdfQ==
 -->
