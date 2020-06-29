@@ -38,7 +38,14 @@ DELETION
 
 ### Linked List in Java
 
-`LinkedList`
+```java
+public class Main {
+	public void main() {
+		LinkedList list = new LinkedList();
+		list.addLast
+	}
+}
+```
 
 
 
@@ -46,6 +53,6 @@ DELETION
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODMwODY3OCwtMjEzNjQ3OTU3MiwtMj
-A0OTk3ODI4N119
+eyJoaXN0b3J5IjpbMzIxMjQ3MzA0LC0yMTM2NDc5NTcyLC0yMD
+Q5OTc4Mjg3XX0=
 -->
