@@ -47,27 +47,28 @@ import java.util.Arrays;
 import java.util.LinkedList;  
   
 public class Main {  
-public static void main(String[] args) {  
-	 // Create a linked list object using the java util  
-  LinkedList list = new LinkedList();  
-  // Add nodes to the end of the list  
-  list.addLast(10);  
-  list.addLast(20);  
-  list.addLast(30);  
-  
-  
-  System.out.println(list);  
-  
-  // Look up by value  
-  System.out.println(list.contains(10));  
-  System.out.println(list.indexOf(20));  
-  
-  System.out.println(list.size());  
-  
-  // Cast to an array structure  
-  var array = list.toArray();  
-  System.out.println(Arrays.toString(array));  
-  }  
+	public static void main(String[] args) {  
+		
+		// Create a linked list object using the java util  
+		LinkedList list = new LinkedList();  
+		
+		// Add nodes to the end of the list  
+		list.addLast(10);  
+		list.addLast(20);  
+		list.addLast(30);  
+
+		System.out.println(list);  
+
+		// Look up by value  
+		System.out.println(list.contains(10));  
+		System.out.println(list.indexOf(20));  
+
+		System.out.println(list.size());  
+
+		// Cast to an array structure  
+		var array = list.toArray();  
+		System.out.println(Arrays.toString(array));  
+	}  
 }
 ```
 
@@ -77,6 +78,6 @@ public static void main(String[] args) {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDQ5NjA2NiwzMjEyNDczMDQsLTIxMz
-Y0Nzk1NzIsLTIwNDk5NzgyODddfQ==
+eyJoaXN0b3J5IjpbNjE5Nzk5MzE2LDMyMTI0NzMwNCwtMjEzNj
+Q3OTU3MiwtMjA0OTk3ODI4N119
 -->
