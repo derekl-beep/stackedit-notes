@@ -21,11 +21,16 @@ A linked list
  
  ### Time Complexity
 
-Look up by value: 
+Look up
+
+- By value: $\text{O}(n)$
+- By index: $\text{O}(n)$
+
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ3Mzg2OTYsLTIwNDk5NzgyODddfQ
-==
+eyJoaXN0b3J5IjpbLTIxNzk3NTE3MSwtMjA0OTk3ODI4N119
 -->
