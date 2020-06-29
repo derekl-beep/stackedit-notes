@@ -28,17 +28,19 @@ LOOK UP
 INSERTION
 - At the beginning: $\text{O}(1)$ with a head pointer
 - At the end: $\text{O}(1)$ with a tail pointer
-- In the middle: $\text{O}(n)$
+- In the middle: $\text{O}(n)$, involved a searching step
 
 DELETION
-- From the beginning:
-- From the end:
-- From the middle:
+- From the beginning: $\text{O}(1)$ with a head pointer
+- From the end: $\text{O}(1)$ with a head pointer
+- From the middle: $\text{O}(n)$, involved a searching step
+
+
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODU2OTEyNCwtMjA0OTk3ODI4N119
+eyJoaXN0b3J5IjpbOTAxNzgwNjgxLC0yMDQ5OTc4Mjg3XX0=
 -->
