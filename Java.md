@@ -21,10 +21,16 @@ A linked list
  
  ### Time Complexity
 
-Look up
+LOOK UP
 
 - By value: $\text{O}(n)$
 - By index: $\text{O}(n)$
+
+INSERTION
+
+- At the end: $\text{O}(1)$ with a tail pointer
+- At the beginning: $\text{O}(1)$ with a head pointer
+
 
 
 
@@ -32,5 +38,5 @@ Look up
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzk3NTE3MSwtMjA0OTk3ODI4N119
+eyJoaXN0b3J5IjpbNzQxNjg5NjY2LC0yMDQ5OTc4Mjg3XX0=
 -->
