@@ -32,8 +32,10 @@ INSERTION
 
 DELETION
 - From the beginning: $\text{O}(1)$ with a head pointer
-- From the end: $\text{O}(1)$ with a head pointer
+- From the end: $\text{O}(n)$ even with a tail pointer; involved searching of the second last node
 - From the middle: $\text{O}(n)$, involved a searching step
+
+
 
 
 
@@ -42,5 +44,6 @@ DELETION
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNzgwNjgxLC0yMDQ5OTc4Mjg3XX0=
+eyJoaXN0b3J5IjpbLTIxMzY0Nzk1NzIsLTIwNDk5NzgyODddfQ
+==
 -->
