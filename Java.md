@@ -16,8 +16,9 @@ A linked list
 - consists of a group of nodes in sequence
  - grows and shrinks dynamically
  - is made up of two parts: data and reference to the next node
- - `Head`: first node
- - `Tail`: last node
+ 
+ `Head`: first node
+ `Tail`: last node
  
  ### Time Complexity
 
@@ -32,7 +33,9 @@ INSERTION
 
 DELETION
 - From the beginning: $\text{O}(1)$ with a head pointer
-- From the end: $\text{O}(n)$ even with a tail pointer; involved searching of the second last node
+- From the end: 
+	- Singly linked list: $\text{O}(n)$ even with a tail pointer; involved searching of the second last node
+	- Doubly linked list: $\text{O}$
 - From the middle: $\text{O}(n)$, involved a searching step
 
 
@@ -78,6 +81,6 @@ public class Main {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5Nzk5MzE2LDMyMTI0NzMwNCwtMjEzNj
-Q3OTU3MiwtMjA0OTk3ODI4N119
+eyJoaXN0b3J5IjpbLTEwODU4MzQwMzMsNjE5Nzk5MzE2LDMyMT
+I0NzMwNCwtMjEzNjQ3OTU3MiwtMjA0OTk3ODI4N119
 -->
