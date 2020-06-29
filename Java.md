@@ -28,14 +28,16 @@ LOOK UP
 
 INSERTION
 - At the beginning: $\text{O}(1)$ with a head pointer
-- At the end: $\text{O}(1)$ with a tail pointer
+- At the end: 
+	- $\text{O}(1)$ with a tail pointer
+	- $\text{O}(n)$ without a tail pointer
 - In the middle: $\text{O}(n)$, involved a searching step
 
 DELETION
 - From the beginning: $\text{O}(1)$ with a head pointer
 - From the end: 
 	- Singly linked list: $\text{O}(n)$ even with a tail pointer; involved searching of the second last node
-	- Doubly linked list: $\text{O}$
+	- Doubly linked list: $\text{O}(1)$
 - From the middle: $\text{O}(n)$, involved a searching step
 
 
@@ -81,6 +83,6 @@ public class Main {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU4MzQwMzMsNjE5Nzk5MzE2LDMyMT
-I0NzMwNCwtMjEzNjQ3OTU3MiwtMjA0OTk3ODI4N119
+eyJoaXN0b3J5IjpbOTkzODU4MzM0LDYxOTc5OTMxNiwzMjEyND
+czMDQsLTIxMzY0Nzk1NzIsLTIwNDk5NzgyODddfQ==
 -->
