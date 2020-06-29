@@ -36,7 +36,9 @@ DELETION
 - From the middle: $\text{O}(n)$, involved a searching step
 
 
+### Linked List in Java
 
+`LinkedList`
 
 
 
@@ -44,6 +46,6 @@ DELETION
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY0Nzk1NzIsLTIwNDk5NzgyODddfQ
-==
+eyJoaXN0b3J5IjpbLTgxODMwODY3OCwtMjEzNjQ3OTU3MiwtMj
+A0OTk3ODI4N119
 -->
