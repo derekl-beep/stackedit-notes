@@ -77,13 +77,19 @@ public class Main {
 }
 ```
 
-Comparison with 
+Comparison with `Array`
+
+Space Complexity
+
+- Static arrays have a fixed size.
+- Dynamic arrays gro 
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0MTAwNzUsOTkzODU4MzM0LDYxOTc5OT
-MxNiwzMjEyNDczMDQsLTIxMzY0Nzk1NzIsLTIwNDk5NzgyODdd
-fQ==
+eyJoaXN0b3J5IjpbLTk5MzUwNTQ2Nyw5OTM4NTgzMzQsNjE5Nz
+k5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3MiwtMjA0OTk3ODI4
+N119
 -->
