@@ -88,13 +88,14 @@ Space Complexity
 
 Time Complexity
 
+### Types of Linked Lis
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5NDM5NTc4LDk5Mzg1ODMzNCw2MTk3OT
-kzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5NTcyLC0yMDQ5OTc4Mjg3
-XX0=
+eyJoaXN0b3J5IjpbLTExNTQ0MzkwMDgsOTkzODU4MzM0LDYxOT
+c5OTMxNiwzMjEyNDczMDQsLTIxMzY0Nzk1NzIsLTIwNDk5Nzgy
+ODddfQ==
 -->
