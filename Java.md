@@ -77,19 +77,24 @@ public class Main {
 }
 ```
 
-Comparison with `Array`
+### Comparison with `Array`
 
 Space Complexity
 
 - Static arrays have a fixed size.
-- Dynamic arrays gro 
+- Dynamic arrays grow by 50% - 100%.
+- Linked lists don't waste memory
+
+
+Time Complexity
+
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzUwNTQ2Nyw5OTM4NTgzMzQsNjE5Nz
-k5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3MiwtMjA0OTk3ODI4
-N119
+eyJoaXN0b3J5IjpbMzY5NDM5NTc4LDk5Mzg1ODMzNCw2MTk3OT
+kzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5NTcyLC0yMDQ5OTc4Mjg3
+XX0=
 -->
