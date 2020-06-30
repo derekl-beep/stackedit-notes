@@ -88,6 +88,7 @@ Space Complexity
 
 Time Complexity
 
+
 ### Types of Linked List
 
 Singly linked list
@@ -99,7 +100,10 @@ Doubly linked list
 
 Circular linked list
 
-- e.g. music playlists, f
+- e.g. music playlists, sign-in form input boxes
+
+
+
 
 
 
@@ -109,7 +113,7 @@ Circular linked list
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzMwNjEwMiw5OTM4NTgzMzQsNjE5Nz
+eyJoaXN0b3J5IjpbMTA4ODAxNjcwMiw5OTM4NTgzMzQsNjE5Nz
 k5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3MiwtMjA0OTk3ODI4
 N119
 -->
