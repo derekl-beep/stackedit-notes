@@ -90,14 +90,16 @@ Time Complexity
 
 ### Types of Linked List
 
-- Singly linked list
-- Doubly linked list
+Singly linked list
 
-Delete from end operation improves to $\text{O}(1)$ from $\text{O}(n)$, but takes more spaces.
+Doubly linked list
 
-Linked list class in Java is an implementation of the doubly linked list.
+- Delete from end operation improves to $\text{O}(1)$ from $\text{O}(n)$, but takes more spaces.
+- Linked list class in Java is an implementation of the doubly linked list.
 
-- Circular linked list
+Circular linked list
+
+- e.g. music playlists, f
 
 
 
@@ -107,7 +109,7 @@ Linked list class in Java is an implementation of the doubly linked list.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3NDM3NjAyLDk5Mzg1ODMzNCw2MTk3OT
-kzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5NTcyLC0yMDQ5OTc4Mjg3
-XX0=
+eyJoaXN0b3J5IjpbMTUyNzMwNjEwMiw5OTM4NTgzMzQsNjE5Nz
+k5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3MiwtMjA0OTk3ODI4
+N119
 -->
