@@ -88,14 +88,21 @@ Space Complexity
 
 Time Complexity
 
-### Types of Linked Lis
+### Types of Linked List
+
+Singly linked list
+Doubly linked list
+
+Delete from end operation improves to $\text{O}(1)$ from $\text{O}(n)$, but takes more spaces.
+
+Linked list class in Java 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ0MzkwMDgsOTkzODU4MzM0LDYxOT
-c5OTMxNiwzMjEyNDczMDQsLTIxMzY0Nzk1NzIsLTIwNDk5Nzgy
-ODddfQ==
+eyJoaXN0b3J5IjpbMjAxODQ0OTgxMCw5OTM4NTgzMzQsNjE5Nz
+k5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3MiwtMjA0OTk3ODI4
+N119
 -->
