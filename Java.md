@@ -119,6 +119,13 @@ Circular linked list
 
 
 
+```java
+// initialize a hash table  
+HashMap<Character, Integer> map = new HashMap<>();
+```
+
+
+
 
 
 
@@ -128,8 +135,8 @@ Circular linked list
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODYwODEwMzMsLTEyODYwODEwMzMsMT
-AyMDYwOTcwOSwxMDg4MDE2NzAyLDk5Mzg1ODMzNCw2MTk3OTkz
-MTYsMzIxMjQ3MzA0LC0yMTM2NDc5NTcyLC0yMDQ5OTc4Mjg3XX
-0=
+eyJoaXN0b3J5IjpbMTIwMzM0NzAyOCwtMTI4NjA4MTAzMywtMT
+I4NjA4MTAzMywxMDIwNjA5NzA5LDEwODgwMTY3MDIsOTkzODU4
+MzM0LDYxOTc5OTMxNiwzMjEyNDczMDQsLTIxMzY0Nzk1NzIsLT
+IwNDk5NzgyODddfQ==
 -->
