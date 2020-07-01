@@ -3,9 +3,15 @@
 
 ## Linked List
 
-- Reverse a singly linked list
+### Singly linked list
+
+- Delete the last element
+- Reverse the list
+- Get the k-th element from the end
+- Get the middle element
+
+### Doubly linked list
 - Reverse a doubly linked list
-- 
 
 ## Hash Table
 
@@ -17,5 +23,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTY4OTIwMF19
+eyJoaXN0b3J5IjpbMTE3MDU4NzI3M119
 -->
