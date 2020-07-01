@@ -115,7 +115,15 @@ Circular linked list
 `list.hasLoop()`
 
 
-## Hash Table
+## Hash Tables
+
+### Properties
+
+- To store key/value pairs
+- Insert, remove, lookup run in $\text{O}(1)$
+- Hash function
+- 
+
 
 ### Implementations in JAVA
 ```java
@@ -145,9 +153,9 @@ Solutions to Collision
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzMyMzUzOCw2NTM5MDM5ODYsMTA0Mz
-IyMjYxMSwxMjAzMzQ3MDI4LC0xMjg2MDgxMDMzLC0xMjg2MDgx
-MDMzLDEwMjA2MDk3MDksMTA4ODAxNjcwMiw5OTM4NTgzMzQsNj
-E5Nzk5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3MiwtMjA0OTk3
-ODI4N119
+eyJoaXN0b3J5IjpbLTE0MDg4NjQxODAsLTQ4NzMyMzUzOCw2NT
+M5MDM5ODYsMTA0MzIyMjYxMSwxMjAzMzQ3MDI4LC0xMjg2MDgx
+MDMzLC0xMjg2MDgxMDMzLDEwMjA2MDk3MDksMTA4ODAxNjcwMi
+w5OTM4NTgzMzQsNjE5Nzk5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3
+OTU3MiwtMjA0OTk3ODI4N119
 -->
