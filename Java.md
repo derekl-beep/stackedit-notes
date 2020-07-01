@@ -43,7 +43,7 @@ DELETION
 
 ### Linked List in Java
 
-`java.util.LinkedList` includes the implementation of `LinkedList` in java. This is an implementation of a doubly linked list.
+`java.util.LinkedList` includes the implementation of `LinkedList` in java. This implements a doubly linked list.
 
 ```java
 package com.derek;  
@@ -88,6 +88,7 @@ Space Complexity
 
 Time Complexity
 
+// TBC
 
 ### Types of Linked List
 
@@ -120,7 +121,7 @@ Circular linked list
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODIzOTgxMywxMDg4MDE2NzAyLDk5Mz
+eyJoaXN0b3J5IjpbMjEyNTg0NDYwNCwxMDg4MDE2NzAyLDk5Mz
 g1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5NTcy
 LC0yMDQ5OTc4Mjg3XX0=
 -->
