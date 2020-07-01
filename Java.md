@@ -123,7 +123,7 @@ Circular linked list
 - Insert, remove, lookup run in $\text{O}(1)$
 - Hash function
 - Collision
-	- Chaining
+	- Chaining, using `LinkedList`
 	- Open addressing
 		- Linear probing, `(hash1 + i) % table_size`
 		- Quadratic probing, `(hash1 + i * i) % table_size`
@@ -152,9 +152,9 @@ HashSet<Integer> set = new HashSet<>();
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODg5MDczOCwtNDg3MzIzNTM4LDY1Mz
-kwMzk4NiwxMDQzMjIyNjExLDEyMDMzNDcwMjgsLTEyODYwODEw
-MzMsLTEyODYwODEwMzMsMTAyMDYwOTcwOSwxMDg4MDE2NzAyLD
-k5Mzg1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5
-NTcyLC0yMDQ5OTc4Mjg3XX0=
+eyJoaXN0b3J5IjpbLTEzMjI5MTUzNDksMTY3ODg5MDczOCwtND
+g3MzIzNTM4LDY1MzkwMzk4NiwxMDQzMjIyNjExLDEyMDMzNDcw
+MjgsLTEyODYwODEwMzMsLTEyODYwODEwMzMsMTAyMDYwOTcwOS
+wxMDg4MDE2NzAyLDk5Mzg1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3
+MzA0LC0yMTM2NDc5NTcyLC0yMDQ5OTc4Mjg3XX0=
 -->
