@@ -103,6 +103,11 @@ Circular linked list
 - e.g. music playlists, sign-in form input boxes
 
 
+### Tricks 
+
+`list.reverse()`
+
+`list.`
 
 
 
@@ -113,7 +118,7 @@ Circular linked list
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODAxNjcwMiw5OTM4NTgzMzQsNjE5Nz
-k5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3MiwtMjA0OTk3ODI4
-N119
+eyJoaXN0b3J5IjpbLTU0NTU4NjY4LDEwODgwMTY3MDIsOTkzOD
+U4MzM0LDYxOTc5OTMxNiwzMjEyNDczMDQsLTIxMzY0Nzk1NzIs
+LTIwNDk5NzgyODddfQ==
 -->
