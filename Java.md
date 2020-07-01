@@ -127,6 +127,14 @@ HashMap<Character, Integer> map = new HashMap<>();
 HashSet<Integer> set = new HashSet<>();
 ```
 
+Solutions to Collision
+
+- Chaining 
+- Open addressing
+
+
+
+
 
 
 
@@ -137,8 +145,9 @@ HashSet<Integer> set = new HashSet<>();
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzOTAzOTg2LDEwNDMyMjI2MTEsMTIwMz
-M0NzAyOCwtMTI4NjA4MTAzMywtMTI4NjA4MTAzMywxMDIwNjA5
-NzA5LDEwODgwMTY3MDIsOTkzODU4MzM0LDYxOTc5OTMxNiwzMj
-EyNDczMDQsLTIxMzY0Nzk1NzIsLTIwNDk5NzgyODddfQ==
+eyJoaXN0b3J5IjpbLTQ4NzMyMzUzOCw2NTM5MDM5ODYsMTA0Mz
+IyMjYxMSwxMjAzMzQ3MDI4LC0xMjg2MDgxMDMzLC0xMjg2MDgx
+MDMzLDEwMjA2MDk3MDksMTA4ODAxNjcwMiw5OTM4NTgzMzQsNj
+E5Nzk5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3MiwtMjA0OTk3
+ODI4N119
 -->
