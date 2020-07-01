@@ -124,7 +124,9 @@ Circular linked list
 HashMap<Character, Integer> map = new HashMap<>();
 ```
 
-
+```java
+HashSet<Integer> set = new HashSet<>();
+```
 
 
 
@@ -135,8 +137,8 @@ HashMap<Character, Integer> map = new HashMap<>();
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzM0NzAyOCwtMTI4NjA4MTAzMywtMT
-I4NjA4MTAzMywxMDIwNjA5NzA5LDEwODgwMTY3MDIsOTkzODU4
-MzM0LDYxOTc5OTMxNiwzMjEyNDczMDQsLTIxMzY0Nzk1NzIsLT
-IwNDk5NzgyODddfQ==
+eyJoaXN0b3J5IjpbMTA0MzIyMjYxMSwxMjAzMzQ3MDI4LC0xMj
+g2MDgxMDMzLC0xMjg2MDgxMDMzLDEwMjA2MDk3MDksMTA4ODAx
+NjcwMiw5OTM4NTgzMzQsNjE5Nzk5MzE2LDMyMTI0NzMwNCwtMj
+EzNjQ3OTU3MiwtMjA0OTk3ODI4N119
 -->
