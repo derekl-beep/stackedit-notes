@@ -125,6 +125,9 @@ Circular linked list
 - Collision
 	- Chaining
 	- Open addressing
+		- Linear probing, $(\text{hash1}+i)\% \text{table_size} $
+		- Quadratic probing
+		- Double hash probing
 
 
 ### Implementations in JAVA
@@ -149,7 +152,7 @@ HashSet<Integer> set = new HashSet<>();
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMjQ3MTY4LC00ODczMjM1MzgsNjUzOT
+eyJoaXN0b3J5IjpbNDExMTU4MTA5LC00ODczMjM1MzgsNjUzOT
 AzOTg2LDEwNDMyMjI2MTEsMTIwMzM0NzAyOCwtMTI4NjA4MTAz
 MywtMTI4NjA4MTAzMywxMDIwNjA5NzA5LDEwODgwMTY3MDIsOT
 kzODU4MzM0LDYxOTc5OTMxNiwzMjEyNDczMDQsLTIxMzY0Nzk1
