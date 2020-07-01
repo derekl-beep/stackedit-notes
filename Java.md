@@ -117,7 +117,7 @@ Circular linked list
 
 ## Hash Table
 
-*emphasized text*
+
 
 
 
@@ -128,7 +128,7 @@ Circular linked list
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk1MTczOTYsLTEyODYwODEwMzMsMT
+eyJoaXN0b3J5IjpbLTEyODYwODEwMzMsLTEyODYwODEwMzMsMT
 AyMDYwOTcwOSwxMDg4MDE2NzAyLDk5Mzg1ODMzNCw2MTk3OTkz
 MTYsMzIxMjQ3MzA0LC0yMTM2NDc5NTcyLC0yMDQ5OTc4Mjg3XX
 0=
