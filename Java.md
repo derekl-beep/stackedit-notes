@@ -107,7 +107,7 @@ Circular linked list
 
 `list.reverse()`
 
-`list.`
+`list.getKthFromTheEnd()`
 
 
 
@@ -118,7 +118,7 @@ Circular linked list
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTU4NjY4LDEwODgwMTY3MDIsOTkzOD
-U4MzM0LDYxOTc5OTMxNiwzMjEyNDczMDQsLTIxMzY0Nzk1NzIs
-LTIwNDk5NzgyODddfQ==
+eyJoaXN0b3J5IjpbLTE3MDY2NjI0NzgsMTA4ODAxNjcwMiw5OT
+M4NTgzMzQsNjE5Nzk5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3
+MiwtMjA0OTk3ODI4N119
 -->
