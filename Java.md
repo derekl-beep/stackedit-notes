@@ -122,23 +122,19 @@ Circular linked list
 - To store key/value pairs
 - Insert, remove, lookup run in $\text{O}(1)$
 - Hash function
-- 
+- Collision
+	- Chaining
+	- Open addressing
 
 
 ### Implementations in JAVA
 ```java
-// initialize a hash table  
 HashMap<Character, Integer> map = new HashMap<>();
 ```
 
 ```java
 HashSet<Integer> set = new HashSet<>();
 ```
-
-Solutions to Collision
-
-- Chaining 
-- Open addressing
 
 
 
@@ -153,9 +149,9 @@ Solutions to Collision
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg4NjQxODAsLTQ4NzMyMzUzOCw2NT
-M5MDM5ODYsMTA0MzIyMjYxMSwxMjAzMzQ3MDI4LC0xMjg2MDgx
-MDMzLC0xMjg2MDgxMDMzLDEwMjA2MDk3MDksMTA4ODAxNjcwMi
-w5OTM4NTgzMzQsNjE5Nzk5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3
-OTU3MiwtMjA0OTk3ODI4N119
+eyJoaXN0b3J5IjpbOTMzMjQ3MTY4LC00ODczMjM1MzgsNjUzOT
+AzOTg2LDEwNDMyMjI2MTEsMTIwMzM0NzAyOCwtMTI4NjA4MTAz
+MywtMTI4NjA4MTAzMywxMDIwNjA5NzA5LDEwODgwMTY3MDIsOT
+kzODU4MzM0LDYxOTc5OTMxNiwzMjEyNDczMDQsLTIxMzY0Nzk1
+NzIsLTIwNDk5NzgyODddfQ==
 -->
