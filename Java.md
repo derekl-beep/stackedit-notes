@@ -43,7 +43,7 @@ DELETION
 
 ### Linked List in Java
 
-`java.util.LinkedList` includes the implementation of `LinkedList` in java.
+`java.util.LinkedList` includes the implementation of `LinkedList` in java. This is an implementation of a doubly linked list.
 
 ```java
 package com.derek;  
@@ -103,11 +103,13 @@ Circular linked list
 - e.g. music playlists, sign-in form input boxes
 
 
-### Tricks 
+### Advanced Methods
 
 `list.reverse()`
 
-`list.getKthFromTheEnd()`
+`list.getKthFromTheEnd(int k)`
+
+
 
 
 
@@ -118,7 +120,7 @@ Circular linked list
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY2NjI0NzgsMTA4ODAxNjcwMiw5OT
-M4NTgzMzQsNjE5Nzk5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3
-MiwtMjA0OTk3ODI4N119
+eyJoaXN0b3J5IjpbLTM3ODIzOTgxMywxMDg4MDE2NzAyLDk5Mz
+g1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5NTcy
+LC0yMDQ5OTc4Mjg3XX0=
 -->
