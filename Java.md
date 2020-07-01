@@ -117,8 +117,7 @@ Circular linked list
 
 ## Hash Table
 
-
-
+### Implementations in JAVA
 ```java
 // initialize a hash table  
 HashMap<Character, Integer> map = new HashMap<>();
@@ -135,10 +134,11 @@ HashSet<Integer> set = new HashSet<>();
 
 
 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzIyMjYxMSwxMjAzMzQ3MDI4LC0xMj
-g2MDgxMDMzLC0xMjg2MDgxMDMzLDEwMjA2MDk3MDksMTA4ODAx
-NjcwMiw5OTM4NTgzMzQsNjE5Nzk5MzE2LDMyMTI0NzMwNCwtMj
-EzNjQ3OTU3MiwtMjA0OTk3ODI4N119
+eyJoaXN0b3J5IjpbNjUzOTAzOTg2LDEwNDMyMjI2MTEsMTIwMz
+M0NzAyOCwtMTI4NjA4MTAzMywtMTI4NjA4MTAzMywxMDIwNjA5
+NzA5LDEwODgwMTY3MDIsOTkzODU4MzM0LDYxOTc5OTMxNiwzMj
+EyNDczMDQsLTIxMzY0Nzk1NzIsLTIwNDk5NzgyODddfQ==
 -->
