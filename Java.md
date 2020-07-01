@@ -110,6 +110,13 @@ Circular linked list
 
 `list.getKthFromTheEnd(int k)`
 
+`list.printMiddle()`
+
+`list.hasLoop()`
+
+
+## Hash Table
+
 
 
 
@@ -121,7 +128,7 @@ Circular linked list
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDYwOTcwOSwxMDg4MDE2NzAyLDk5Mz
-g1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5NTcy
-LC0yMDQ5OTc4Mjg3XX0=
+eyJoaXN0b3J5IjpbLTEyODYwODEwMzMsMTAyMDYwOTcwOSwxMD
+g4MDE2NzAyLDk5Mzg1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0
+LC0yMTM2NDc5NTcyLC0yMDQ5OTc4Mjg3XX0=
 -->
