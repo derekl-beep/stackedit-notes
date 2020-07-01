@@ -79,14 +79,14 @@ public class Main {
 
 ### Comparison with `Array`
 
-Space Complexity
+#### Space Complexity
 
 - Static arrays have a fixed size.
 - Dynamic arrays grow by 50% - 100%.
 - Linked lists don't waste memory
 
 
-Time Complexity
+#### Time Complexity
 
 // TBC
 
@@ -121,7 +121,7 @@ Circular linked list
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2ODEyNDQ1LDEwODgwMTY3MDIsOTkzOD
-U4MzM0LDYxOTc5OTMxNiwzMjEyNDczMDQsLTIxMzY0Nzk1NzIs
-LTIwNDk5NzgyODddfQ==
+eyJoaXN0b3J5IjpbMTAyMDYwOTcwOSwxMDg4MDE2NzAyLDk5Mz
+g1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5NTcy
+LC0yMDQ5OTc4Mjg3XX0=
 -->
