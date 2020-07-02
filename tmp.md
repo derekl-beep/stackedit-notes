@@ -11,7 +11,9 @@ This repository stores my review and implementations of data structures, includi
 
 ## Targets
 
-To finish this repository, 
+To finish this repository, the implementations will include
+
+### Data Structures
 
 - Arrays
 - Linked Lists
@@ -24,11 +26,16 @@ To finish this repository,
 - Tries
 - Graphs
 
+### Algorithms
+
+- Searching 
+
 in the following languages:
 
 - Python
-- Jav
+- Java
+- C++
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzgyOTk5NywtODEyMTI4ODM4LC0xMD
-I0NjA4Mzc3XX0=
+eyJoaXN0b3J5IjpbMTM0MTg0NzQ5LC04MTIxMjg4MzgsLTEwMj
+Q2MDgzNzddfQ==
 -->
