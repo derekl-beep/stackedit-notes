@@ -25,6 +25,7 @@ To finish this repository, the implementations will include
 - Heaps
 - Tries
 - Graphs
+- ## Disjoint Sets
 
 ### Algorithms
 
@@ -38,6 +39,6 @@ in the following languages:
 - Java
 - C++
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0MTI0MDM5LC04MTIxMjg4MzgsLTEwMj
-Q2MDgzNzddfQ==
+eyJoaXN0b3J5IjpbLTgxODc2NjU0NywtODEyMTI4ODM4LC0xMD
+I0NjA4Mzc3XX0=
 -->
