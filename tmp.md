@@ -7,7 +7,7 @@ This repository stores my review and implementations of data structures, includi
 - Hash Table
 - and more!
 
-[Notes](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-structures/blob/master/notes-data-structure.html)
+Notes: https://htmlpreview.github.io/?https://github.com/derekl-beep/data-structures/blob/master/notes-data-structure.html
 
 ## Targets
 
@@ -42,6 +42,7 @@ in the following languages:
 
 ## References
 
+
 [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)
 Prof. Wade Fagen-Ulmschneider. UIUC.
 
@@ -49,6 +50,6 @@ Prof. Wade Fagen-Ulmschneider. UIUC.
 Mosh Hamedani. Code With Mosh.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODUwNDQwOCwtODEyMTI4ODM4LC0xMD
+eyJoaXN0b3J5IjpbMjEwODEzMjg4MSwtODEyMTI4ODM4LC0xMD
 I0NjA4Mzc3XX0=
 -->
