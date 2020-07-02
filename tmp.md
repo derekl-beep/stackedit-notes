@@ -25,20 +25,25 @@ To finish this repository, the implementations will include
 - Heaps
 - Tries
 - Graphs
-- ## Disjoint Sets
+- Disjoint Sets
 
 ### Algorithms
 
 - Searching Algorithms
 - Sorting Algorithms
 - String Manipulation Algorithms
+- Graph Algorithms
 
 in the following languages:
 
 - Python
 - Java
 - C++
+
+## References
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODc2NjU0NywtODEyMTI4ODM4LC0xMD
-I0NjA4Mzc3XX0=
+eyJoaXN0b3J5IjpbOTA3MTkxOTYyLC04MTIxMjg4MzgsLTEwMj
+Q2MDgzNzddfQ==
 -->
