@@ -26,9 +26,15 @@ This project is a part of of the online course:
 With previous programming experience, this course is very helpful for me to understand the web development tasks and the toolkit avaliable.
 The course introduces both the front-end and back-end development, with lots of hands-on practices. The tools includes:
 
-- HTML5, CSS3, JS
+- HTML5, CSS3, Bootstrap 4
+- JavaScript ES6
+- jQuery
+- Bash and Git
+- Node.js
+- Express.js
+- 
 
 ## 2 - More to come!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0Mzg4ODc2XX0=
+eyJoaXN0b3J5IjpbMTU2NjgzNDc0MV19
 -->
