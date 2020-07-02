@@ -32,9 +32,15 @@ The course introduces both the front-end and back-end development, with lots of 
 - Bash and Git
 - Node.js
 - Express.js
+- API
+- EJS
+- Database and SQL
+- NoSQL, MongoDB and Mongoose
+- Deployment
+- RESTful APIs
 - 
 
 ## 2 - More to come!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjgzNDc0MV19
+eyJoaXN0b3J5IjpbLTIwNzY4MTcyNDVdfQ==
 -->
