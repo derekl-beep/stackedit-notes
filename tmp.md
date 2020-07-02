@@ -24,7 +24,7 @@ Building from stratch, I made use of the following tools:
 This project is a part of of the online course:
 [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy.
 With previous programming experience, this course is very helpful for me to understand the web development tasks and the toolkit avaliable.
-The course introduces both the front-end and back-end development, with lots of hands-on practices. The tools includes:
+The course introduces both the front-end and back-end development, with lots of hands-on practices. Topics include:
 
 - HTML5, CSS3, Bootstrap 4
 - JavaScript ES6
@@ -38,9 +38,11 @@ The course introduces both the front-end and back-end development, with lots of 
 - NoSQL, MongoDB and Mongoose
 - Deployment
 - RESTful APIs
-- 
+- OAuth
+
+Recommend to anyone who wants to start web dev.
 
 ## 2 - More to come!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY4MTcyNDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMjQ2MDgzNzddfQ==
 -->
