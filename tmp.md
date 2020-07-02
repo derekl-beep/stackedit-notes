@@ -1,10 +1,14 @@
 
 # data-structures
 
-This repository stores my review on data structures, including:
+This repository stores my review and implementations of data structures, including:
 
-- Linked list
-- Hash
+- Linked List
+- Hash Table
+- and more!
+
+
+Notes: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzU2MTEyNSwtMTAyNDYwODM3N119
+eyJoaXN0b3J5IjpbLTgxMjEyODgzOCwtMTAyNDYwODM3N119
 -->
