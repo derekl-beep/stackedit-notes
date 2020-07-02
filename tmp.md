@@ -21,12 +21,14 @@ Building from stratch, I made use of the following tools:
 - Boostrap 4
 
 ### Reference:
-This is part of the project of the online course:
-[The Complete 2020 Web Development Bootcamp]()[https://www.udemy.com/course/the-complete-web-development-bootcamp/] on Udemy.
+This project is a part of of the online course:
+[The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy.
 With previous programming experience, this course is very helpful for me to understand the web development tasks and the toolkit avaliable.
-The course introduces both the front-end and back-end development, with lots of hands-on practices. Recommended!
+The course introduces both the front-end and back-end development, with lots of hands-on practices. The tools includes:
+
+- HTML5, CSS3, JS
 
 ## 2 - More to come!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDE5MjY2OV19
+eyJoaXN0b3J5IjpbODE0Mzg4ODc2XX0=
 -->
