@@ -28,7 +28,9 @@ To finish this repository, the implementations will include
 
 ### Algorithms
 
-- Searching 
+- Searching Algorithms
+- Sorting Algorithms
+- String Manipulation Algorithms
 
 in the following languages:
 
@@ -36,6 +38,6 @@ in the following languages:
 - Java
 - C++
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTg0NzQ5LC04MTIxMjg4MzgsLTEwMj
+eyJoaXN0b3J5IjpbMzM0MTI0MDM5LC04MTIxMjg4MzgsLTEwMj
 Q2MDgzNzddfQ==
 -->
