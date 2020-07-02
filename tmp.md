@@ -43,10 +43,12 @@ in the following languages:
 ## References
 
 [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)
-Prof. Wade Fagen-Ulmschneider. Univ
+Prof. Wade Fagen-Ulmschneider. UIUC.
 
+[The Ultimate Data Structures & Algorithms Course](https://codewithmosh.com/p/data-structures-algorithms)
+Mosh Hamedani. Code With Mosh.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzA1NDA4MCwtODEyMTI4ODM4LC0xMD
+eyJoaXN0b3J5IjpbMTk2ODUwNDQwOCwtODEyMTI4ODM4LC0xMD
 I0NjA4Mzc3XX0=
 -->
