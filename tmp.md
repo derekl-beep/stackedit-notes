@@ -3,8 +3,10 @@
 
 This repository stores my review and implementations of data structures, including:
 
-- Linked List (Java, Python)
-- Hash Table (Java)
+- Linked List
+	- Source files: [Java](https://github.com/derekl-beep/data-structures/blob/master/DataStructure/src/com/derek/LinkedList.java), 
+- Hash Table
+	- Source files: [Java]()
 - and more!
 
 Notes: https://htmlpreview.github.io/?https://github.com/derekl-beep/data-structures/blob/master/notes-data-structure.html
@@ -50,6 +52,6 @@ Prof. Wade Fagen-Ulmschneider. UIUC.
 Mosh Hamedani. Code With Mosh.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTM3MDMzOSwtODEyMTI4ODM4LC0xMD
-I0NjA4Mzc3XX0=
+eyJoaXN0b3J5IjpbLTIwMTE5ODIyMTUsLTgxMjEyODgzOCwtMT
+AyNDYwODM3N119
 -->
