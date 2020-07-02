@@ -42,8 +42,11 @@ in the following languages:
 
 ## References
 
+[Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)
+Prof. Wade Fagen-Ulmschneider. Univ
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3MTkxOTYyLC04MTIxMjg4MzgsLTEwMj
-Q2MDgzNzddfQ==
+eyJoaXN0b3J5IjpbMTUyNzA1NDA4MCwtODEyMTI4ODM4LC0xMD
+I0NjA4Mzc3XX0=
 -->
