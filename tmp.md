@@ -11,8 +11,24 @@ This repository stores my review and implementations of data structures, includi
 
 ## Targets
 
-To 
+To finish this repository, 
+
+- Arrays
+- Linked Lists
+- Stacks
+- Queues
+- Hash Tables
+- Binary Trees
+- AVL Trees
+- Heaps
+- Tries
+- Graphs
+
+in the following languages:
+
+- Python
+- Jav
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTE4NTk2MiwtODEyMTI4ODM4LC0xMD
+eyJoaXN0b3J5IjpbLTg3MzgyOTk5NywtODEyMTI4ODM4LC0xMD
 I0NjA4Mzc3XX0=
 -->
