@@ -158,7 +158,8 @@ HashSet<Integer> set = new HashSet<>();
 
 ### Complexity
 
-
+INSERT: $\text{O}(\text{log} n)$
+DELETE: $\text{O}(\text{log} n)$
 
 
 
@@ -172,10 +173,10 @@ HashSet<Integer> set = new HashSet<>();
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Njg1MzI3MSw4MDk1MTM0OTksLTEzMj
-I5MTUzNDksMTY3ODg5MDczOCwtNDg3MzIzNTM4LDY1MzkwMzk4
-NiwxMDQzMjIyNjExLDEyMDMzNDcwMjgsLTEyODYwODEwMzMsLT
-EyODYwODEwMzMsMTAyMDYwOTcwOSwxMDg4MDE2NzAyLDk5Mzg1
-ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5NTcyLC
-0yMDQ5OTc4Mjg3XX0=
+eyJoaXN0b3J5IjpbLTEyNTczNjA5ODUsLTY0Njg1MzI3MSw4MD
+k1MTM0OTksLTEzMjI5MTUzNDksMTY3ODg5MDczOCwtNDg3MzIz
+NTM4LDY1MzkwMzk4NiwxMDQzMjIyNjExLDEyMDMzNDcwMjgsLT
+EyODYwODEwMzMsLTEyODYwODEwMzMsMTAyMDYwOTcwOSwxMDg4
+MDE2NzAyLDk5Mzg1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC
+0yMTM2NDc5NTcyLC0yMDQ5OTc4Mjg3XX0=
 -->
