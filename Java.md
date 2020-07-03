@@ -163,6 +163,13 @@ DELETE: $\text{O}(\text{log}\  n)$
 
 ### Implementation of Heaps
 
+A heap can be implemented as an array in memory.
+
+#### Index relationship
+`left = parent * 2 + 1`
+`right = parent * 2 + 2`
+
+
 
 
 
@@ -174,7 +181,7 @@ DELETE: $\text{O}(\text{log}\  n)$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTYxNzA1MCwtNjQ2ODUzMjcxLDgwOT
+eyJoaXN0b3J5IjpbLTYzNjgzNTIzOCwtNjQ2ODUzMjcxLDgwOT
 UxMzQ5OSwtMTMyMjkxNTM0OSwxNjc4ODkwNzM4LC00ODczMjM1
 MzgsNjUzOTAzOTg2LDEwNDMyMjI2MTEsMTIwMzM0NzAyOCwtMT
 I4NjA4MTAzMywtMTI4NjA4MTAzMywxMDIwNjA5NzA5LDEwODgw
