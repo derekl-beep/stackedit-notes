@@ -144,6 +144,8 @@ HashSet<Integer> set = new HashSet<>();
 
 ## Heaps
 
+- A complete tree. Levels are filled from the left to the right.
+- 
 
 
 
@@ -156,7 +158,7 @@ HashSet<Integer> set = new HashSet<>();
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzEwMDgxNiw4MDk1MTM0OTksLTEzMj
+eyJoaXN0b3J5IjpbMTg1ODkxNDU0MSw4MDk1MTM0OTksLTEzMj
 I5MTUzNDksMTY3ODg5MDczOCwtNDg3MzIzNTM4LDY1MzkwMzk4
 NiwxMDQzMjIyNjExLDEyMDMzNDcwMjgsLTEyODYwODEwMzMsLT
 EyODYwODEwMzMsMTAyMDYwOTcwOSwxMDg4MDE2NzAyLDk5Mzg1
