@@ -168,6 +168,8 @@ A heap can be implemented as an array in memory.
 #### Index relationship
 `left = parent * 2 + 1`
 `right = parent * 2 + 2`
+`parent = (index - 1) / 2`
+
 
 
 
@@ -181,10 +183,10 @@ A heap can be implemented as an array in memory.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjgzNTIzOCwtNjQ2ODUzMjcxLDgwOT
-UxMzQ5OSwtMTMyMjkxNTM0OSwxNjc4ODkwNzM4LC00ODczMjM1
-MzgsNjUzOTAzOTg2LDEwNDMyMjI2MTEsMTIwMzM0NzAyOCwtMT
-I4NjA4MTAzMywtMTI4NjA4MTAzMywxMDIwNjA5NzA5LDEwODgw
-MTY3MDIsOTkzODU4MzM0LDYxOTc5OTMxNiwzMjEyNDczMDQsLT
-IxMzY0Nzk1NzIsLTIwNDk5NzgyODddfQ==
+eyJoaXN0b3J5IjpbLTEwODQ2MDgwOTcsLTY0Njg1MzI3MSw4MD
+k1MTM0OTksLTEzMjI5MTUzNDksMTY3ODg5MDczOCwtNDg3MzIz
+NTM4LDY1MzkwMzk4NiwxMDQzMjIyNjExLDEyMDMzNDcwMjgsLT
+EyODYwODEwMzMsLTEyODYwODEwMzMsMTAyMDYwOTcwOSwxMDg4
+MDE2NzAyLDk5Mzg1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC
+0yMTM2NDc5NTcyLC0yMDQ5OTc4Mjg3XX0=
 -->
