@@ -151,7 +151,8 @@ HashSet<Integer> set = new HashSet<>();
 
 ### Applications
 
-- Sorting: 
+- Sorting: HeapSort
+- Graph algorithms: Short
 
 
 
@@ -165,10 +166,10 @@ HashSet<Integer> set = new HashSet<>();
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5OTM2NTEzLDgwOTUxMzQ5OSwtMTMyMj
-kxNTM0OSwxNjc4ODkwNzM4LC00ODczMjM1MzgsNjUzOTAzOTg2
-LDEwNDMyMjI2MTEsMTIwMzM0NzAyOCwtMTI4NjA4MTAzMywtMT
-I4NjA4MTAzMywxMDIwNjA5NzA5LDEwODgwMTY3MDIsOTkzODU4
-MzM0LDYxOTc5OTMxNiwzMjEyNDczMDQsLTIxMzY0Nzk1NzIsLT
-IwNDk5NzgyODddfQ==
+eyJoaXN0b3J5IjpbLTE1NjE0NDQzNzAsODA5NTEzNDk5LC0xMz
+IyOTE1MzQ5LDE2Nzg4OTA3MzgsLTQ4NzMyMzUzOCw2NTM5MDM5
+ODYsMTA0MzIyMjYxMSwxMjAzMzQ3MDI4LC0xMjg2MDgxMDMzLC
+0xMjg2MDgxMDMzLDEwMjA2MDk3MDksMTA4ODAxNjcwMiw5OTM4
+NTgzMzQsNjE5Nzk5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3Mi
+wtMjA0OTk3ODI4N119
 -->
