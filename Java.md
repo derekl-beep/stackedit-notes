@@ -145,6 +145,7 @@ HashSet<Integer> set = new HashSet<>();
 ## Heaps
 
 - A complete tree. Levels are filled from the left to the right.
+- Heap property: `parent.value() >= child.value()`
 - 
 
 
@@ -158,10 +159,10 @@ HashSet<Integer> set = new HashSet<>();
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODkxNDU0MSw4MDk1MTM0OTksLTEzMj
-I5MTUzNDksMTY3ODg5MDczOCwtNDg3MzIzNTM4LDY1MzkwMzk4
-NiwxMDQzMjIyNjExLDEyMDMzNDcwMjgsLTEyODYwODEwMzMsLT
-EyODYwODEwMzMsMTAyMDYwOTcwOSwxMDg4MDE2NzAyLDk5Mzg1
-ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5NTcyLC
-0yMDQ5OTc4Mjg3XX0=
+eyJoaXN0b3J5IjpbLTIwNDAwMzc4NDgsODA5NTEzNDk5LC0xMz
+IyOTE1MzQ5LDE2Nzg4OTA3MzgsLTQ4NzMyMzUzOCw2NTM5MDM5
+ODYsMTA0MzIyMjYxMSwxMjAzMzQ3MDI4LC0xMjg2MDgxMDMzLC
+0xMjg2MDgxMDMzLDEwMjA2MDk3MDksMTA4ODAxNjcwMiw5OTM4
+NTgzMzQsNjE5Nzk5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3OTU3Mi
+wtMjA0OTk3ODI4N119
 -->
