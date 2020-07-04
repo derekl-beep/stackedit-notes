@@ -3,6 +3,7 @@
 snapshot of source files & folders
 metadata - create timstamp, author, commit message
 figure out what changes in code made the break in the program
+data model in Git
 
 
 ## Python, C++ and Java
@@ -60,6 +61,6 @@ Write a script / function to calculate the sum of the square of all the even num
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjkyMzY3NywtNjAxOTA4NzYsMTE3Nj
+eyJoaXN0b3J5IjpbMTk5MDQ5NzE4MywtNjAxOTA4NzYsMTE3Nj
 I1NTYwMl19
 -->
