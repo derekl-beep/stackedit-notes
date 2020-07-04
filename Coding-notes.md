@@ -1,3 +1,7 @@
+# Version Control (Git)
+
+snapshot of source files & folders
+metadata - create timstamp, author, message
 
 
 ## Python, C++ and Java
@@ -55,5 +59,6 @@ Write a script / function to calculate the sum of the square of all the even num
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTkwODc2LDExNzYyNTU2MDJdfQ==
+eyJoaXN0b3J5IjpbLTMyNjg1NTU0NCwtNjAxOTA4NzYsMTE3Nj
+I1NTYwMl19
 -->
