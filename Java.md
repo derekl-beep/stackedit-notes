@@ -152,9 +152,11 @@ HashSet<Integer> set = new HashSet<>();
 ### Applications
 
 - Sorting: HeapSort
-- Graph algorithms: shortest path
 - Priority queues
 - Finding the k-th smallest/largest value
+- Graph algorithms: shortest path
+
+
 
 ### Complexity
 
@@ -183,10 +185,10 @@ A heap can be implemented as an array in memory.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ2MDgwOTcsLTY0Njg1MzI3MSw4MD
-k1MTM0OTksLTEzMjI5MTUzNDksMTY3ODg5MDczOCwtNDg3MzIz
-NTM4LDY1MzkwMzk4NiwxMDQzMjIyNjExLDEyMDMzNDcwMjgsLT
-EyODYwODEwMzMsLTEyODYwODEwMzMsMTAyMDYwOTcwOSwxMDg4
-MDE2NzAyLDk5Mzg1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC
-0yMTM2NDc5NTcyLC0yMDQ5OTc4Mjg3XX0=
+eyJoaXN0b3J5IjpbNTYyMTUzMTE3LC0xMDg0NjA4MDk3LC02ND
+Y4NTMyNzEsODA5NTEzNDk5LC0xMzIyOTE1MzQ5LDE2Nzg4OTA3
+MzgsLTQ4NzMyMzUzOCw2NTM5MDM5ODYsMTA0MzIyMjYxMSwxMj
+AzMzQ3MDI4LC0xMjg2MDgxMDMzLC0xMjg2MDgxMDMzLDEwMjA2
+MDk3MDksMTA4ODAxNjcwMiw5OTM4NTgzMzQsNjE5Nzk5MzE2LD
+MyMTI0NzMwNCwtMjEzNjQ3OTU3MiwtMjA0OTk3ODI4N119
 -->
