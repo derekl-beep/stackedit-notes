@@ -5,6 +5,9 @@ metadata - create timstamp, author, commit message
 figure out what changes in code made the break in the program
 data model in Git
 
+## Reference
+
+https://missing.csail.mit.edu/2020/version-control/
 
 ## Python, C++ and Java
 
@@ -61,6 +64,6 @@ Write a script / function to calculate the sum of the square of all the even num
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDQ5NzE4MywtNjAxOTA4NzYsMTE3Nj
-I1NTYwMl19
+eyJoaXN0b3J5IjpbLTQ5NDEwNzcwNiwxOTkwNDk3MTgzLC02MD
+E5MDg3NiwxMTc2MjU1NjAyXX0=
 -->
