@@ -190,10 +190,13 @@ Space: $\text{O}(n^2)$
 Add Node: $\text{O}(V^2)$
 Remove Node: $\text{O}(V^2)$
 
-By storing the index of node in
+By storing the index of node in a hash table, 
 Add Edge: $\text{O}(1)$
 Remove Edge: $\text{O}(1)$
 Query Edge: $\text{O}(1)$
+Find Neighbours: $\text{O}(V)$
+
+
 
 
 
@@ -203,11 +206,11 @@ Query Edge: $\text{O}(1)$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDAzMzM4NCwxNjIwNjkzNTEsNTYyMT
-UzMTE3LC0xMDg0NjA4MDk3LC02NDY4NTMyNzEsODA5NTEzNDk5
-LC0xMzIyOTE1MzQ5LDE2Nzg4OTA3MzgsLTQ4NzMyMzUzOCw2NT
-M5MDM5ODYsMTA0MzIyMjYxMSwxMjAzMzQ3MDI4LC0xMjg2MDgx
-MDMzLC0xMjg2MDgxMDMzLDEwMjA2MDk3MDksMTA4ODAxNjcwMi
-w5OTM4NTgzMzQsNjE5Nzk5MzE2LDMyMTI0NzMwNCwtMjEzNjQ3
-OTU3Ml19
+eyJoaXN0b3J5IjpbMTYwOTI2NTM1LDE2MjA2OTM1MSw1NjIxNT
+MxMTcsLTEwODQ2MDgwOTcsLTY0Njg1MzI3MSw4MDk1MTM0OTks
+LTEzMjI5MTUzNDksMTY3ODg5MDczOCwtNDg3MzIzNTM4LDY1Mz
+kwMzk4NiwxMDQzMjIyNjExLDEyMDMzNDcwMjgsLTEyODYwODEw
+MzMsLTEyODYwODEwMzMsMTAyMDYwOTcwOSwxMDg4MDE2NzAyLD
+k5Mzg1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5
+NTcyXX0=
 -->
