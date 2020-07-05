@@ -176,7 +176,15 @@ A heap can be implemented as an array in memory.
 
 
 
+## Graph
 
+### Adjacency Matrix
+
+#### Complexity
+V: vectices
+
+Space: $\text{O}(n^2)$
+Add Node: $\text{O}(n^2)$
 
 
 
@@ -186,11 +194,11 @@ A heap can be implemented as an array in memory.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDY5MzUxLDU2MjE1MzExNywtMTA4ND
-YwODA5NywtNjQ2ODUzMjcxLDgwOTUxMzQ5OSwtMTMyMjkxNTM0
-OSwxNjc4ODkwNzM4LC00ODczMjM1MzgsNjUzOTAzOTg2LDEwND
-MyMjI2MTEsMTIwMzM0NzAyOCwtMTI4NjA4MTAzMywtMTI4NjA4
-MTAzMywxMDIwNjA5NzA5LDEwODgwMTY3MDIsOTkzODU4MzM0LD
-YxOTc5OTMxNiwzMjEyNDczMDQsLTIxMzY0Nzk1NzIsLTIwNDk5
-NzgyODddfQ==
+eyJoaXN0b3J5IjpbMjgwMTI3Njk0LDE2MjA2OTM1MSw1NjIxNT
+MxMTcsLTEwODQ2MDgwOTcsLTY0Njg1MzI3MSw4MDk1MTM0OTks
+LTEzMjI5MTUzNDksMTY3ODg5MDczOCwtNDg3MzIzNTM4LDY1Mz
+kwMzk4NiwxMDQzMjIyNjExLDEyMDMzNDcwMjgsLTEyODYwODEw
+MzMsLTEyODYwODEwMzMsMTAyMDYwOTcwOSwxMDg4MDE2NzAyLD
+k5Mzg1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5
+NTcyXX0=
 -->
