@@ -21,6 +21,10 @@ Other paradigms
 - Logic
 - Aspect-oriented
 
+### Benefits of OOP
+
+
+
 
 
 
@@ -43,6 +47,6 @@ Other paradigms
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTIxNDE3Miw5MTIyNjU4MjQsLTE5MD
-g0NjQ1NTldfQ==
+eyJoaXN0b3J5IjpbMTYzNTI4MjM4MiwxNTUxMjE0MTcyLDkxMj
+I2NTgyNCwtMTkwODQ2NDU1OV19
 -->
