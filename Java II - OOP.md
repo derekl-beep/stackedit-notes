@@ -1,6 +1,6 @@
 # Java Part 2: Object-oriented Programming
 
-Key Topics
+### Key Topics
 - Classes
 - Refactoring Towards an Object-oriented Design
 - Inheritance
@@ -11,11 +11,12 @@ Key Topics
 
 ### Programming Paradigms
 
-Two most popular programming paradigms these days
+Two most popular programming paradigms these days:
 - Functional
 - Object-oriented 
 
-Other paradigms
+Other paradigms incluede:
+
 - Procedural
 - Event-driven
 - Logic
@@ -45,8 +46,16 @@ Other paradigms
 
 
 
+
+## References
+
+
+
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTI4MjM4MiwxNTUxMjE0MTcyLDkxMj
-I2NTgyNCwtMTkwODQ2NDU1OV19
+eyJoaXN0b3J5IjpbNzY5MzA5NjEyLDE2MzUyODIzODIsMTU1MT
+IxNDE3Miw5MTIyNjU4MjQsLTE5MDg0NjQ1NTldfQ==
 -->
