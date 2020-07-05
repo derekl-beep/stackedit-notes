@@ -214,6 +214,8 @@ Query Edge:  $\text{O}(V)$
 Find Neighbours:  $\text{O}(V)$
 
 
+## Concurrency and Multi-threading
+
 
 
 
@@ -232,11 +234,11 @@ Find Neighbours:  $\text{O}(V)$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzYyMDI3NTksMTYyMDY5MzUxLDU2Mj
-E1MzExNywtMTA4NDYwODA5NywtNjQ2ODUzMjcxLDgwOTUxMzQ5
-OSwtMTMyMjkxNTM0OSwxNjc4ODkwNzM4LC00ODczMjM1MzgsNj
-UzOTAzOTg2LDEwNDMyMjI2MTEsMTIwMzM0NzAyOCwtMTI4NjA4
-MTAzMywtMTI4NjA4MTAzMywxMDIwNjA5NzA5LDEwODgwMTY3MD
-IsOTkzODU4MzM0LDYxOTc5OTMxNiwzMjEyNDczMDQsLTIxMzY0
-Nzk1NzJdfQ==
+eyJoaXN0b3J5IjpbLTQ3MzM4Mjc0NSwtMTIzNjIwMjc1OSwxNj
+IwNjkzNTEsNTYyMTUzMTE3LC0xMDg0NjA4MDk3LC02NDY4NTMy
+NzEsODA5NTEzNDk5LC0xMzIyOTE1MzQ5LDE2Nzg4OTA3MzgsLT
+Q4NzMyMzUzOCw2NTM5MDM5ODYsMTA0MzIyMjYxMSwxMjAzMzQ3
+MDI4LC0xMjg2MDgxMDMzLC0xMjg2MDgxMDMzLDEwMjA2MDk3MD
+ksMTA4ODAxNjcwMiw5OTM4NTgzMzQsNjE5Nzk5MzE2LDMyMTI0
+NzMwNF19
 -->
