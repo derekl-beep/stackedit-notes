@@ -7,12 +7,27 @@ Key Topics
 - Interfaces
 
 
+## Introduction 
 
+### Programming Paradigms
+
+What are the six common programming paradigms these days?
+
+
+
+
+
+
+## Answers
+
+### What are the six common programming paradigms these days?
+
+- Proce
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwMjI4Mjg3LC0xOTA4NDY0NTU5XX0=
+eyJoaXN0b3J5IjpbLTYzOTkzNDg2MywtMTkwODQ2NDU1OV19
 -->
