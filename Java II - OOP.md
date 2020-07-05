@@ -12,6 +12,7 @@ Key Topics
 ### Programming Paradigms
 
 What are the six common programming paradigms these days?
+[answer](#Answers)
 
 
 
@@ -22,12 +23,18 @@ What are the six common programming paradigms these days?
 
 ### What are the six common programming paradigms these days?
 
-- Proce
+- Procedural
+- Functional
+- Object-oriented 
+- Event-driven
+- Logic
+- Aspect-oriented
+
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTkzNDg2MywtMTkwODQ2NDU1OV19
+eyJoaXN0b3J5IjpbOTEyMjY1ODI0LC0xOTA4NDY0NTU5XX0=
 -->
