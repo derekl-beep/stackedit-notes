@@ -207,6 +207,9 @@ Space: $\text{O}(V^2)$
 Add Node: $\text{O}(1)$
 Remove Node: $\text{O}(V^2)$
 
+Add Edge: $\text{O}(V)$
+Remove Edge:  $\text{O}(V)$
+Query Edge: 
 
 
 
@@ -223,11 +226,11 @@ Remove Node: $\text{O}(V^2)$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MzAzNTU4LDE2MjA2OTM1MSw1NjIxNT
-MxMTcsLTEwODQ2MDgwOTcsLTY0Njg1MzI3MSw4MDk1MTM0OTks
-LTEzMjI5MTUzNDksMTY3ODg5MDczOCwtNDg3MzIzNTM4LDY1Mz
-kwMzk4NiwxMDQzMjIyNjExLDEyMDMzNDcwMjgsLTEyODYwODEw
-MzMsLTEyODYwODEwMzMsMTAyMDYwOTcwOSwxMDg4MDE2NzAyLD
-k5Mzg1ODMzNCw2MTk3OTkzMTYsMzIxMjQ3MzA0LC0yMTM2NDc5
-NTcyXX0=
+eyJoaXN0b3J5IjpbLTE4NDI5OTcyOTYsMTYyMDY5MzUxLDU2Mj
+E1MzExNywtMTA4NDYwODA5NywtNjQ2ODUzMjcxLDgwOTUxMzQ5
+OSwtMTMyMjkxNTM0OSwxNjc4ODkwNzM4LC00ODczMjM1MzgsNj
+UzOTAzOTg2LDEwNDMyMjI2MTEsMTIwMzM0NzAyOCwtMTI4NjA4
+MTAzMywtMTI4NjA4MTAzMywxMDIwNjA5NzA5LDEwODgwMTY3MD
+IsOTkzODU4MzM0LDYxOTc5OTMxNiwzMjEyNDczMDQsLTIxMzY0
+Nzk1NzJdfQ==
 -->
