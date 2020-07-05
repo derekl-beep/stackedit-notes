@@ -209,7 +209,13 @@ Remove Node: $\text{O}(V^2)$
 
 Add Edge: $\text{O}(V)$
 Remove Edge:  $\text{O}(V)$
-Query Edge: 
+Query Edge:  $\text{O}(V)$
+
+Find Neighbours:  $\text{O}(V)$
+
+
+
+
 
 
 
@@ -226,7 +232,7 @@ Query Edge:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI5OTcyOTYsMTYyMDY5MzUxLDU2Mj
+eyJoaXN0b3J5IjpbLTEyMzYyMDI3NTksMTYyMDY5MzUxLDU2Mj
 E1MzExNywtMTA4NDYwODA5NywtNjQ2ODUzMjcxLDgwOTUxMzQ5
 OSwtMTMyMjkxNTM0OSwxNjc4ODkwNzM4LC00ODczMjM1MzgsNj
 UzOTAzOTg2LDEwNDMyMjI2MTEsMTIwMzM0NzAyOCwtMTI4NjA4
