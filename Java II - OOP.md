@@ -15,7 +15,6 @@ Two most popular programming paradigms these days
 - Functional
 - Object-oriented 
 
-
 Other paradigms
 - Procedural
 - Event-driven
@@ -44,6 +43,6 @@ Other paradigms
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzc4ODM0Miw5MTIyNjU4MjQsLTE5MD
+eyJoaXN0b3J5IjpbMTU1MTIxNDE3Miw5MTIyNjU4MjQsLTE5MD
 g0NjQ1NTldfQ==
 -->
