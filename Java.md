@@ -186,8 +186,14 @@ A heap can be implemented as an array in memory.
 `E`: edges
 
 Space: $\text{O}(n^2)$
+
 Add Node: $\text{O}(V^2)$
 Remove Node: $\text{O}(V^2)$
+
+By storing the index of node in
+Add Edge: $\text{O}(1)$
+Remove Edge: $\text{O}(1)$
+Query Edge: $\text{O}(1)$
 
 
 
@@ -197,7 +203,7 @@ Remove Node: $\text{O}(V^2)$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTYyMzQxOCwxNjIwNjkzNTEsNTYyMT
+eyJoaXN0b3J5IjpbMTIxNDAzMzM4NCwxNjIwNjkzNTEsNTYyMT
 UzMTE3LC0xMDg0NjA4MDk3LC02NDY4NTMyNzEsODA5NTEzNDk5
 LC0xMzIyOTE1MzQ5LDE2Nzg4OTA3MzgsLTQ4NzMyMzUzOCw2NT
 M5MDM5ODYsMTA0MzIyMjYxMSwxMjAzMzQ3MDI4LC0xMjg2MDgx
