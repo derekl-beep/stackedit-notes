@@ -216,6 +216,14 @@ Find Neighbours:  $\text{O}(V)$
 
 ## Concurrency and Multi-threading
 
+- Key terms and concepts
+- Working with threads
+- Concurrency issues
+- Synchronisation
+- Violatile field
+- Atomic objects
+
+
 
 
 
@@ -234,7 +242,7 @@ Find Neighbours:  $\text{O}(V)$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzM4Mjc0NSwtMTIzNjIwMjc1OSwxNj
+eyJoaXN0b3J5IjpbMjEzNDU4MjE4NywtMTIzNjIwMjc1OSwxNj
 IwNjkzNTEsNTYyMTUzMTE3LC0xMDg0NjA4MDk3LC02NDY4NTMy
 NzEsODA5NTEzNDk5LC0xMzIyOTE1MzQ5LDE2Nzg4OTA3MzgsLT
 Q4NzMyMzUzOCw2NTM5MDM5ODYsMTA0MzIyMjYxMSwxMjAzMzQ3
