@@ -12,7 +12,7 @@ Key Topics
 ### Programming Paradigms
 
 What are the six common programming paradigms these days?
-[answer](#Answers)
+[answer](#answers)
 
 
 
@@ -36,5 +36,6 @@ What are the six common programming paradigms these days?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyMjY1ODI0LC0xOTA4NDY0NTU5XX0=
+eyJoaXN0b3J5IjpbLTE0NzAwODE0NzIsOTEyMjY1ODI0LC0xOT
+A4NDY0NTU5XX0=
 -->
