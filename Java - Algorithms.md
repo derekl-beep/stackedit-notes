@@ -1,5 +1,6 @@
 
 # Searching Algorithms
+
 Key Topics
 
 - Linear Search
@@ -12,7 +13,10 @@ Key Topics
 
 
 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE3MDM3MDddfQ==
+eyJoaXN0b3J5IjpbLTEwODE2NTg3MzMsLTIwNjE3MDM3MDddfQ
+==
 -->
