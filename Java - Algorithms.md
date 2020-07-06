@@ -1,7 +1,7 @@
 
 # Searching Algorithms
 
-Key Topics
+Topics
 
 - Linear Search
 - Binary Search
@@ -17,6 +17,5 @@ Key Topics
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE2NTg3MzMsLTIwNjE3MDM3MDddfQ
-==
+eyJoaXN0b3J5IjpbMTM1OTEwMTI2NiwtMjA2MTcwMzcwN119
 -->
