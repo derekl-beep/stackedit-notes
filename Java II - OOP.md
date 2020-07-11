@@ -56,7 +56,8 @@ Heap
 
 Deallocation
 
-- Garbge collection is automatically done in Java
+- Memory in stack is cleaned up when the method returns.
+- Garbge collection is automatically done in Java to clean up the heap memory.
 
 
 
@@ -77,7 +78,7 @@ Deallocation
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTcyNDYxMiwtNTE2NTg3NzIwLDEzNz
+eyJoaXN0b3J5IjpbMjAyOTQzODg3NiwtNTE2NTg3NzIwLDEzNz
 Y3ODcyMiwxNDcyMjc4NzQ2LC0yNzg1OTEyNjksNzY5MzA5NjEy
 LDE2MzUyODIzODIsMTU1MTIxNDE3Miw5MTIyNjU4MjQsLTE5MD
 g0NjQ1NTldfQ==
