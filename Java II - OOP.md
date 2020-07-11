@@ -26,22 +26,16 @@ Other paradigms incluede:
 
 - Reduce complexity
 - Easier maintance
-- Code reuse
+- Code reuse $\leftarrow$ Faster development
+
+## Classes
 
 
 
 
-## Answers
+## Revision Questions
 
-### What are the six common programming paradigms these days?
-
-- Procedural
-- Functional
-- Object-oriented 
-- Event-driven
-- Logic
-- Aspect-oriented
-
+1. What are the six common programming paradigms these days?
 
 
 
@@ -56,7 +50,7 @@ Other paradigms incluede:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Njc4NzIyLDE0NzIyNzg3NDYsLTI3OD
-U5MTI2OSw3NjkzMDk2MTIsMTYzNTI4MjM4MiwxNTUxMjE0MTcy
-LDkxMjI2NTgyNCwtMTkwODQ2NDU1OV19
+eyJoaXN0b3J5IjpbMTE3NjA0NTI4MSwxMzc2Nzg3MjIsMTQ3Mj
+I3ODc0NiwtMjc4NTkxMjY5LDc2OTMwOTYxMiwxNjM1MjgyMzgy
+LDE1NTEyMTQxNzIsOTEyMjY1ODI0LC0xOTA4NDY0NTU5XX0=
 -->
