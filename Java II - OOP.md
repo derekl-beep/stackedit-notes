@@ -42,6 +42,7 @@ A class is a template / a blueprint for creating new objects, while an object is
 
 
 
+UML - Unified Modeling Language
 
 
 
@@ -62,7 +63,7 @@ A class is a template / a blueprint for creating new objects, while an object is
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk4NTAyMTAsMTM3Njc4NzIyLDE0Nz
-IyNzg3NDYsLTI3ODU5MTI2OSw3NjkzMDk2MTIsMTYzNTI4MjM4
-MiwxNTUxMjE0MTcyLDkxMjI2NTgyNCwtMTkwODQ2NDU1OV19
+eyJoaXN0b3J5IjpbLTUxNjU4NzcyMCwxMzc2Nzg3MjIsMTQ3Mj
+I3ODc0NiwtMjc4NTkxMjY5LDc2OTMwOTYxMiwxNjM1MjgyMzgy
+LDE1NTEyMTQxNzIsOTEyMjY1ODI0LC0xOTA4NDY0NTU5XX0=
 -->
