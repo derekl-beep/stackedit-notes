@@ -38,7 +38,7 @@ Other paradigms incluede:
 - Getters / Setters
 - Method Overloading
 
-
+A class is a template / a blueprint for creatin objects.
 
 
 
@@ -60,7 +60,7 @@ Other paradigms incluede:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTA1MzQyMSwxMzc2Nzg3MjIsMTQ3Mj
+eyJoaXN0b3J5IjpbMTMyMzM5ODU1NSwxMzc2Nzg3MjIsMTQ3Mj
 I3ODc0NiwtMjc4NTkxMjY5LDc2OTMwOTYxMiwxNjM1MjgyMzgy
 LDE1NTEyMTQxNzIsOTEyMjY1ODI0LC0xOTA4NDY0NTU5XX0=
 -->
