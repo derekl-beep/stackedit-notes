@@ -45,6 +45,7 @@ A class is a template / a blueprint for creating new objects, while an object is
 Stack
 
 - Primitive variables
+- Reference variables
 - Local variables
 - Pointers to the objects on the heap memory, i.e. memory addresses
 
@@ -74,8 +75,8 @@ UML - Unified Modeling Language
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY2NzUzNDMsLTUxNjU4NzcyMCwxMz
-c2Nzg3MjIsMTQ3MjI3ODc0NiwtMjc4NTkxMjY5LDc2OTMwOTYx
-MiwxNjM1MjgyMzgyLDE1NTEyMTQxNzIsOTEyMjY1ODI0LC0xOT
-A4NDY0NTU5XX0=
+eyJoaXN0b3J5IjpbMTA4NTk1MjU3OCwtNTE2NTg3NzIwLDEzNz
+Y3ODcyMiwxNDcyMjc4NzQ2LC0yNzg1OTEyNjksNzY5MzA5NjEy
+LDE2MzUyODIzODIsMTU1MTIxNDE3Miw5MTIyNjU4MjQsLTE5MD
+g0NjQ1NTldfQ==
 -->
