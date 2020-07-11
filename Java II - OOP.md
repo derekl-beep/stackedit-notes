@@ -40,6 +40,15 @@ Other paradigms incluede:
 
 A class is a template / a blueprint for creating new objects, while an object is an instance of a class that it was created upon.
 
+### Memory Allocation in Java
+
+Stack
+
+- Primitive
+
+Heap
+
+-
 
 
 UML - Unified Modeling Language
@@ -63,7 +72,8 @@ UML - Unified Modeling Language
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjU4NzcyMCwxMzc2Nzg3MjIsMTQ3Mj
-I3ODc0NiwtMjc4NTkxMjY5LDc2OTMwOTYxMiwxNjM1MjgyMzgy
-LDE1NTEyMTQxNzIsOTEyMjY1ODI0LC0xOTA4NDY0NTU5XX0=
+eyJoaXN0b3J5IjpbLTExMDUxMjAwNDAsLTUxNjU4NzcyMCwxMz
+c2Nzg3MjIsMTQ3MjI3ODc0NiwtMjc4NTkxMjY5LDc2OTMwOTYx
+MiwxNjM1MjgyMzgyLDE1NTEyMTQxNzIsOTEyMjY1ODI0LC0xOT
+A4NDY0NTU5XX0=
 -->
