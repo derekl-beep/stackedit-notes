@@ -1,9 +1,9 @@
 # Java Part 2: Object-oriented Programming
 
 ### Topics
-- Classes
+- Classes - Encapsulation & Abstraction
 - Refactoring Towards an Object-oriented Design
-- Inheritance
+- Inheritance & Polymorphism
 - Interfaces
 
 
@@ -56,7 +56,7 @@ Other paradigms incluede:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjI3ODc0NiwtMjc4NTkxMjY5LDc2OT
-MwOTYxMiwxNjM1MjgyMzgyLDE1NTEyMTQxNzIsOTEyMjY1ODI0
-LC0xOTA4NDY0NTU5XX0=
+eyJoaXN0b3J5IjpbMTM3Njc4NzIyLDE0NzIyNzg3NDYsLTI3OD
+U5MTI2OSw3NjkzMDk2MTIsMTYzNTI4MjM4MiwxNTUxMjE0MTcy
+LDkxMjI2NTgyNCwtMTkwODQ2NDU1OV19
 -->
