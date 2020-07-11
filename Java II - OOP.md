@@ -54,7 +54,9 @@ Heap
 - Objects
 
 
-UML - Unified Modeling Language
+Deallocation
+
+- Garbge collection is automatically done in Java
 
 
 
@@ -75,7 +77,7 @@ UML - Unified Modeling Language
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTk1MjU3OCwtNTE2NTg3NzIwLDEzNz
+eyJoaXN0b3J5IjpbMjA0NTcyNDYxMiwtNTE2NTg3NzIwLDEzNz
 Y3ODcyMiwxNDcyMjc4NzQ2LC0yNzg1OTEyNjksNzY5MzA5NjEy
 LDE2MzUyODIzODIsMTU1MTIxNDE3Miw5MTIyNjU4MjQsLTE5MD
 g0NjQ1NTldfQ==
