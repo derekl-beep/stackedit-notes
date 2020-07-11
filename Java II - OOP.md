@@ -24,9 +24,9 @@ Other paradigms incluede:
 
 ### Benefits of OOP
 
-
-
-
+- Reduce complexity
+- Easier maintance
+- Code reuse
 
 
 
@@ -56,6 +56,7 @@ Other paradigms incluede:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5MzA5NjEyLDE2MzUyODIzODIsMTU1MT
-IxNDE3Miw5MTIyNjU4MjQsLTE5MDg0NjQ1NTldfQ==
+eyJoaXN0b3J5IjpbLTI3ODU5MTI2OSw3NjkzMDk2MTIsMTYzNT
+I4MjM4MiwxNTUxMjE0MTcyLDkxMjI2NTgyNCwtMTkwODQ2NDU1
+OV19
 -->
