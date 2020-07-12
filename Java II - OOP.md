@@ -70,6 +70,11 @@ Bundle the data and the methods that operate on the data in a single unit.
 Main idea:
 Reduce complexity by hiding unnecessary details, e.g. implementation details of a class method.
 
+### Coupling
+
+The level of dependency between classes
+
+
 
 
  
@@ -91,8 +96,9 @@ Reduce complexity by hiding unnecessary details, e.g. implementation details of 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzkzMjc5MTEsMTI5ODU3ODQyMywyMD
-I5NDM4ODc2LC01MTY1ODc3MjAsMTM3Njc4NzIyLDE0NzIyNzg3
-NDYsLTI3ODU5MTI2OSw3NjkzMDk2MTIsMTYzNTI4MjM4MiwxNT
-UxMjE0MTcyLDkxMjI2NTgyNCwtMTkwODQ2NDU1OV19
+eyJoaXN0b3J5IjpbODQyODM2NjA0LC0xNjM5MzI3OTExLDEyOT
+g1Nzg0MjMsMjAyOTQzODg3NiwtNTE2NTg3NzIwLDEzNzY3ODcy
+MiwxNDcyMjc4NzQ2LC0yNzg1OTEyNjksNzY5MzA5NjEyLDE2Mz
+UyODIzODIsMTU1MTIxNDE3Miw5MTIyNjU4MjQsLTE5MDg0NjQ1
+NTldfQ==
 -->
