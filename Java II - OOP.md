@@ -68,7 +68,9 @@ Bundle the data and the methods that operate on the data in a single unit.
 ### Abstraction
 
 Main idea:
-Reduce complexity by hiding unnecessary details.
+Reduce complexity by hiding unnecessary details, e.g. implementation details of a class method.
+
+
 
  
 
@@ -89,8 +91,8 @@ Reduce complexity by hiding unnecessary details.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjQ2NjEzMiwxMjk4NTc4NDIzLDIwMj
-k0Mzg4NzYsLTUxNjU4NzcyMCwxMzc2Nzg3MjIsMTQ3MjI3ODc0
-NiwtMjc4NTkxMjY5LDc2OTMwOTYxMiwxNjM1MjgyMzgyLDE1NT
-EyMTQxNzIsOTEyMjY1ODI0LC0xOTA4NDY0NTU5XX0=
+eyJoaXN0b3J5IjpbLTE2MzkzMjc5MTEsMTI5ODU3ODQyMywyMD
+I5NDM4ODc2LC01MTY1ODc3MjAsMTM3Njc4NzIyLDE0NzIyNzg3
+NDYsLTI3ODU5MTI2OSw3NjkzMDk2MTIsMTYzNTI4MjM4MiwxNT
+UxMjE0MTcyLDkxMjI2NTgyNCwtMTkwODQ2NDU1OV19
 -->
