@@ -72,8 +72,11 @@ Reduce complexity by hiding unnecessary details, e.g. implementation details of 
 
 ### Coupling
 
-The level of dependency between classes
+The level of dependency between classes.
 
+Decoupling methods, e.g.
+
+- Make unused methods private
 
 
 
@@ -96,9 +99,9 @@ The level of dependency between classes
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyODM2NjA0LC0xNjM5MzI3OTExLDEyOT
-g1Nzg0MjMsMjAyOTQzODg3NiwtNTE2NTg3NzIwLDEzNzY3ODcy
-MiwxNDcyMjc4NzQ2LC0yNzg1OTEyNjksNzY5MzA5NjEyLDE2Mz
-UyODIzODIsMTU1MTIxNDE3Miw5MTIyNjU4MjQsLTE5MDg0NjQ1
-NTldfQ==
+eyJoaXN0b3J5IjpbLTIxMTYyNTI0MzgsODQyODM2NjA0LC0xNj
+M5MzI3OTExLDEyOTg1Nzg0MjMsMjAyOTQzODg3NiwtNTE2NTg3
+NzIwLDEzNzY3ODcyMiwxNDcyMjc4NzQ2LC0yNzg1OTEyNjksNz
+Y5MzA5NjEyLDE2MzUyODIzODIsMTU1MTIxNDE3Miw5MTIyNjU4
+MjQsLTE5MDg0NjQ1NTldfQ==
 -->
