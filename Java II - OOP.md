@@ -65,7 +65,12 @@ Main idea:
 Bundle the data and the methods that operate on the data in a single unit.
 
  
+### Abstraction
 
+Main idea:
+Reduce complexity by hiding unnecessary details.
+
+ 
 
 ## Revision Questions
 
@@ -84,8 +89,8 @@ Bundle the data and the methods that operate on the data in a single unit.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODU3ODQyMywyMDI5NDM4ODc2LC01MT
-Y1ODc3MjAsMTM3Njc4NzIyLDE0NzIyNzg3NDYsLTI3ODU5MTI2
-OSw3NjkzMDk2MTIsMTYzNTI4MjM4MiwxNTUxMjE0MTcyLDkxMj
-I2NTgyNCwtMTkwODQ2NDU1OV19
+eyJoaXN0b3J5IjpbLTk3NjQ2NjEzMiwxMjk4NTc4NDIzLDIwMj
+k0Mzg4NzYsLTUxNjU4NzcyMCwxMzc2Nzg3MjIsMTQ3MjI3ODc0
+NiwtMjc4NTkxMjY5LDc2OTMwOTYxMiwxNjM1MjgyMzgyLDE1NT
+EyMTQxNzIsOTEyMjY1ODI0LC0xOTA4NDY0NTU5XX0=
 -->
