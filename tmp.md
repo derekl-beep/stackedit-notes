@@ -5,7 +5,14 @@ Built-in beautifier:
 Mac: `Shift` + `Option` + `F`
 
 
+# EJS
+
+Layouts
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODkzODcyNywtMjA4ODc0NjYxMiwtMT
-cxMTc3NjI2OCwtODEyMTI4ODM4LC0xMDI0NjA4Mzc3XX0=
+eyJoaXN0b3J5IjpbMTgxNzUyMzk2NSwtMTM4OTM4NzI3LC0yMD
+g4NzQ2NjEyLC0xNzExNzc2MjY4LC04MTIxMjg4MzgsLTEwMjQ2
+MDgzNzddfQ==
 -->
