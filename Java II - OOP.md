@@ -86,6 +86,8 @@ Decoupling methods, e.g.
 - How to use them?
 - Dependency injection
 
+We use interfaces to build loosely-coupled, extensible, testable applications.
+
 
  
 
@@ -106,7 +108,7 @@ Decoupling methods, e.g.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzM5MzUxMywtMjExNjI1MjQzOCw4ND
+eyJoaXN0b3J5IjpbLTYzMTczMTA3NywtMjExNjI1MjQzOCw4ND
 I4MzY2MDQsLTE2MzkzMjc5MTEsMTI5ODU3ODQyMywyMDI5NDM4
 ODc2LC01MTY1ODc3MjAsMTM3Njc4NzIyLDE0NzIyNzg3NDYsLT
 I3ODU5MTI2OSw3NjkzMDk2MTIsMTYzNTI4MjM4MiwxNTUxMjE0
