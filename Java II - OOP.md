@@ -79,6 +79,13 @@ Decoupling methods, e.g.
 - Make unused methods private
 
 
+## Interfaces
+
+- What interfaces are?
+- Why we need them?
+- How to use them?
+- Dependency injection
+
 
  
 
@@ -99,9 +106,9 @@ Decoupling methods, e.g.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTYyNTI0MzgsODQyODM2NjA0LC0xNj
-M5MzI3OTExLDEyOTg1Nzg0MjMsMjAyOTQzODg3NiwtNTE2NTg3
-NzIwLDEzNzY3ODcyMiwxNDcyMjc4NzQ2LC0yNzg1OTEyNjksNz
-Y5MzA5NjEyLDE2MzUyODIzODIsMTU1MTIxNDE3Miw5MTIyNjU4
-MjQsLTE5MDg0NjQ1NTldfQ==
+eyJoaXN0b3J5IjpbLTU1NzM5MzUxMywtMjExNjI1MjQzOCw4ND
+I4MzY2MDQsLTE2MzkzMjc5MTEsMTI5ODU3ODQyMywyMDI5NDM4
+ODc2LC01MTY1ODc3MjAsMTM3Njc4NzIyLDE0NzIyNzg3NDYsLT
+I3ODU5MTI2OSw3NjkzMDk2MTIsMTYzNTI4MjM4MiwxNTUxMjE0
+MTcyLDkxMjI2NTgyNCwtMTkwODQ2NDU1OV19
 -->
