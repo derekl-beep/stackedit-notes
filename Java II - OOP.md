@@ -101,6 +101,7 @@ A class defines how should be done.
 
  Interfaces in `Java` are like header files in `C++`.
 
+
 ## Revision Questions
 
 1. What are the six common programming paradigms these days?
@@ -118,10 +119,10 @@ A class defines how should be done.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MzY4NzMwLDQ1NzM3NDY5MSwtNjMxNz
-MxMDc3LC0yMTE2MjUyNDM4LDg0MjgzNjYwNCwtMTYzOTMyNzkx
-MSwxMjk4NTc4NDIzLDIwMjk0Mzg4NzYsLTUxNjU4NzcyMCwxMz
-c2Nzg3MjIsMTQ3MjI3ODc0NiwtMjc4NTkxMjY5LDc2OTMwOTYx
-MiwxNjM1MjgyMzgyLDE1NTEyMTQxNzIsOTEyMjY1ODI0LC0xOT
-A4NDY0NTU5XX0=
+eyJoaXN0b3J5IjpbMzYzODQ0ODcyLDQ2OTM2ODczMCw0NTczNz
+Q2OTEsLTYzMTczMTA3NywtMjExNjI1MjQzOCw4NDI4MzY2MDQs
+LTE2MzkzMjc5MTEsMTI5ODU3ODQyMywyMDI5NDM4ODc2LC01MT
+Y1ODc3MjAsMTM3Njc4NzIyLDE0NzIyNzg3NDYsLTI3ODU5MTI2
+OSw3NjkzMDk2MTIsMTYzNTI4MjM4MiwxNTUxMjE0MTcyLDkxMj
+I2NTgyNCwtMTkwODQ2NDU1OV19
 -->
