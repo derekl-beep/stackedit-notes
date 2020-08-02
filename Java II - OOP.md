@@ -88,8 +88,13 @@ Decoupling methods, e.g.
 
 We use interfaces to build loosely-coupled, extensible, testable applications.
 
-
+```java
+public interface Draggable() {
+	void drag();
+}
+```
  
+ Interfaces in `Java` are like header files in `C++`.
 
 ## Revision Questions
 
@@ -108,9 +113,10 @@ We use interfaces to build loosely-coupled, extensible, testable applications.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTczMTA3NywtMjExNjI1MjQzOCw4ND
-I4MzY2MDQsLTE2MzkzMjc5MTEsMTI5ODU3ODQyMywyMDI5NDM4
-ODc2LC01MTY1ODc3MjAsMTM3Njc4NzIyLDE0NzIyNzg3NDYsLT
-I3ODU5MTI2OSw3NjkzMDk2MTIsMTYzNTI4MjM4MiwxNTUxMjE0
-MTcyLDkxMjI2NTgyNCwtMTkwODQ2NDU1OV19
+eyJoaXN0b3J5IjpbNDU3Mzc0NjkxLC02MzE3MzEwNzcsLTIxMT
+YyNTI0MzgsODQyODM2NjA0LC0xNjM5MzI3OTExLDEyOTg1Nzg0
+MjMsMjAyOTQzODg3NiwtNTE2NTg3NzIwLDEzNzY3ODcyMiwxND
+cyMjc4NzQ2LC0yNzg1OTEyNjksNzY5MzA5NjEyLDE2MzUyODIz
+ODIsMTU1MTIxNDE3Miw5MTIyNjU4MjQsLTE5MDg0NjQ1NTldfQ
+==
 -->
