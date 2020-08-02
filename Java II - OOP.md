@@ -93,7 +93,12 @@ public interface Draggable() {
 	void drag();
 }
 ```
- 
+
+
+An interface defines what should be done.
+
+A class defines how should be done. 
+
  Interfaces in `Java` are like header files in `C++`.
 
 ## Revision Questions
@@ -113,10 +118,10 @@ public interface Draggable() {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3Mzc0NjkxLC02MzE3MzEwNzcsLTIxMT
-YyNTI0MzgsODQyODM2NjA0LC0xNjM5MzI3OTExLDEyOTg1Nzg0
-MjMsMjAyOTQzODg3NiwtNTE2NTg3NzIwLDEzNzY3ODcyMiwxND
-cyMjc4NzQ2LC0yNzg1OTEyNjksNzY5MzA5NjEyLDE2MzUyODIz
-ODIsMTU1MTIxNDE3Miw5MTIyNjU4MjQsLTE5MDg0NjQ1NTldfQ
-==
+eyJoaXN0b3J5IjpbNDY5MzY4NzMwLDQ1NzM3NDY5MSwtNjMxNz
+MxMDc3LC0yMTE2MjUyNDM4LDg0MjgzNjYwNCwtMTYzOTMyNzkx
+MSwxMjk4NTc4NDIzLDIwMjk0Mzg4NzYsLTUxNjU4NzcyMCwxMz
+c2Nzg3MjIsMTQ3MjI3ODc0NiwtMjc4NTkxMjY5LDc2OTMwOTYx
+MiwxNjM1MjgyMzgyLDE1NTEyMTQxNzIsOTEyMjY1ODI0LC0xOT
+A4NDY0NTU5XX0=
 -->
