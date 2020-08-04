@@ -15,12 +15,14 @@ const circle = {
 };
 ```
 
-Factory functions
-
+Topics: 
+- Factory functions
+- Contructor functions
+- 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTY4NjI0NF19
+eyJoaXN0b3J5IjpbLTIzNzUxNjY1LC05OTU2ODYyNDRdfQ==
 -->
