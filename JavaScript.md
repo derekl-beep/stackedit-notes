@@ -18,11 +18,13 @@ const circle = {
 Topics: 
 - Factory functions
 - Contructor functions
+- Dynamically typed objects
 - 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzUxNjY1LC05OTU2ODYyNDRdfQ==
+eyJoaXN0b3J5IjpbMjI0Njc1NTc1LC0yMzc1MTY2NSwtOTk1Nj
+g2MjQ0XX0=
 -->
