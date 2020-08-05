@@ -16,11 +16,13 @@
 	- features vs. target
 	- between features
 	- continuous data only
-	- 
+	- show only linear relatioship
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI5NDY2OTAsNzE0NTAwMzExLDU4Mj
-E4NDQ1MiwxOTAwMDIyNDNdfQ==
+eyJoaXN0b3J5IjpbLTE3NTU3ODM3ODYsLTExNjI5NDY2OTAsNz
+E0NTAwMzExLDU4MjE4NDQ1MiwxOTAwMDIyNDNdfQ==
 -->
