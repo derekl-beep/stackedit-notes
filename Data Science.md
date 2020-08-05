@@ -12,11 +12,15 @@
 	- Distribution
 	- Outliers
 
-
+- Correlation
+	- features vs. target
+	- between features
+	- strength
+	- direction
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzE0Mzk4Niw1ODIxODQ0NTIsMTkwMD
-AyMjQzXX0=
+eyJoaXN0b3J5IjpbNzE0NTAwMzExLDU4MjE4NDQ1MiwxOTAwMD
+IyNDNdfQ==
 -->
