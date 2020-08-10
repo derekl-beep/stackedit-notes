@@ -32,6 +32,7 @@ In Java, exceptions can be categorised as
 	- `StackOverflowError`
 	- `OutOfMemoryError`
 
+## Catch 
 
 
 # References
@@ -40,6 +41,6 @@ In Java, exceptions can be categorised as
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NjMzNzU3LC0xOTAzNzc1OTYzLDE0NT
-E5NzUwODZdfQ==
+eyJoaXN0b3J5IjpbLTEzMzA3MDk2NzAsNDQ0NjMzNzU3LC0xOT
+AzNzc1OTYzLDE0NTE5NzUwODZdfQ==
 -->
