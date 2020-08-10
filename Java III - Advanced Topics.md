@@ -46,6 +46,16 @@ try {
 
 ## Catching Multiple Types of Exceptions
 
+```java
+try {
+	var reader = new FileReader("file.txt");
+	System.out.println("File opened.");
+} catch (FileNotFoundException ex) {
+	System.out.println("File does not exist.");
+} catch () {
+
+}
+```
 
 
 
@@ -57,6 +67,6 @@ try {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNDA2MTYyLDQ0NDYzMzc1NywtMTkwMz
-c3NTk2MywxNDUxOTc1MDg2XX0=
+eyJoaXN0b3J5IjpbLTY1OTk4Mzg5Miw0NDQ2MzM3NTcsLTE5MD
+M3NzU5NjMsMTQ1MTk3NTA4Nl19
 -->
