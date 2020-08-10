@@ -52,10 +52,11 @@ try {
 	System.out.println("File opened.");
 } catch (FileNotFoundException ex) {
 	System.out.println("File does not exist.");
-} catch () {
-
+} catch (IOException ex) {
+	System.out.println("Could not read data.");
 }
 ```
+
 
 
 
@@ -67,6 +68,6 @@ try {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTk4Mzg5Miw0NDQ2MzM3NTcsLTE5MD
-M3NzU5NjMsMTQ1MTk3NTA4Nl19
+eyJoaXN0b3J5IjpbMzMxMTYyNjgsNDQ0NjMzNzU3LC0xOTAzNz
+c1OTYzLDE0NTE5NzUwODZdfQ==
 -->
