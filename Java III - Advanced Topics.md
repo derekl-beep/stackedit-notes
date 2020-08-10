@@ -44,6 +44,8 @@ try {
 }
 ```
 
+## Catching Multiple Types of Exceptions
+
 
 
 
@@ -55,6 +57,6 @@ try {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMjQ3NDI5LDQ0NDYzMzc1NywtMTkwMz
+eyJoaXN0b3J5IjpbOTQyNDA2MTYyLDQ0NDYzMzc1NywtMTkwMz
 c3NTk2MywxNDUxOTc1MDg2XX0=
 -->
