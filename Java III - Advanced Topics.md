@@ -28,8 +28,9 @@ In Java, exceptions can be categorised as
 	- `IllegalArgumentException`
 	- `IndexOutOfBoundsException`
 	- `IllegalStateException`
-- Errors
-
+- Errors, e.g.
+	- `StackOverflowError`
+	- ``
 
 
 # References
@@ -38,6 +39,6 @@ In Java, exceptions can be categorised as
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ2MzEwMTMsLTE5MDM3NzU5NjMsMT
-Q1MTk3NTA4Nl19
+eyJoaXN0b3J5IjpbMTM0MTE1NDM4MSwtMTkwMzc3NTk2MywxND
+UxOTc1MDg2XX0=
 -->
