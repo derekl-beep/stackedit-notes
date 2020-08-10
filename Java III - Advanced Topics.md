@@ -21,7 +21,7 @@
 
 In Java, exceptions can be categorised as 
 
-- Checked exceptions
+- Checked exceptions (checked at compile time)
 - Unchecked exceptions (run-time)
 - Errors
 
@@ -33,6 +33,6 @@ In Java, exceptions can be categorised as
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTM4ODc5OCwtMTkwMzc3NTk2MywxND
+eyJoaXN0b3J5IjpbLTkyNjk1OTg3MSwtMTkwMzc3NTk2MywxND
 UxOTc1MDg2XX0=
 -->
