@@ -30,7 +30,8 @@ In Java, exceptions can be categorised as
 	- `IllegalStateException`
 - Errors, e.g.
 	- `StackOverflowError`
-	- ``
+	- `OutOfMemoryError`
+
 
 
 # References
@@ -39,6 +40,6 @@ In Java, exceptions can be categorised as
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTE1NDM4MSwtMTkwMzc3NTk2MywxND
-UxOTc1MDg2XX0=
+eyJoaXN0b3J5IjpbNDQ0NjMzNzU3LC0xOTAzNzc1OTYzLDE0NT
+E5NzUwODZdfQ==
 -->
