@@ -32,7 +32,16 @@ In Java, exceptions can be categorised as
 	- `StackOverflowError`
 	- `OutOfMemoryError`
 
-## Catch 
+## Catching Exceptions
+
+
+
+```java
+try {
+	var reader = new FileReader("file.txt");
+} catch (FileNotFoundExcep)
+
+```
 
 
 # References
@@ -41,6 +50,6 @@ In Java, exceptions can be categorised as
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA3MDk2NzAsNDQ0NjMzNzU3LC0xOT
-AzNzc1OTYzLDE0NTE5NzUwODZdfQ==
+eyJoaXN0b3J5IjpbLTExMjgzMzU5Myw0NDQ2MzM3NTcsLTE5MD
+M3NzU5NjMsMTQ1MTk3NTA4Nl19
 -->
