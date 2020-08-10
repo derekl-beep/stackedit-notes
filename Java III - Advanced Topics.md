@@ -34,14 +34,17 @@ In Java, exceptions can be categorised as
 
 ## Catching Exceptions
 
-
-
 ```java
 try {
 	var reader = new FileReader("file.txt");
-} catch (FileNotFoundExcep)
-
+	System.out.println("File opened.");
+} catch (FileNotFoundException ex) {
+	System.out.println("File does not exist.");
+	System.out.println(ex.getMessage());
+}
 ```
+
+
 
 
 # References
@@ -50,6 +53,6 @@ try {
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgzMzU5Myw0NDQ2MzM3NTcsLTE5MD
+eyJoaXN0b3J5IjpbLTg0MjE0MzYzOSw0NDQ2MzM3NTcsLTE5MD
 M3NzU5NjMsMTQ1MTk3NTA4Nl19
 -->
