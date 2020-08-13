@@ -3,7 +3,11 @@
 # Fourier Series
 
 $$
-f(x) = \frac{A_0}{2} + \sum_{k=0}^{\infty}{(A_k \cos(kx)+B_k \sin(kx))}
+f(x) = \frac{A_0}{2} + \sum_{k=0}^{\infty}{\big(A_k \cos(kx)+B_k \sin(kx)\big)}
+$$
+
+$$
+A_k = 
 $$
 
 
@@ -12,5 +16,5 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjIzMzE4Nl19
+eyJoaXN0b3J5IjpbMTAwNzYwNDczNF19
 -->
