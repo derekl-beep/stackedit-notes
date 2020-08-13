@@ -31,14 +31,11 @@ Preview:
 - Data-driven Science and Engineering - Machine Learning, Dynamical Systems and Control
 http://databookuw.com
 
-# Meta-data
 
-Created by: Derek
-Date created: 13
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDgxMjM2MSwyMDcyMDg2OTgyLDE1Nj
+eyJoaXN0b3J5IjpbLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1Nj
 MwMjUzN119
 -->
