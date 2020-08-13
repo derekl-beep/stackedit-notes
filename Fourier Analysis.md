@@ -28,13 +28,11 @@ Preview:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-- 
-
-
+- Data-driven Science and Engineering - Machine Learning, Dynamical Systems and Control
 http://databookuw.com
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTYxNjI2NF19
+eyJoaXN0b3J5IjpbMTU2MzAyNTM3XX0=
 -->
