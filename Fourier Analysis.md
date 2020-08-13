@@ -21,14 +21,20 @@ $B_k = \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) \sin{(kx)} dx = \frac{1}{\|\sin{(kx)
 
 # References
 
-Fourier Analysis (YouTube Playlist)
+- Fourier Analysis (YouTube Playlist)
 Prof. Steve Brunton
 University of Washington
-
+Preview:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- 
+
+
+http://databookuw.com
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTY1MDEwNl19
+eyJoaXN0b3J5IjpbMTc3OTYxNjI2NF19
 -->
