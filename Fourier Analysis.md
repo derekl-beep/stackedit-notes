@@ -2,7 +2,7 @@
 
 # Fourier Series
 
-A function can be expressed as an infinite sum of sin and cos functions of increasing frequency.
+A function can be expressed as an infinite sum of sin and cos functions of increasing frequency. A Fourier series projects a function into orth 
 
 $$
 f(x) = \frac{A_0}{2} + \sum_{k=0}^{\infty}{\big(A_k \cos(kx)+B_k \sin(kx)\big)}
@@ -24,5 +24,5 @@ $B_k = \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) \sin{(kx)} dx = \frac{1}{\|\sin{(kx)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTk4OTk3M119
+eyJoaXN0b3J5IjpbMTI1NDEzMzIzM119
 -->
