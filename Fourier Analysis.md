@@ -67,7 +67,7 @@ $$
 e^{ikx} = \cos{(kx)} + i \sin{(kx)} \coloneqq \Psi_k.
 $$
 
-The Psi functions with different
+The functions with different frequency are orthogonal to each others. This can be shown by evaluating the inner products.
 
 $$
 \langle \Psi_j, \Psi_k \rangle
@@ -100,8 +100,8 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODg5OTMxMzUsMzQ4MzAxOTE0LC0xNz
-ExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3
-NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMD
-cyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbMzE4NDU2NzA1LDM0ODMwMTkxNCwtMTcxMT
+czMzMwOCw4MTcwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYz
+NDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3Mj
+A4Njk4MiwxNTYzMDI1MzddfQ==
 -->
