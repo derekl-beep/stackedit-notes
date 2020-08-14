@@ -40,7 +40,7 @@ $B_k = \frac{2}{L} \int_{0}^{L} f(x) \sin{ \big(\frac{2\pi kx}{L}\big) } dx$.
 
 # Inner Products in Hilbert Space
 
-The inner product of functions are similar to the inner product of vectors. It tells us how similar / aligned two functions are.
+The inner product of functions are similar to the inner product of vectors. It tells us how similar / aligned two functions are in the function space.
 
 The inner product of two real functions, $f$ and $g$ is defined as
 
@@ -79,7 +79,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUyODI1OTksLTExMzk0NzYzNDMsNT
+eyJoaXN0b3J5IjpbLTIwMTY3MzQwNjMsLTExMzk0NzYzNDMsNT
 EzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4
 MiwxNTYzMDI1MzddfQ==
 -->
