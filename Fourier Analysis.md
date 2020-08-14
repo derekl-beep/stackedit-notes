@@ -25,9 +25,16 @@ $B_k = \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) \sin{(kx)} dx = \frac{1}{\|\sin{(kx)
 For a function define from $0$ to $L$, i.e. $f(x)\in L_2([0,L])$,
 
 $$
-f(x) = \frac{A_0}{2} + \sum_{k=0}^{\infty}{\Big(A_k \cos\big(\frac{2\pi kx}{L})+B_k \sin(kx)\big)}
+f(x) = \frac{A_0}{2} + \sum_{k=0}^{\infty}{\Big(A_k \cos\big(\frac{2\pi kx}{L}\big)+B_k \sin\big(\frac{2\pi kx}{L}\big)\Big)}
 $$
 
+, where
+
+$A_k = \frac{2}{L} \int_{-\pi}^{\pi} f(x) \cos{(kx)} dx$
+
+and 
+
+$B_k = \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) \sin{(kx)} dx = \frac{1}{\|\sin{(kx)} \|^2} \big\langle f(x), \sin{(kx)} \big\rangle$.
 
 
 # References
@@ -47,6 +54,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY1NTMzMjAsODQ4NjYxNTIsLTExMj
-Q2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbMTY5NTE5NDI3OCw4NDg2NjE1MiwtMTEyND
+Y2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 -->
