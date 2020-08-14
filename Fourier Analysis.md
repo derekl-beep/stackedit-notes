@@ -34,7 +34,7 @@ $A_k = \frac{2}{L} \int_{0}^{L} f(x) \cos{ \big(\frac{2\pi kx}{L}\big) } dx$
 
 and 
 
-$B_k = \frac{2}{L} \int_{0}^{L} f(x) \sin{ \big(\frac{2\pi kx}{L}\big) } dx$
+$B_k = \frac{2}{L} \int_{0}^{L} f(x) \sin{ \big(\frac{2\pi kx}{L}\big) } dx$.
 
 
 
@@ -57,6 +57,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyMjMzNDMzLDg0ODY2MTUyLC0xMTI0Nj
-YwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbLTY0ODM4ODUwNSw4NDg2NjE1MiwtMTEyND
+Y2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 -->
