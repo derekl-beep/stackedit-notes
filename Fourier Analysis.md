@@ -50,9 +50,10 @@ $$
 
 
 $$
-\langle \vec{f}, \vec{g} \rangle \Delta x =\sum_{}^{}
+\langle \vec{f}, \vec{g} \rangle \Delta x =\sum_{k=1}^{n} {f(x_k) g(x_k)} \Delta x
 $$
 
+As the resolution of the data point increases, i.e. $\De$
 
 
 
@@ -74,7 +75,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTgyODI3Nyw1MTMxNjIzMzMsODQ4Nj
-YxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbODAzMTM3MDg2LDUxMzE2MjMzMyw4NDg2Nj
+E1MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 
 -->
