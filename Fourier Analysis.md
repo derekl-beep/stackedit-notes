@@ -40,6 +40,13 @@ $B_k = \frac{2}{L} \int_{0}^{L} f(x) \sin{ \big(\frac{2\pi kx}{L}\big) } dx$.
 
 # Inner Products in Hilbert Space
 
+
+The inner product of two real functions, f and g is defined as
+
+$$<f, g>$$
+
+
+
 # References
 
 - Fourier Analysis (YouTube Playlist)
@@ -57,6 +64,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODM4ODUwNSw4NDg2NjE1MiwtMTEyND
-Y2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0Nj
+YwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
