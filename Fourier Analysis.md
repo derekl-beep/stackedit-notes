@@ -64,21 +64,21 @@ As the resolution of the data points increases, i.e. $\Delta x \rarr 0$ and $n \
 Euler formula:
 
 $$
-e^{ikx} = \cos{(kx)} + i \sin{(kx)} \coloneqq \Psi_k 
+e^{ikx} = \cos{(kx)} + i \sin{(kx)} \coloneqq \Psi_k.
 $$
 
-The 
+The Psi functions with different
 
 $$
 \langle \Psi_j, \Psi_k \rangle
-=\int_{-\pi}^{\pi} {e^{ikx} e^{ijx}} dx 
+=\int_{-\pi}^{\pi} {e^{ikx} e^{ijx}} dx
 =\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx
 = \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi}
 =\left\{ \begin{array}{l}
 	0, \text{if } j \neq k\\
 	2 \pi, \text{if } j=k 
 	\end{array}
-	\right. 
+	\right. .
 $$
 
 
@@ -100,7 +100,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc5MDkwMjcsMzQ4MzAxOTE0LC0xNz
+eyJoaXN0b3J5IjpbLTE3ODg5OTMxMzUsMzQ4MzAxOTE0LC0xNz
 ExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3
 NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMD
 cyMDg2OTgyLDE1NjMwMjUzN119
