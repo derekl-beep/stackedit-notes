@@ -69,27 +69,9 @@ $$
 
 
 $$
-\langle \Psi_j, \Psi_k \rangle=\int_{-\pi}^{\pi} {e^{ikx} e^{ijx}} dx =\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx = \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi} = \Big\{ 
-\begin{array}{l}
+\langle \Psi_j, \Psi_k \rangle=\int_{-\pi}^{\pi} {e^{ikx} e^{ijx}} dx =\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx = \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi} = \left\{ \begin{array}{l}
 $$
 
-$$ \left[
-\begin{array}{c}
-  1\\
-  4
-\end{array}
-\right] $$
-
-$$
-
-
-
-$$ \left[
-\begin{array}{cc|c}
-  1&2&3\\
-  4&5&6
-\end{array}
-\right] $$
 
 
 # References
@@ -109,7 +91,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0ODYyNDE3LDgxNzA4MDk1OSwtMjA4MT
-M1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIs
-LTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMD
+gxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1
+MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 -->
