@@ -61,7 +61,11 @@ As the resolution of the data points increases, i.e. $\Delta x \rarr 0$ and $n \
 
 # Complex Fourier Series
 
+Euler formula:
 
+$$
+e^{ikx} = \cos{(kx)} + i \sin{(kx)} \coloneqq \Psi 
+$$
 
 # References
 
@@ -80,7 +84,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMT
-M5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0
-LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbMTA2MzM3NDY4MSw4MTcwODA5NTksLTIwOD
+EzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUy
+LC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
