@@ -20,11 +20,12 @@ $B_k = \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) \sin{(kx)} dx = \frac{1}{\|\sin{(kx)
 
 
 
+## Fourier series on a L-periodic function
 
-For a function define from $0$ to $L$,
+For a function define from $0$ to $L$, i.e. $f(x)\in L_2([0,L])$,
 
 $$
-f(x) = \frac{A_0}{2} + \sum_{k=0}^{\infty}{\big(A_k \cos(kx)+B_k \sin(kx)\big)}
+f(x) = \frac{A_0}{2} + \sum_{k=0}^{\infty}{\Big(A_k \cos\big(\frac{2\pi kx}{L})+B_k \sin(kx)\big)}
 $$
 
 
@@ -46,6 +47,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMD
-g2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbLTE0MzY1NTMzMjAsODQ4NjYxNTIsLTExMj
+Q2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
 -->
