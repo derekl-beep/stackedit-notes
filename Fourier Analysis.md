@@ -67,10 +67,11 @@ $$
 e^{ikx} = \cos{(kx)} + i \sin{(kx)} \coloneqq \Psi_k 
 $$
 
+The 
 
 $$
 \langle \Psi_j, \Psi_k \rangle
-=\int_{-\pi}^{\pi} {e^{ikx} e^{ijx}} dx
+=\int_{-\pi}^{\pi} {e^{ikx} e^{ijx}} dx 
 =\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx
 = \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi}
 =\left\{ \begin{array}{l}
@@ -99,8 +100,8 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNz
-A4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIz
-MzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1Nj
-MwMjUzN119
+eyJoaXN0b3J5IjpbLTEwNDc5MDkwMjcsMzQ4MzAxOTE0LC0xNz
+ExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3
+NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMD
+cyMDg2OTgyLDE1NjMwMjUzN119
 -->
