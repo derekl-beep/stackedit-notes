@@ -87,7 +87,7 @@ $$
 f(x) 
 	= \sum_{-\infty}^{\infty} {C_k e^{ikx}}
 	=\sum_{-\infty}^{\infty}(\alpha_k+i\beta_k) \big(\cos{(kx)} + i\sin{(kx)} \big)
-	=\frac{1}{2\pi} \sum_{-\infty}^{\infty} 
+	=\frac{1}{2\pi} \sum_{-\infty}^{\infty} \langle f(x),  \rangle
 $$
 , where
 
@@ -111,7 +111,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTE0MDY4MywzNDgzMDE5MTQsLTE3MT
+eyJoaXN0b3J5IjpbMTIwMjcxODYwNCwzNDgzMDE5MTQsLTE3MT
 E3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2
 MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNz
 IwODY5ODIsMTU2MzAyNTM3XX0=
