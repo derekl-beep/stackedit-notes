@@ -64,7 +64,12 @@ As the resolution of the data points increases, i.e. $\Delta x \rarr 0$ and $n \
 Euler formula:
 
 $$
-e^{ikx} = \cos{(kx)} + i \sin{(kx)} \coloneqq \Psi 
+e^{ikx} = \cos{(kx)} + i \sin{(kx)} \coloneqq \Psi_k 
+$$
+
+
+$$
+\langle \Psi_i, \Psi_j \rangle=\int_{-\pi}^{\pi} {}
 $$
 
 # References
@@ -84,7 +89,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzM3NDY4MSw4MTcwODA5NTksLTIwOD
+eyJoaXN0b3J5IjpbMTE5NjE5ODkxNCw4MTcwODA5NTksLTIwOD
 EzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUy
 LC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
