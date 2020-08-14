@@ -4,6 +4,8 @@
 
 A function can be expressed as an infinite sum of sine and cosine functions of increasing frequency. A Fourier series projects a function into orthogonal basis of sines and cosines. 
 
+For a function define from $-\pi$ to $\pi$,
+
 $$
 f(x) = \frac{A_0}{2} + \sum_{k=0}^{\infty}{\big(A_k \cos(kx)+B_k \sin(kx)\big)}
 $$
@@ -36,6 +38,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1Nj
-MwMjUzN119
+eyJoaXN0b3J5IjpbMTYzOTgwOTQ3OSwtMTEyNDY2MDE0LDIwNz
+IwODY5ODIsMTU2MzAyNTM3XX0=
 -->
