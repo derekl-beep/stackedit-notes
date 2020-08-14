@@ -48,13 +48,13 @@ $$
 \langle f(x), g(x) \rangle = \int_{a}^{b} f(x)g(x)dx
 $$
 
-The inner product of two function can also be thought as the inner product of the data points of the two functions normalised by the
+The inner product of two functions can also be thought as the inner product of the data points of the two functions normalised by the constant interval between data.
 
 $$
 \langle \vec{f}, \vec{g} \rangle \Delta x =\sum_{k=1}^{n} {f(x_k) g(x_k)} \Delta x
 $$
 
-As the resolution of the data points increases, i.e. $\Delta x \rarr 0$ and $n \rarr \infty$, the expression gives us the inner product of the two functions.
+As the resolution of the data points increases, i.e. $\Delta x \rarr 0$ and $n \rarr \infty$, the expression gives exact inner product of the two functions.
 
 
 
@@ -78,7 +78,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTYwMjY3Nyw1MTMxNjIzMzMsODQ4Nj
-YxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
-
+eyJoaXN0b3J5IjpbLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0OD
+Y2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1Mzdd
+fQ==
 -->
