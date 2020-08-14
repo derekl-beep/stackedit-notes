@@ -69,7 +69,7 @@ $$
 
 
 $$
-\langle \Psi_i, \Psi_j \rangle=\int_{-\pi}^{\pi} {}
+\langle \Psi_j, \Psi_k \rangle=\int_{-\pi}^{\pi} {e^{ikx} e^{ijx}} dx =\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx = 
 $$
 
 # References
@@ -89,7 +89,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjE5ODkxNCw4MTcwODA5NTksLTIwOD
-EzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUy
-LC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbLTEzMTcyNDgxMTMsODE3MDgwOTU5LC0yMD
+gxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1
+MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 -->
