@@ -59,6 +59,9 @@ As the resolution of the data points increases, i.e. $\Delta x \rarr 0$ and $n \
 `Source: https://www.youtube.com/watch?v=g-eNeXlZKAQ&list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC&index=4`
 
 
+# Complex Fourier Series
+
+
 
 # References
 
@@ -77,7 +80,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNT
-EzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4
-MiwxNTYzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbODE3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMT
+M5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0
+LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 -->
