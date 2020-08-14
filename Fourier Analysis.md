@@ -54,6 +54,7 @@ $$
 
 
 
+
 # References
 
 - Fourier Analysis (YouTube Playlist)
@@ -71,7 +72,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE5MzI5MSw1MTMxNjIzMzMsODQ4Nj
-YxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
-
+eyJoaXN0b3J5IjpbLTE2MDM5MjUwNDksNTEzMTYyMzMzLDg0OD
+Y2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1Mzdd
+fQ==
 -->
