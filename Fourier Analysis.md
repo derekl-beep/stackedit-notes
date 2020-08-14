@@ -38,6 +38,8 @@ $B_k = \frac{2}{L} \int_{0}^{L} f(x) \sin{ \big(\frac{2\pi kx}{L}\big) } dx$
 
 
 
+# Inner Products in Hilbert Space
+
 # References
 
 - Fourier Analysis (YouTube Playlist)
@@ -55,6 +57,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDk0NTQ1LDg0ODY2MTUyLC0xMTI0Nj
+eyJoaXN0b3J5IjpbOTIyMjMzNDMzLDg0ODY2MTUyLC0xMTI0Nj
 YwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
