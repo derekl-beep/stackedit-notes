@@ -61,10 +61,12 @@ As the resolution of the data points increases, i.e. $\Delta x \rarr 0$ and $n \
 
 # Complex Fourier Series
 
-Inner product of complex-valued functions:
+Inner product of complex-valued functions are
 $$
-\langle f(x), g(x)\rangle = \int_
+\langle f(x), g(x)\rangle = \int_{-\pi}^{\pi} f(x) \bar{g}(x)dx
 $$
+, where $\bar{g}(x)$ is the complex conjugate of $g(x)$.
+
 
 Euler formula:
 
@@ -116,7 +118,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5NzI5MjcxLDM0ODMwMTkxNCwtMTcxMT
+eyJoaXN0b3J5IjpbMzU5MTAxOTI2LDM0ODMwMTkxNCwtMTcxMT
 czMzMwOCw4MTcwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYz
 NDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3Mj
 A4Njk4MiwxNTYzMDI1MzddfQ==
