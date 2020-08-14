@@ -61,6 +61,11 @@ As the resolution of the data points increases, i.e. $\Delta x \rarr 0$ and $n \
 
 # Complex Fourier Series
 
+Inner product of complex-valued functions:
+$$
+\langle f(x), g(x)\rangle = \int_
+$$
+
 Euler formula:
 
 $$
@@ -71,7 +76,7 @@ The functions with different frequency are orthogonal to each others. This can b
 
 $$
 \langle \Psi_j, \Psi_k \rangle
-=\int_{-\pi}^{\pi} {e^{ikx} e^{ijx}} dx
+=\int_{-\pi}^{\pi} {e^{ikx} e^{-ijx}} dx
 =\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx
 = \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi}
 =\left\{ \begin{array}{l}
@@ -111,8 +116,8 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg0MzE4NTksMzQ4MzAxOTE0LC0xNz
-ExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3
-NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMD
-cyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbNDU5NzI5MjcxLDM0ODMwMTkxNCwtMTcxMT
+czMzMwOCw4MTcwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYz
+NDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3Mj
+A4Njk4MiwxNTYzMDI1MzddfQ==
 -->
