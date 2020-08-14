@@ -49,7 +49,9 @@ $$
 $$
 
 
-
+$$
+\langle \vec{f}, \vec{g} \rangle \Delta x =\sum_{}^{}
+$$
 
 
 
@@ -72,7 +74,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM5MjUwNDksNTEzMTYyMzMzLDg0OD
-Y2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1Mzdd
-fQ==
+eyJoaXN0b3J5IjpbLTk4OTgyODI3Nyw1MTMxNjIzMzMsODQ4Nj
+YxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+
 -->
