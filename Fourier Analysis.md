@@ -74,13 +74,11 @@ $$
 =\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx
 = \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi}
 =\left\{ \begin{array}{l}
-	0, \text{if} j \neq k\\
-	2 \pi, \text{if} j=k 
+	0, \text{if } j \neq k\\
+	2 \pi, \text{if } j=k 
 	\end{array}
 	\right. 
 $$
-
-
 
 
 
@@ -101,8 +99,8 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTAyNTkzMCwtMTcxMTczMzMwOCw4MT
-cwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYy
-MzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNT
-YzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNz
+A4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIz
+MzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1Nj
+MwMjUzN119
 -->
