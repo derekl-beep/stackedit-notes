@@ -69,7 +69,9 @@ $$
 
 
 $$
-\langle \Psi_j, \Psi_k \rangle=\int_{-\pi}^{\pi} {e^{ikx} e^{ijx}} dx =\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx = \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi} = 
+\langle \Psi_j, \Psi_k \rangle=\int_{-\pi}^{\pi} {e^{ikx} e^{ijx}} dx =\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx = \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi} = \Big\{ 
+  \begin{array}{l}
+
 $$
 
 # References
@@ -89,7 +91,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTkzOTk4MCw4MTcwODA5NTksLTIwOD
+eyJoaXN0b3J5IjpbLTYxNTQ4NTkyMyw4MTcwODA5NTksLTIwOD
 EzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUy
 LC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
