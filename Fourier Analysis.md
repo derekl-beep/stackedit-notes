@@ -56,9 +56,9 @@ $$
 
 As the resolution of the data points increases, i.e. $\Delta x \rarr 0$ and $n \rarr \infty$, the expression gives exact inner product of the two functions.
 
-<iframe> </iframe>
 
-![enter image description here](https://raw.githubusercontent.com/derekl-beep/screen-captures/master/Screenshot%202020-08-14%20at%206.42.12%20PM.png)
+<p align="center"><img src="https://raw.githubusercontent.com/derekl-beep/screen-captures/master/Screenshot%202020-08-14%20at%206.42.12%20PM.png" height="50%" width="50%" /> </p>
+
 `Source: https://www.youtube.com/watch?v=g-eNeXlZKAQ&list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC&index=4`
 
 
@@ -80,7 +80,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjA2NTQ3LC0xMTM5NDc2MzQzLDUxMz
-E2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIs
-MTU2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbLTkwNzI5ODg3MywtMTEzOTQ3NjM0Myw1MT
+MxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgy
+LDE1NjMwMjUzN119
 -->
