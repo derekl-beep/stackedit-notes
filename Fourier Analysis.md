@@ -85,7 +85,8 @@ The Fourier series of a function can be expressed as a sum ....
 
 $$
 f(x) 
-= \sum_{}^
+	= \sum_{-\infty}^{\infty} {C_k e^{ikx}}
+	=\sum_{-\infty}^{\infty}(\alpha_k+i\beta_k)(\cos{(kx)} + i\sin{(kx)})
 $$
 
 
@@ -106,8 +107,8 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE1NDM1MDksMzQ4MzAxOTE0LC0xNz
-ExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3
-NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMD
-cyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbMTgwNTYxMTA2NSwzNDgzMDE5MTQsLTE3MT
+E3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2
+MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNz
+IwODY5ODIsMTU2MzAyNTM3XX0=
 -->
