@@ -1,5 +1,3 @@
-
-
 # Fourier Series
 
 A function can be expressed as an infinite sum of sine and cosine functions of increasing frequency. A Fourier series projects a function into orthogonal basis of sines and cosines. 
@@ -79,7 +77,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY3MzQwNjMsLTExMzk0NzYzNDMsNT
+eyJoaXN0b3J5IjpbLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNT
 EzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4
 MiwxNTYzMDI1MzddfQ==
 -->
