@@ -107,7 +107,9 @@ GitHub Repository: https://github.com/dynamicslab/databook_python
 
 ### Algorithm
 
-
+```c
+// TBC
+```
 
 
 ### Fourier approximation of a hat function
@@ -126,8 +128,7 @@ Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC
 
 ### Fourier approximation of discontinuity and the Gibbs phenomenon
 
-The **truncated** Fourier series, i.e. keeping only the lower frequency terms, gives a satisfying approximation of continuous functions. However, obvious fluctuations can be seen at disconuntiy. This approximation error is named as the Gibbs phenomenon.
-
+The **truncated** Fourier series, i.e. keeping only the lower frequency terms, gives a satisfying approximation of continuous functions. However, obvious fluctuations can be seen at discontinuities. This approximation error is named as the Gibbs phenomenon.
 
 <p align="center">
 	<img src="https://github.com/derekl-beep/screen-captures/blob/master/Screenshot%202020-08-15%20at%201.05.00%20PM.png?raw=true" 
@@ -155,7 +156,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAwNzY4MDksMTIwNzEyNzMyMiwzNT
+eyJoaXN0b3J5IjpbLTE3ODMxOTMzNzQsMTIwNzEyNzMyMiwzNT
 kxMDE5MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1
 OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsOD
 Q4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUz
