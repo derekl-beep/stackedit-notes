@@ -102,8 +102,6 @@ $C_k = \bar{C}_{-k}$ if $f(x)$ is real-valued.
 
 # Fourier Series in Python
 
-GitHub Repository: https://github.com/dynamicslab/databook_python
-
 
 ### Algorithm
 
@@ -140,7 +138,7 @@ Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC
 
 # The Fourier Transform
 
-The Fourier series is defined for periodic functions, e.g. $f(x) \in L_2([-L, L])$. The Fourier transform extends the definition for 
+The Fourier series is defined for periodic functions, e.g. $f(x) \in L_2([-L, L])$. The Fourier transform, instead, extends the definition for an infinite domain.
 
 # References
 
@@ -154,14 +152,16 @@ Preview:
 - Data-driven Science and Engineering - Machine Learning, Dynamical Systems and Control
 http://databookuw.com
 
+- GitHub Repository
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxNTY4MTU2LC0xNzgzMTkzMzc0LDEyMD
-cxMjczMjIsMzU5MTAxOTI2LDM0ODMwMTkxNCwtMTcxMTczMzMw
-OCw4MTcwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNT
-EzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4
-MiwxNTYzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbLTIwNDM3MDk0NDAsLTE3ODMxOTMzNzQsMT
+IwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0LC0xNzExNzMz
+MzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0My
+w1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2
+OTgyLDE1NjMwMjUzN119
 -->
