@@ -105,10 +105,19 @@ $C_k = \bar{C}_{-k}$ if $f(x)$ is real-valued.
 GitHub Repository: https://github.com/dynamicslab/databook_python
 
 
-Fourier approximation of a hat function
+### Algorithm
 
 
-Fourier approximation of a discontinuous function and Gis
+
+
+### Fourier approximation of a hat function
+
+
+
+
+### Fourier approximation of discontinuity and the Gibbs phenomenon
+
+
 
 
 
@@ -129,7 +138,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjY3NDExOCwzNTkxMDE5MjYsMzQ4Mz
+eyJoaXN0b3J5IjpbMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4Mz
 AxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1
 NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMj
 Q2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
