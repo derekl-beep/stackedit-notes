@@ -112,6 +112,8 @@ GitHub Repository: https://github.com/dynamicslab/databook_python
 
 ### Fourier approximation of a hat function
 
+The figure shows the approximation of a hat function using 1 to 20 modes.
+
 <p align="center"><img src="https://github.com/derekl-beep/screen-captures/blob/master/Screenshot%202020-08-15%20at%201.00.32%20PM.png?raw=true" height="50%" width="50%" /> </p>
 
 The approximation error decreases monotonically as the number of modes / terms increases.
@@ -132,6 +134,10 @@ The **truncated** Fourier series, i.e. keeping only the lower frequency terms, g
 	height="50%" width="50%"/>
 </p>
 
+Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC01_2_Gibbs.ipynb
+
+
+
 # References
 
 - Fourier Analysis (YouTube Playlist)
@@ -149,9 +155,9 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTI2ODA0OSwxMjA3MTI3MzIyLDM1OT
-EwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5
-LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4ND
-g2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3
-XX0=
+eyJoaXN0b3J5IjpbLTEyMDAwNzY4MDksMTIwNzEyNzMyMiwzNT
+kxMDE5MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1
+OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsOD
+Q4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUz
+N119
 -->
