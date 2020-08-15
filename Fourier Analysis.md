@@ -102,7 +102,13 @@ $C_k = \bar{C}_{-k}$ if $f(x)$ is real-valued.
 
 # Fourier Series in Python
 
+GitHub Repository: https://github.com/dynamicslab/databook_python
 
+
+Fourier approximation of a hat function
+
+
+Fourier approximation of a discontinuous function and Gis
 
 
 
@@ -123,8 +129,8 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUxMjk3MzMsMzU5MTAxOTI2LDM0OD
-MwMTkxNCwtMTcxMTczMzMwOCw4MTcwODA5NTksLTIwODEzNTE3
-NTUsLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMT
-I0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbMTI5NjY3NDExOCwzNTkxMDE5MjYsMzQ4Mz
+AxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1
+NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMj
+Q2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
 -->
