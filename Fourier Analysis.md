@@ -138,6 +138,9 @@ The **truncated** Fourier series, i.e. keeping only the lower frequency terms, g
 Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC01_2_Gibbs.ipynb
 
 
+# The Fourier Transform
+
+The Fourier series is f
 
 # References
 
@@ -156,9 +159,9 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODMxOTMzNzQsMTIwNzEyNzMyMiwzNT
-kxMDE5MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1
-OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsOD
-Q4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUz
-N119
+eyJoaXN0b3J5IjpbLTE1NDM5MjgzOCwtMTc4MzE5MzM3NCwxMj
+A3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMz
+MDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLD
+UxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5
+ODIsMTU2MzAyNTM3XX0=
 -->
