@@ -112,7 +112,9 @@ GitHub Repository: https://github.com/dynamicslab/databook_python
 
 ### Fourier approximation of a hat function
 
+<p align="center"><img src="https://raw.githubusercontent.com/derekl-beep/screen-captures/master/Screenshot%202020-08-14%20at%206.42.12%20PM.png" height="50%" width="50%" /> </p>
 
+https://github.com/derekl-beep/screen-captures/blob/master/Screenshot%202020-08-15%20at%201.00.32%20PM.png?raw=true
 
 
 ### Fourier approximation of discontinuity and the Gibbs phenomenon
@@ -138,8 +140,9 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4Mz
-AxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1
-NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMj
-Q2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbMTAyMTgyNjM5NiwxMjA3MTI3MzIyLDM1OT
+EwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5
+LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4ND
+g2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3
+XX0=
 -->
