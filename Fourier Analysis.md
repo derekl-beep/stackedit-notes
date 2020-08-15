@@ -124,7 +124,7 @@ Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC
 
 ### Fourier approximation of discontinuity and the Gibbs phenomenon
 
-The **truncated**,  Fourier series gives a satisfying approximation of continuous function 
+The **truncated** Fourier series, i.e. keeping only the lower frequency terms, gives a satisfying approximation of continuous functions. However, obvious fluctuations can be seen at disconuntiy 
 
 
 
@@ -145,9 +145,9 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI2NDMwODUsMTIwNzEyNzMyMiwzNT
-kxMDE5MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1
-OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsOD
-Q4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUz
-N119
+eyJoaXN0b3J5IjpbNzUxNDYwNzI4LDEyMDcxMjczMjIsMzU5MT
+AxOTI2LDM0ODMwMTkxNCwtMTcxMTczMzMwOCw4MTcwODA5NTks
+LTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0OD
+Y2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1Mzdd
+fQ==
 -->
