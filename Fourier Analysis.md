@@ -100,6 +100,11 @@ $$
 
 $C_k = \bar{C}_{-k}$ if $f(x)$ is real-valued.
 
+# Fourier Series in Python
+
+
+
+
 
 # References
 
@@ -118,8 +123,8 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MTAxOTI2LDM0ODMwMTkxNCwtMTcxMT
-czMzMwOCw4MTcwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYz
-NDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3Mj
-A4Njk4MiwxNTYzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbLTE0ODUxMjk3MzMsMzU5MTAxOTI2LDM0OD
+MwMTkxNCwtMTcxMTczMzMwOCw4MTcwODA5NTksLTIwODEzNTE3
+NTUsLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMT
+I0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
