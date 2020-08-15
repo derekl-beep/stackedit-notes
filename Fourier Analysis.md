@@ -116,7 +116,7 @@ GitHub Repository: https://github.com/dynamicslab/databook_python
 
 The approximation error decreases monotonically as the number of modes / terms increases.
 
-<p align="center"><img src="https://github.com/derekl-beep/screen-captures/blob/master/Screenshot%202020-08-15%20at%201.00.42%20PM.png?raw=true" height="50%" width="50%" /> </p>
+<p align="center"><img src="https://github.com/derekl-beep/screen-captures/blob/master/Screenshot%202020-08-15%20at%201.00.42%20PM.png?raw=true" height="50%" width="50%"/> </p>
 
 Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC01_1_FourierSines.ipynb
 
@@ -124,9 +124,13 @@ Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC
 
 ### Fourier approximation of discontinuity and the Gibbs phenomenon
 
-The **truncated** Fourier series, i.e. keeping only the lower frequency terms, gives a satisfying approximation of continuous functions. However, obvious fluctuations can be seen at disconuntiy 
+The **truncated** Fourier series, i.e. keeping only the lower frequency terms, gives a satisfying approximation of continuous functions. However, obvious fluctuations can be seen at disconuntiy. This approximation error is named as the Gibbs phenomenon.
 
 
+<p align="center">
+	<img src="https://github.com/derekl-beep/screen-captures/blob/master/Screenshot%202020-08-15%20at%201.05.00%20PM.png?raw=true" 
+	height="50%" width="50%"/>
+</p>
 
 # References
 
@@ -145,9 +149,9 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNDYwNzI4LDEyMDcxMjczMjIsMzU5MT
-AxOTI2LDM0ODMwMTkxNCwtMTcxMTczMzMwOCw4MTcwODA5NTks
-LTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0OD
-Y2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1Mzdd
-fQ==
+eyJoaXN0b3J5IjpbMTA5NTI2ODA0OSwxMjA3MTI3MzIyLDM1OT
+EwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5
+LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4ND
+g2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3
+XX0=
 -->
