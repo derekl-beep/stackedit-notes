@@ -140,7 +140,7 @@ Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC
 
 # The Fourier Transform
 
-The Fourier series is f
+The Fourier series is defined for periodic functions, e.g. $f(x) \in L_2([-L, L])$. The Fourier transform extends the definition for 
 
 # References
 
@@ -159,9 +159,9 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM5MjgzOCwtMTc4MzE5MzM3NCwxMj
-A3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMz
-MDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLD
-UxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5
-ODIsMTU2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbNjMxNTY4MTU2LC0xNzgzMTkzMzc0LDEyMD
+cxMjczMjIsMzU5MTAxOTI2LDM0ODMwMTkxNCwtMTcxMTczMzMw
+OCw4MTcwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNT
+EzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4
+MiwxNTYzMDI1MzddfQ==
 -->
