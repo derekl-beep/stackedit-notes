@@ -138,7 +138,7 @@ Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC
 
 # The Fourier Transform
 
-The Fourier series is defined for periodic functions, e.g. $f(x) \in L_2([-L, L])$. The Fourier transform, instead, extends the definition for an infinite domain.
+The Fourier series is defined for periodic functions, e.g. $f(x) \in L_2([-L, L])$. The Fourier transform, instead, generalised the definition for an infinite domain.
 
 # References
 
@@ -159,9 +159,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NCwxMj
-A3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMz
-MDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLD
-UxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5
-ODIsMTU2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbNTI1MDMxODU2LDE1MzQyMTc0OTYsLTE3OD
+MxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0
+LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMT
+EzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAx
+NCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
 -->
