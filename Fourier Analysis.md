@@ -168,7 +168,10 @@ $$
 
 To extend the Fourier series to the Fourier transform, we take limitation of the period to the infinity, i.e. $[-L, L] \rarr (-\infty, \infty)$ and $\Delta \omega \rarr 0$. The resolution with which we can resolve the frequencies becomes infinitesimally small, and the summation in the Fourier series becomes a Riemann integral.
 
-
+$$
+f(x)
+	=\lim_{\Delta \omega \rarr 0} \sum_{k=-\infty}^{\infty} \Big( { \frac{1}{2L} \int_{-L}^{L} {f(\xi)e^{i\omega_k \xi}} d\xi \Big) e^{i\omega_k x}}
+$$
 
 
 
@@ -193,7 +196,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYxMDE5MDUsMTUzNDIxNzQ5NiwtMT
+eyJoaXN0b3J5IjpbLTIwNTM0NDE3MTQsMTUzNDIxNzQ5NiwtMT
 c4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5
 MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC
 0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2
