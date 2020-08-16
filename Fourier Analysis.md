@@ -155,7 +155,15 @@ c_k
 	= \frac{1}{2\pi} \int_{-\infty}^{\infty} {f(x) e^{ik \pi x/L}} dx
 $$
 
-If we define $\omega_k=\frac{k\pi}{L}$
+If we define $\omega_k=\frac{k\pi}{L}$,
+
+$$
+f(x)
+	= \sum_{k=-\infty}^{\infty} { \frac{1}{2\pi} \int_{-\infty}^{\infty} {f(x)e^{i\omega_k x}} dx e^{i\omega_k x}} \
+$$
+
+
+
 # References
 
 - Fourier Analysis (YouTube Playlist)
@@ -175,9 +183,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTczMzE4NTYsMTUzNDIxNzQ5NiwtMT
-c4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5
-MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC
-0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2
-MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbMTc1ODA4NzAzLDE1MzQyMTc0OTYsLTE3OD
+MxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0
+LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMT
+EzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAx
+NCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
 -->
