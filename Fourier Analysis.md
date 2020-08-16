@@ -155,7 +155,7 @@ c_k
 	= \frac{1}{2L} \int_{-L}^{L} {f(x) e^{ik \pi x/L}} dx .
 $$
 
-If we define $\omega_k=\frac{k\pi}{L}$,
+If we define $\omega_k=\frac{k\pi}{L}=k\Delta \omega$,
 
 $$
 f(x)
@@ -163,10 +163,10 @@ f(x)
 $$
 
 ```c
-// Image o
+// Image: Fourier series vs Fouries transform
 ```
 
-To extend the Fourier series to the Fourier transform, we take limitation of the period to the infinity, i.e. $[-L, L] \rarr (-\infty, \infty)$ and $\omega_k \rarr 0$.
+To extend the Fourier series to the Fourier transform, we take limitation of the period to the infinity, i.e. $[-L, L] \rarr (-\infty, \infty)$ and $\Delta \omega \rarr 0$.
 
 
 
@@ -191,7 +191,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA3NzkwMDAsMTUzNDIxNzQ5NiwtMT
+eyJoaXN0b3J5IjpbLTE4OTA5MTY0MTUsMTUzNDIxNzQ5NiwtMT
 c4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5
 MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC
 0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2
