@@ -162,9 +162,10 @@ f(x)
 	= \sum_{k=-\infty}^{\infty} \Big( { \frac{1}{2L} \int_{-L}^{L} {f(\xi)e^{i\omega_k \xi}} d\xi \Big) e^{i\omega_k x}}.
 $$
 
-```c
-// Image: Fourier series vs Fouries transform
-```
+<p align="center">
+	<img src="https://github.com/derekl-beep/screen-captures/blob/master/Screenshot%202020-08-16%20at%209.23.26%20AM.png?raw=true" 
+	height="50%" width="50%"/>
+</p>
 
 To extend the Fourier series to the Fourier transform, we take limitation of the period to the infinity, i.e. $[-L, L] \rarr (-\infty, \infty)$ and $\Delta \omega \rarr 0$. The resolution with which we can resolve the frequencies becomes infinitesimally small, and the summation in the Fourier series becomes a Riemann integral.
 
@@ -211,9 +212,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5Mjg0NDg3LDE1NzQ1OTUyMjksMTUzND
-IxNzQ5NiwtMTc4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTky
-NiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMD
-gxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1
-MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbMTE5NzEzMzM2OCwxNTc0NTk1MjI5LDE1Mz
+QyMTc0OTYsLTE3ODMxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5
+MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMj
+A4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYx
+NTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
 -->
