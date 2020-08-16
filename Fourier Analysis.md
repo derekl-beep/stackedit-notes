@@ -140,6 +140,9 @@ Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC
 
 The Fourier series is defined for periodic functions, e.g. $f(x) \in L_2([-L, L])$. The Fourier transform, instead, generalised the definition for an infinite domain.
 
+Fourier series formula:
+
+
 # References
 
 - Fourier Analysis (YouTube Playlist)
@@ -159,9 +162,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MDMxODU2LDE1MzQyMTc0OTYsLTE3OD
-MxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0
-LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMT
-EzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAx
-NCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbMTIwNTI4OTA4NywxNTM0MjE3NDk2LC0xNz
+gzMTkzMzc0LDEyMDcxMjczMjIsMzU5MTAxOTI2LDM0ODMwMTkx
+NCwtMTcxMTczMzMwOCw4MTcwODA5NTksLTIwODEzNTE3NTUsLT
+ExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYw
+MTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
