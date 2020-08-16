@@ -174,11 +174,12 @@ f(x)
 	\\
 	{}
 	\\
-	=\int_{-\infty}^{\infty} {\frac{1}{2 \pi} \int_{-\infty}^{\infty} {f(\xi)e^{i k \omega \xi}} d\xi} e^{i k \omega x} d \omega
+	=\int_{-\infty}^{\infty} {\frac{1}{2 \pi} \int_{-\infty}^{\infty} {f(\xi)e^{i \omega \xi}} d\xi} e^{i \omega x} d \omega
 $$
 
+The Fourier cofficient, which is a function of frequencies 
 $$
-\hat{f}(\omega) = \mathcal{F}(f(x)) = \int_{-\infty}^{\infty} {f(x)e^{i k \omega \xi}} d\xi} 
+\hat{f}(\omega) = \mathcal{F}(f(x)) = \int_{-\infty}^{\infty} {f(x) e^{i \omega x}} dx
 $$
 
 
@@ -203,9 +204,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTE2MzkxLDE1MzQyMTc0OTYsLTE3OD
-MxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0
-LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMT
-EzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAx
-NCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbLTEzMDc3OTgwODUsMTUzNDIxNzQ5NiwtMT
+c4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5
+MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC
+0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2
+MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 -->
