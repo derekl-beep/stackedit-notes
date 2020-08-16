@@ -178,7 +178,7 @@ f(x)
 $$
 
 $$
-\hat{f}(\omega) = 
+\hat{f}(\omega) = \mathcal{F}(f(x)) = \int_{-\infty}^{\infty} {f(x)e^{i k \omega \xi}} d\xi} 
 $$
 
 
@@ -203,7 +203,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3Nzg0NzQ3LDE1MzQyMTc0OTYsLTE3OD
+eyJoaXN0b3J5IjpbLTU3NTE2MzkxLDE1MzQyMTc0OTYsLTE3OD
 MxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0
 LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMT
 EzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAx
