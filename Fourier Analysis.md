@@ -177,11 +177,16 @@ f(x)
 	=\int_{-\infty}^{\infty} {\frac{1}{2 \pi} \int_{-\infty}^{\infty} {f(\xi)e^{i \omega \xi}} d\xi} e^{i \omega x} d \omega
 $$
 
-The Fourier cofficient, which is a function of frequency $\omega$, is defined as
+The Fourier cofficient / the Fourier transform, which is a continuous function of frequency $\omega$, is defined as
 $$
 \hat{f}(\omega) = \mathcal{F}(f(x)) = \int_{-\infty}^{\infty} {f(x) e^{i \omega x}} dx
 $$
 
+The inverse Fourier transform is thus defined as 
+
+$$
+f(x)=
+$$
 
 
 
@@ -204,9 +209,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDU5NTIyOSwxNTM0MjE3NDk2LC0xNz
-gzMTkzMzc0LDEyMDcxMjczMjIsMzU5MTAxOTI2LDM0ODMwMTkx
-NCwtMTcxMTczMzMwOCw4MTcwODA5NTksLTIwODEzNTE3NTUsLT
-ExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYw
-MTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbNDQ3NTYzNTMyLDE1NzQ1OTUyMjksMTUzND
+IxNzQ5NiwtMTc4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTky
+NiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMD
+gxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1
+MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 -->
