@@ -186,7 +186,7 @@ The inverse Fourier transform is thus defined as
 
 $$
 f(x)=\mathcal{F}^{-1}(\hat{f}(\omega))
-	=\int_{-\infty}^{\infty} {\frac{1}{2 \pi} \hat{f}(\omega) e^{i \omega x} d \omega}
+	=\frac{1}{2 \pi} \int_{-\infty}^{\infty} {\hat{f}(\omega) e^{i \omega x} d \omega}
 $$
 
 
@@ -210,9 +210,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NTE0NjQxLDE1NzQ1OTUyMjksMTUzND
-IxNzQ5NiwtMTc4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTky
-NiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMD
-gxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1
-MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbLTg3MzA5ODI4NywxNTc0NTk1MjI5LDE1Mz
+QyMTc0OTYsLTE3ODMxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5
+MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMj
+A4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYx
+NTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
 -->
