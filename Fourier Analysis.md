@@ -189,7 +189,7 @@ f(x)=\mathcal{F}^{-1}(\hat{f}(\omega))
 	=\frac{1}{2 \pi} \int_{-\infty}^{\infty} {\hat{f}(\omega) e^{i \omega x} d \omega}
 $$
 
-The Fourier transform is an unitary
+The Fourier transform $\mathcal{F}$ is an unitary operator.
 
 
 # References
@@ -211,9 +211,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODE0MjA2NywxNTc0NTk1MjI5LDE1Mz
-QyMTc0OTYsLTE3ODMxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5
-MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMj
-A4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYx
-NTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbNDA5Mjg0NDg3LDE1NzQ1OTUyMjksMTUzND
+IxNzQ5NiwtMTc4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTky
+NiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMD
+gxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1
+MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 -->
