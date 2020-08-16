@@ -170,7 +170,7 @@ To extend the Fourier series to the Fourier transform, we take limitation of the
 
 $$
 f(x)
-	=\lim_{\Delta \omega \rarr 0} \sum_{k=-\infty}^{\infty} \Big( { \frac{1}{2L} \int_{-L}^{L} {f(\xi)e^{i\omega_k \xi}} d\xi \Big) e^{i\omega_k x}}
+	=\lim_{\Delta \omega \rarr 0} \sum_{k=-\infty}^{\infty} \Big( { \frac{\pi}{2 \Delta \omega} \int_{-\pi / \Delta \omega}^{\pi / \Delta \omega} {f(\xi)e^{i k\Delta \omega \xi}} d\xi \Big) e^{i\omega_k x}}
 $$
 
 
@@ -196,9 +196,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM0NDE3MTQsMTUzNDIxNzQ5NiwtMT
-c4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5
-MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC
-0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2
-MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbLTU2NjYzNTA0MiwxNTM0MjE3NDk2LC0xNz
+gzMTkzMzc0LDEyMDcxMjczMjIsMzU5MTAxOTI2LDM0ODMwMTkx
+NCwtMTcxMTczMzMwOCw4MTcwODA5NTksLTIwODEzNTE3NTUsLT
+ExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYw
+MTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
