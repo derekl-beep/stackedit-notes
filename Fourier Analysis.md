@@ -159,7 +159,7 @@ If we define $\omega_k=\frac{k\pi}{L}$,
 
 $$
 f(x)
-	= \sum_{k=-\infty}^{\infty} { \frac{1}{2\pi} \int_{-\infty}^{\infty} {f(x)e^{i\omega_k x}} dx e^{i\omega_k x}} \
+	= \sum_{k=-\infty}^{\infty} \Big( { \frac{1}{2\pi} \int_{-\infty}^{\infty} {f(\xi)e^{i\omega_k \xi}} d\xi e^{i\omega_k x}} 
 $$
 
 
@@ -183,9 +183,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODA4NzAzLDE1MzQyMTc0OTYsLTE3OD
-MxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0
-LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMT
-EzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAx
-NCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbMTcyMTA5MTM2NiwxNTM0MjE3NDk2LC0xNz
+gzMTkzMzc0LDEyMDcxMjczMjIsMzU5MTAxOTI2LDM0ODMwMTkx
+NCwtMTcxMTczMzMwOCw4MTcwODA5NTksLTIwODEzNTE3NTUsLT
+ExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYw
+MTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
