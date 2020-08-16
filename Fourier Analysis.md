@@ -144,9 +144,16 @@ Fourier series formula:
 
 $$
 f(x)
-	= \sum_{k=-\infty}^{\infty} {c_k e^{\frac{ik}{}}}
+	= \sum_{k=-\infty}^{\infty} {c_k e^{ik \pi x/L}}
 $$
 
+, where 
+
+$$
+c_k
+	=\frac{1}{2\pi} \langle f(x), \Psi_k \rangle 
+	= \frac{1}{2\pi} 
+$$
 # References
 
 - Fourier Analysis (YouTube Playlist)
@@ -166,9 +173,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NTg3NDc4LDE1MzQyMTc0OTYsLTE3OD
-MxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0
-LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMT
-EzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAx
-NCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbLTExMTUzMjUwNDksMTUzNDIxNzQ5NiwtMT
+c4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5
+MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC
+0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2
+MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 -->
