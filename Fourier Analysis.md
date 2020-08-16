@@ -56,7 +56,7 @@ As the resolution of the data points increases, i.e. $\Delta x \rarr 0$ and $n \
 
 <p align="center"><img src="https://raw.githubusercontent.com/derekl-beep/screen-captures/master/Screenshot%202020-08-14%20at%206.42.12%20PM.png" height="50%" width="50%" /> </p>
 
-`Source: https://www.youtube.com/watch?v=g-eNeXlZKAQ&list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC&index=4`
+>Source: https://www.youtube.com/watch?v=g-eNeXlZKAQ&list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC&index=4
 
 
 # Complex Fourier Series
@@ -120,7 +120,7 @@ The approximation error decreases monotonically as the number of modes / terms i
 
 <p align="center"><img src="https://github.com/derekl-beep/screen-captures/blob/master/Screenshot%202020-08-15%20at%201.00.42%20PM.png?raw=true" height="50%" width="50%"/> </p>
 
-Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC01_1_FourierSines.ipynb
+>Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC01_1_FourierSines.ipynb
 
 
 
@@ -133,7 +133,7 @@ The **truncated** Fourier series, i.e. keeping only the lower frequency terms, g
 	height="50%" width="50%"/>
 </p>
 
-Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC01_2_Gibbs.ipynb
+>Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC01_2_Gibbs.ipynb
 
 
 # The Fourier Transform
@@ -166,6 +166,8 @@ $$
 	<img src="https://github.com/derekl-beep/screen-captures/blob/master/Screenshot%202020-08-16%20at%209.23.26%20AM.png?raw=true" 
 	height="50%" width="50%"/>
 </p>
+
+> Source: https://www.youtube.com/watch?v=jVYs-GTqm5U
 
 To extend the Fourier series to the Fourier transform, we take limitation of the period to the infinity, i.e. $[-L, L] \rarr (-\infty, \infty)$ and $\Delta \omega \rarr 0$. The resolution with which we can resolve the frequencies becomes infinitesimally small, and the summation in the Fourier series becomes a Riemann integral.
 
@@ -212,7 +214,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzEzMzM2OCwxNTc0NTk1MjI5LDE1Mz
+eyJoaXN0b3J5IjpbLTYwNjE1OTk2MSwxNTc0NTk1MjI5LDE1Mz
 QyMTc0OTYsLTE3ODMxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5
 MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMj
 A4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYx
