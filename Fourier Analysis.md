@@ -162,7 +162,13 @@ f(x)
 	= \sum_{k=-\infty}^{\infty} \Big( { \frac{1}{2L} \int_{-L}^{L} {f(\xi)e^{i\omega_k \xi}} d\xi \Big) e^{i\omega_k x}}.
 $$
 
-To extend the Fourier series to the Fourier transform, we take limitation of the period to the infinity, i.e. $[-]$
+```c
+// Image o
+```
+
+To extend the Fourier series to the Fourier transform, we take limitation of the period to the infinity, i.e. $[-L, L] \rarr (-\infty, \infty)$ and $\omega_k \rarr 0$.
+
+
 
 
 
@@ -185,7 +191,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzYyMjMzNjksMTUzNDIxNzQ5NiwtMT
+eyJoaXN0b3J5IjpbLTEzMDA3NzkwMDAsMTUzNDIxNzQ5NiwtMT
 c4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5
 MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC
 0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2
