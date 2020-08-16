@@ -152,8 +152,10 @@ $$
 $$
 c_k
 	=\frac{1}{2\pi} \langle f(x), \Psi_k \rangle 
-	= \frac{1}{2\pi} 
+	= \frac{1}{2\pi} \int_{-\infty}^{\infty} {f(x) e^{ik \pi x/L}} dx
 $$
+
+If we define $\omega_k=\frac{k\pi}{L}$
 # References
 
 - Fourier Analysis (YouTube Playlist)
@@ -173,7 +175,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUzMjUwNDksMTUzNDIxNzQ5NiwtMT
+eyJoaXN0b3J5IjpbLTExNTczMzE4NTYsMTUzNDIxNzQ5NiwtMT
 c4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5
 MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC
 0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2
