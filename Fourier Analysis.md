@@ -152,14 +152,14 @@ $$
 $$
 c_k
 	=\frac{1}{2\pi} \langle f(x), \Psi_k \rangle 
-	= \frac{1}{2\pi} \int_{-\infty}^{\infty} {f(x) e^{ik \pi x/L}} dx .
+	= \frac{1}{2L} \int_{-L}^{L} {f(x) e^{ik \pi x/L}} dx .
 $$
 
 If we define $\omega_k=\frac{k\pi}{L}$,
 
 $$
 f(x)
-	= \sum_{k=-\infty}^{\infty} \Big( { \frac{1}{2\pi} \int_{-\infty}^{\infty} {f(\xi)e^{i\omega_k \xi}} d\xi \Big) e^{i\omega_k x}}.
+	= \sum_{k=-\infty}^{\infty} \Big( { \frac{1}{2L} \int_{-L}^{\infty} {f(\xi)e^{i\omega_k \xi}} d\xi \Big) e^{i\omega_k x}}.
 $$
 
 
@@ -183,9 +183,9 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ1NTE3NDMsMTUzNDIxNzQ5NiwtMT
-c4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5
-MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC
-0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2
-MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbMTg5NDA4NTgxOSwxNTM0MjE3NDk2LC0xNz
+gzMTkzMzc0LDEyMDcxMjczMjIsMzU5MTAxOTI2LDM0ODMwMTkx
+NCwtMTcxMTczMzMwOCw4MTcwODA5NTksLTIwODEzNTE3NTUsLT
+ExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYw
+MTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
