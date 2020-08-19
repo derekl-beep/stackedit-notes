@@ -222,7 +222,11 @@ Expressing $\hat{g}(\omega)$ as a Fourier transform of $g(x)$ gives
 
 $$
 \mathcal{F}^{-1}(\hat{f}(\omega) \hat{g}(\omega))
-	=\frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) (\int_{-\infty}^{\infty} {g(y)e^{i \omega y}dy} e^{i \omega x} d \omega.
+	=\frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) \Big(\int_{-\infty}^{\infty} {g(y)e^{i \omega y}dy} \Big) e^{i \omega x} d \omega
+	\\
+	{}
+	\\
+	=\frac{1}{2\pi} 
 $$
 
 # References
@@ -244,7 +248,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzMjgzMTMxLC02MDYxNTk5NjEsMTU3ND
+eyJoaXN0b3J5IjpbNDg3NTM1MDIxLC02MDYxNTk5NjEsMTU3ND
 U5NTIyOSwxNTM0MjE3NDk2LC0xNzgzMTkzMzc0LDEyMDcxMjcz
 MjIsMzU5MTAxOTI2LDM0ODMwMTkxNCwtMTcxMTczMzMwOCw4MT
 cwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYy
