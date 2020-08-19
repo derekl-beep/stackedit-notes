@@ -198,7 +198,7 @@ The Fourier transform $\mathcal{F}$ is an unitary operator.
 # References
 
 - Fourier Analysis (YouTube Playlist)
-Prof. Steve Brunton
+Prof. Steven L. Brunton
 University of Washington
 Preview:
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>
@@ -214,9 +214,10 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjE1OTk2MSwxNTc0NTk1MjI5LDE1Mz
-QyMTc0OTYsLTE3ODMxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5
-MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMj
-A4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYx
-NTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbLTEzMDU3MDc1NjUsLTYwNjE1OTk2MSwxNT
+c0NTk1MjI5LDE1MzQyMTc0OTYsLTE3ODMxOTMzNzQsMTIwNzEy
+NzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LD
+gxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMx
+NjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLD
+E1NjMwMjUzN119
 -->
