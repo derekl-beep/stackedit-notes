@@ -231,10 +231,6 @@ $$
 	{}
 	\\
 	= \int_{-\infty}^{\infty} f(x-y)  g(y) dy
-	\\
-	{}
-	\\
-	=(f *g)
 $$
 
 # References
@@ -256,10 +252,10 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI5NzE5NDUsLTYwNjE1OTk2MSwxNT
-c0NTk1MjI5LDE1MzQyMTc0OTYsLTE3ODMxOTMzNzQsMTIwNzEy
-NzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LD
-gxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMx
-NjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLD
-E1NjMwMjUzN119
+eyJoaXN0b3J5IjpbNzUwNjYwNTIyLC02MDYxNTk5NjEsMTU3ND
+U5NTIyOSwxNTM0MjE3NDk2LC0xNzgzMTkzMzc0LDEyMDcxMjcz
+MjIsMzU5MTAxOTI2LDM0ODMwMTkxNCwtMTcxMTczMzMwOCw4MT
+cwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYy
+MzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNT
+YzMDI1MzddfQ==
 -->
