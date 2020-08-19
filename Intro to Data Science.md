@@ -4,11 +4,14 @@
 
 Machine learning is:
 
-- Models for data
+- Models from training data
 - Optimization & Regression
 - A combination of linear algebra, optimisation theory, statistics, and more ...
 
-Machine learning 
+Machine learning is **NOT**:
+
+- Magic
+- Just neural networks (NN)
 
 In some sense, machine learning is an optimazation problem, in which we optimize the underlying models with the data we collected.
 
@@ -22,5 +25,5 @@ University of Washington
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjIwNzI4Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTkxMjIyMDY5MCw3MzA5OTgxMTZdfQ==
 -->
