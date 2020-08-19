@@ -7,6 +7,10 @@ Machine learning is:
 - Models from training data
 - Optimization & Regression
 - A combination of linear algebra, optimisation theory, statistics, and more ...
+- Human guided, e.g.
+	- Questions to addressed
+	- Data to be collected, inputs / outputs of ML models
+	- Architecture
 
 Machine learning is **NOT**:
 
@@ -25,5 +29,6 @@ University of Washington
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjIyMDY5MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NTcyMDk4OTIsLTkxMjIyMDY5MCw3Mz
+A5OTgxMTZdfQ==
 -->
