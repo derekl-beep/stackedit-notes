@@ -214,8 +214,8 @@ $$
 The following shows the inverse Fourier transform of $\hat{f}(\omega) \hat{g}(\omega)$ gives the convolution integral $(f*g)$.
 
 $$
-\mathcal{F}^{-1}(\hat{f} \hat{g}) (x) 
-	=
+\mathcal{F}^{-1}(\hat{f}(\omega) \hat{g}(\omega))
+	=\frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) \hat{g}(\omega) e^{i \omega x} d \omega
 $$
 
 # References
@@ -237,7 +237,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzQyNzAwOCwtNjA2MTU5OTYxLDE1Nz
+eyJoaXN0b3J5IjpbMTcwODk4MzYzNywtNjA2MTU5OTYxLDE1Nz
 Q1OTUyMjksMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NCwxMjA3MTI3
 MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsOD
 E3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2
