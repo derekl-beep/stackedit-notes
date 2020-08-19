@@ -2,7 +2,12 @@
 
 # Machine Learning
 
-In some sense, machine learning is an optimazation
+Machine learning is:
+
+- Models for data
+- Optimization & Regression
+
+In some sense, machine learning is an optimazation problem, in which we optimize the underlying models with the data we collected.
 
 # References
 
@@ -11,5 +16,5 @@ In some sense, machine learning is an optimazation
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MzY4ODAxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTI4NDIzMDQzMyw3MzA5OTgxMTZdfQ==
 -->
