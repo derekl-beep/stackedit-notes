@@ -235,19 +235,17 @@ $$
 
 
 $$
-\begin{align}
+\begin{aligned}
   \phantom{i + j + k}
   &\begin{aligned}
-    \mathllap{a} &= b + c + d\\
-      &\qquad + e + f + g + x + y + z
+   \mathcal{F}^{-1}(\hat{f}(\omega) \hat{g}(\omega))
+	=\frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) \Bigg(\int_{-\infty}^{\infty} {g(y)e^{-i \omega y}dy} \Bigg) e^{i \omega x} d \omega
   \end{aligned}\\
   &\begin{aligned}
-    \mathllap{i + j + k} &= l + m + n\\
-      &\qquad + o + p + q
+      = \int_{-\infty}^{\infty} g(y) \Bigg(  \frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) e^{i \omega (x-y)} d\omega \Bigg) dy
   \end{aligned}
-\end{align}
+\end{aligned}
 $$
-
 
 # References
 
@@ -268,10 +266,10 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjcxOTc3NCwtNjA2MTU5OTYxLDE1Nz
-Q1OTUyMjksMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NCwxMjA3MTI3
-MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsOD
-E3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2
-MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMT
-U2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbMTAxOTE2NTMzLC02MDYxNTk5NjEsMTU3ND
+U5NTIyOSwxNTM0MjE3NDk2LC0xNzgzMTkzMzc0LDEyMDcxMjcz
+MjIsMzU5MTAxOTI2LDM0ODMwMTkxNCwtMTcxMTczMzMwOCw4MT
+cwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYy
+MzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNT
+YzMDI1MzddfQ==
 -->
