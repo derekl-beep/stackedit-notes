@@ -195,6 +195,10 @@ $$
 The Fourier transform $\mathcal{F}$ is an unitary operator.
 
 
+# The Fourier Transform and Convolution Integrals
+
+The convolution of two functions, $f(x)$ and $g(x)$, is def
+
 # References
 
 - Fourier Analysis (YouTube Playlist)
@@ -214,10 +218,10 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU3MDc1NjUsLTYwNjE1OTk2MSwxNT
-c0NTk1MjI5LDE1MzQyMTc0OTYsLTE3ODMxOTMzNzQsMTIwNzEy
-NzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LD
-gxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMx
-NjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLD
-E1NjMwMjUzN119
+eyJoaXN0b3J5IjpbLTQzNDYzNzI1OSwtNjA2MTU5OTYxLDE1Nz
+Q1OTUyMjksMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NCwxMjA3MTI3
+MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsOD
+E3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2
+MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMT
+U2MzAyNTM3XX0=
 -->
