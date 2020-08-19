@@ -208,9 +208,10 @@ $$
 The Fourier transform of the convolution integral gives a product of the two functions in the frequency domain.
 
 $$
-\mathcal{F}(f*g) = \mathcal{F}(f)
+\mathcal{F}(f*g) = \mathcal{F}(f) \mathcal{F}(g) = \hat{f}(\omega) \hat{g}(\omega)
 $$
 
+The following shows the inverse Fouri
 
 # References
 
@@ -231,10 +232,10 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwNTMxNjgwLC02MDYxNTk5NjEsMTU3ND
-U5NTIyOSwxNTM0MjE3NDk2LC0xNzgzMTkzMzc0LDEyMDcxMjcz
-MjIsMzU5MTAxOTI2LDM0ODMwMTkxNCwtMTcxMTczMzMwOCw4MT
-cwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYy
-MzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNT
-YzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbMjAzMjcxNzU3NCwtNjA2MTU5OTYxLDE1Nz
+Q1OTUyMjksMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NCwxMjA3MTI3
+MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsOD
+E3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2
+MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMT
+U2MzAyNTM3XX0=
 -->
