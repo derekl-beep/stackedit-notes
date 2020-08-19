@@ -226,7 +226,7 @@ $$
 	\\
 	{}
 	\\
-	=\frac{1}{2\pi} \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} \hat{f}(\omega) g(y)e^{i \omega (x-y)} d\omega dy
+	= \int_{-\infty}^{\infty} \Bigg( g(y) \frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) e^{i \omega (x-y)} d\omega dy
 	\\
 	{}
 	\\
@@ -252,10 +252,10 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjk2NjA0OTUsLTYwNjE1OTk2MSwxNT
-c0NTk1MjI5LDE1MzQyMTc0OTYsLTE3ODMxOTMzNzQsMTIwNzEy
-NzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LD
-gxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMx
-NjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLD
-E1NjMwMjUzN119
+eyJoaXN0b3J5IjpbMTU2MTYyODgzMiwtNjA2MTU5OTYxLDE1Nz
+Q1OTUyMjksMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NCwxMjA3MTI3
+MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsOD
+E3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2
+MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMT
+U2MzAyNTM3XX0=
 -->
