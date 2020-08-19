@@ -205,6 +205,11 @@ $$
 (f*g)=\int_{-\infty}^{\infty} f(\xi-x)g(x)d\xi
 $$
 
+The Fourier transform of the convolution integral gives a product of the two functions in the frequency domain.
+
+$$
+\mathcal{F}(f*g) = \mathcal{F}(f)
+$$
 
 
 # References
@@ -226,7 +231,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDI3MjIwLC02MDYxNTk5NjEsMTU3ND
+eyJoaXN0b3J5IjpbNjgwNTMxNjgwLC02MDYxNTk5NjEsMTU3ND
 U5NTIyOSwxNTM0MjE3NDk2LC0xNzgzMTkzMzc0LDEyMDcxMjcz
 MjIsMzU5MTAxOTI2LDM0ODMwMTkxNCwtMTcxMTczMzMwOCw4MT
 cwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYy
