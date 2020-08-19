@@ -211,7 +211,12 @@ $$
 \mathcal{F}(f*g) = \mathcal{F}(f) \mathcal{F}(g) = \hat{f}(\omega) \hat{g}(\omega)
 $$
 
-The following shows the inverse Fouri
+The following shows the inverse Fourier transform of $\hat{f}(\omega) \hat{g}(\omega)$ gives the convolution integral $(f*g)$.
+
+$$
+\mathcal{F}^{-1}(\hat{f} \hat{g}) (x) 
+	=
+$$
 
 # References
 
@@ -232,7 +237,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjcxNzU3NCwtNjA2MTU5OTYxLDE1Nz
+eyJoaXN0b3J5IjpbMTUyNzQyNzAwOCwtNjA2MTU5OTYxLDE1Nz
 Q1OTUyMjksMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NCwxMjA3MTI3
 MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsOD
 E3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2
