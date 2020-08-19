@@ -197,7 +197,7 @@ The Fourier transform $\mathcal{F}$ is an unitary operator.
 
 # The Fourier Transform and Convolution Integrals
 
-The convolution integral in 
+The convolution integral in the spatial variable can be simplified by Fourier transforming the functions first.
 
 The convolution of two functions, $f(x)$ and $g(x)$, is defined as
 
@@ -226,7 +226,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3MjMyNzQ1LC02MDYxNTk5NjEsMTU3ND
+eyJoaXN0b3J5IjpbMTU2NDI3MjIwLC02MDYxNTk5NjEsMTU3ND
 U5NTIyOSwxNTM0MjE3NDk2LC0xNzgzMTkzMzc0LDEyMDcxMjcz
 MjIsMzU5MTAxOTI2LDM0ODMwMTkxNCwtMTcxMTczMzMwOCw4MT
 cwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYy
