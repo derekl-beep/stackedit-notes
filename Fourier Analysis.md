@@ -226,7 +226,7 @@ $$
 	\\
 	{}
 	\\
-	=\frac{1}{2\pi} 
+	=\frac{1}{2\pi} \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} \hat{f}(\omega) g(y)e^{i \omega y}
 $$
 
 # References
@@ -248,7 +248,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NTM1MDIxLC02MDYxNTk5NjEsMTU3ND
+eyJoaXN0b3J5IjpbOTgyNTMxODUzLC02MDYxNTk5NjEsMTU3ND
 U5NTIyOSwxNTM0MjE3NDk2LC0xNzgzMTkzMzc0LDEyMDcxMjcz
 MjIsMzU5MTAxOTI2LDM0ODMwMTkxNCwtMTcxMTczMzMwOCw4MT
 cwODA5NTksLTIwODEzNTE3NTUsLTExMzk0NzYzNDMsNTEzMTYy
