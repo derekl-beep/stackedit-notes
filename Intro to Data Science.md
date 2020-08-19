@@ -10,7 +10,7 @@ Machine learning is:
 - Human guided, e.g.
 	- Questions to addressed
 	- Data to be collected, inputs / outputs of ML models
-	- Architecture
+	- ML architecture
 
 Machine learning is **NOT**:
 
@@ -29,6 +29,6 @@ University of Washington
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcyMDk4OTIsLTkxMjIyMDY5MCw3Mz
+eyJoaXN0b3J5IjpbLTExNTQ2MzkzOTEsLTkxMjIyMDY5MCw3Mz
 A5OTgxMTZdfQ==
 -->
