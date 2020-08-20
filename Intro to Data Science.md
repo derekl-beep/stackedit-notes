@@ -52,7 +52,7 @@ X=U \Sigma V^T
 $$
 
 
-$U$ and $V$ are unitary, meaning
+$U$ and $V$ are unitary matries, meaning
 
 $$
 UU^T = U^TU=I_{n \times n}
@@ -70,13 +70,11 @@ $$
 \sigma_1 \geq \sigma_2 \geq \sigma_3 \geq ... \geq \sigma_m \geq 0
 $$
 
-
-
 $U$ and $V$ contains the information about the column space and the row space of $X$ respectively. 
 
-
-
 $\Sigma$ tells us how important various columns in $U$ and rows in $V$ are.
+
+The SVD of a real matrix is guaranteed to exist
 
 ## Matrix Approximation
 
@@ -100,6 +98,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDcyNjM2NCwxMDE1MTEzMTQ2LC0xMT
-U0NjM5MzkxLC05MTIyMjA2OTAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4MDMzODg1NzAsMTAxNTExMzE0NiwtMT
+E1NDYzOTM5MSwtOTEyMjIwNjkwLDczMDk5ODExNl19
 -->
