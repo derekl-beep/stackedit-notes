@@ -23,7 +23,7 @@ In some sense, machine learning is an optimazation problem, in which we optimize
 
 ### Goals
 
-# Singular Value Decomposition
+# Singular Value Decomposition (SVD)
 
 
 SVD is:
@@ -63,6 +63,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTY2OTQ2MiwtMTE1NDYzOTM5MSwtOT
+eyJoaXN0b3J5IjpbMTAxNTExMzE0NiwtMTE1NDYzOTM5MSwtOT
 EyMjIwNjkwLDczMDk5ODExNl19
 -->
