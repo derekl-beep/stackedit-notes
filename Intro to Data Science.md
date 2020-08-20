@@ -26,7 +26,7 @@ In some sense, machine learning is an optimazation problem, in which we optimize
 # Singular Value Decomposition
 
 
-
+Sing
 
 
 
@@ -44,6 +44,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjE0NjIyNCwtMTE1NDYzOTM5MSwtOT
-EyMjIwNjkwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE0NjQ2NTk2NzksLTExNTQ2MzkzOTEsLT
+kxMjIyMDY5MCw3MzA5OTgxMTZdfQ==
 -->
