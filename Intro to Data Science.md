@@ -102,6 +102,12 @@ $$
 
 , where $\tilde{U}$,  $\tilde{\Sigma}$,  $\tilde{V}$ $\in \mathbb{R}^{r \times r}$, and $r < m$.
 
+### Eckart-Young Theorem [1936]
+
+$$
+{\arg \min }_{dfd}
+$$
+
 # References
 
 - Intro to Data Science (YouTube Playlist)
@@ -116,7 +122,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzkxOTAzOCwxNzg2NTUzMjg0LC0xNj
-A4NTQ5NzUyLDEwMTUxMTMxNDYsLTExNTQ2MzkzOTEsLTkxMjIy
-MDY5MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIxMzEwMjg0NjAsMTg1NzkxOTAzOCwxNz
+g2NTUzMjg0LC0xNjA4NTQ5NzUyLDEwMTUxMTMxNDYsLTExNTQ2
+MzkzOTEsLTkxMjIyMDY5MCw3MzA5OTgxMTZdfQ==
 -->
