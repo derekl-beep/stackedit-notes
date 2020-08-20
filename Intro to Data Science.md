@@ -37,6 +37,11 @@ SVD can solve:
 - $Ax=b$, for non-squared $A$ regression
 - basis PCA 
 - correlations
+
+Real-world applications include:
+
+- Google's PageRank
+- Facebook's facial recognition
 - 
 
 
@@ -55,6 +60,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzc1ODk5MywtMTE1NDYzOTM5MSwtOT
+eyJoaXN0b3J5IjpbLTUxMTMyNzY2NiwtMTE1NDYzOTM5MSwtOT
 EyMjIwNjkwLDczMDk5ODExNl19
 -->
