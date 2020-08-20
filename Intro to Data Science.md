@@ -110,6 +110,8 @@ $$
 
 , where $\tilde{U}$,  $\tilde{\Sigma}$,  $\tilde{V}$ $\in \mathbb{R}^{r \times r}$, and $r < m$.
 
+After truncation, $$
+
 ### Eckart-Young Theorem [1936]
 
 The theorem states that the best possible matrix approximation of $X$ with rank $r$ is given by first $r$ truncated singular value decomposition of $X$.
@@ -132,7 +134,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjI1NDgzMiwxODU3OTE5MDM4LDE3OD
-Y1NTMyODQsLTE2MDg1NDk3NTIsMTAxNTExMzE0NiwtMTE1NDYz
-OTM5MSwtOTEyMjIwNjkwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE5ODE4NjA1NTUsMTg1NzkxOTAzOCwxNz
+g2NTUzMjg0LC0xNjA4NTQ5NzUyLDEwMTUxMTMxNDYsLTExNTQ2
+MzkzOTEsLTkxMjIyMDY5MCw3MzA5OTgxMTZdfQ==
 -->
