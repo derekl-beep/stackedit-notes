@@ -74,10 +74,9 @@ $U$ and $V$ contains the information about the column space and the row space of
 
 $\Sigma$ tells us how important various columns in $U$ and rows in $V$ are.
 
-The SVD of a real matrix is guaranteed to exist
+The SVD of a real matrix is guaranteed to exist, and to be unique.
 
 ## Matrix Approximation
-
 
 ##
 
@@ -98,6 +97,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMzODg1NzAsMTAxNTExMzE0NiwtMT
+eyJoaXN0b3J5IjpbLTE2MDg1NDk3NTIsMTAxNTExMzE0NiwtMT
 E1NDYzOTM5MSwtOTEyMjIwNjkwLDczMDk5ODExNl19
 -->
