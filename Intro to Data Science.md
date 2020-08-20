@@ -52,11 +52,21 @@ X=U \Sigma V^T
 $$
 
 
-$U$ and $V$ are unitary.
+$U$ and $V$ are unitary, meaning
 
 $$
-U
+UU^T = U^TU=I_{n \times n}
 $$
+
+and
+
+$$
+VV^T = V^T V=I_{m \times m} .
+$$
+
+$\Sigma$ is a diagonal matrix
+
+
 
 $U$ and $V$ contains the information about the column space and the row space of $X$ respectively. 
 
@@ -86,6 +96,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTgzMjk4OSwxMDE1MTEzMTQ2LC0xMT
+eyJoaXN0b3J5IjpbMTEwNTQ4MzE3OCwxMDE1MTEzMTQ2LC0xMT
 U0NjM5MzkxLC05MTIyMjA2OTAsNzMwOTk4MTE2XX0=
 -->
