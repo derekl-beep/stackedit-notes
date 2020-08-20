@@ -51,7 +51,9 @@ $$
 X=U \Sigma V^T= [] [] []
 $$
 
-$U$ and  contains the information about the column space of $X$. $V$
+$U$ and $V$ contains the information about the column space and the row space of $X$ respectively. 
+
+$\Sigma$ tells us how important various columns in $U$ and rows in $V$ are.
 
 ## Matrix Approximation
 
@@ -75,6 +77,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjIwNTI1MiwxMDE1MTEzMTQ2LC0xMT
+eyJoaXN0b3J5IjpbMTQ5MTg4MjcwOSwxMDE1MTEzMTQ2LC0xMT
 U0NjM5MzkxLC05MTIyMjA2OTAsNzMwOTk4MTE2XX0=
 -->
