@@ -37,9 +37,13 @@ Prof. Steven L. Brunton
 University of Washington
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>
 
+- Data-driven Science and Engineering - Machine Learning, Dynamical Systems and Control
+Authur(s): Steven L. Brunton, J. Nathan Kutz
+http://databookuw.com
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxNzg1NzI2LC0xMTU0NjM5MzkxLC05MT
-IyMjA2OTAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE2MjE0NjIyNCwtMTE1NDYzOTM5MSwtOT
+EyMjIwNjkwLDczMDk5ODExNl19
 -->
