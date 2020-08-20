@@ -104,8 +104,10 @@ $$
 
 ### Eckart-Young Theorem [1936]
 
+The theorem states that the best possible approximation of a matrix $X$ using r
+
 $$
-\arg \min_{\tilde{X} \text{ s.t. } \text{rank}(\tilde{X}) = r } =\| X -\tilde{X} \| _F
+\arg \min_{\tilde{X} \text{ s.t. } \text{rank}(\tilde{X}) = r } =\| X -\tilde{X} \| _F = \tilde{U} \tilde{\Sigma} \tilde{V}^T
 $$
 
 # References
@@ -122,7 +124,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDA5MDcwOCwxODU3OTE5MDM4LDE3OD
+eyJoaXN0b3J5IjpbLTYxMDI4Mzc1MSwxODU3OTE5MDM4LDE3OD
 Y1NTMyODQsLTE2MDg1NDk3NTIsMTAxNTExMzE0NiwtMTE1NDYz
 OTM5MSwtOTEyMjIwNjkwLDczMDk5ODExNl19
 -->
