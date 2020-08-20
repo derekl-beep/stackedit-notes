@@ -64,7 +64,11 @@ $$
 VV^T = V^T V=I_{m \times m} .
 $$
 
-$\Sigma$ is a diagonal matrix
+$\Sigma$ is a diagonal matrix with
+
+$$
+\sigma_1 \geq \sigma_2 \geq \sigma_3 \geq ... \geq \sigma_m \geq 0
+$$
 
 
 
@@ -96,6 +100,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTQ4MzE3OCwxMDE1MTEzMTQ2LC0xMT
+eyJoaXN0b3J5IjpbMTM4NDcyNjM2NCwxMDE1MTEzMTQ2LC0xMT
 U0NjM5MzkxLC05MTIyMjA2OTAsNzMwOTk4MTE2XX0=
 -->
