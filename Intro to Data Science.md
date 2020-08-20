@@ -86,7 +86,7 @@ X = U \Sigma V^T \\ {} \\
 	=\hat{U} \hat{\Sigma} V^T
 $$
 
-, where $\hat{U}, \hat{\Sigma}, V \in \mathcal{R}^{m \times m}$.
+, where $\hat{U}, \hat{\Sigma}, V \in \mathbb{R}^{m \times m}$.
 
 MATLAB:
 ```matlab
@@ -109,7 +109,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTAxNTc0MSwtMTYwODU0OTc1MiwxMD
-E1MTEzMTQ2LC0xMTU0NjM5MzkxLC05MTIyMjA2OTAsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbNTc2ODc0MTg1LC0xNjA4NTQ5NzUyLDEwMT
+UxMTMxNDYsLTExNTQ2MzkzOTEsLTkxMjIyMDY5MCw3MzA5OTgx
+MTZdfQ==
 -->
