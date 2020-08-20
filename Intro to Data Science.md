@@ -2,6 +2,8 @@
 
 # Machine Learning
 
+### Overview
+
 Machine learning is:
 
 - Models from training data
@@ -19,6 +21,9 @@ Machine learning is **NOT**:
 
 In some sense, machine learning is an optimazation problem, in which we optimize the underlying models with the data we collected.
 
+
+
+
 # References
 
 - Intro to Data Science (YouTube Playlist)
@@ -29,6 +34,6 @@ University of Washington
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ2MzkzOTEsLTkxMjIyMDY5MCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNzEzMzMwMDcsLTExNTQ2MzkzOTEsLT
+kxMjIyMDY5MCw3MzA5OTgxMTZdfQ==
 -->
