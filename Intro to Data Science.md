@@ -110,7 +110,9 @@ $$
 
 , where $\tilde{U}$,  $\tilde{\Sigma}$,  $\tilde{V}$ $\in \mathbb{R}^{r \times r}$, and $r < m$.
 
-After truncation, $$
+Note that, after truncation, $\tilde{U}$ and $\tilde{V}$ are no long unitary.
+
+$$\tilde{U}^T\tilde{U} = I_{r \times r}$$ an
 
 ### Eckart-Young Theorem [1936]
 
@@ -134,7 +136,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODE4NjA1NTUsMTg1NzkxOTAzOCwxNz
-g2NTUzMjg0LC0xNjA4NTQ5NzUyLDEwMTUxMTMxNDYsLTExNTQ2
-MzkzOTEsLTkxMjIyMDY5MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTcyMDEyMDA5NywxODU3OTE5MDM4LDE3OD
+Y1NTMyODQsLTE2MDg1NDk3NTIsMTAxNTExMzE0NiwtMTE1NDYz
+OTM5MSwtOTEyMjIwNjkwLDczMDk5ODExNl19
 -->
