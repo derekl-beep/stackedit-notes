@@ -86,6 +86,8 @@ X = U \Sigma V^T \\ {} \\
 	=\hat{U} \hat{\Sigma} V^T
 $$
 
+, where $\hat{U}, \hat{\Sigma}, V \in \mathcal{R}^{m \times m}$.
+
 MATLAB:
 ```matlab
 >> [U, S, V] = svd(x, 'econ');
@@ -107,7 +109,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTkzMzUyODcsLTE2MDg1NDk3NTIsMT
-AxNTExMzE0NiwtMTE1NDYzOTM5MSwtOTEyMjIwNjkwLDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbLTk4OTAxNTc0MSwtMTYwODU0OTc1MiwxMD
+E1MTEzMTQ2LC0xMTU0NjM5MzkxLC05MTIyMjA2OTAsNzMwOTk4
+MTE2XX0=
 -->
