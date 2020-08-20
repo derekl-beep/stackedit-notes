@@ -110,9 +110,14 @@ $$
 
 , where $\tilde{U}$,  $\tilde{\Sigma}$,  $\tilde{V}$ $\in \mathbb{R}^{r \times r}$, and $r < m$.
 
-Note that, after truncation, $\tilde{U}$ and $\tilde{V}$ are no long unitary.
+Note that, after truncation, $\tilde{U}$ and $\tilde{V}$ are no long unitary. We have
 
-$$\tilde{U}^T\tilde{U} = I_{r \times r}$$ an
+$$\tilde{U}^T\tilde{U} = I_{r \times r}, \tilde{V}^T\tilde{V} = I_{r \times r}$$
+
+and 
+
+$$\tilde{U}\tilde{U}^T \neq I_{r \times r}, \tilde{V} \tilde{V}^T \neq I_{r \times r}.$$
+
 
 ### Eckart-Young Theorem [1936]
 
@@ -136,7 +141,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDEyMDA5NywxODU3OTE5MDM4LDE3OD
-Y1NTMyODQsLTE2MDg1NDk3NTIsMTAxNTExMzE0NiwtMTE1NDYz
-OTM5MSwtOTEyMjIwNjkwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTU4NzEwNjIwLDE4NTc5MTkwMzgsMTc4Nj
+U1MzI4NCwtMTYwODU0OTc1MiwxMDE1MTEzMTQ2LC0xMTU0NjM5
+MzkxLC05MTIyMjA2OTAsNzMwOTk4MTE2XX0=
 -->
