@@ -31,6 +31,7 @@ SVD is:
 - Data reduction
 - Data-driven generalisation of Fourier transform (FFT)
 - "Tailored" to specific problems
+- Simple and interpretable linear algebra
 
 SVD can solve:
 
@@ -42,7 +43,9 @@ Real-world applications include:
 
 - Google's PageRank
 - Facebook's facial recognition
-- 
+- Netflix's recommendation system
+
+
 
 
 
@@ -60,6 +63,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTMyNzY2NiwtMTE1NDYzOTM5MSwtOT
+eyJoaXN0b3J5IjpbLTIwNTY2OTQ2MiwtMTE1NDYzOTM5MSwtOT
 EyMjIwNjkwLDczMDk5ODExNl19
 -->
