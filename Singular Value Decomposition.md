@@ -113,7 +113,7 @@ University of Washington
 Authur(s): Steven L. Brunton, J. Nathan Kutz
 http://databookuw.com
 
-
+> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTYwMTc1Nl19
+eyJoaXN0b3J5IjpbLTE5NTk3MTIyNzBdfQ==
 -->
