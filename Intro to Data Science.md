@@ -21,6 +21,12 @@ Machine learning is **NOT**:
 
 In some sense, machine learning is an optimazation problem, in which we optimize the underlying models with the data we collected.
 
+### Goals
+
+# Singular Value Decomposition
+
+
+
 
 
 
@@ -34,6 +40,6 @@ University of Washington
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzEzMzMwMDcsLTExNTQ2MzkzOTEsLT
-kxMjIyMDY5MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzIxNzg1NzI2LC0xMTU0NjM5MzkxLC05MT
+IyMjA2OTAsNzMwOTk4MTE2XX0=
 -->
