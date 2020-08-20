@@ -76,7 +76,11 @@ $\Sigma$ tells us how important various columns in $U$ and rows in $V$ are.
 
 The SVD of a real matrix is guaranteed to exist, and to be unique.
 
-To compute the SVD in MATLAB, we can
+To compute the SVD in MATLAB, we can do
+
+```matlab
+>> [U, S, V] = svd(X);
+```
 
 ## Matrix Approximation
 
@@ -88,11 +92,13 @@ X = U \Sigma V^T \\ {} \\
 	=\hat{U} \hat{\Sigma} V^T
 $$
 
-, where $\hat{U}, \hat{\Sigma}, V \in \mathbb{R}^{m \times m}$.
+, where $\hat{U}, \hat{\Sigma}, V \in \mathbb{R}^{m \times m}$
 
-$\sigma_i u_i v_i^T$ is a rank-one matrix.
+and
 
-MATLAB:
+$\sigma_i u_i v_i^T$ are  rank-one matrices.
+
+In MATLAB:
 ```matlab
 >> [U, S, V] = svd(x, 'econ');
 ```
@@ -106,7 +112,7 @@ $$
 
 ### Eckart-Young Theorem [1936]
 
-The theorem states that the best possible matrix approximation $X$ with rank $r$ is given by first $r$ truncated singular value decomposition of $X$.
+The theorem states that the best possible matrix approximation of $X$ with rank $r$ is given by first $r$ truncated singular value decomposition of $X$.
 
 $$
 \arg \min_{\tilde{X} \text{ s.t. } \text{rank}(\tilde{X}) = r } =\| X -\tilde{X} \| _F = \tilde{U} \tilde{\Sigma} \tilde{V}^T
@@ -126,7 +132,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDU2OTIxMywxODU3OTE5MDM4LDE3OD
+eyJoaXN0b3J5IjpbMTU3NjI1NDgzMiwxODU3OTE5MDM4LDE3OD
 Y1NTMyODQsLTE2MDg1NDk3NTIsMTAxNTExMzE0NiwtMTE1NDYz
 OTM5MSwtOTEyMjIwNjkwLDczMDk5ODExNl19
 -->
