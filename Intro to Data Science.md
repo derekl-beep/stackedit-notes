@@ -95,7 +95,12 @@ MATLAB:
 >> [U, S, V] = svd(x, 'econ');
 ```
 
+By using the first $r$ ranks to approximate $X$, we have
+$$
+X \approx \tilde{U} \tilde{\Sigma} \tilde{V}^T
+$$
 
+, where $\tilde{U} \tilde{\Sigma} \tilde{V}$
 
 # References
 
@@ -111,7 +116,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjU1MzI4NCwtMTYwODU0OTc1MiwxMD
-E1MTEzMTQ2LC0xMTU0NjM5MzkxLC05MTIyMjA2OTAsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4Mzg4NDE2MzUsMTc4NjU1MzI4NCwtMT
+YwODU0OTc1MiwxMDE1MTEzMTQ2LC0xMTU0NjM5MzkxLC05MTIy
+MjA2OTAsNzMwOTk4MTE2XX0=
 -->
