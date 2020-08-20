@@ -78,7 +78,10 @@ The SVD of a real matrix is guaranteed to exist, and to be unique.
 
 ## Matrix Approximation
 
-##
+$$
+X = U \Sigma V^T
+	= \sigma_1 u_1 v_1^T + \sigma_2 u_2 v_2^T + ... +\sigma_1 u_m v_m^T
+$$
 
 
 
@@ -97,6 +100,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg1NDk3NTIsMTAxNTExMzE0NiwtMT
-E1NDYzOTM5MSwtOTEyMjIwNjkwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTkyNTU5NTI0NiwtMTYwODU0OTc1MiwxMD
+E1MTEzMTQ2LC0xMTU0NjM5MzkxLC05MTIyMjA2OTAsNzMwOTk4
+MTE2XX0=
 -->
