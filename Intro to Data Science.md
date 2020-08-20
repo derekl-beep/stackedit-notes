@@ -51,6 +51,8 @@ $$
 X=U \Sigma V^T= [] [] []
 $$
 
+$U$ and  contains the information about the column space of $X$. $V$
+
 ## Matrix Approximation
 
 
@@ -73,6 +75,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjExNDMyMSwxMDE1MTEzMTQ2LC0xMT
+eyJoaXN0b3J5IjpbMjA0MjIwNTI1MiwxMDE1MTEzMTQ2LC0xMT
 U0NjM5MzkxLC05MTIyMjA2OTAsNzMwOTk4MTE2XX0=
 -->
