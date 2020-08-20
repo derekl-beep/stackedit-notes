@@ -30,7 +30,9 @@ SVD is:
 
 - Data reduction
 - Data-driven generalisation of Fourier transform (FFT)
-- Tailored
+- "Tailored" to specific problems
+
+
 
 
 
@@ -48,6 +50,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjA0NzgzLC0xMTU0NjM5MzkxLC05MT
-IyMjA2OTAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTQ0MTIyMDY4MCwtMTE1NDYzOTM5MSwtOT
+EyMjIwNjkwLDczMDk5ODExNl19
 -->
