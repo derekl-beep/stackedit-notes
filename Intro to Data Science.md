@@ -76,6 +76,8 @@ $\Sigma$ tells us how important various columns in $U$ and rows in $V$ are.
 
 The SVD of a real matrix is guaranteed to exist, and to be unique.
 
+To compute the SVD in MATLAB, we can
+
 ## Matrix Approximation
 
 The economy SVD:
@@ -104,7 +106,7 @@ $$
 
 ### Eckart-Young Theorem [1936]
 
-The theorem states that the best possible approximation of a matrix $X$ using r
+The theorem states that the best possible matrix approximation $X$ with rank $r$ is given by first $r$ truncated singular value decomposition of $X$.
 
 $$
 \arg \min_{\tilde{X} \text{ s.t. } \text{rank}(\tilde{X}) = r } =\| X -\tilde{X} \| _F = \tilde{U} \tilde{\Sigma} \tilde{V}^T
@@ -124,7 +126,7 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDI4Mzc1MSwxODU3OTE5MDM4LDE3OD
+eyJoaXN0b3J5IjpbMjA1MDU2OTIxMywxODU3OTE5MDM4LDE3OD
 Y1NTMyODQsLTE2MDg1NDk3NTIsMTAxNTExMzE0NiwtMTE1NDYz
 OTM5MSwtOTEyMjIwNjkwLDczMDk5ODExNl19
 -->
