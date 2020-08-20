@@ -45,6 +45,16 @@ Real-world applications include:
 - Facebook's facial recognition
 - Netflix's recommendation system
 
+## Mathematical Overview
+
+$$
+X=U \Sigma V^T= [] [] []
+$$
+
+## Matrix Approximation
+
+
+##
 
 
 
@@ -63,6 +73,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTExMzE0NiwtMTE1NDYzOTM5MSwtOT
-EyMjIwNjkwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTgyMjExNDMyMSwxMDE1MTEzMTQ2LC0xMT
+U0NjM5MzkxLC05MTIyMjA2OTAsNzMwOTk4MTE2XX0=
 -->
