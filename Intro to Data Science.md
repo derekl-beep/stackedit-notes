@@ -32,7 +32,12 @@ SVD is:
 - Data-driven generalisation of Fourier transform (FFT)
 - "Tailored" to specific problems
 
+SVD can solve:
 
+- $Ax=b$, for non-squared $A$ regression
+- basis PCA 
+- correlations
+- 
 
 
 
@@ -50,6 +55,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTIyMDY4MCwtMTE1NDYzOTM5MSwtOT
+eyJoaXN0b3J5IjpbMTAzNzc1ODk5MywtMTE1NDYzOTM5MSwtOT
 EyMjIwNjkwLDczMDk5ODExNl19
 -->
