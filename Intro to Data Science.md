@@ -26,7 +26,11 @@ In some sense, machine learning is an optimazation problem, in which we optimize
 # Singular Value Decomposition
 
 
-Sing
+SVD is:
+
+- Data reduction
+- Data-driven generalisation of Fourier transform (FFT)
+- Tailored
 
 
 
@@ -44,6 +48,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ2NTk2NzksLTExNTQ2MzkzOTEsLT
-kxMjIyMDY5MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTMyMjA0NzgzLC0xMTU0NjM5MzkxLC05MT
+IyMjA2OTAsNzMwOTk4MTE2XX0=
 -->
