@@ -104,7 +104,7 @@ $$
 
 ##  Dominant Correlations
 
-The $U$ and $V$ are the eigenvector matrices of the correlation matrices $XX^T$ and $X^TX$  respectively.
+The $U$ and $V$ are the eigenvectors of the correlation matrices $XX^T$ and $X^TX$  respectively.
 
 Given $X \in \mathbb{R}^{n \times m}$,
 
@@ -160,6 +160,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODgyMzk2MiwtMjEwMzY1MTc4OCw0OT
-MzNjM0NzIsLTE5NTk3MTIyNzBdfQ==
+eyJoaXN0b3J5IjpbLTE0MDI0MjQ4NzcsLTIxMDM2NTE3ODgsND
+kzMzYzNDcyLC0xOTU5NzEyMjcwXX0=
 -->
