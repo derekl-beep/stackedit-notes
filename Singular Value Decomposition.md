@@ -121,8 +121,11 @@ is the correlation matrix among the columns of $X$. Each non-diagonal entry of t
 
 For example, if each column represents the flatten pixels of an individual face image, a large inner product tells us that the two faces are similar, having the same basic face structure, and vice versa.
 
-Note that the correlation matrix $X^T X$ is symmetric and positive semi-definite. The eigenvalues of the matrix are guaranteed to be non-negative, i.e. $\lambda_i \geq 0, \forall i$.
+Note that the correlation matrix $X^T X$ is symmetric and positive semi-definite. The eigenvalues of the matrix are guaranteed to be non-negative, i.e. $\lambda_i \geq 0, \forall I$.
 
+$$
+X^T X = (V\tilde{\Sigma}^T )(\tilde{U}\tilde{\Sigma}V^T)
+$$
 
 
 # References
@@ -138,6 +141,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjM2ODYzOSw0OTMzNjM0NzIsLTE5NT
+eyJoaXN0b3J5IjpbMTY4MDI1MjgwMSw0OTMzNjM0NzIsLTE5NT
 k3MTIyNzBdfQ==
 -->
