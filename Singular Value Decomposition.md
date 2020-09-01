@@ -124,7 +124,7 @@ For example, if each column represents the flatten pixels of an individual face 
 Note that the correlation matrix $X^T X$ is symmetric and positive semi-definite. The eigenvalues of the matrix are guaranteed to be non-negative, i.e. $\lambda_i \geq 0, \forall I$.
 
 $$
-X^T X = (V\tilde{\Sigma}^T )(\tilde{U}\tilde{\Sigma}V^T)
+X^T X = (V\hat{\Sigma}^T \hat{U}^T)(\tilde{U}\tilde{\Sigma}V^T)=V \tilde{\Sigma}^2 V^T
 $$
 
 
@@ -141,6 +141,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDI1MjgwMSw0OTMzNjM0NzIsLTE5NT
-k3MTIyNzBdfQ==
+eyJoaXN0b3J5IjpbNjk2MjE2ODc4LDQ5MzM2MzQ3MiwtMTk1OT
+cxMjI3MF19
 -->
