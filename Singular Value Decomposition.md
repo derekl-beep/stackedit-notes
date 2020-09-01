@@ -143,6 +143,8 @@ $$
 X^T X \hat{U} = \hat{U} \hat{\Sigma}^2.
 $$
 
+Generally, U S V are not computed using this eigen-decompositon concept because of the ineffi
+
 # References
 
 - Intro to Data Science (YouTube Playlist)
@@ -156,6 +158,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4MjAxMTg0LC0yMTAzNjUxNzg4LDQ5Mz
-M2MzQ3MiwtMTk1OTcxMjI3MF19
+eyJoaXN0b3J5IjpbLTMyNzUxMDA4OSwtMjEwMzY1MTc4OCw0OT
+MzNjM0NzIsLTE5NTk3MTIyNzBdfQ==
 -->
