@@ -131,9 +131,9 @@ $$
 X^T X V = V \hat{\Sigma}^2.
 $$
 
-Thus, $V$, the right singular vectors, and $\hat{\Sigma}^2$, the squares of (economy) singular values, are the eigenvectors and the eigenvalues of the column-wise correlation matrix $X^T X$ respectively. 
+Thus, $V$, the right singular vectors, and $\hat{\Sigma}^2$, the squares of (economy) singular values, are the eigenvectors and the eigenvalues of the **column-wise** correlation matrix $X^T X$ respectively. 
 
-Simliarly, $\hat{U}$, the (economy) left singular vectors, and $\hat{\Sigma}^2$, the squares of the (economy) singular values, are the eigenvectors and the eigenvalues of the row-wise correlation matrix $X^T X$ respectively. 
+Simliarly, $\hat{U}$, the (economy) left singular vectors, and $\hat{\Sigma}^2$, the squares of the (economy) singular values, are the eigenvectors and the eigenvalues of the **row-wise** correlation matrix $X X^T$ respectively. 
 
 $$
  X X^T = (\hat{U}\hat{\Sigma}V^T)(V\hat{\Sigma}^T \hat{U}^T) =\hat{U} \hat{\Sigma}^2 \hat{U}^T
@@ -156,6 +156,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzM5MzM3NiwtMjEwMzY1MTc4OCw0OT
-MzNjM0NzIsLTE5NTk3MTIyNzBdfQ==
+eyJoaXN0b3J5IjpbMzI4MjAxMTg0LC0yMTAzNjUxNzg4LDQ5Mz
+M2MzQ3MiwtMTk1OTcxMjI3MF19
 -->
