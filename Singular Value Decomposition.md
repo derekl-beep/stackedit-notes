@@ -143,7 +143,7 @@ $$
 X^T X \hat{U} = \hat{U} \hat{\Sigma}^2.
 $$
 
-Generally, U S V are not computed using this eigen-decompositon concept because of the ineffi
+Generally, $\hat{U}$, $\hat{\Sigma}$ and $V$ are not computed using this concept because of the inefficiency of eigendecomposition algorithms.
 
 # References
 
@@ -158,6 +158,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzUxMDA4OSwtMjEwMzY1MTc4OCw0OT
+eyJoaXN0b3J5IjpbLTMzNDMxMTQ1OCwtMjEwMzY1MTc4OCw0OT
 MzNjM0NzIsLTE5NTk3MTIyNzBdfQ==
 -->
