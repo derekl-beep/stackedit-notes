@@ -91,7 +91,7 @@ $$\tilde{U}^T\tilde{U} = I_{r \times r}, \tilde{V}^T\tilde{V} = I_{r \times r}$$
 
 and 
 
-$$\tilde{U}\tilde{U}^T \neq I_{r \times r}, \tilde{V} \tilde{V}^T \neq I_{r \times r}.$$
+$$\tilde{U}\tilde{U}^T \neq I_{}, \tilde{V} \tilde{V}^T \neq I_{}.$$
 
 
 ### Eckart-Young Theorem [1936]
@@ -101,6 +101,10 @@ The theorem states that the best possible matrix approximation of $X$ with rank 
 $$
 \arg \min_{\tilde{X} \text{ s.t. } \text{rank}(\tilde{X}) = r } =\| X -\tilde{X} \| _F = \tilde{U} \tilde{\Sigma} \tilde{V}^T
 $$
+
+##  Dominant Correlations
+
+
 
 # References
 
@@ -115,5 +119,5 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk3MTIyNzBdfQ==
+eyJoaXN0b3J5IjpbLTU1NTY3NDgzNSwtMTk1OTcxMjI3MF19
 -->
