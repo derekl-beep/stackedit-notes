@@ -117,7 +117,7 @@ x_m^T x_1 & x_m^T x_2 & \dots & x_m^T x_m
 \end{bmatrix}_{m \times m}
 $$
 
-is the correlation matrix among the columns of $X$.
+is the correlation matrix among the columns of $X$. Each non-diagonal entry of the matrix is an inner product between two columns. The diagonal entries 
 
 
 
@@ -135,6 +135,5 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDcxNzM1MDAsLTE5NTk3MTIyNzBdfQ
-==
+eyJoaXN0b3J5IjpbMTM2ODk3NDQwNiwtMTk1OTcxMjI3MF19
 -->
