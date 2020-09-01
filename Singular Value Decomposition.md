@@ -117,7 +117,7 @@ x_m^T x_1 & x_m^T x_2 & \dots & x_m^T x_m
 \end{bmatrix}_{m \times m}
 $$
 
-is the correlation matrix among the columns of $X$. Each non-diagonal entry of the matrix is an inner product between two columns. The diagonal entries 
+is the correlation matrix among the columns of $X$. Each non-diagonal entry of the matrix is an inner product between two columns. Each diagonal entry is an inner product of the column itself. Hence, the matrix contains information of the linear correlation between columns.
 
 
 
@@ -135,5 +135,5 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODk3NDQwNiwtMTk1OTcxMjI3MF19
+eyJoaXN0b3J5IjpbLTc1MzA2NjUxOSwtMTk1OTcxMjI3MF19
 -->
