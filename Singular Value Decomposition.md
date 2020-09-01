@@ -124,11 +124,11 @@ For example, if each column represents the flatten pixels of an individual face 
 Note that the correlation matrix $X^T X$ is symmetric and positive semi-definite. The eigenvalues of the matrix are guaranteed to be non-negative, i.e. $\lambda_i \geq 0, \forall I$.
 
 $$
-X^T X = (V\hat{\Sigma}^T \hat{U}^T)(\hat{U}\hat{\Sigma}V^T)=V \tilde{\Sigma}^2 V^T
+X^T X = (V\hat{\Sigma}^T \hat{U}^T)(\hat{U}\hat{\Sigma}V^T)=V \hat{\Sigma}^2 V^T
 $$
 Multiplying both side by $V$ gives
 $$
-X^T X V = V \tilde{\Sigma}^2.
+X^T X V = V \hat{\Sigma}^2.
 $$
 
 Thus, $V$, the right singular vectors, and $\tilde{\Sigma}^2$, the squares of singular values, are the eigenvectors and the eigenvalues of the column-wise correlation matrix $X^T X$ respectively. 
@@ -136,11 +136,11 @@ Thus, $V$, the right singular vectors, and $\tilde{\Sigma}^2$, the squares of si
 Simliarly, 
 
 $$
- X X^T = (\hat{U}\hat{\Sigma}V^T)=V \tilde{\Sigma}^2 V^T
+ X X^T = (\hat{U}\hat{\Sigma}V^T)(V\hat{\Sigma}^T \hat{U}^T) =\hat{U} \hat{\Sigma}^2 \hat{U}^T
 $$
-Multiplying both side by $V$ gives
+Multiplying both side by $\hat{U}$ gives
 $$
-X^T X V = V \tilde{\Sigma}^2.
+X^T X \hat{U} = \hat{U} \hat{\Sigma}^2.
 $$
 
 # References
@@ -156,6 +156,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjQwMTczMywtMjEwMzY1MTc4OCw0OT
+eyJoaXN0b3J5IjpbMTI5NDY4MDY0NiwtMjEwMzY1MTc4OCw0OT
 MzNjM0NzIsLTE5NTk3MTIyNzBdfQ==
 -->
