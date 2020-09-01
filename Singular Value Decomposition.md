@@ -131,7 +131,17 @@ $$
 X^T X V = V \tilde{\Sigma}^2.
 $$
 
-Thus, $V$, the right singular vectors, and $\tilde{\Sigma}^2$, the squares of singular values, are the eigenvectors and the eigenvalues of the correlation matrix $X^T X$ respectively. 
+Thus, $V$, the right singular vectors, and $\tilde{\Sigma}^2$, the squares of singular values, are the eigenvectors and the eigenvalues of the column-wise correlation matrix $X^T X$ respectively. 
+
+Simliarly, 
+
+$$
+ X X^T = (\hat{U}\hat{\Sigma}V^T)=V \tilde{\Sigma}^2 V^T
+$$
+Multiplying both side by $V$ gives
+$$
+X^T X V = V \tilde{\Sigma}^2.
+$$
 
 # References
 
@@ -146,6 +156,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjEwODYyNSwtMjEwMzY1MTc4OCw0OT
+eyJoaXN0b3J5IjpbMTY4NjQwMTczMywtMjEwMzY1MTc4OCw0OT
 MzNjM0NzIsLTE5NTk3MTIyNzBdfQ==
 -->
