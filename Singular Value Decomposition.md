@@ -109,7 +109,11 @@ The $U$ and $V$ are the eigenvector matrices of the correlation matrices $XX^T$ 
 Given $X \in \mathbb{R}^{n \times m}$, $X^TX \in \mathbb{R}^{m \times m}$ is the correlation matrix among the columns of $X$.
 
 $$
-X^{T}X = []
+X^{T}X = \begin{bmatrix}  
+x_1^Tx_1 & x_1^T x_2 & 3\\  
+x_2^T x_1 & x_2^T x_2 & c  \\
+df
+\end{bmatrix}
 $$
 
 
@@ -127,5 +131,5 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NDIyMjEwLC0xOTU5NzEyMjcwXX0=
+eyJoaXN0b3J5IjpbLTk5Mjg2ODc2MiwtMTk1OTcxMjI3MF19
 -->
