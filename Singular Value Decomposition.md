@@ -60,7 +60,7 @@ To compute the SVD in MATLAB, we can do
 In python, with numpy as `np` , we can do 
 
 ```python
->> U, S, VT = np.lina
+>> U, S, VT = np.linalg.svd(X)
 ```
 
 ## Matrix Approximation
@@ -82,6 +82,12 @@ $\sigma_i u_i v_i^T$ are  rank-one matrices.
 In MATLAB:
 ```matlab
 >> [U, S, V] = svd(x, 'econ');
+```
+
+In Python: 
+
+```python
+>> U, S, VT = np.linalg.svd(X, full_matrices=False)
 ```
 
 By using the first $r$ rank-one matrices to approximate $X$, we have
@@ -168,6 +174,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NjQyNjA1LDEyNTc4NTg4MSwtMjEwMz
-Y1MTc4OCw0OTMzNjM0NzIsLTE5NTk3MTIyNzBdfQ==
+eyJoaXN0b3J5IjpbMTU1ODUzMjMzMSwxMjU3ODU4ODEsLTIxMD
+M2NTE3ODgsNDkzMzYzNDcyLC0xOTU5NzEyMjcwXX0=
 -->
