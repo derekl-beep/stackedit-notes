@@ -111,7 +111,7 @@ $$\tilde{U}\tilde{U}^T \neq I_{}, \tilde{V} \tilde{V}^T \neq I_{}.$$
 The theorem states that the best possible matrix approximation of $X$ with rank $r$ is given by first $r$ truncated singular value decomposition of $X$.
 
 $$
-\arg \min_{\tilde{X} \text{ s.t. } \text{rank}(\tilde{X}) = r } =\| X -\tilde{X} \| _F = \tilde{U} \tilde{\Sigma} \tilde{V}^T
+\arg \min_{\tilde{X} \text{ s.t. } \text{rank}(\tilde{X}) = r } \| X -\tilde{X} \| _F = \tilde{U} \tilde{\Sigma} \tilde{V}^T
 $$
 
 ##  Dominant Correlations
@@ -159,6 +159,8 @@ $$
 
 Generally, $\hat{U}$, $\hat{\Sigma}$ and $V$ are not computed using this concept because of the inefficiency of eigendecomposition algorithms. More efficient methods include those based on QR factorisation.
 
+## Matrix Completion
+
 
 
 
@@ -175,6 +177,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDc3OTIyNSwxMjU3ODU4ODEsLTIxMD
-M2NTE3ODgsNDkzMzYzNDcyLC0xOTU5NzEyMjcwXX0=
+eyJoaXN0b3J5IjpbLTg5Njg0NzA5LDEyNTc4NTg4MSwtMjEwMz
+Y1MTc4OCw0OTMzNjM0NzIsLTE5NTk3MTIyNzBdfQ==
 -->
