@@ -161,6 +161,7 @@ Generally, $\hat{U}$, $\hat{\Sigma}$ and $V$ are not computed using this concept
 
 
 
+
 # References
 
 - Intro to Data Science (YouTube Playlist)
@@ -174,6 +175,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODUzMjMzMSwxMjU3ODU4ODEsLTIxMD
+eyJoaXN0b3J5IjpbMTg0MDc3OTIyNSwxMjU3ODU4ODEsLTIxMD
 M2NTE3ODgsNDkzMzYzNDcyLC0xOTU5NzEyMjcwXX0=
 -->
