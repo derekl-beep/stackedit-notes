@@ -57,6 +57,12 @@ To compute the SVD in MATLAB, we can do
 >> [U, S, V] = svd(X);
 ```
 
+In python, with numpy as `np` , we can do 
+
+```python
+>> U, S, VT = np.lina
+```
+
 ## Matrix Approximation
 
 The economy SVD:
@@ -162,6 +168,6 @@ http://databookuw.com
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Nzg1ODgxLC0yMTAzNjUxNzg4LDQ5Mz
-M2MzQ3MiwtMTk1OTcxMjI3MF19
+eyJoaXN0b3J5IjpbODA4NjQyNjA1LDEyNTc4NTg4MSwtMjEwMz
+Y1MTc4OCw0OTMzNjM0NzIsLTE5NTk3MTIyNzBdfQ==
 -->
