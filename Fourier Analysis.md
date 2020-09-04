@@ -243,6 +243,12 @@ $$
 ## Parseval's Theorem
 
 
+Besides, the Fourier transform is a linear operator.
+
+$$
+\mathcal{F}(\alpha f(x)+\beta g(x)) = \alpha \mathcal{F}(f) +\beta
+$$
+
 
 
 # References
@@ -264,10 +270,10 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTcwNDUyMSwxMDU0Mzg2ODY0LC02MD
-YxNTk5NjEsMTU3NDU5NTIyOSwxNTM0MjE3NDk2LC0xNzgzMTkz
-Mzc0LDEyMDcxMjczMjIsMzU5MTAxOTI2LDM0ODMwMTkxNCwtMT
-cxMTczMzMwOCw4MTcwODA5NTksLTIwODEzNTE3NTUsLTExMzk0
-NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMj
-A3MjA4Njk4MiwxNTYzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbOTYwODgyNjI3LDEyNjk3MDQ1MjEsMTA1ND
+M4Njg2NCwtNjA2MTU5OTYxLDE1NzQ1OTUyMjksMTUzNDIxNzQ5
+NiwtMTc4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzND
+gzMDE5MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUx
+NzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMT
+EyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 -->
