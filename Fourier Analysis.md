@@ -256,6 +256,8 @@ $$
 \mathcal{F}(\alpha f(x)+\beta g(x)) = \alpha \mathcal{F}(f) +\beta\mathcal{F}(g).
 $$
 
+## Solving the Heat Equation with the Fourier Transform
+
 
 
 
@@ -278,10 +280,10 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NDgxNjU1LDEyNjk3MDQ1MjEsMTA1ND
-M4Njg2NCwtNjA2MTU5OTYxLDE1NzQ1OTUyMjksMTUzNDIxNzQ5
-NiwtMTc4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzND
-gzMDE5MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUx
-NzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMT
-EyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbLTEzNzM1ODU2MzksMTI2OTcwNDUyMSwxMD
+U0Mzg2ODY0LC02MDYxNTk5NjEsMTU3NDU5NTIyOSwxNTM0MjE3
+NDk2LC0xNzgzMTkzMzc0LDEyMDcxMjczMjIsMzU5MTAxOTI2LD
+M0ODMwMTkxNCwtMTcxMTczMzMwOCw4MTcwODA5NTksLTIwODEz
+NTE3NTUsLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC
+0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
