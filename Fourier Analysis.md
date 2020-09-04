@@ -36,7 +36,7 @@ $B_k = \frac{2}{L} \int_{0}^{L} f(x) \sin{ \big(\frac{2\pi kx}{L}\big) } dx$.
 
 
 
-# Inner Products in Hilbert Space
+## Inner Products in Hilbert Space
 
 The inner product of functions are similar to the inner product of vectors. It tells us how similar / aligned two functions are in the function space.
 
@@ -59,7 +59,7 @@ As the resolution of the data points increases, i.e. $\Delta x \rarr 0$ and $n \
 >Source: https://www.youtube.com/watch?v=g-eNeXlZKAQ&list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC&index=4
 
 
-# Complex Fourier Series
+## Complex Fourier Series
 
 Inner product of complex-valued functions are
 $$
@@ -100,7 +100,7 @@ $$
 
 $C_k = \bar{C}_{-k}$ if $f(x)$ is real-valued.
 
-# Fourier Series in Python
+## Fourier Series in Python
 
 
 ### Algorithm
@@ -136,7 +136,7 @@ The **truncated** Fourier series, i.e. keeping only the lower frequency terms, g
 >Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC01_2_Gibbs.ipynb
 
 
-# The Fourier Transform
+## The Fourier Transform
 
 The Fourier series is defined for periodic functions, e.g. $f(x) \in L_2([-L, L])$. The Fourier transform, instead, generalised the definition for an infinite domain.
 
@@ -195,7 +195,7 @@ $$
 The Fourier transform $\mathcal{F}$ is an unitary operator.
 
 
-# The Fourier Transform and Convolution Integrals
+## The Fourier Transform and Convolution Integrals
 
 The convolution integral in the spatial variable can be simplified by Fourier transforming the functions first.
 
@@ -240,6 +240,9 @@ $$
 \end{aligned}
 $$
 
+## Parseval's Theorem
+
+
 
 
 # References
@@ -261,10 +264,10 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDM4Njg2NCwtNjA2MTU5OTYxLDE1Nz
-Q1OTUyMjksMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NCwxMjA3MTI3
-MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3MzMzMDgsOD
-E3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2MzQzLDUxMzE2
-MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIwODY5ODIsMT
-U2MzAyNTM3XX0=
+eyJoaXN0b3J5IjpbMTI2OTcwNDUyMSwxMDU0Mzg2ODY0LC02MD
+YxNTk5NjEsMTU3NDU5NTIyOSwxNTM0MjE3NDk2LC0xNzgzMTkz
+Mzc0LDEyMDcxMjczMjIsMzU5MTAxOTI2LDM0ODMwMTkxNCwtMT
+cxMTczMzMwOCw4MTcwODA5NTksLTIwODEzNTE3NTUsLTExMzk0
+NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC0xMTI0NjYwMTQsMj
+A3MjA4Njk4MiwxNTYzMDI1MzddfQ==
 -->
