@@ -256,12 +256,10 @@ $$
 \mathcal{F}(\alpha f(x)+\beta g(x)) = \alpha \mathcal{F}(f) +\beta\mathcal{F}(g).
 $$
 
-## Solving the Heat Equation with the Fourier Transform
 
 
 
-
-# References
+## References
 
 - Fourier Analysis (YouTube Playlist)
 Prof. Steven L. Brunton
@@ -280,10 +278,11 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM1ODU2MzksMTI2OTcwNDUyMSwxMD
-U0Mzg2ODY0LC02MDYxNTk5NjEsMTU3NDU5NTIyOSwxNTM0MjE3
-NDk2LC0xNzgzMTkzMzc0LDEyMDcxMjczMjIsMzU5MTAxOTI2LD
-M0ODMwMTkxNCwtMTcxMTczMzMwOCw4MTcwODA5NTksLTIwODEz
-NTE3NTUsLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC
-0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbLTI3MjM3NzI2NCwtMTM3MzU4NTYzOSwxMj
+Y5NzA0NTIxLDEwNTQzODY4NjQsLTYwNjE1OTk2MSwxNTc0NTk1
+MjI5LDE1MzQyMTc0OTYsLTE3ODMxOTMzNzQsMTIwNzEyNzMyMi
+wzNTkxMDE5MjYsMzQ4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4
+MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMz
+MsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMw
+MjUzN119
 -->
