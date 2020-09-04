@@ -248,7 +248,7 @@ $$
 
 The norm of $f$ represents the energy in $f$. Parseval's theorem states that the energy in the frequency domain is directly proportional to the energy in the space domain. 
 
-This implies 
+This implies that truncating those negligibly small Fourier coefficients does not impact
 
 Besides, the Fourier transform is a linear operator, such that
 
@@ -277,10 +277,10 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njc5MjI0MzUsMTI2OTcwNDUyMSwxMD
-U0Mzg2ODY0LC02MDYxNTk5NjEsMTU3NDU5NTIyOSwxNTM0MjE3
-NDk2LC0xNzgzMTkzMzc0LDEyMDcxMjczMjIsMzU5MTAxOTI2LD
-M0ODMwMTkxNCwtMTcxMTczMzMwOCw4MTcwODA5NTksLTIwODEz
-NTE3NTUsLTExMzk0NzYzNDMsNTEzMTYyMzMzLDg0ODY2MTUyLC
-0xMTI0NjYwMTQsMjA3MjA4Njk4MiwxNTYzMDI1MzddfQ==
+eyJoaXN0b3J5IjpbLTYxNzY0NDQ2OSwxMjY5NzA0NTIxLDEwNT
+QzODY4NjQsLTYwNjE1OTk2MSwxNTc0NTk1MjI5LDE1MzQyMTc0
+OTYsLTE3ODMxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMz
+Q4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1
+MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLT
+ExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
 -->
