@@ -243,10 +243,10 @@ $$
 ## Parseval's Theorem
 
 $$
-\int_{-\infty}^{\infty} |\hat{f}(\omega)|^2 d\omega=\int
+\int_{-\infty}^{\infty} |\hat{f}(\omega)|^2 d\omega=2\pi \int_{-\infty}^{\infty}|f(x)|^2dx
 $$
 
-The norm of $f$ represents the energy in $f$. Parseval's theorem states that the energy in the frequency domain is directly proportional to the energy in the space domain. 
+The norm of $f$ represents the energy of $f$. Parseval's theorem states that the energy in the frequency domain is directly proportional to the energy in the space domain. 
 
 This implies that truncating those negligibly small Fourier coefficients does not impact hugely on the approximation of $f$ in the $x$ domain.
 
@@ -255,6 +255,7 @@ Besides, the Fourier transform is a linear operator, such that
 $$
 \mathcal{F}(\alpha f(x)+\beta g(x)) = \alpha \mathcal{F}(f) +\beta\mathcal{F}(g).
 $$
+
 
 
 
@@ -277,10 +278,10 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM2NDkwOSwxMjY5NzA0NTIxLDEwNT
-QzODY4NjQsLTYwNjE1OTk2MSwxNTc0NTk1MjI5LDE1MzQyMTc0
-OTYsLTE3ODMxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMz
-Q4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1
-MTc1NSwtMTEzOTQ3NjM0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLT
-ExMjQ2NjAxNCwyMDcyMDg2OTgyLDE1NjMwMjUzN119
+eyJoaXN0b3J5IjpbODY5NDgxNjU1LDEyNjk3MDQ1MjEsMTA1ND
+M4Njg2NCwtNjA2MTU5OTYxLDE1NzQ1OTUyMjksMTUzNDIxNzQ5
+NiwtMTc4MzE5MzM3NCwxMjA3MTI3MzIyLDM1OTEwMTkyNiwzND
+gzMDE5MTQsLTE3MTE3MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUx
+NzU1LC0xMTM5NDc2MzQzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMT
+EyNDY2MDE0LDIwNzIwODY5ODIsMTU2MzAyNTM3XX0=
 -->
