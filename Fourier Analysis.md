@@ -243,12 +243,12 @@ $$
 ## Parseval's Theorem
 
 $$
-\int_{-\infty}^{\infty}
+\int_{-\infty}^{\infty} |\hat{f}(\omega)|^2 d\omega=\int
 $$
 
 The norm of $f$ represents the energy in $f$. Parseval's theorem states that the energy in the frequency domain is directly proportional to the energy in the space domain. 
 
-This implies that truncating those negligibly small Fourier coefficients does not impact
+This implies that truncating those negligibly small Fourier coefficients does not impact hugely on the approximation of $f$ in the $x$ domain.
 
 Besides, the Fourier transform is a linear operator, such that
 
@@ -277,7 +277,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzY0NDQ2OSwxMjY5NzA0NTIxLDEwNT
+eyJoaXN0b3J5IjpbLTEzNjM2NDkwOSwxMjY5NzA0NTIxLDEwNT
 QzODY4NjQsLTYwNjE1OTk2MSwxNTc0NTk1MjI5LDE1MzQyMTc0
 OTYsLTE3ODMxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMz
 Q4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1
