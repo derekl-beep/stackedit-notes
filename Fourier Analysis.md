@@ -243,9 +243,10 @@ $$
 ## Parseval's Theorem
 
 $$
-\int_{-\inft}^{}
+\int_{-\infty}^{\infty}
 $$
 
+The norm of $f$ represents the energy in $f$. Parseval's theorem states that the energy in the fre
 
 Besides, the Fourier transform is a linear operator, such that
 
@@ -274,7 +275,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDAxNzkzMSwxMjY5NzA0NTIxLDEwNT
+eyJoaXN0b3J5IjpbMTkxNDI1OTY3NiwxMjY5NzA0NTIxLDEwNT
 QzODY4NjQsLTYwNjE1OTk2MSwxNTc0NTk1MjI5LDE1MzQyMTc0
 OTYsLTE3ODMxOTMzNzQsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMz
 Q4MzAxOTE0LC0xNzExNzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1
