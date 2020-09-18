@@ -9,7 +9,9 @@ $$
 \dot{x}=Ax
 $$
 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDc2MDU3MywtMTc0ODY5NzYyNV19
+eyJoaXN0b3J5IjpbLTkxMjc2MTc2NywtMTc0ODY5NzYyNV19
 -->
