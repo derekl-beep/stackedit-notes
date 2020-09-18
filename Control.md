@@ -19,9 +19,9 @@ $$
 x(t) = e^{At}x(0)
 $$
 
-, where $e^{At}=At+t^2A^2+$
+, where $e^{At}=I+tA+\frac{t^2}{2!}A^2+\frac{t^3}{3!}A^3+...$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTc5NTc3NywtMTc0ODY5NzYyNV19
+eyJoaXN0b3J5IjpbOTk2NTA0MzAyLC0xNzQ4Njk3NjI1XX0=
 -->
