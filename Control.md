@@ -23,16 +23,16 @@ $$
 
 ### Eigenvalues and Eigenvector of the System Matrix
 
-Given 
 $$A \xi = \lambda \xi$$
 
-Any $\xi$
+Any vector $\xi_i$ and constant $\lambda_i$ satisfying this equation are the eigenvector and the eigenvalue of matrix $A$.
 
+Tackling dynamical systems in the Eigen-coorai
 
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2NTM1OTMyLDk5NjUwNDMwMiwtMTc0OD
-Y5NzYyNV19
+eyJoaXN0b3J5IjpbLTMxOTExMTQ4Niw5OTY1MDQzMDIsLTE3ND
+g2OTc2MjVdfQ==
 -->
