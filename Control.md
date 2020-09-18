@@ -27,12 +27,16 @@ $$A \xi = \lambda \xi$$
 
 Any vector $\xi_i$ and constant $\lambda_i$ satisfying this equation are the eigenvector and the eigenvalue of matrix $A$.
 
-Tackling dynamical systems in the Eigen-coorai
+Tackling dynamical systems in the eigen-coordinates are advantageous.
+
+Define 
+
+$$T=[\xi_1 \ \xi_2 ... \xi_n]$$
 
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTExMTQ4Niw5OTY1MDQzMDIsLTE3ND
-g2OTc2MjVdfQ==
+eyJoaXN0b3J5IjpbOTQ0ODM4NjM3LDk5NjUwNDMwMiwtMTc0OD
+Y5NzYyNV19
 -->
