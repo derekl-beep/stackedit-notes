@@ -13,11 +13,15 @@ $$
  and  $A \in \mathbb{R}^{n \times n}$ is the system matrix.
 
 
-The 
+The basic solution is
 
+$$
+x(t) = e^{At}x(0)
+$$
+
+, where $e^{At}=At+t^2A^2+$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk5NzE2NzUsLTE3NDg2OTc2MjVdfQ
-==
+eyJoaXN0b3J5IjpbMTUxNTc5NTc3NywtMTc0ODY5NzYyNV19
 -->
