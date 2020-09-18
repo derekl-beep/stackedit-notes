@@ -31,12 +31,21 @@ Tackling dynamical systems in the eigen-coordinates are advantageous.
 
 Define 
 
-$$T=[\xi_1 \ \xi_2 ... \xi_n]$$
+$$T=[\xi_1 \ \xi_2 ... \xi_n]$$ and $$D=[]$$
+
+
+, we have $AT=TD$.
+
+Define $x=Tz$
+
+$$
+\dot{x}=Ax
+$$
 
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0ODM4NjM3LDk5NjUwNDMwMiwtMTc0OD
-Y5NzYyNV19
+eyJoaXN0b3J5IjpbMTYzNzEzNTE0NCw5OTY1MDQzMDIsLTE3ND
+g2OTc2MjVdfQ==
 -->
