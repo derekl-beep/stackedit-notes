@@ -39,13 +39,18 @@ $$T=[\xi_1 \ \xi_2 ... \xi_n]$$ and $$D=[]$$
 Define $x=Tz$
 
 $$
-\dot{x}=Ax
+\dot{x}=Ax \\
+T\dot{z} = ATz \\
+\dot{z}=T^{-1}ATz \\
+\dot{z} = Dz
 $$
+
+
 
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzEzNTE0NCw5OTY1MDQzMDIsLTE3ND
-g2OTc2MjVdfQ==
+eyJoaXN0b3J5IjpbLTE4MTUzNjA4NjYsOTk2NTA0MzAyLC0xNz
+Q4Njk3NjI1XX0=
 -->
