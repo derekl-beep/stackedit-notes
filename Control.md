@@ -31,10 +31,10 @@ Tackling dynamical systems in the eigen-coordinates are advantageous.
 
 Define 
 
-$$T=[\xi_1 \ \xi_2 ... \xi_n]$$ and $$D=[]$$
+$$T=[\xi_1 \ \xi_2 ... \xi_n]$$ and $$D=\text{diag}([\lambda_1, \lambda_2,...,\lambda_n])$$
 
 
-, we have $AT=TD$.
+, we have $$AT=TD$$.
 
 Define $x=Tz$
 
@@ -53,6 +53,6 @@ The dynamics are hence decoupled in the transformed coordinates, e.g. $\dot{z}_i
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTczMDYxMDMsLTE4MTUzNjA4NjYsOT
-k2NTA0MzAyLC0xNzQ4Njk3NjI1XX0=
+eyJoaXN0b3J5IjpbLTUxNjQxMzc1LC0xODE1MzYwODY2LDk5Nj
+UwNDMwMiwtMTc0ODY5NzYyNV19
 -->
