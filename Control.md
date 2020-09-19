@@ -45,12 +45,14 @@ T\dot{z} = ATz \\
 \dot{z} = Dz
 $$
 
-The dynamics are hence decoupled in the transformed coordinates, e.g. $\dot{z}_i =  z_i(0), \text{for } i=1,2,...,n$.
+The dynamics are hence decoupled in the transformed coordinates, e.g. $\dot{z}_i =  \lambda_i z_i, \text{for } i=1,2,...,n$.
+
+
 
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDIwNjMyNTEsLTE4MTUzNjA4NjYsOT
+eyJoaXN0b3J5IjpbLTE2OTczMDYxMDMsLTE4MTUzNjA4NjYsOT
 k2NTA0MzAyLC0xNzQ4Njk3NjI1XX0=
 -->
