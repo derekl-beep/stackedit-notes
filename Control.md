@@ -45,7 +45,11 @@ T\dot{z} = ATz \\
 \dot{z} = Dz
 $$
 
-The dynamics are, hence, decoupled in the transformed coordinates, e.g. $\dot{z}_i =  \lambda_i z_i, \text{for } i=1,2,...,n$. Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\lambda_i}$$
+The dynamics are, hence, decoupled in the transformed coordinates, e.g. $\dot{z}_i =  \lambda_i z_i, \text{for } i=1,2,...,n$. Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\lambda_i t}z_i(0)$$ for $i=1,2,...,n$.
+
+
+
+
 
 
 
@@ -53,6 +57,6 @@ The dynamics are, hence, decoupled in the transformed coordinates, e.g. $\dot{z}
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTk4NTgxNCwtNTE2NDEzNzUsLTE4MT
-UzNjA4NjYsOTk2NTA0MzAyLC0xNzQ4Njk3NjI1XX0=
+eyJoaXN0b3J5IjpbNTUxODc3NjgzLC01MTY0MTM3NSwtMTgxNT
+M2MDg2Niw5OTY1MDQzMDIsLTE3NDg2OTc2MjVdfQ==
 -->
