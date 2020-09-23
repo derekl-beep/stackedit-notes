@@ -142,12 +142,12 @@ The definition of yield-to-maturity of a coupon bond for settlement on a coupon 
 
 $$
 \begin{aligned}
-P &= 
+P &= \frac{\frac{c}{2}}{(1+\frac{y}{2})} +  \frac{\frac{c}{2}}{(1+\frac{y}{2})} + \dots + \frac{\frac{c}{2}}{(1+\frac{y}{2})}
 \end{aligned}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcxNzYyODYsLTExNDEzMDA0MjMsND
+eyJoaXN0b3J5IjpbLTE2NDEyMjk0MTAsLTExNDEzMDA0MjMsND
 I4MjQ3Mjk3LDU1MzIxNDg2NF19
 -->
