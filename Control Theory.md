@@ -123,6 +123,7 @@ $$
 
 Stability tells us what the states of the systems will be as time goes to infinity.
 
+### Continuous systems
 
 The basic solution given the initial condition is $$x(t)=Te^{Dt}T^{-1}x(0)$$.
 
@@ -154,7 +155,11 @@ $$\dot{x}=Ax+Bu=Ax-BKx=(A-BK)x$$
 
 ### Discrete-time systems
 
-$$x_{k+1}=A_$$
+$$x_{k+1}=\tilde{A}x_k$$, where $x_k=x(k\Delta t)$.
+
+
+
+
 
 ## References
 
@@ -168,7 +173,7 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwNDU4NzY2LDE4NDYxOTY2NjMsLTEyMD
-M0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIw
-LDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbLTUzOTU4NTY5MywxODQ2MTk2NjYzLC0xMj
+AzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYy
+MCwxMDQ3MzY3MzM5XX0=
 -->
