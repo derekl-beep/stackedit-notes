@@ -77,27 +77,25 @@ $$
 The functions with different frequency are orthogonal to each others. This can be shown by evaluating the inner products.
 
 $$
-\begin{aligned}
 \langle \Psi_j, \Psi_k \rangle
-&= \int_{-\pi}^{\pi} {e^{ikx} e^{-ijx}} dx \\
-&=\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx \\
-&= \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi} \\
-&=\left\{ \begin{array}{l}
+= \int_{-\pi}^{\pi} {e^{ikx} e^{-ijx}} dx
+=\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx
+= \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi}
+=\left\{ \begin{array}{l}
 	0, \text{if } j \neq k\\
 	2 \pi, \text{if } j=k 
 	\end{array}
 	\right..
-\end{aligned}
 $$
 
 
 The Fourier series of a function can be expressed as an infinite sum of ...
 
-$$ \begin{aligned}
-f(x) &= \sum_{-\infty}^{\infty} {C_k e^{ikx}} \\
+$$
+f(x) &= \sum_{-\infty}^{\infty} {C_k e^{ikx}} 
 	&= \sum_{-\infty}^{\infty}(\alpha_k+i\beta_k) \big(\cos{(kx)} + i\sin{(kx)} \big) \\
 	&= \frac{1}{2\pi} \sum_{-\infty}^{\infty} \langle f(x), \Psi_k \rangle \Psi_k
-\end{aligned} $$
+$$
 , where $C_k = \bar{C}_{-k}$ if $f(x)$ is real-valued.
 
 ## Fourier Series in Python
@@ -267,7 +265,7 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg2NjIzNzgsLTI3MjM3NzI2NCwtMT
+eyJoaXN0b3J5IjpbLTE5MDgwMzMzNjIsLTI3MjM3NzI2NCwtMT
 M3MzU4NTYzOSwxMjY5NzA0NTIxLDEwNTQzODY4NjQsLTYwNjE1
 OTk2MSwxNTc0NTk1MjI5LDE1MzQyMTc0OTYsLTE3ODMxOTMzNz
 QsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0LC0xNzEx
