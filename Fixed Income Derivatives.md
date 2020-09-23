@@ -329,7 +329,9 @@ $$DV01=-\frac{P(y+0.01\%)-P(y-0.01\%)}{2}$$. This is similar to the **central di
 
 Market makers in the fixed income markets would like to maintain a DV01-neutural portfolio. A DV01-neutral portfolio implies a **small** changes in the yield (or the overall interest rates) does not impact the total value of the portfolio.
 
-This makes use of the 1st order 
+This makes use of the 1st order Taylor expansion of the portfolio value r.s.t. yield. The concept is similar to delta-hedging in the equity derivative markets.
+
+
  
 
 ---
@@ -337,7 +339,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTM0MDY1MSwzNzg3MDQzNTksNDE3Mj
+eyJoaXN0b3J5IjpbMTkzNjc3NDE0MSwzNzg3MDQzNTksNDE3Mj
 gxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEs
 MTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3Nz
 EwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
