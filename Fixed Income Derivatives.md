@@ -40,10 +40,11 @@ Reference books
 
 ## Discount Factors
 
-
+The discount factor for a particular term indicate the **present value** of one unit currency to be received at the end of the term.
+Denote the discount factor for $t$ years by $d(t).
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzODg5ODAzLDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbMTAwMjIzODczMCw1NTMyMTQ4NjRdfQ==
 -->
