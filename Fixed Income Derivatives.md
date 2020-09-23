@@ -82,8 +82,10 @@ d(0.5) \\ d(1.0) \\d(1.5)
 $$
 
 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0ODU0NTIwLDQyODI0NzI5Nyw1NTMyMT
-Q4NjRdfQ==
+eyJoaXN0b3J5IjpbLTEyMDYyNTE2OTIsNDI4MjQ3Mjk3LDU1Mz
+IxNDg2NF19
 -->
