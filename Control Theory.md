@@ -117,6 +117,8 @@ $$
 \end{aligned}
 $$
 
+## Stability and Eigenvalues
+
 
 
 
@@ -132,6 +134,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjc4Njg0NiwyMDMwMTc0MDAxLDE3Nz
-A5MzI2MjAsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbLTE4ODA3MjQxMTIsMjAzMDE3NDAwMSwxNz
+cwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
