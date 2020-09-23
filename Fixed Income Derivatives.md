@@ -160,7 +160,7 @@ P &= \frac{\frac{1}{2}c}{(1+\frac{y}{2})} +  \frac{\frac{1}{2}c}{(1+\frac{y}{2})
 \end{aligned}
 $$
 
-When the first coupon is due in $\tau$ fraction of a half year, the bond price is further discounted 
+When the first coupon is due in $\tau$ fraction of a half year, the bond price is further discounted by $d(\tau)$
 $$P=\Big( 1+\frac{y}{2}\Big)^{1-\tau} \Big\{ \frac{c}{y} \Big[ 1-\frac{1}{(1+\frac{y}{2})^{2T}} \Big] +\frac{1}{(1+\frac{y}{2})^{2T}} \Big\}$$
 
 ### Example
@@ -207,7 +207,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjI4ODIyOCwxNTAzMDUzMDIzLDU5NT
+eyJoaXN0b3J5IjpbMTM0NDIwNjk4NCwxNTAzMDUzMDIzLDU5NT
 c2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIz
 LDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
