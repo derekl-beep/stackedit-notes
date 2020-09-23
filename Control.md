@@ -28,7 +28,7 @@ $$A \xi = \lambda \xi$$
 
 Any vector $\xi_i \in \mathbb{R}^n \neq 0$ and constant $\lambda_i \in \mathbb{R}$ satisfying this equation are the **eigenvector** and the **eigenvalue** of matrix $A$.
 
-Tackling dynamical systems in the eigen-coordinates are advantageous.
+Tackling dynamical systems in the eigenvector coordinates are advantageous.
 
 Define 
 
@@ -64,18 +64,18 @@ $$
 
 
 $$
-\begin{bmatrix}  
+\begin{Bmatrix}  
 \dot{z_1} \\ \dot{z_2} \\ \vdots \\ \dot{z_n}
-\end{bmatrix}
+\end{Bmatrix}
 = \begin{bmatrix}  
 \lambda_1 & 0 & \dots & 0 \\  
 0 & \lambda_2 & \dots & 0 \\
 \vdots & \vdots &\ddots & \vdots \\
 0 & 0 & \dots & \lambda_n
 \end{bmatrix}
-\begin{bmatrix}
+\begin{Bmatrix}
 z_1 \\ z_2 \\ \vdots \\ z_n
-\end{bmatrix}
+\end{Bmatrix}
 $$
 
 The dynamics are, hence, decoupled in the transformed coordinates, e.g. $$\dot{z}_i =  \lambda_i z_i$$ for $i=1,2,...,n$. 
@@ -91,9 +91,9 @@ e^{\lambda_1 t} & 0 & \dots & 0 \\
 \vdots & \vdots &\ddots & \vdots \\
 0 & 0 & \dots & e^{\lambda_n t}
 \end{bmatrix}
-\begin{bmatrix}
+\begin{Bmatrix}
 z_1(0) \\ z_2(0) \\ \vdots \\ z_n(0)
-\end{bmatrix}
+\end{Bmatrix}
 $$.
 
 
@@ -102,7 +102,7 @@ $$.
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NDE3NzQzLC0xOTI3MDU3NywxMjIyNj
-g4MDAyLC01MTY0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIs
-LTE3NDg2OTc2MjVdfQ==
+eyJoaXN0b3J5IjpbLTE0MTA0MTI0MTcsLTE5MjcwNTc3LDEyMj
+I2ODgwMDIsLTUxNjQxMzc1LC0xODE1MzYwODY2LDk5NjUwNDMw
+MiwtMTc0ODY5NzYyNV19
 -->
