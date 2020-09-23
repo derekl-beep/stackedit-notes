@@ -13,8 +13,8 @@ $$
 \dot{x}=Ax
 $$
 
-, where $x \in \mathbb{R}^n$ is the state vector,
- and  $A \in \mathbb{R}^{n \times n}$ is the system matrix.
+, where $x \in \mathbb{R}^n$ is the **state vector**,
+ and  $A \in \mathbb{R}^{n \times n}$ is the **system matrix**.
 
 
 The basic solution is
@@ -30,7 +30,7 @@ However, computing this infinite sum of matrices are numerically difficult.
 
 $$A \xi = \lambda \xi$$
 
-Any vector $\xi_i \in \mathbb{R}^n \neq 0$ and constant $\lambda_i \in \mathbb{R}$ satisfying this equation are the **eigenvector** and the **eigenvalue** of matrix $A$ respectively.
+Any vector $\xi_i \in \mathbb{R}^n \neq 0$ and constant $\lambda_i \in \mathbb{C}$ satisfying this equation are the **eigenvector** and the **eigenvalue** of matrix $A$ respectively.
 
 Tackling dynamical systems in the eigenvector coordinates are advantageous. It gives us diagonal system dynamics, which is easier to solve.
 
@@ -132,6 +132,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwND
-czNjczMzldfQ==
+eyJoaXN0b3J5IjpbLTczNjc4Njg0NiwyMDMwMTc0MDAxLDE3Nz
+A5MzI2MjAsMTA0NzM2NzMzOV19
 -->
