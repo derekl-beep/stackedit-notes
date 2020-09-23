@@ -346,8 +346,9 @@ $$F=\$100M \times\frac{0.0369}{0.0779}=\$4.737M $$
 
 Checking: 
 
-Call price: $3.0501
-Bond price: $100
+Market prices: Call: $3.0501; Bond: $100
+
+Portfolio = $-100M()$
 
 If yield decreases by one bps, then the value of the portfolio (of short call and long bond) is
 
@@ -358,9 +359,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY5ODM2MDQsMzc4NzA0MzU5LDQxNz
-I4MTk4NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODEx
-LDE1MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3Nz
-cxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbMTczNzQyNDgyNiwzNzg3MDQzNTksNDE3Mj
+gxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEs
+MTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3Nz
+EwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
 
 -->
