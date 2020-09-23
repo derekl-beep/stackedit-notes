@@ -163,7 +163,7 @@ $$
 When the first coupon is due in $\tau$ fraction of a half year, the bond price is further discounted by $d(\tau)$.
 
 ```
-<Insert ca>
+<Insert cashflow diagram>
 ```
 
 $$P=\Big( 1+\frac{y}{2}\Big)^{1-\tau} \Big\{ \frac{c}{y} \Big[ 1-\frac{1}{(1+\frac{y}{2})^{2T}} \Big] +\frac{1}{(1+\frac{y}{2})^{2T}} \Big\}$$
@@ -205,6 +205,7 @@ $$A(T)=\frac{c}{y}\Big[1-\frac{1}{(1+y)^{T}} \Big]$$
 The perpetuity (as $T \rightarrow \infty$) formula:
 $$P=\frac{c}{y}$$
 
+## Spot Rates
 
 
 ---
@@ -212,7 +213,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUyNTY4MTMsMTUwMzA1MzAyMyw1OT
-U3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQy
-Myw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbMTQ5MTUyNDE5MiwxNTAzMDUzMDIzLDU5NT
+c2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIz
+LDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
