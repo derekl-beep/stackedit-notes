@@ -269,7 +269,9 @@ $$f(t)=2\bigg[ \frac{d(t-0.5)}{d(t)} -1\bigg]$$
 $$\begin{aligned}
 	P &= \frac{c}{2}\bigg[ \frac{1}{\big(1+\frac{f(0.5)}{2}\big)} +\frac{1}{\big(1+\frac{f(0.5)}{2}\big)\big(1+\frac{f(1)}{2}\big)}+ \dots +\frac{1}{\big(1+\frac{f(0.5)}{2}\big)\big(1+\frac{f(1)}{2}\big)\dots\big(1+\frac{f(T)}{2}\big)} \bigg] +\frac{1}{\big(1+\frac{f(0.5)}{2}\big)\big(1+\frac{f(1)}{2}\big)\dots\big(1+\frac{f(T)}{2}\big)} 
 \end{aligned}
-$$, where $P$ is the bond price, $c$ is the coupon rate; $f(t)$ is the six-month forward lend at ; and $T$ is the time to maturity in years.
+$$, where $P$ is the bond price, $c$ is the coupon rate; $f(t)$ is the six-month forward lend at $t-0.5$ year; and $T$ is the time to maturity in years.
+
+
 
 
 ---
@@ -277,8 +279,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzk3MTk4LDM0MjQzOTUzNCwxNzY5MT
-EzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUs
-ODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyND
-cyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbMTY1Nzc1MDQ5MywzNDI0Mzk1MzQsMTc2OT
+ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
+LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
+Q3Mjk3LDU1MzIxNDg2NF19
 -->
