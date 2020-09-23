@@ -342,13 +342,13 @@ A market maker sells \$ 100M face value of the call option when the yield is 5\%
 
 Let $F$ be the face value for bond buying, then $F$ is subject to
 
-$$F=\$100M \times\frac{0.0369}{0.0779}=\$4.737M $$
+$$F=\$100M \times\frac{0.0369}{0.0779}=\$47.37M $$
 
 Checking: 
 
 Market prices: Call: $3.0501; Bond: $100
 
-Portfolio = $-100M\times \frac{3.0501}{100}+4.737M \times \frac{100}{100}=$
+$$\text{Portfolio} = -\$100M\times \frac{3.0501}{100}+\$47.37M \times \frac{100}{100}=\$44.32M$$
 
 If yield decreases by one bps, then the value of the portfolio (of short call and long bond) is
 
@@ -359,9 +359,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4Mjk5NjYxLDM3ODcwNDM1OSw0MTcyOD
-E5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwx
-NTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MT
-A0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
-
+eyJoaXN0b3J5IjpbNDMwNTEzOTYsMzc4NzA0MzU5LDQxNzI4MT
+k4NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODExLDE1
+MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3NzcxMD
+QsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
 -->
