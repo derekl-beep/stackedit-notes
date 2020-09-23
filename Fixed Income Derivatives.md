@@ -442,7 +442,7 @@ $$r_{i,j} = r_{0,0} +\Delta t \sum_{k=1}^{j-1}{\mu_k} + (2i-j) \sigma \sqrt{\Del
 
 Given a binomial tree for interest rates, the bond price tree can be constructed in a similar way, where
 
-$$P_{i,j}=\frac{\fra}{}$$
+$$P_{i,j}=\frac{\frac{1}{2}(P_{i+1,j+1}+P_{i,j+1})}{1+r_{i,j}\Delta t}$$
 
 
 
@@ -468,7 +468,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA3OTQ2MTMsOTE5NTMzOTkyLDE1ND
+eyJoaXN0b3J5IjpbLTE5MzYzNDk1MTUsOTE5NTMzOTkyLDE1ND
 Q0OTk3ODQsLTExOTYzNTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQz
 NTksNDE3MjgxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mz
 k0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTky
