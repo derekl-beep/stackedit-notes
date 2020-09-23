@@ -149,13 +149,17 @@ Given $\lambda = a + ib \in \mathbb{C}$, $$e^{\lambda t}=e^{at}[\cos{(bt)}+i\sin
 
 The system is stable if and only if all the real part of the eigenvalues of the system matrix are non-positive. $$\text{Re}(\lambda_i) \leq0, \forall i = 1,2,...,n$$
 
-```
-<insert picture>
-```
-
 To control an unstable system with feedbacks, e.g. $u=-Kx$, the system behaviours, as well as the eigenvalues, can be changed.
 
 $$\dot{x}=Ax+Bu=Ax-BKx=(A-BK)x$$
+
+<p align="center">
+	<img src="https://i.imgur.com/bSMPYCA.jpg" 
+	height="50%" width="50%"/>
+</p>
+
+> Source: https://youtu.be/h7nJ6ZL4Lf0?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
+
 
 ### Discrete-time systems
 
@@ -166,6 +170,14 @@ Given an initial condition $x_0=x(0)$, we can compute the whole set of dynamics 
 Same as the continuous-time system matrix $A$, the discrete-time system matrix $\tilde{A}$ can be decomposed into the eigenvector and eigenvalue matrices as $$\tilde{A}=\tilde{T}\tilde{D}\tilde{T}^{-1}$$, and hence, $$x_N=\tilde{T}\tilde{D}^N\tilde{T}^{-1}x_0$$.
 
 Simlilarly the eigenvalues determine the stability of the discrete-time system. The system is stable if and only if all the radius of the complex eigenvalues are less than or equal to $1$, i.e. $$|\tilde{\lambda}_i| \leq1, \forall i=1,2,...,n$$. The tilde (~) sign is an indication for the discrete-time space.
+
+<p align="center">
+	<img src="https://i.imgur.com/cLLAT5O.jpg" 
+	height="50%" width="50%"/>
+</p>
+
+> Source: https://youtu.be/h7nJ6ZL4Lf0?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
+
 
 
 This can be seen by expressing the complex eigenvalues as a product of radius $R$ and angle $\theta$ as
@@ -195,8 +207,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMTIwMTgxLC02MjcyNTE4OTcsLTQ4MT
-IyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1
-NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwND
-czNjczMzldfQ==
+eyJoaXN0b3J5IjpbLTEzNTQ4MDU0OSwtNjI3MjUxODk3LC00OD
+EyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2
+NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMD
+Q3MzY3MzM5XX0=
 -->
