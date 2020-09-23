@@ -153,6 +153,7 @@ To control an unstable system with feedbacks, e.g. $u=-Kx$, the system behaviour
 $$\dot{x}=Ax+Bu=Ax-BKx=(A-BK)x$$
 
 
+
 ## References
 
 - Control Bootcamp (YouTube Playlist)
@@ -165,6 +166,7 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMD
-E3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbMTg0NjE5NjY2MywtMTIwMzQ2NjU1MSwtOD
+U4NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2MjAsMTA0NzM2NzMz
+OV19
 -->
