@@ -375,7 +375,13 @@ As duration and DV01 is linearly related, duration-neutral and DV01-neutral is t
 
 A second‐order Taylor approximation of the price‐rate function is
 
-$$P(y+\Delta y) \approx P(y)+\frac{dP}{dy}\Delta y+\frac{1}{2}\frac{d^2P}{dy^2}\Delta y^2$$
+$$
+\begin{aligned}
+	P(y+\Delta y) &\approx P(y)+\frac{dP}{dy}\Delta y+\frac{1}{2}\frac{d^2P}{dy^2}\Delta y^2 \\
+	\Delta P &\approx  \frac{dP}{dy}\Delta y+\frac{1}{2}\frac{d^2P}{dy^2}\Delta y^2  
+\end{aligned}
+$$. Dividing both side by the bond price gives
+
 
 
 ---
@@ -383,9 +389,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY5NzUyOTQsMzc4NzA0MzU5LDQxNz
-I4MTk4NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODEx
-LDE1MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3Nz
-cxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbMTE3OTY4NDk2MiwzNzg3MDQzNTksNDE3Mj
+gxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEs
+MTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3Nz
+EwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
 
 -->
