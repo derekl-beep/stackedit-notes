@@ -31,7 +31,14 @@ Tackling dynamical systems in the eigen-coordinates are advantageous.
 
 Define 
 
-$$T=[\xi_1 \ \xi_2 ... \xi_n]$$ and $$D=\text{diag}([\lambda_1, \lambda_2,...,\lambda_n])$$
+$$T=[\xi_1 \ \xi_2 ... \xi_n]$$ and $$D=\text{diag}([\lambda_1, \lambda_2,...,\lambda_n])
+=\begin{bmatrix}  
+\lambda_1 & 0 & \dots & 0 \\  
+0 & \lambda_2 & \dots & 0 \\
+\vdots & \vdots &\ddots & \vdots \\
+0 & 0 & \dots & \lambda_n
+\end{bmatrix}
+$$
 
 
 , we have $$AT=TD$$.
@@ -72,7 +79,7 @@ Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDkyMjI1MiwxMjIyNjg4MDAyLC01MT
+eyJoaXN0b3J5IjpbMTczMzQwNDUxMCwxMjIyNjg4MDAyLC01MT
 Y0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIsLTE3NDg2OTc2
 MjVdfQ==
 -->
