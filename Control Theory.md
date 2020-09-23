@@ -193,8 +193,14 @@ The exponential part always has an amplitude within a unity.
 
 The non-linear dynamics of a system of ODEs can be described as $$\dot{x}=f(x)$$, where $x \in \mathbb{R}^n$ is the state vector.
 
+### Linearization steps
+
 Step 1: find the fixed points $\bar{x}$ s.t. $f(\bar{x})=0$
-Step 2: Linearize $f$ about $\bar{x}$ using the Jocabian matrix $\frac{Df}{Dx}|_{\bar{x}}=[\frac{\partial f_i}{\par}]$
+Step 2: Linearize $f$ about $\bar{x}$ using the Jocabian matrix $\frac{Df}{Dx}|_{\bar{x}}=[\frac{\partial f_i}{\partial x_j}]$
+
+### Example
+
+Given 
 
 ## References
 
@@ -210,8 +216,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTExNzAzMDQsLTEzNTQ4MDU0OSwtNj
-I3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2
-NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMT
-c3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbMTU5OTYxODA0MCwtMTM1NDgwNTQ5LC02Mj
+cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
+NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
+cwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
