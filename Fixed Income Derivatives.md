@@ -348,19 +348,20 @@ Checking:
 
 Market prices: Call: $3.0501; Bond: $100
 
-$$\text{Portfolio} = -\$100M\times \frac{3.0501}{100}+\$47.37M \times \frac{100}{100}=\$44.32M$$
+$$\text{Portfolio} = -\$100M\times \frac{3.0501}{100}+\$47.37M \times \frac{100}{100}=\$44,319,900$$
 
 If yield decreases by one bps, then the value of the portfolio (of short call and long bond) is
 
-
+$$\text{Portfolio} = -\$100M\times \frac{3.0501+0.0369}{100}+\$47.37M \times \frac{100+0.0779}{100}=\$44,319,900$$
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwNTEzOTYsMzc4NzA0MzU5LDQxNzI4MT
-k4NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODExLDE1
-MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3NzcxMD
-QsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbMTg3OTIwNDIwOCwzNzg3MDQzNTksNDE3Mj
+gxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEs
+MTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3Nz
+EwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
+
 -->
