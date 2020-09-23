@@ -142,7 +142,13 @@ Given $\lambda = a + ib \in \mathbb{C}$, $$e^{\lambda t}=e^{at}[\cos{(bt)}+i\sin
 <insert picture>
 ```
 
-The system is stable if and only if all the real part of the eigenvalues of the system matrix are non-positive. $$\text{Re}(\lambda_i)$$
+The system is stable if and only if all the real part of the eigenvalues of the system matrix are non-positive. $$\text{Re}(\lambda_i) \leq0, \forall i = 1,2,...,n$$
+
+```
+<insert picture>
+```
+
+
 
 
 ## References
@@ -157,6 +163,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTQyNTkxMywtODU4NDUxNCwyMDMwMT
+eyJoaXN0b3J5IjpbLTU1NjcyMjM5NywtODU4NDUxNCwyMDMwMT
 c0MDAxLDE3NzA5MzI2MjAsMTA0NzM2NzMzOV19
 -->
