@@ -159,7 +159,7 @@ $$x_{k+1}=\tilde{A}x_k$$, where $x_k=x(k\Delta t)$, and $\tilde{A}=e^{A \Delta t
 
 Given an initial condition $x_0=x(0)$, we can compute the whole set of dynamics at discrete time as $$\begin{aligned} x_1&=\tilde{A}x_0 \\ x_2&=\tilde{A}^2x_0 \\ x_3&=\tilde{A}^3x_0 \\ &\vdots \\ x_n&=\tilde{A}^nx_0 \end{aligned}$$
 
-Same as the continuous-time system matrix $A$, the discrete0
+Same as the continuous-time system matrix $A$, the discrete-time system matrix $\tilde{A}$ can be decomposed into the eigenvector and eigenvalue matrices as $$\tilde{A}=\tilde{T}\tilde{D}\tilde{T}^{-1}$$, and hence, $$x_n=$$
 
 
 
@@ -178,7 +178,7 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY1NTY5NDUsMTg0NjE5NjY2MywtMT
+eyJoaXN0b3J5IjpbLTE4NTI0NDQ2MDAsMTg0NjE5NjY2MywtMT
 IwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2
 MjAsMTA0NzM2NzMzOV19
 -->
