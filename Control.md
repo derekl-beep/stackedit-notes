@@ -82,12 +82,17 @@ The dynamics are, hence, decoupled in the transformed coordinates, e.g. $$\dot{z
 
 Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\lambda_i t}z_i(0)$$ for $i=1,2,...,n$.
 
+In matrix format, we have
+$$
+z(t) = e^{Dt}z(0)
+=
+$$
 
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwMTExMTU5LC0xOTI3MDU3NywxMjIyNj
-g4MDAyLC01MTY0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIs
-LTE3NDg2OTc2MjVdfQ==
+eyJoaXN0b3J5IjpbMjA0MjQzODEyNywtMTkyNzA1NzcsMTIyMj
+Y4ODAwMiwtNTE2NDEzNzUsLTE4MTUzNjA4NjYsOTk2NTA0MzAy
+LC0xNzQ4Njk3NjI1XX0=
 -->
