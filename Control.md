@@ -43,6 +43,10 @@ $$
 
 , we have $$AT=TD$$.
 
+```matlab
+>> [T, D] = eig(A)
+```
+
 ### Transformed coordinates
 
 Define $x=Tz$
@@ -70,7 +74,7 @@ z_1 \\ z_2 \\ \vdots \\ z_n
 \end{bmatrix}
 $$
 
-The dynamics are, hence, decoupled in the transformed coordinates, e.g. $$\dot{z}_i =  \lambda_i z_i$$,  for $i=1,2,...,n$. 
+The dynamics are, hence, decoupled in the transformed coordinates, e.g. $$\dot{z}_i =  \lambda_i z_i$$ for $i=1,2,...,n$. 
 
 Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\lambda_i t}z_i(0)$$ for $i=1,2,...,n$.
 
@@ -79,7 +83,7 @@ Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzQwNDUxMCwxMjIyNjg4MDAyLC01MT
+eyJoaXN0b3J5IjpbMTg5MDE5Nzg1MSwxMjIyNjg4MDAyLC01MT
 Y0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIsLTE3NDg2OTc2
 MjVdfQ==
 -->
