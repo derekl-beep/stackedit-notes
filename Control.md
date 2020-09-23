@@ -46,7 +46,7 @@ We have $$AT=TD$$.
 
 MATLAB functions:
 ```matlab
->> [T, D] = eig(A)
+>> [T, D] = eig(A);
 ```
 
 ### Transformed coordinates
@@ -85,14 +85,24 @@ Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\
 In matrix format, we have
 $$
 z(t) = e^{Dt}z(0)
-=
-$$
+=\begin{bmatrix}  
+e^{\lambda_1 t} & 0 & \dots & 0 \\  
+0 & e^{\lambda_2 t} & \dots & 0 \\
+\vdots & \vdots &\ddots & \vdots \\
+0 & 0 & \dots & e^{\lambda_n t}
+\end{bmatrix}
+\begin{bmatrix}
+z_1(0) \\ z_2(0) \\ \vdots \\ z_n(0)
+\end{bmatrix}
+$$.
+
+
 
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjQzODEyNywtMTkyNzA1NzcsMTIyMj
-Y4ODAwMiwtNTE2NDEzNzUsLTE4MTUzNjA4NjYsOTk2NTA0MzAy
-LC0xNzQ4Njk3NjI1XX0=
+eyJoaXN0b3J5IjpbMjI3NDE3NzQzLC0xOTI3MDU3NywxMjIyNj
+g4MDAyLC01MTY0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIs
+LTE3NDg2OTc2MjVdfQ==
 -->
