@@ -427,7 +427,7 @@ $$\frac{\Delta S_t}{S_t}=\mu_t \Delta t+\sigma \Delta W_t=\mu_t \Delta t+\sigma 
 Let $r_t$ be the annualised rate for term $\Delta t$, we have a similar model.
 $$\Delta r_t = \mu_t \Delta t + \sigma \sqrt{\Delta t} \epsilon$$, where  $\epsilon \sim N(0,1)$.
 
-### Binomial approximation for term rates
+### Binomial model for interest rates
 
 $$\Delta r_t = \mu_t \Delta t+\sigma \sqrt{\Delta t} \epsilon_B$$, where $\epsilon_B =\left\{ \begin{array}{l}
 	1, \text{with prob. } 0.5\\
@@ -435,13 +435,9 @@ $$\Delta r_t = \mu_t \Delta t+\sigma \sqrt{\Delta t} \epsilon_B$$, where $\epsil
 	\end{array}
 	\right..$
 
-```mermaid
-graph LR
-A[$r_t$] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+$$r_{i,j}=r_{}0,0$$
+
+
 
 
 # 9 - The Art of Term Structure Models: Drifts
@@ -464,9 +460,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5NTMzOTkyLDE1NDQ0OTk3ODQsLTExOT
-YzNTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3MjgxOTg0
-LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMz
-A1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwt
-MTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbMTQ2MjE5OTUwOCw5MTk1MzM5OTIsMTU0ND
+Q5OTc4NCwtMTE5NjM1NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1
+OSw0MTcyODE5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOT
+Q0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIs
+NTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMT
+Q4NjRdfQ==
 -->
