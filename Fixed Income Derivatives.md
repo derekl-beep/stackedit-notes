@@ -429,11 +429,20 @@ $$\Delta r_t = \mu_t \Delta t + \sigma \sqrt{\Delta t} \epsilon$$, where  $\epsi
 
 ### Binomial approximation for term rates
 
-$$\Delta r=\mu_t \Delta t+\sigma \Delta W_t=\mu_t \Delta t+\sigma \sqrt{\Delta t} \epsilon_B$$, where $\epsilon_B =\left\{ \begin{array}{l}
+$$\Delta r_t = \mu_t \Delta t+\sigma \sqrt{\Delta t} \epsilon_B$$, where $\epsilon_B =\left\{ \begin{array}{l}
 	1, \text{with prob. } 0.5\\
 	-1, \text{with prob. } 0.5 
 	\end{array}
 	\right..$
+
+```mermaid
+graph LR
+A[$r_t$] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
 
 # 9 - The Art of Term Structure Models: Drifts
 
@@ -455,7 +464,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNjcxNzc3LDE1NDQ0OTk3ODQsLTExOT
+eyJoaXN0b3J5IjpbOTE5NTMzOTkyLDE1NDQ0OTk3ODQsLTExOT
 YzNTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3MjgxOTg0
 LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMz
 A1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwt
