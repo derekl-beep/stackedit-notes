@@ -157,7 +157,7 @@ $$\dot{x}=Ax+Bu=Ax-BKx=(A-BK)x$$
 
 $$x_{k+1}=\tilde{A}x_k$$, where $x_k=x(k\Delta t)$, and $\tilde{A}=e^{A \Delta t}$.
 
-Given an initial condition $x_0=x(0)$, we can compute the whole set of dynamics at discrete time as $$\begin$$
+Given an initial condition $x_0=x(0)$, we can compute the whole set of dynamics at discrete time as $$\begin{aligned} x_1&=\tilde{A}x_0 \\ x_2&=\tilde{A}^2x_0\\ &\vdots \\ x_n&=\tilde{A}^nx_0 \end{aligned}$$
 
 
 
@@ -176,7 +176,7 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTg4NDg0MiwxODQ2MTk2NjYzLC0xMj
+eyJoaXN0b3J5IjpbLTIzNTQwNzg3NCwxODQ2MTk2NjYzLC0xMj
 AzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYy
 MCwxMDQ3MzY3MzM5XX0=
 -->
