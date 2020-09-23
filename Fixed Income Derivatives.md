@@ -206,14 +206,14 @@ $$P=\frac{c}{y}$$
 
 ## Spot Rates
 
-The 
+A spot rate is the rate on a spot loan, an agreement between a lender and a borrower at the time of the agreement, to be repaid at a later time.
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NT
-c2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIz
-LDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbMzQ2MTkyNzE1LC03Mzk0NDQ4MTEsMTUwMz
+A1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwt
+MTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
 -->
