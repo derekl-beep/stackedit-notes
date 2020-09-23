@@ -314,15 +314,19 @@ For 1 basis point change in the yield, the bond price is approximately changed (
 
 How about  when yield drops by one basis point?
 
-$P(y-0.01\%)=100 \Big (\frac{0.05}{0.0499} \Big[ 1-\frac{1}{(1+\frac{0.0499}{2})^{20}} \Big] +\frac{1}{(1+\frac{0.0499}{2})^{20}} \Big)=$
+$P(y-0.01\%)=100 \Big (\frac{0.05}{0.0499} \Big[ 1-\frac{1}{(1+\frac{0.0499}{2})^{20}} \Big] +\frac{1}{(1+\frac{0.0499}{2})^{20}} \Big)=100.0780$
+
+$DV01=100.0780-100=0.0780$
+
+Therefore, $P(y-0.01\%)-P(y) \neq P(y)-P(y)$
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDQ1MTMyMiw0MTcyODE5ODQsMzQyND
-M5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUzMDIz
-LDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMz
-AwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjc4OTY0MTMsNDE3MjgxOTg0LDM0Mj
+QzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAy
+Myw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MT
+MwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
 -->
