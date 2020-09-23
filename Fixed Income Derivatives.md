@@ -435,7 +435,7 @@ $$\Delta r_t = \mu_t \Delta t+\sigma \sqrt{\Delta t} \epsilon_B$$, where $\epsil
 	\end{array}
 	\right..$
 
-$$r_{i,j}=r_{}0,0$$
+$$r_{i,j} = r_{0,0} +\Delta t \sum_{k=1}$$
 
 
 
@@ -460,7 +460,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjE5OTUwOCw5MTk1MzM5OTIsMTU0ND
+eyJoaXN0b3J5IjpbLTQ3MTg3NzMzNCw5MTk1MzM5OTIsMTU0ND
 Q5OTc4NCwtMTE5NjM1NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1
 OSw0MTcyODE5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOT
 Q0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIs
