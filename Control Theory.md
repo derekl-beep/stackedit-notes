@@ -217,7 +217,17 @@ $$
 	 x_2 & x_1 \\ 
 	 2x_1 & 2x_2
 	 \end{bmatrix}
- $$, and hence 
+$$, and hence 
+$$
+\begin{Bmatrix}
+\dot{x_1} \\ \dot{x_2}
+\end{Bmatrix}
+	 \approx \begin{bmatrix}
+	 x_2 & x_1 \\ 
+	 2x_1 & 2x_2
+	 \end{bmatrix} 
+	 
+$$
 
 ## References
 
@@ -233,7 +243,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDM1MzMwOSwtMTM1NDgwNTQ5LC02Mj
+eyJoaXN0b3J5IjpbMTc3MzA5MjU4MCwtMTM1NDgwNTQ5LC02Mj
 cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
 NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
 cwOTMyNjIwLDEwNDczNjczMzldfQ==
