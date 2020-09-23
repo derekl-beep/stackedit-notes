@@ -38,10 +38,12 @@ Reference books
 
 
 
-##
+## Discount Factors
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzE1NzI4LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbMzAzODg5ODAzLDU1MzIxNDg2NF19
 -->
