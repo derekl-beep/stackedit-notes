@@ -166,7 +166,8 @@ $$105.856=\frac{2.25}{1+\frac{1}{y}} + \frac{2.25}{(1+\frac{1}{y})^2} + \frac{10
 
 ### Price‐yield Relationship
 
-// 
+// TBA
+
 ### Coupon-yield Relationship
 
 $$P(T) =\frac{c}{y} \Big[ 1-\frac{1}{(1+\frac{y}{2})^{2T}} \Big] +\frac{1}{(1+\frac{y}{2})^{2T}}$$
@@ -175,11 +176,15 @@ $$P(T) =\frac{c}{y} \Big[ 1-\frac{1}{(1+\frac{y}{2})^{2T}} \Big] +\frac{1}{(1+\f
 - Premium bond: when $c > y, P(T) > 1$.  
 - Bond sold at discount: when $c < y, P(T) < 1$.
 
+### Pull‐to‐Par
+
+
+
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExNjYxNzYsODE1MTgxNTkyLDU3Njc3Nz
-EwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbNjEwMjExOTM5LDgxNTE4MTU5Miw1NzY3Nz
+cxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
 
 -->
