@@ -411,7 +411,7 @@ The risk that rates along the term structure move by different amounts is known 
 
 ### Lognormal Model for Equity Prices (Black‐Scholes, 1973)
 
-$$\frac{\Delta S_t}{S_t}=\mu_t \Delta t+\sigma \Delta W_t$$
+$$\frac{\Delta S_t}{S_t}=\mu_t \Delta t+\sigma \Delta W_t=\mu_t \Delta t+\sigma \sqrt{\Delta t} \epsilon$$, where 
 
 # 9 - The Art of Term Structure Models: Drifts
 
@@ -433,7 +433,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ0MjQxMzEsMTU0NDQ5OTc4NCwtMT
+eyJoaXN0b3J5IjpbLTE0MTg5NjMzMjQsMTU0NDQ5OTc4NCwtMT
 E5NjM1NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5
 ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNT
 AzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0
