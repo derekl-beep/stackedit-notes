@@ -142,7 +142,7 @@ $\omega=2$, semiannual compounding (USD bonds)
 $\omega=4$, quarterly compounding (floating rate notes)
 $\omega=12$, monthly compounding (mortgages)
 $\omega=365$, daily compounding (saving accounts)
-$\omega=\infty$, continuous compounding (theoretical modeling)
+$\omega=\infty$, continuous compounding (theoretical modelling)
 
 
 
@@ -158,11 +158,15 @@ P &= \frac{\frac{1}{2}c}{(1+\frac{y}{2})} +  \frac{\frac{1}{2}c}{(1+\frac{y}{2})
 \end{aligned}
 $$
 
-### E
+### Example
+
+
+
+The price of the $4 \frac{1}{2}$s of November 30, 2011 (Table 1.2), was 105.856. The yield‐to‐maturity, y, of this bond is therefore defined such that
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgyODQ1ODMsNTc2Nzc3MTA0LC0xMT
+eyJoaXN0b3J5IjpbLTEwMDE4MDM2NjYsNTc2Nzc3MTA0LC0xMT
 QxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
