@@ -242,8 +242,11 @@ $$ \begin{aligned}
 $$
 
 By definition, we choose $\bar{x}$ s.t. $f(\bar{x})=0$, so
-$$\Delta \dot{x} = $$
+$$\Delta \dot{x} = \frac{Df}{Dx}|_{\bar{x}} \Delta x = A \Delta x$$
 
+
+#### Remark
+Although the approximation is only true around the vincinity of $\bar(x)$
 
 ## References
 
@@ -259,8 +262,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDUwNTQyOSwtMTM1NDgwNTQ5LC02Mj
-cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
-NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
-cwOTMyNjIwLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbLTIwMzE2NDM5LC0xMzU0ODA1NDksLTYyNz
+I1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5NjY2
+MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3Nz
+A5MzI2MjAsMTA0NzM2NzMzOV19
 -->
