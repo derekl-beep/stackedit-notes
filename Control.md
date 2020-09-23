@@ -51,7 +51,7 @@ MATLAB functions:
 
 ### Transformed coordinates
 
-By defining the $z$ coordinates, which is the direction of the eigenvectors, we can simplify the calculations by decoupling the dynamics. This gives diagonal system dynamics.
+By defining the $z$ coordinates, which is the direction of the eigenvectors, we can simplify the calculations by decoupling the dynamics. This gives diagonal system dynamics, which is easier to be tackled.
  
 Define $x=Tz$
 
@@ -87,7 +87,7 @@ Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDkwODQwMywtMTkyNzA1NzcsMTIyMj
-Y4ODAwMiwtNTE2NDEzNzUsLTE4MTUzNjA4NjYsOTk2NTA0MzAy
-LC0xNzQ4Njk3NjI1XX0=
+eyJoaXN0b3J5IjpbODYwMTExMTU5LC0xOTI3MDU3NywxMjIyNj
+g4MDAyLC01MTY0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIs
+LTE3NDg2OTc2MjVdfQ==
 -->
