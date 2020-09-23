@@ -404,14 +404,27 @@ In reality, it is widely recognized that rates in different regions of the term 
 
 The risk that rates along the term structure move by different amounts is known as **curve risk**.
 
+# 6 - Regression‐based Hedging
+// TBA
+
+# 7 - The Science of Term Structure Models
+
+// TBA
+
+# 9 - The Art of Term Structure Models: Drifts
+
+// TBA
+
+
+
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjE4ODA4OCwtOTQxMjkzMDc0LDM3OD
-cwNDM1OSw0MTcyODE5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYs
-LTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxOD
-E1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1
-NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbMjY4NDU3OTMwLC05NDEyOTMwNzQsMzc4Nz
+A0MzU5LDQxNzI4MTk4NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwt
+NzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MT
+U5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1
+MzIxNDg2NF19
 -->
