@@ -77,6 +77,7 @@ $$
 The functions with different frequency are orthogonal to each others. This can be shown by evaluating the inner products.
 
 $$
+\begin{aligned}
 \langle \Psi_j, \Psi_k \rangle
 =\int_{-\pi}^{\pi} {e^{ikx} e^{-ijx}} dx
 =\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx
@@ -174,11 +175,9 @@ To extend the Fourier series to the Fourier transform, we take limitation of the
 $$
 \begin{aligned}
 f(x)
-=\lim_{\Delta \omega \rarr 0} \sum_{k=-\infty}^{\infty} \Big( { \frac{\Delta \omega}{2 \pi} \int_{-\pi / \Delta \omega}^{\pi / \Delta \omega} {f(\xi)e^{i k\Delta \omega \xi}} d\xi \Big) e^{i k\Delta \omega x}}
-	\\
-	{}
-	\\
-	=\int_{-\infty}^{\infty} {\frac{1}{2 \pi} \int_{-\infty}^{\infty} {f(\xi)e^{i \omega \xi}} d\xi} e^{i \omega x} d \omega
+&= \lim_{\Delta \omega \rarr 0} \sum_{k=-\infty}^{\infty} \Big( { \frac{\Delta \omega}{2 \pi} \int_{-\pi / \Delta \omega}^{\pi / \Delta \omega} {f(\xi)e^{i k\Delta \omega \xi}} d\xi \Big) e^{i k\Delta \omega x}} \\
+&= \int_{-\infty}^{\infty} {\frac{1}{2 \pi} \int_{-\infty}^{\infty} {f(\xi)e^{i \omega \xi}} d\xi} e^{i \omega x} d \omega
+\end{aligned}
 $$
 
 The Fourier cofficient / the Fourier transform, which is a continuous function of frequency $\omega$, is defined as
@@ -269,11 +268,11 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUyMzg2NzcsLTI3MjM3NzI2NCwtMT
-M3MzU4NTYzOSwxMjY5NzA0NTIxLDEwNTQzODY4NjQsLTYwNjE1
-OTk2MSwxNTc0NTk1MjI5LDE1MzQyMTc0OTYsLTE3ODMxOTMzNz
-QsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0LC0xNzEx
-NzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3Nj
-M0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcy
-MDg2OTgyXX0=
+eyJoaXN0b3J5IjpbMTk3MTYwMzA3NSwtMjcyMzc3MjY0LC0xMz
+czNTg1NjM5LDEyNjk3MDQ1MjEsMTA1NDM4Njg2NCwtNjA2MTU5
+OTYxLDE1NzQ1OTUyMjksMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NC
+wxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3
+MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2Mz
+QzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIw
+ODY5ODJdfQ==
 -->
