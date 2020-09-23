@@ -227,7 +227,7 @@ Let $f(t)$ denote the forward rate on a loan from year $t−0.5$ to year $t$. Th
 
 ### Forward rates and spot rates
 
-$$f(t)=2\Big[ \frac{(1+\frac{\hat{r}(t)}{2})^{2t}}{(1+\frac{\hat{r}(t-0.5)}{2})^{2t-1}}-1 \Big]$$
+$$f(t)=2\bigg[ \frac{(1+\frac{\hat{r}(t)}{2})^{2t}}{(1+\frac{\hat{r}(t-0.5)}{2})^{2t-1}}-1 \bigg]$$
 
 #### Proof
 
@@ -241,13 +241,13 @@ $$
 	\Big( 1+\frac{\hat{r}(t)}{2} \Big)^{2t} &= \Big( 1+\frac{\hat{r}(t-0.5)}{2} \Big)^{2(t-0.5)} \Big(1+\frac{f(t)}{2} \Big) \\
 	&= \Big( 1+\frac{\hat{r}(t-0.5)}{2} \Big)^{2t-1} \Big(1+\frac{f(t)}{2} \Big) \\
 \end{aligned}
-$$, and rearranging the terms gives $$f(t)=2\Big[ \frac{(1+\frac{\hat{r}(t)}{2})^{2t}}{(1+\frac{\hat{r}(t-0.5)}{2})^{2t-1}}-1 \Big]$$.
+$$, and rearranging the terms gives $$f(t)=2\bigg[ \frac{(1+\frac{\hat{r}(t)}{2})^{2t}}{(1+\frac{\hat{r}(t-0.5)}{2})^{2t-1}}-1 \bigg]$$.
 
 ### Forward rates and discount factors
 
-$$f(t)=2$$
+$$f(t)=2\bigg[ \frac{d(t-0.5)}{d(t)} -1\bigg]$$
 
-
+#### Proof 
 $$\frac{1}{d(t)} = \frac{1}{d(t-0.5)}\Big(1+\frac{f(t)}{2} \Big)  \\
 1+\frac{f(t)}{2} = \frac{d(t-0.5)}{d(t)}$$
 
@@ -264,8 +264,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU1NzcxOSwzNDI0Mzk1MzQsMTc2OT
-ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
-LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
-Q3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbNDU4NTU2NjI5LDM0MjQzOTUzNCwxNzY5MT
+EzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUs
+ODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyND
+cyOTcsNTUzMjE0ODY0XX0=
 -->
