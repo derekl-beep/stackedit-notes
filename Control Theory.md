@@ -5,7 +5,7 @@
 
 // TBA
 
-## Linear System Theory
+## Linear Systems
 
 Linear systems of ordinary differential equations (ODEs) 
 
@@ -114,5 +114,5 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODcyMzY0Nl19
+eyJoaXN0b3J5IjpbLTE1MjU1MTU5MjBdfQ==
 -->
