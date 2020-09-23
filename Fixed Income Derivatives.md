@@ -401,14 +401,15 @@ Please visit FIGURE 4.6 in Bruce, T. (2012) Fixed Income Securities: Tools for T
 A major weakness of the duration/DV01 based hedging is the assumption that yield curve does parallel shift. 
 
 In reality, it is widely recognized that rates in different regions of the term structure are far from perfectly correlated.
-The risk that rates along the term structure move by different amounts is known as curve risk.
+
+The risk that rates along the term structure move by different amounts is known as **curve risk**.
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODI4NDgyNiwtOTQxMjkzMDc0LDM3OD
+eyJoaXN0b3J5IjpbLTU2NjE4ODA4OCwtOTQxMjkzMDc0LDM3OD
 cwNDM1OSw0MTcyODE5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYs
 LTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxOD
 E1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1
