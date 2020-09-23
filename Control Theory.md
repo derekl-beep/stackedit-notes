@@ -100,7 +100,7 @@ z_1(0) \\ z_2(0) \\ \vdots \\ z_n(0)
 \end{Bmatrix}
 $$.
 
-### Computing 
+### Computing $e^{At}$
 
 Given $A=TDT^{-1}$, the computation of $e^{At}$ can be simplified by the use of the eigenvector and eigenvalue matrices as $$e^{At}=T e^{Dt} T^{-1}$$.
 
@@ -143,5 +143,5 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTI0NTEzNiwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbMTYyNjU2MTkyOCwxMDQ3MzY3MzM5XX0=
 -->
