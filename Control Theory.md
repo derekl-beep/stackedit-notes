@@ -155,7 +155,10 @@ $$\dot{x}=Ax+Bu=Ax-BKx=(A-BK)x$$
 
 ### Discrete-time systems
 
-$$x_{k+1}=\tilde{A}x_k$$, where $x_k=x(k\Delta t)$.
+$$x_{k+1}=\tilde{A}x_k$$, where $x_k=x(k\Delta t)$, and $\tilde{A}=e^{A \Delta t}$.
+
+
+
 
 
 
@@ -173,7 +176,7 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTU4NTY5MywxODQ2MTk2NjYzLC0xMj
-AzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYy
-MCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbNDA2MjMxNTEwLDE4NDYxOTY2NjMsLTEyMD
+M0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIw
+LDEwNDczNjczMzldfQ==
 -->
