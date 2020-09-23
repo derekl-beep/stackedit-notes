@@ -200,10 +200,19 @@ Step 2: Linearize $f$ about $\bar{x}$ using the Jocabian matrix $\frac{Df}{Dx}|_
 
 ### Example
 
-Given $$\begin{aligned} 
-\dot{x_1} &= f_1(x_1, x_2) = x_1x_2 \\
-\dot{x_2} &= f_2(x_1, x_2) = x_1^2+x_2^2
- \end{aligned}$$, we have $$\frac{}{$$
+Given
+$$
+	\begin{aligned} 
+	\dot{x_1} &= f_1(x_1, x_2) = x_1x_2 \\
+	\dot{x_2} &= f_2(x_1, x_2) = x_1^2+x_2^2
+	 \end{aligned}
+ $$, we have 
+ $$
+	 \frac{Df}{Dx}
+	 =\begin{bmatrix}
+		\frac{\partial f_1}{}
+	 \end{bmatrix}
+ $$
 
 ## References
 
@@ -219,7 +228,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDc4OTYyNiwtMTM1NDgwNTQ5LC02Mj
+eyJoaXN0b3J5IjpbMTA3MjI2NTc4MywtMTM1NDgwNTQ5LC02Mj
 cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
 NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
 cwOTMyNjIwLDEwNDczNjczMzldfQ==
