@@ -277,6 +277,17 @@ $$, where $P$ is the bond price, $c$ is the coupon rate; $f(t)$ is the six-month
 ## Forward Rate Agreements (FRA)
 // TBA
 
+# 5 - One‐Factor Risk Metrics and Hedges
+
+Overview 
+
+Measure of risk
+- DV01
+- Duration
+- Convexity  
+
+Yield‐based risk management
+- Hedge
 
 
 
@@ -285,7 +296,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTMyNjk5NSwzNDI0Mzk1MzQsMTc2OT
+eyJoaXN0b3J5IjpbMTkxMzM1MjI2MCwzNDI0Mzk1MzQsMTc2OT
 ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
 LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
 Q3Mjk3LDU1MzIxNDg2NF19
