@@ -187,14 +187,16 @@ Pull to par is the movement of a **bond's price toward its face value** as it ap
 
 An annuity makes annual payments of $c$ until date $T$ with no final principal payment.
 
-The cashflow of an annuity is similar to that of a coupon bond, except there
+The cashflow of an annuity is similar to that of a coupon bond, except there is no final principal payment at the maturity.
+
+$$A(T)=\frac{c}{y}\Big[1-\frac{1}{(1+\frac{y}{2})^{2T}} \Big]$$
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDQ5MzQ1NSwxNTAzMDUzMDIzLDU5NT
+eyJoaXN0b3J5IjpbLTQ3MzAwNzgwNywxNTAzMDUzMDIzLDU5NT
 c2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIz
 LDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
