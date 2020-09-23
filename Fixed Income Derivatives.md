@@ -223,7 +223,17 @@ There are many possible forward rates, e.g.
 
 This subsection, however, focuses exclusively on forward rates over **sequential six‐month periods**.
 
-Let $f(t)$ denote the forward rate on a loan from year $t−0.5$ to year $t$. Then, investing 1 unit of currency from year $t−0.5$ for six months generates proceeds, at year $t$, of $$\Big(1+\frac{f(t)}{2} \Big)$$
+Let $f(t)$ denote the forward rate on a loan from year $t−0.5$ to year $t$. Then, investing 1 unit of currency from year $t−0.5$ for six months generates proceeds, at year $t$, of $$\Big(1+\frac{f(t)}{2} \Big)$$.
+
+Forward rates are related to spot rates.
+
+$$
+\begin{aligned}
+	
+\end{aligned}
+$$
+
+
 
 #### Example 
 
@@ -236,8 +246,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYzMTc3NjIsMTc2OTExMzkwNiwtNz
-M5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5
-Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1Mz
-IxNDg2NF19
+eyJoaXN0b3J5IjpbMTU1MzE3NDQ4NSwxNzY5MTEzOTA2LC03Mz
+k0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTky
+LDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMj
+E0ODY0XX0=
 -->
