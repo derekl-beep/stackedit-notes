@@ -161,7 +161,7 @@ Given an initial condition $x_0=x(0)$, we can compute the whole set of dynamics 
 
 Same as the continuous-time system matrix $A$, the discrete-time system matrix $\tilde{A}$ can be decomposed into the eigenvector and eigenvalue matrices as $$\tilde{A}=\tilde{T}\tilde{D}\tilde{T}^{-1}$$, and hence, $$x_n=\tilde{T}\tilde{D}^n\tilde{T}^{-1}x_0$$.
 
-Simlilarly the eigenvalues determine the stability of the discrete-time system. The system is stable if and only if all the real part of the eigenvalues are less than or equal o
+Simlilarly the eigenvalues determine the stability of the discrete-time system. The system is stable if and only if all the real part of the eigenvalues are less than or equal to $1$, i.e. $$\text{Re}(\tilde{\lambda}_i) \leq1, \forall i=1,2,...,n$$. The tilde (~) sign is an indication for discrete-time sp
 
 
 
@@ -180,7 +180,7 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjAzOTUxMTgsMTg0NjE5NjY2MywtMT
-IwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2
-MjAsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbLTc2MDg3MzA2OCwxODQ2MTk2NjYzLC0xMj
+AzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYy
+MCwxMDQ3MzY3MzM5XX0=
 -->
