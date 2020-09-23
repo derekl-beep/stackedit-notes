@@ -333,7 +333,7 @@ This makes use of the first-order Taylor expansion of the portfolio value r.s.t.
 
 If we hedge security A with security B, the face amount of B for hedging is given by
 
-$$F_B = F_A$$
+$$F_B = F_A \times \frac{DV01_A}{DV01_B}$$
 
 
 ### Example
@@ -342,14 +342,16 @@ A market maker sells \$ 100M face value of the call option when the yield is 5\%
 
 Let $F$ be the face value for bond buying, then $F$ is subject to
 
+$$F=100$$
+
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTc0NzM0MSwzNzg3MDQzNTksNDE3Mj
-gxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEs
-MTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3Nz
-EwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbLTEyNTkzNjU5NzIsMzc4NzA0MzU5LDQxNz
+I4MTk4NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODEx
+LDE1MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3Nz
+cxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
 
 -->
