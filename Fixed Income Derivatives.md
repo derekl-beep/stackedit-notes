@@ -208,16 +208,14 @@ $$P=\frac{c}{y}$$
 
 A spot rate is the rate on a spot loan, an agreement between a lender and a borrower at the time of the agreement, to be repaid at a later time.
 
-Denote the semiannually compounded t-year spot rate by $\hat{r}(t)$.
-
-$$d(t)=\frac{1}{(1+\frac{\hat{r}(t)}{2})^{2t}}$$
+Denote the semiannually compounded t-year spot rate by $\hat{r}(t)$. The spot rate and the discount factor are directly related as $$d(t)=\frac{1}{(1+\frac{\hat{r}(t)}{2})^{2t}}$$. This also implies invest a unit dollar today wil
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQyNzMxMzgsLTczOTQ0NDgxMSwxNT
-AzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0
-LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbMTcxMDUwMjMwOSwtNzM5NDQ0ODExLDE1MD
+MwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3NzcxMDQs
+LTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
 -->
