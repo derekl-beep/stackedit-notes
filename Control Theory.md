@@ -246,7 +246,7 @@ $$\Delta \dot{x} = \frac{Df}{Dx}|_{\bar{x}} \Delta x = A \Delta x$$
 
 
 #### Remark
-Although the approximation is only true around the vincinity of $\bar(x)$
+Although the approximation is only true around the vincinity of $\bar{x}$, where the system is instantaneous stable, by adding feedback control, e.g. $u=-Kx$, to 
 
 ## References
 
@@ -262,8 +262,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE2NDM5LC0xMzU0ODA1NDksLTYyNz
-I1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5NjY2
-MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3Nz
-A5MzI2MjAsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbMTg3OTE0NTU2OSwtMTM1NDgwNTQ5LC02Mj
+cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
+NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
+cwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
