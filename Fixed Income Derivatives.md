@@ -215,9 +215,12 @@ In fact, the discount factor, the swap rate, the spot rate and the forward rate 
 
 ### Calculating a bond price by spot rates
 
-A coupon bond 
 
-$$P=\bigg[ \frac{1}{\big(1+\frac{\hat{r}(0.5)}{2}\big)} +\frac{1}{\big(1+\frac{\hat{r}(1)}{2}\big)^2}+ \dots +\frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} \bigg] + \frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}}$$
+$$\begin{aligned}
+P&=\bigg[ \frac{1}{\big(1+\frac{\hat{r}(0.5)}{2}\big)} +\frac{1}{\big(1+\frac{\hat{r}(1)}{2}\big)^2}+ \dots +\frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} \bigg] + \frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} \\
+&=\sum_{i=1}^{2T}
+\end{aligned}
+$$
 
 
 ## Forward Rates
@@ -271,8 +274,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzkyNDY5NSwzNDI0Mzk1MzQsMTc2OT
-ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
-LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
-Q3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbNDc5MTY4NzM5LDM0MjQzOTUzNCwxNzY5MT
+EzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUs
+ODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyND
+cyOTcsNTUzMjE0ODY0XX0=
 -->
