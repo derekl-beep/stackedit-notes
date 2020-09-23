@@ -358,7 +358,11 @@ Hence, the change in the portfolio value is negligible.
 
 ## Duration
 
+### Duration & DV01
 
+$$D=-\frac{1}{P}$$
+
+## Convexity
 
 
 ---
@@ -366,7 +370,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjUzMzQ3OSwzNzg3MDQzNTksNDE3Mj
+eyJoaXN0b3J5IjpbMTkzNDg4Njg3MywzNzg3MDQzNTksNDE3Mj
 gxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEs
 MTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3Nz
 EwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
