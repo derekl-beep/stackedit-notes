@@ -164,13 +164,14 @@ Same as the continuous-time system matrix $A$, the discrete-time system matrix $
 Simlilarly the eigenvalues determine the stability of the discrete-time system. The system is stable if and only if all the real part of the eigenvalues are less than or equal to $1$, i.e. $$\text{Re}(\tilde{\lambda}_i) \leq1, \forall i=1,2,...,n$$. The tilde (~) sign is an indication for the discrete-time space.
 
 
-This can be seen by expressing the
+This can be seen by expressing the complex eigenvalues as a product of radius $R$ and angle $\theta$ as
+
 $$\begin{aligned} 
 \tilde{\lambda}&=Re^{i\theta} \\
 \tilde{\lambda}^N&=R^Ne^{iN\theta}
 \end{aligned}$$
 
-
+The expotia
 
 
 ## References
@@ -185,7 +186,7 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTgyNTUzMTIsMTg0NjE5NjY2MywtMT
-IwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2
-MjAsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbNDY0NjgyNTQ2LDE4NDYxOTY2NjMsLTEyMD
+M0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIw
+LDEwNDczNjczMzldfQ==
 -->
