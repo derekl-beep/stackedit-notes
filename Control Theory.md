@@ -119,7 +119,7 @@ $$
 
 ## Stability and Eigenvalues
 
-
+Stability tells us what will be the state of the 
 
 
 ## References
@@ -134,6 +134,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA3MjQxMTIsMjAzMDE3NDAwMSwxNz
+eyJoaXN0b3J5IjpbLTExNDkyNTE3MTYsMjAzMDE3NDAwMSwxNz
 cwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
