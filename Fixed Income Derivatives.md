@@ -409,7 +409,14 @@ The risk that rates along the term structure move by different amounts is known 
 
 # 7 - The Science of Term Structure Models
 
-### Binomial M
+### Binomial Model for Equity Prices
+
+$$\frac{\Delta S_t}{S_t}=\mu_t \Delta t+\sigma \Delta W_t=\mu_t \Delta t+\sigma \sqrt{\Delta t} \epsilon_B$$, where $\epsilon_B =\left\{ \begin{array}{l}
+	1, \text{if } j \neq k\\
+	2 \pi, \text{if } j=k 
+	\end{array}
+	\right..$
+
 
 ### Lognormal Model for Equity Prices (Black‐Scholes, 1973)
 
@@ -435,9 +442,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYyMjYyOTAsMTU0NDQ5OTc4NCwtMT
-E5NjM1NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5
-ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNT
-AzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0
-LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbMTk4ODA0OTM1OSwxNTQ0NDk5Nzg0LC0xMT
+k2MzU1NjI0LC05NDEyOTMwNzQsMzc4NzA0MzU5LDQxNzI4MTk4
+NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODExLDE1MD
+MwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3NzcxMDQs
+LTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
 -->
