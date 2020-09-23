@@ -435,7 +435,7 @@ $$\Delta r_t = \mu_t \Delta t+\sigma \sqrt{\Delta t} \epsilon_B$$, where $\epsil
 	\end{array}
 	\right..$
 
-$$r_{i,j} = r_{0,0} +\Delta t \sum_{k=1}$$
+$$r_{i,j} = r_{0,0} +\Delta t \sum_{k=1}^{j-1}{\mu_k} + (2i-j) \sigma \sqrt{\Delta t}, \forall i=0,1,2,...,j$$
 
 
 
@@ -460,10 +460,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTg3NzMzNCw5MTk1MzM5OTIsMTU0ND
-Q5OTc4NCwtMTE5NjM1NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1
-OSw0MTcyODE5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOT
-Q0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIs
-NTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMT
-Q4NjRdfQ==
+eyJoaXN0b3J5IjpbLTEyMjUzNjU3MjYsOTE5NTMzOTkyLDE1ND
+Q0OTk3ODQsLTExOTYzNTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQz
+NTksNDE3MjgxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mz
+k0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTky
+LDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMj
+E0ODY0XX0=
 -->
