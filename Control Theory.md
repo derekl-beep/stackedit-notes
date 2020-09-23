@@ -119,9 +119,16 @@ $$
 
 ## Stability and Eigenvalues
 
+
+
 Stability tells us what the states of the systems will be as time goes to infinity.
 
-$$x(t)=Te^{Dt}T^{-1}x(0)$$
+
+The basic solution given the initial condition is $$x(t)=Te^{Dt}T^{-1}x(0)$$.
+
+
+
+
 
 ## References
 
@@ -135,6 +142,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDg1MzU1LDIwMzAxNzQwMDEsMTc3MD
-kzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbLTE0NTMyNDQ5MCwyMDMwMTc0MDAxLDE3Nz
+A5MzI2MjAsMTA0NzM2NzMzOV19
 -->
