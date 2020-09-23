@@ -85,11 +85,12 @@ $$
 
 Suppose the $3/4$ s of November 30, 2011 is trading at $100.19. We can show that there is an arbitrage oppurtunty.
 
-The fair price of the bond, calculated with the discount factors
+The fair price of the bond, calculated with the discount factors is
+$$F=\frac{3}{8}d(0.5) + \frac{3}{8}d(1.0) + (100+\frac{3}{8})d(0.5) = $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDIwNjcyMCw0MjgyNDcyOTcsNTUzMj
-E0ODY0XX0=
+eyJoaXN0b3J5IjpbODkxNjY5NzYsNDI4MjQ3Mjk3LDU1MzIxND
+g2NF19
 -->
