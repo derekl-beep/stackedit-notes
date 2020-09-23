@@ -115,20 +115,23 @@ $$
 $$
 \begin{aligned}
   &\begin{aligned}
-   e^{At} 
+   e^{At}  
   \end{aligned} \\
   &\begin{aligned}
-=\frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) \Bigg(\int_{-\infty}^{\infty} {g(y)e^{-i \omega y}dy} \Bigg) e^{i \omega x} d \omega
+=e^{TDT^{-1}t}
   \end{aligned}\\
   &\begin{aligned}
- = \int_{-\infty}^{\infty} g(y) \Bigg(  \frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) e^{i \omega (x-y)} d\omega \Bigg) dy
+=I+t TDT^{-1}+\frac{t^2}{2!}(TDT^{-1})^2+\frac{t^3}{3!}(TDT^{-1})^3+...
   \end{aligned}\\
   &\begin{aligned}
-= \int_{-\infty}^{\infty} f(x-y)  g(y) dy
-\end{aligned}\\
+=TT^{-1}+t TDT^{-1}+\frac{t^2}{2!}TD^2T^{-1}+\frac{t^3}{3!}TD^3T^{-1}+...
+	\end{aligned} \\
 	&\begin{aligned}
-	= f*g
-	\end{aligned}
+=T(I+tD+\frac{t^2}{2!}D^2+\frac{t^3}{3!}D^3+...)T^{-1}
+	\end{aligned} \\
+	 &\begin{aligned}
+=TT^{-1}+t TDT^{-1}+\frac{t^2}{2!}TD^2T^{-1}+\frac{t^3}{3!}TD^3T^{-1}+...
+	\end{aligned} 
 \end{aligned}
 $$
 
@@ -145,5 +148,5 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNDI4NjEyLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbLTE4OTgxNDIzMjAsMTA0NzM2NzMzOV19
 -->
