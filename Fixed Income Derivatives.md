@@ -310,13 +310,19 @@ $DV01=-99.9221+100=0.07791$
 
 For 1 basis point change in the yield, the bond price is approximately changed (either increase / decrease) by $0.07791.
 
+### Example
+
+How about  when yield drops by one basis point?
+
+$P(y-0.01\%)=100 \Big (\frac{0.05}{0.0499} \Big[ 1-\frac{1}{(1+\frac{0.0499}{2})^{20}} \Big] +\frac{1}{(1+\frac{0.0499}{2})^{20}} \Big)=$
+
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MjgxOTg0LDM0MjQzOTUzNCwxNzY5MT
-EzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUs
-ODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyND
-cyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbLTQ4MDQ1MTMyMiw0MTcyODE5ODQsMzQyND
+M5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUzMDIz
+LDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMz
+AwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
