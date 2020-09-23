@@ -138,8 +138,13 @@ The cost of the replicating portfolio = $\frac{-1.779}{100}\times 100.550+ \frac
 ## Popular Compounding Frequencies
 
 $\omega=1$, annual compounding (Euro bonds)
-$\omega=2$, semiannual compounding (US bonds)
-$\omega=4$, quarterly compounding (Euro bonds)
+$\omega=2$, semiannual compounding (USD bonds)
+$\omega=4$, quarterly compounding (floating rate notes)
+$\omega=12$, monthly compounding (mortgages)
+$\omega=365$, daily compounding (saving accounts)
+$\omega=\infty$, continuous compounding (theoretical modeling)
+
+
 
 ## Bond Yields
 
@@ -153,8 +158,11 @@ P &= \frac{\frac{1}{2}c}{(1+\frac{y}{2})} +  \frac{\frac{1}{2}c}{(1+\frac{y}{2})
 \end{aligned}
 $$
 
+### E
+
+---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTkyNTM3OCw1NzY3NzcxMDQsLTExND
-EzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbLTE3MzgyODQ1ODMsNTc2Nzc3MTA0LC0xMT
+QxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
