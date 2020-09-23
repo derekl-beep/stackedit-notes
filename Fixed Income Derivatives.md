@@ -232,7 +232,8 @@ $$f(t)=\frac{2(1+\frac{\hat{r}(t)}{2})^{2t}}{(1+\frac{\hat{r}(t-0.5)}{2})^{2t-1}
 #### Proof
 
 Consider two investment alternatives: 
-1. A 
+1. A $t$-year loan
+2. A $(t-0.5)$-year loan combined with a forward loan over $(t-0.5)$ to $t$ years
 
 
 $$
@@ -257,8 +258,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDA3NjAwNCwzNDI0Mzk1MzQsMTc2OT
-ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
-LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
-Q3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbNDkwOTk2Njk5LDM0MjQzOTUzNCwxNzY5MT
+EzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUs
+ODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyND
+cyOTcsNTUzMjE0ODY0XX0=
 -->
