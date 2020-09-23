@@ -213,6 +213,11 @@ Denote the semiannually compounded t-year spot rate by $\hat{r}(t)$. The spot ra
 
 In fact, the discount factor, the swap rate, the spot rate and the forward rate of a certain term are directly related.
 
+### Calculating a bond price by spot rates
+
+$$P=\Big[  \Big]$$
+
+
 ## Forward Rates
 
 A forward rate is the rate on a **forward loan**, which is an agreement to lend money at some time in the future to be repaid some time after that.
@@ -264,7 +269,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjEyOTQ0MSwzNDI0Mzk1MzQsMTc2OT
+eyJoaXN0b3J5IjpbLTk1MDg4OTYyOSwzNDI0Mzk1MzQsMTc2OT
 ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
 LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
 Q3Mjk3LDU1MzIxNDg2NF19
