@@ -100,6 +100,12 @@ z_1(0) \\ z_2(0) \\ \vdots \\ z_n(0)
 \end{Bmatrix}
 $$.
 
+### Computing 
+
+We have $$A=TDT^{-1}$$.
+
+$$$$
+
 
 ## References
 
@@ -113,5 +119,5 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbLTMxNTI0MTAzNCwxMDQ3MzY3MzM5XX0=
 -->
