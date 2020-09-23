@@ -136,7 +136,9 @@ e^{\lambda_1 t} & 0 & \dots & 0 \\
 \end{bmatrix}$$
 
 
-Given $\lambda = a + ib \in \mathbb{C}$, $$e^{\lambda t}=e^{at}[\cos{(bt)}+i\sin{(bt)}]$$. The amplitude of the sinusoidal terms is always within unity. The exponential term (the real part o), hence, determines the stability behaviour of the system.
+Given $\lambda = a + ib \in \mathbb{C}$, $$e^{\lambda t}=e^{at}[\cos{(bt)}+i\sin{(bt)}]$$. The amplitude of the sinusoidal terms is always within unity. The exponential term (the real part of the eigenvalue), hence, determines the stability behaviour of the system.
+
+If
 
 
 
@@ -153,6 +155,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI0NTQyMjQsLTg1ODQ1MTQsMjAzMD
-E3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbODg5MDE1NDIxLC04NTg0NTE0LDIwMzAxNz
+QwMDEsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
 -->
