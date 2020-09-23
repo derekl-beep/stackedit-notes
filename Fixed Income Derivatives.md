@@ -189,14 +189,20 @@ An annuity makes annual payments of $c$ until date $T$ with no final principal p
 
 The cashflow of an annuity is similar to that of a coupon bond, except there is no final principal payment at the maturity.
 
-$$A(T)=\frac{c}{y}\Big[1-\frac{1}{(1+\frac{y}{2})^{2T}} \Big]$$
+The annuity formula: 
+$$A(T)=\frac{c}{y}\Big[1-\frac{1}{(1+y)^{T}} \Big]$$
+
+The perpetuity (as $T \rightarrow \infty$) formula:
+$$P(T)$$
+
+
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzAwNzgwNywxNTAzMDUzMDIzLDU5NT
-c2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIz
-LDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbMjY4MTQ5NjM1LDE1MDMwNTMwMjMsNTk1Nz
+Y3MzY1LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMs
+NDI4MjQ3Mjk3LDU1MzIxNDg2NF19
 -->
