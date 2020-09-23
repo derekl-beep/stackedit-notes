@@ -83,11 +83,13 @@ $$
 
 ### Example
 
-Suppose the $3/4$ s of November 30, 2011 is trading at $100.19. There is an arbitrag
+Suppose the $3/4$ s of November 30, 2011 is trading at $100.19. We can show that there is an arbitrage oppurtunty.
+
+The fair price of the bond, calculated with the discount factors
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU2MTYyODIsNDI4MjQ3Mjk3LDU1Mz
-IxNDg2NF19
+eyJoaXN0b3J5IjpbLTYzNDIwNjcyMCw0MjgyNDcyOTcsNTUzMj
+E0ODY0XX0=
 -->
