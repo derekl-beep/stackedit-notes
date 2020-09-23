@@ -113,11 +113,13 @@ $$
 \end{aligned}
 $$
 
-The cost of the replicating portfolio = $\frac{}{}\times 100.550-1.790 \times 104.513 + 98.166 \times 105.856 =$
+The cost of the replicating portfolio = $\frac{-1.779}{100}\times 100.550+ \frac{-1.790}{100} \times 104.513 + \frac{98.166}{100} \times 105.856 = 100.255$.
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTI3OTM1MCw0MjgyNDcyOTcsNTUzMj
-E0ODY0XX0=
+eyJoaXN0b3J5IjpbNzE0MDEyOTcyLDQyODI0NzI5Nyw1NTMyMT
+Q4NjRdfQ==
 -->
