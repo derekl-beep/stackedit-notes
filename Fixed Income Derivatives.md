@@ -135,6 +135,11 @@ The cost of the replicating portfolio = $\frac{-1.779}{100}\times 100.550+ \frac
 
 # Ch.2 Bond Prices, Spot Rates and Forward Rates
 
+## Popular Compounding Frequencies
+
+$\omega=1$, annual compounding (Euro bonds)
+$\omega=2$, semiannual compounding (US bonds)
+$\omega=4$, quarterly compounding (Euro bonds)
 
 ## Bond Yields
 
@@ -150,6 +155,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyOD
-I0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbLTMyMTkyNTM3OCw1NzY3NzcxMDQsLTExND
+EzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
 -->
