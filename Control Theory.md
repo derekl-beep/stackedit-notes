@@ -250,7 +250,11 @@ The approximation is only true around the vincinity of $\bar{x}$, where the syst
 
 ### Example: Pendulum
 
-EOM: $\ddot{\theta}=-\frac{g}{L} \sin \theta -\delta \dot{\theta}$$
+Equation of Motion (EOM): $$\ddot{\theta}=-\frac{g}{L} \sin \theta -\delta \dot{\theta}$$, assuming $g/L=1$, 
+
+State-space formulation:
+
+
 
 ## References
 
@@ -266,8 +270,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQwOTExNDYsLTEzNTQ4MDU0OSwtNj
-I3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2
-NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMT
-c3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbMTg0OTg5NTM3NywtMTM1NDgwNTQ5LC02Mj
+cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
+NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
+cwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
