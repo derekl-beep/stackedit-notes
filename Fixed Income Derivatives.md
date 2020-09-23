@@ -160,8 +160,7 @@ P &= \frac{\frac{1}{2}c}{(1+\frac{y}{2})} +  \frac{\frac{1}{2}c}{(1+\frac{y}{2})
 \end{aligned}
 $$
 
-When the first coupon is due in $\tau$ fraction of a half year, the bond price is further discounted by $d(\tau)$.
-
+When the first coupon is due in $\tau$ fraction of a half year, the bond price is further adjusted by a factor of $\big( 1+\frac{y}{2}\big)^{1-\tau}$.
 ```
 <Insert cashflow diagram>
 ```
@@ -207,13 +206,14 @@ $$P=\frac{c}{y}$$
 
 ## Spot Rates
 
+The 
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTUyNDE5MiwxNTAzMDUzMDIzLDU5NT
+eyJoaXN0b3J5IjpbLTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NT
 c2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIz
 LDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
