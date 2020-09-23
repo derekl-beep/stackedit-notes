@@ -136,7 +136,7 @@ e^{\lambda_1 t} & 0 & \dots & 0 \\
 \end{bmatrix}$$
 
 
-Given $\lambda = a + ib \in \mathbb{C}$, $$e^{\lambda t}=e^{at}[\cos{(bt)}+i\sin{(bt)}]$$
+Given $\lambda = a + ib \in \mathbb{C}$, $$e^{\lambda t}=e^{at}[\cos{(bt)}+i\sin{(bt)}]$$. The amplitude of the sinusoidal terms is always within 
 
 
 
@@ -152,6 +152,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOT
-MyNjIwLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbMTI2NDIyMjcwMCwtODU4NDUxNCwyMDMwMT
+c0MDAxLDE3NzA5MzI2MjAsMTA0NzM2NzMzOV19
 -->
