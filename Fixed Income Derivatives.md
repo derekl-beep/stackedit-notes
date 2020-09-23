@@ -44,8 +44,10 @@ The discount factor for a particular term indicate the **present value** of one 
 
 Denote the discount factor for $t$ years by $d(t)$.
 
+Suppose the $1\frac{1}{4}\%$ s of November 30, 2010, is
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzg1MDQyNiw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbNDE0MjYwNTU1LDU1MzIxNDg2NF19
 -->
