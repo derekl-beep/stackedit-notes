@@ -160,13 +160,13 @@ $$
 
 ### Example
 
+The price of the $4 \frac{1}{2}$s of November 30, 2011 (Table 1.2), was 105.856. The yield‐to‐maturity, $y$, of this bond is therefore defined such that
 
-
-The price of the $4 \frac{1}{2}$s of November 30, 2011 (Table 1.2), was 105.856. The yield‐to‐maturity, y, of this bond is therefore defined such that
+$$105.856=\frac{2.25}{1+\frac{1}{y}} + \frac{2.25}{(1+\frac{1}{y})^2} + \frac{100 + 2.25}{(1+\frac{1}{y})^3}$$
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE4MDM2NjYsNTc2Nzc3MTA0LC0xMT
-QxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbNTU4MTEzMDk4LDU3Njc3NzEwNCwtMTE0MT
+MwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
 -->
