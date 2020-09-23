@@ -394,6 +394,8 @@ $$C=\frac{1}{P} \frac{P(y+\Delta y)-2P(y)+P(y-\Delta y)}{\Delta y^2}$$
 
 ### Approximation Quality
 
+Please visit FIGURE 4.6 in Bruce, T. (2012) Fixed Income Securities: Tools for Today's Markets, 3rd edition. Wiley Finance. 
+
 
 
 ---
@@ -401,7 +403,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTA3MjA4MSwzNzg3MDQzNTksNDE3Mj
+eyJoaXN0b3J5IjpbLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3Mj
 gxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEs
 MTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3Nz
 EwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
