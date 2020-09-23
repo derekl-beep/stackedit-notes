@@ -229,7 +229,13 @@ $$
 	 \begin{Bmatrix}
 x_1 \\ x_2
 \end{Bmatrix}
-$$
+$$.
+
+#### Proof
+
+$$\dot{x}=f(x)=f(\bar{x})$$
+
+
 
 ## References
 
@@ -245,8 +251,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ5NzQ4NzcsLTEzNTQ4MDU0OSwtNj
-I3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2
-NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMT
-c3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbLTMzMDM1ODA0NSwtMTM1NDgwNTQ5LC02Mj
+cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
+NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
+cwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
