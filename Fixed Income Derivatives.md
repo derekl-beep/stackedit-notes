@@ -318,15 +318,18 @@ $P(y-0.01\%)=100 \Big (\frac{0.05}{0.0499} \Big[ 1-\frac{1}{(1+\frac{0.0499}{2})
 
 $DV01=100.0780-100=0.0780$
 
-Therefore, $P(y-0.01\%)-P(y) \neq P(y)-P(y)$
+Therefore, $P(y-0.01\%)-P(y) \neq P(y)-P(y+0.01\%)$.
+
+For symmetry and higher accuracy, we redefine
+$$DV01=-\frac{P(y+0.01\%)-P(y-0.01\%)}{2}$$. This is similear
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc4OTY0MTMsNDE3MjgxOTg0LDM0Mj
-QzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAy
-Myw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MT
-MwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbMzY1ODM1MTM2LDQxNzI4MTk4NCwzNDI0Mz
+k1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMs
+NTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMD
+A0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
 -->
