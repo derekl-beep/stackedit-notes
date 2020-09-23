@@ -107,8 +107,11 @@ We have $$A=TDT^{-1}$$.
 $$e^{At}=e^{TDT^{-1}t} \\
 =I+t TDT^{-1}+\frac{t^2}{2!}(TDT^{-1})^2+\frac{t^3}{3!}(TDT^{-1})^3+... \\
 =TT^{-1}+t TDT^{-1}+\frac{t^2}{2!}TD^2T^{-1}+\frac{t^3}{3!}TD^3T^{-1}+... \\
-=T()T^{-1}
+=T(I+tD+\frac{t^2}{2!}D^2+\frac{t^3}{3!}D^3+...)T^{-1} \\
+=T e^{Dt} T^{-1}
 $$
+
+
 
 
 ## References
@@ -123,5 +126,5 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzgzOTM3MywxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbLTQxMTM3OTM2OSwxMDQ3MzY3MzM5XX0=
 -->
