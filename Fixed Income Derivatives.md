@@ -244,7 +244,7 @@ $$
 $$, and rearranging the terms gives $$f(t)=2\bigg[ \frac{(1+\frac{\hat{r}(t)}{2})^{2t}}{(1+\frac{\hat{r}(t-0.5)}{2})^{2t-1}}-1 \bigg]$$.
 
 Alternatively, a spot rate can be expressed as the product of sequential forward rates, i.e. 
-$$$$
+$$\Big(1 + \frac{\hat{r}(t)}{2} \Big) ^ {2t} = \Big(1 + \frac{f(0.5)}{2} \Big) \Big(1 + \frac{f(1)}{2} \Big) \dots \Big(1 + \frac{f(t)}{2} \Big) =$$
 
 ### Forward rates and discount factors
 
@@ -264,8 +264,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzY3NDQyMDcsMzQyNDM5NTM0LDE3Nj
-kxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2
-NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyOD
-I0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbMzQ1MzUxMTkwLDM0MjQzOTUzNCwxNzY5MT
+EzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUs
+ODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyND
+cyOTcsNTUzMjE0ODY0XX0=
 -->
