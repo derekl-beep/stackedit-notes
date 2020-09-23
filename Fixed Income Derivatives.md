@@ -424,7 +424,8 @@ $$\frac{\Delta S_t}{S_t}=\mu_t \Delta t+\sigma \Delta W_t=\mu_t \Delta t+\sigma 
 
 ### A model for term rates
 
-Let 
+Let $r_t$ be the annualised rate for term $\Delta t$, we have a similar model.
+$$\Delta r_t = \mu_t \Delta t + \sigma \sqrt{\Delta t} \epsilon$$, where 
 
 
 # 9 - The Art of Term Structure Models: Drifts
@@ -447,7 +448,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTIwOTM5MDcsMTU0NDQ5OTc4NCwtMT
+eyJoaXN0b3J5IjpbLTE1NDAyNDMxNDIsMTU0NDQ5OTc4NCwtMT
 E5NjM1NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5
 ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNT
 AzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0
