@@ -61,23 +61,23 @@ With the prices of a series of U.S. Treasury bonds, we can extracted the discoun
 
 $$
 \begin{aligned}
-\begin{bmatrix}
-	100+\frac{1\frac{1}{4}}{2} & 0 & 0 \\
-	\frac{4\frac{7}{8}}{2} & 100+\frac{4\frac{7}{8}}{2} & 0 \\
-	\frac{4\frac{1}{2}}{2} & \frac{4\frac{1}{2}}{2} & 100+\frac{4\frac{1}{2}}{2} 
-\end{bmatrix} 
-\begin{Bmatrix}
-d(0.5) \\ d(1.0) \\d(1.5)
-\end{Bmatrix}
-&= \begin{Bmatrix} 
-100.550 \\ 104.513 \\ 105.856
-\end{Bmatrix} \\
-\begin{Bmatrix}
-d(0.5) \\ d(1.0) \\d(1.5)
-\end{Bmatrix}
-&= \begin{Bmatrix}
-0.99925 \\ 0.99648 \\ 0.99135
-\end{Bmatrix}
+	\begin{bmatrix}
+		100+\frac{1\frac{1}{4}}{2} & 0 & 0 \\
+		\frac{4\frac{7}{8}}{2} & 100+\frac{4\frac{7}{8}}{2} & 0 \\
+		\frac{4\frac{1}{2}}{2} & \frac{4\frac{1}{2}}{2} & 100+\frac{4\frac{1}{2}}{2} 
+	\end{bmatrix} 
+	\begin{Bmatrix}
+	d(0.5) \\ d(1.0) \\d(1.5)
+	\end{Bmatrix}
+	&= \begin{Bmatrix} 
+	100.550 \\ 104.513 \\ 105.856
+	\end{Bmatrix} \\
+	\begin{Bmatrix}
+	d(0.5) \\ d(1.0) \\d(1.5)
+	\end{Bmatrix}
+	&= \begin{Bmatrix}
+	0.99925 \\ 0.99648 \\ 0.99135
+	\end{Bmatrix}
 \end{aligned}
 $$
 
@@ -92,12 +92,30 @@ We can short a replicating portfolio of the $3/4$ s of November 30, 2011, and lo
 
 To construct the replicating portfolio, denote the face values of the $1\frac{1}{4}$s, $4\frac{7}{8}$s and $4\frac{1}{2}$s be $F_1$, $F_2$ and $F_3$ respectively. Then, 
 $$
-
+\begin{aligned}
+	\begin{pmatrix}
+		1+\frac{1.25\%}{2} & \frac{4.875\%}{2} & \frac{4.5\%}{2} \\
+		\frac{4\frac{7}{8}}{2} & 100+\frac{4\frac{7}{8}}{2} & 0 \\
+		\frac{4\frac{1}{2}}{2} & \frac{4\frac{1}{2}}{2} & 100+\frac{4\frac{1}{2}}{2} 
+	\end{pmatrix} 
+	\begin{Bmatrix}
+	d(0.5) \\ d(1.0) \\d(1.5)
+	\end{Bmatrix}
+	&= \begin{Bmatrix} 
+	100.550 \\ 104.513 \\ 105.856
+	\end{Bmatrix} \\
+	\begin{Bmatrix}
+	d(0.5) \\ d(1.0) \\d(1.5)
+	\end{Bmatrix}
+	&= \begin{Bmatrix}
+	0.99925 \\ 0.99648 \\ 0.99135
+	\end{Bmatrix}
+\end{aligned}
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NjE3MTQ0LDQyODI0NzI5Nyw1NTMyMT
-Q4NjRdfQ==
+eyJoaXN0b3J5IjpbLTE1ODc5MTYyNjgsNDI4MjQ3Mjk3LDU1Mz
+IxNDg2NF19
 -->
