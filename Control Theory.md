@@ -136,6 +136,7 @@ e^{\lambda_1 t} & 0 & \dots & 0 \\
 \end{bmatrix}$$
 
 
+Given $\lambda = a + ib \in \mathbb{C}$, $$e$$
 
 
 
@@ -151,6 +152,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTA0NTc0MiwyMDMwMTc0MDAxLDE3Nz
-A5MzI2MjAsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbLTIwNjM5MTE2OTksMjAzMDE3NDAwMSwxNz
+cwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
