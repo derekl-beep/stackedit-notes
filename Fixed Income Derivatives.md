@@ -48,8 +48,12 @@ Denote the discount factor for $t$ years by $d(t)$.
 
 Suppose the $1\frac{1}{4}\%$ s of November 30, 2010 (6 months from now) is trading at $100.550, so we have $$\begin{aligned} 100.550 &= (100+\frac{1\frac{1}{4}}{2})d(0.5) \\ d(0.5)&=0.99925\end{aligned}$$
 
+### Bootstrapping the Discount Factors
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbNTk0NzM3NjkwLDQyODI0NzI5Nyw1NTMyMT
+Q4NjRdfQ==
 -->
