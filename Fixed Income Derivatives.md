@@ -277,7 +277,7 @@ $$, where $P$ is the bond price, $c$ is the coupon rate; $f(t)$ is the six-month
 ## Forward Rate Agreements (FRA)
 // TBA
 
-# 5 - One‐Factor Risk Metrics and Hedges
+# 4 - One‐Factor Risk Metrics and Hedges
 
 Overview 
 
@@ -396,16 +396,21 @@ $$C=\frac{1}{P} \frac{P(y+\Delta y)-2P(y)+P(y-\Delta y)}{\Delta y^2}$$
 
 Please visit FIGURE 4.6 in Bruce, T. (2012) Fixed Income Securities: Tools for Today's Markets, 3rd edition. Wiley Finance. 
 
+# 5 - Key Rate Hedging
 
+A major weakness of the duration/DV01 based hedging is the assumption that yield curve does parallel shift. 
+
+In reality, it is widely recognized that rates in different regions of the term structure are far from perfectly correlated.
+The risk that rates along the term structure move by different amounts is known as curve risk.
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3Mj
-gxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEs
-MTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3Nz
-EwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
-
+eyJoaXN0b3J5IjpbMTk4ODI4NDgyNiwtOTQxMjkzMDc0LDM3OD
+cwNDM1OSw0MTcyODE5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYs
+LTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxOD
+E1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1
+NTMyMTQ4NjRdfQ==
 -->
