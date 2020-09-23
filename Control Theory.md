@@ -119,8 +119,9 @@ $$
 
 ## Stability and Eigenvalues
 
-Stability tells us what will be the state of the 
+Stability tells us what the states of the systems will be as time goes to infinity.
 
+$$x(t)=Te^{Dt}T^{-1}x(0)$$
 
 ## References
 
@@ -134,6 +135,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDkyNTE3MTYsMjAzMDE3NDAwMSwxNz
-cwOTMyNjIwLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbMTIwMDg1MzU1LDIwMzAxNzQwMDEsMTc3MD
+kzMjYyMCwxMDQ3MzY3MzM5XX0=
 -->
