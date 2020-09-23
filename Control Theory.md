@@ -157,9 +157,9 @@ $$\dot{x}=Ax+Bu=Ax-BKx=(A-BK)x$$
 
 $$x_{k+1}=\tilde{A}x_k$$, where $x_k=x(k\Delta t)$, and $\tilde{A}=e^{A \Delta t}$.
 
-Given an initial condition $x_0=x(0)$, we can compute the whole set of dynamics at discrete time as $$\begin{aligned} x_1&=\tilde{A}x_0 \\ x_2&=\tilde{A}^2x_0 \\ x_3&=\tilde{A}^3x_0 \\ &\vdots \\ x_n&=\tilde{A}^nx_0 \end{aligned}$$
+Given an initial condition $x_0=x(0)$, we can compute the whole set of dynamics at discrete time as $$\begin{aligned} x_1&=\tilde{A}x_0 \\ x_2&=\tilde{A}^2x_0 \\ x_3&=\tilde{A}^3x_0 \\ &\vdots \\ x_N&=\tilde{A}^Nx_0 \end{aligned}$$
 
-Same as the continuous-time system matrix $A$, the discrete-time system matrix $\tilde{A}$ can be decomposed into the eigenvector and eigenvalue matrices as $$\tilde{A}=\tilde{T}\tilde{D}\tilde{T}^{-1}$$, and hence, $$x_n=\tilde{T}\tilde{D}^n\tilde{T}^{-1}x_0$$.
+Same as the continuous-time system matrix $A$, the discrete-time system matrix $\tilde{A}$ can be decomposed into the eigenvector and eigenvalue matrices as $$\tilde{A}=\tilde{T}\tilde{D}\tilde{T}^{-1}$$, and hence, $$x_N=\tilde{T}\tilde{D}^N\tilde{T}^{-1}x_0$$.
 
 Simlilarly the eigenvalues determine the stability of the discrete-time system. The system is stable if and only if all the real part of the eigenvalues are less than or equal to $1$, i.e. $$\text{Re}(\tilde{\lambda}_i) \leq1, \forall i=1,2,...,n$$. The tilde (~) sign is an indication for the discrete-time space.
 
@@ -180,7 +180,7 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE1NzQxNTAsMTg0NjE5NjY2MywtMT
+eyJoaXN0b3J5IjpbLTEwMDM2MTI3NDIsMTg0NjE5NjY2MywtMT
 IwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2
 MjAsMTA0NzM2NzMzOV19
 -->
