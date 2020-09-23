@@ -148,7 +148,7 @@ The system is stable if and only if all the real part of the eigenvalues of the 
 <insert picture>
 ```
 
-To control an unstable system with feedbacks, e.g. $u=-Kx$, the system behaviours, as well as the eigenvalues, are changed.
+To control an unstable system with feedbacks, e.g. $u=-Kx$, the system behaviours, as well as the eigenvalues, can be changed.
 
 $$\dot{x}=Ax+Bu=Ax-BKx=(A-BK)x$$
 
@@ -165,6 +165,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDg4ODg0NCwtODU4NDUxNCwyMDMwMT
-c0MDAxLDE3NzA5MzI2MjAsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMD
+E3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
