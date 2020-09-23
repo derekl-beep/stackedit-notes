@@ -174,6 +174,9 @@ $$\begin{aligned}
 
 The exponential part always has an amplitude within a unity.
 
+## Linearizing Around a Fixed Point
+
+
 
 ## References
 
@@ -189,7 +192,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4ND
-YxOTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAw
-MSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbLTYyNzI1MTg5NywtNDgxMjI0OTQ1LC02ND
+QxNDQ1MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1MSwtODU4NDUx
+NCwyMDMwMTc0MDAxLDE3NzA5MzI2MjAsMTA0NzM2NzMzOV19
 -->
