@@ -51,6 +51,8 @@ MATLAB functions:
 
 ### Transformed coordinates
 
+We can define the $z$ coordinates, which is the direction of the eigenvectors, to simplify the calculation by decoupling the dynamics.
+ 
 Define $x=Tz$
 
 $$
@@ -85,7 +87,7 @@ Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcwNTc3LDEyMjI2ODgwMDIsLTUxNj
-QxMzc1LC0xODE1MzYwODY2LDk5NjUwNDMwMiwtMTc0ODY5NzYy
-NV19
+eyJoaXN0b3J5IjpbMTQ0Mzc3NzQwNSwtMTkyNzA1NzcsMTIyMj
+Y4ODAwMiwtNTE2NDEzNzUsLTE4MTUzNjA4NjYsOTk2NTA0MzAy
+LC0xNzQ4Njk3NjI1XX0=
 -->
