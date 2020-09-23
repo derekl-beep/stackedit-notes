@@ -208,7 +208,7 @@ $$P=\frac{c}{y}$$
 
 A spot rate is the rate on a spot loan, an agreement between a lender and a borrower at the time of the agreement, to be repaid at a later time.
 
-Denote the semiannually compounded t-year spot rate by $\hat{r}(t)$. The spot rate and the discount factor are directly related as $$d(t)=\frac{1}{(1+\frac{\hat{r}(t)}{2})^{2t}}$$, or $$$$ This also implies investing a unit dollar today will generate $(1+\frac{\hat{r}(t)}{2})^{2t}$ dollars in t years.
+Denote the semiannually compounded t-year spot rate by $\hat{r}(t)$. The spot rate and the discount factor are directly related as $$d(t)=\frac{1}{(1+\frac{\hat{r}(t)}{2})^{2t}}$$, or $$\hat{r}(t)=2 \Big(\frac{1}{d(t)^{\frac{1}{2t}}}-1 \Big)$$. This also implies investing a unit dollar today will generate $(1+\frac{\hat{r}(t)}{2})^{2t}$ dollars in t years.
 
 
 
@@ -217,7 +217,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcxODI0MDAsLTczOTQ0NDgxMSwxNT
-AzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0
-LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbMjI5ODgwMTIxLC03Mzk0NDQ4MTEsMTUwMz
+A1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwt
+MTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
 -->
