@@ -178,13 +178,17 @@ $$P(T) =\frac{c}{y} \Big[ 1-\frac{1}{(1+\frac{y}{2})^{2T}} \Big] +\frac{1}{(1+\f
 
 ### Pull‐to‐Par
 
+Pull to par is the movement of a **bond's price toward its face value** as it approaches its maturity date. Premium bonds, which trade at a higher price than their face (par) value, will decrease in price as they approach maturity. Discount bonds, which trade at a lower price than their par value, will increase in price as they approach maturity.
+
+> Source: https://www.investopedia.com/terms/p/pull-to-par.asp
+
 
 
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMjExOTM5LDgxNTE4MTU5Miw1NzY3Nz
+eyJoaXN0b3J5IjpbNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3Nz
 cxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
 
 -->
