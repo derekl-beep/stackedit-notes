@@ -72,12 +72,18 @@ d(0.5) \\ d(1.0) \\d(1.5)
 &= \begin{Bmatrix} 
 100.550 \\ 104.513 \\ 105.856
 \end{Bmatrix} \\
+\begin{Bmatrix}
+d(0.5) \\ d(1.0) \\d(1.5)
+\end{Bmatrix}
+&= \begin{Bmatrix}
+0.99925 \\ 0.99648 \\ 0.99135
+\end{Bmatrix}
 \end{aligned}
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA5MzM4MjEsNDI4MjQ3Mjk3LDU1Mz
-IxNDg2NF19
+eyJoaXN0b3J5IjpbNDM0ODU0NTIwLDQyODI0NzI5Nyw1NTMyMT
+Q4NjRdfQ==
 -->
