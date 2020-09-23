@@ -211,14 +211,14 @@ A spot rate is the rate on a spot loan, an agreement between a lender and a borr
 Denote the semiannually compounded t-year spot rate by $\hat{r}(t)$. The spot rate and the discount factor are directly related as $$d(t)=\frac{1}{(1+\frac{\hat{r}(t)}{2})^{2t}}$$, or $$\hat{r}(t)=2 \Big(d(t)^{-\frac{1}{2t}}-1 \Big)$$. This also implies investing a unit dollar today will generate $(1+\frac{\hat{r}(t)}{2})^{2t}$ dollars in t years.
 
 
-In general, the discount factor, the swap rate, the spot rate and the forward rate of a certain te
+In fact, the discount factor, the swap rate, the spot rate and the forward rate of a certain term are directly related.
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTE5Mzg0MiwtNzM5NDQ0ODExLDE1MD
+eyJoaXN0b3J5IjpbMTc2OTExMzkwNiwtNzM5NDQ0ODExLDE1MD
 MwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3NzcxMDQs
 LTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
 -->
