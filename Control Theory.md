@@ -171,7 +171,7 @@ $$\begin{aligned}
 \tilde{\lambda}^N&=R^Ne^{iN\theta}
 \end{aligned}$$
 
-The expotia
+The exponential part always has an amplitude within a unity.
 
 
 ## References
@@ -184,9 +184,11 @@ Prof. Steven L. Brunton. University of Washington.
 http://databookuw.com
 
 ---
+More notes on can be https://github.com/derekl-beep/cs-notes
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NjgyNTQ2LDE4NDYxOTY2NjMsLTEyMD
+eyJoaXN0b3J5IjpbODM5MjY1OTQxLDE4NDYxOTY2NjMsLTEyMD
 M0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIw
 LDEwNDczNjczMzldfQ==
 -->
