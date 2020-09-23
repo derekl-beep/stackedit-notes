@@ -144,12 +144,12 @@ $$
 \begin{aligned}
 P &= \frac{\frac{1}{2}c}{(1+\frac{y}{2})} +  \frac{\frac{1}{2}c}{(1+\frac{y}{2})^2} + \dots + \frac{1+\frac{1}{2}c}{(1+\frac{y}{2})^{2T}} \\
 &= \frac{c}{2} \sum_{t=1}^{2T}{\frac{1}{(1+\frac{y}{2})^t}} +\frac{1}{(1+\frac{y}{2})^{2T}} \\
-&=\frac{c}{y} \Big[ \Big] +\frac{1}{(1+\frac{y}{2})^{2T}}
+&=\frac{c}{y} \Big[ 1-\frac{1}{(1+\frac{y}{2})^{2T}} \Big] +\frac{1}{(1+\frac{y}{2})^{2T}}
 \end{aligned}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDkwMjAzOSwtMTE0MTMwMDQyMyw0Mj
-gyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbNTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyOD
+I0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
