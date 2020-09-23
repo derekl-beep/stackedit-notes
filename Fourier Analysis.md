@@ -92,9 +92,9 @@ $$
 The Fourier series of a function can be expressed as an infinite sum of ...
 
 $$
-f(x) &= \sum_{-\infty}^{\infty} {C_k e^{ikx}} 
-	&= \sum_{-\infty}^{\infty}(\alpha_k+i\beta_k) \big(\cos{(kx)} + i\sin{(kx)} \big) \\
-	&= \frac{1}{2\pi} \sum_{-\infty}^{\infty} \langle f(x), \Psi_k \rangle \Psi_k
+f(x) = \sum_{-\infty}^{\infty} {C_k e^{ikx}} 
+	= \sum_{-\infty}^{\infty}(\alpha_k+i\beta_k) \big(\cos{(kx)} + i\sin{(kx)} \big) 
+	= \frac{1}{2\pi} \sum_{-\infty}^{\infty} \langle f(x), \Psi_k \rangle \Psi_k
 $$
 , where $C_k = \bar{C}_{-k}$ if $f(x)$ is real-valued.
 
@@ -265,11 +265,11 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgwMzMzNjIsLTI3MjM3NzI2NCwtMT
-M3MzU4NTYzOSwxMjY5NzA0NTIxLDEwNTQzODY4NjQsLTYwNjE1
-OTk2MSwxNTc0NTk1MjI5LDE1MzQyMTc0OTYsLTE3ODMxOTMzNz
-QsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0LC0xNzEx
-NzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3Nj
-M0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcy
-MDg2OTgyXX0=
+eyJoaXN0b3J5IjpbLTk0NzAwODkyOCwtMjcyMzc3MjY0LC0xMz
+czNTg1NjM5LDEyNjk3MDQ1MjEsMTA1NDM4Njg2NCwtNjA2MTU5
+OTYxLDE1NzQ1OTUyMjksMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NC
+wxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3
+MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2Mz
+QzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIw
+ODY5ODJdfQ==
 -->
