@@ -235,7 +235,7 @@ Consider two investment alternatives:
 1. A $t$-year loan
 2. A $(t-0.5)$-year loan combined with a forward loan over $(t-0.5)$ to $t$ years
 
-The returns are the same, so 
+By the law of one price (LOOP), the returns are the same, so 
 $$
 \begin{aligned}
 	\Big( 1+\frac{\hat{r}(t)}{2} \Big)^{2t} &= \Big( 1+\frac{\hat{r}(t-0.5)}{2} \Big)^{2(t-0.5)} \Big(1+\frac{f(t)}{2} \Big) \\
@@ -261,7 +261,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0OTk5MDg3LDM0MjQzOTUzNCwxNzY5MT
+eyJoaXN0b3J5IjpbNjk4ODAyMjAyLDM0MjQzOTUzNCwxNzY5MT
 EzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUs
 ODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyND
 cyOTcsNTUzMjE0ODY0XX0=
