@@ -342,16 +342,19 @@ A market maker sells \$ 100M face value of the call option when the yield is 5\%
 
 Let $F$ be the face value for bond buying, then $F$ is subject to
 
-$$F=100$$
+$$F=\$100M \times\frac{0.0369}{0.0779}=\$4.737M $$
+
+Checking: 
+
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkzNjU5NzIsMzc4NzA0MzU5LDQxNz
-I4MTk4NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODEx
-LDE1MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3Nz
-cxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbOTIzNzU4MzY1LDM3ODcwNDM1OSw0MTcyOD
+E5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwx
+NTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MT
+A0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 
 -->
