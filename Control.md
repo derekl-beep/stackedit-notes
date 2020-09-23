@@ -36,7 +36,7 @@ $$T=[\xi_1 \ \xi_2 ... \xi_n]$$ and $$D=\text{diag}([\lambda_1, \lambda_2,...,\l
 
 , we have $$AT=TD$$.
 
-### Transfor
+### Transformed coordinates
 
 Define $x=Tz$
 
@@ -45,6 +45,22 @@ $$
 T\dot{z} = ATz \\
 \dot{z}=T^{-1}ATz \\
 \dot{z} = Dz
+$$
+
+
+$$
+\begin{bmatrix}  
+x_1^T x_1 & x_1^T x_2 & \dots & x_1^T x_m \\  
+x_2^T x_1 & x_2^T x_2 & \dots & x_2^T x_m \\
+\vdots & \vdots &\ddots & \vdots \\
+x_m^T x_1 & x_m^T x_2 & \dots & x_m^T x_m
+\end{bmatrix}
+= \begin{bmatrix}  
+x_1^T x_1 & x_1^T x_2 & \dots & x_1^T x_m \\  
+x_2^T x_1 & x_2^T x_2 & \dots & x_2^T x_m \\
+\vdots & \vdots &\ddots & \vdots \\
+x_m^T x_1 & x_m^T x_2 & \dots & x_m^T x_m
+\end{bmatrix}_{m \times m}
 $$
 
 The dynamics are, hence, decoupled in the transformed coordinates, e.g. $$\dot{z}_i =  \lambda_i z_i$$,  for $i=1,2,...,n$. 
@@ -56,7 +72,7 @@ Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzI1MTExMCwxMjIyNjg4MDAyLC01MT
-Y0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIsLTE3NDg2OTc2
-MjVdfQ==
+eyJoaXN0b3J5IjpbLTEwMDc1MjMwODEsMTIyMjY4ODAwMiwtNT
+E2NDEzNzUsLTE4MTUzNjA4NjYsOTk2NTA0MzAyLC0xNzQ4Njk3
+NjI1XX0=
 -->
