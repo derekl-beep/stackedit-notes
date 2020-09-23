@@ -55,11 +55,15 @@ Suppose the $1\frac{1}{4}\%$ s of November 30, 2010 (6 months from now) is tradi
 	height="50%" width="50%"/>
 </p>
 
->Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC01_2_Gibbs.ipynb
+>Source: Bruce, T. (2012) Fixed Income Securities: Tools for Today's Markets, 3rd edition.
+
+With the prices of a series of U.S. Treasury bonds, we can extracted the discount factors directly. For example, 
+
+$$$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxMjU1MjgxLDQyODI0NzI5Nyw1NTMyMT
-Q4NjRdfQ==
+eyJoaXN0b3J5IjpbLTE4MTQzNzkzNjQsNDI4MjQ3Mjk3LDU1Mz
+IxNDg2NF19
 -->
