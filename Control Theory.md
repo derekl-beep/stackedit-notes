@@ -184,11 +184,11 @@ Prof. Steven L. Brunton. University of Washington.
 http://databookuw.com
 
 ---
-More notes on can be https://github.com/derekl-beep/cs-notes
+More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5MjY1OTQxLDE4NDYxOTY2NjMsLTEyMD
-M0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIw
-LDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbMTUwOTMzMjQxMSwxODQ2MTk2NjYzLC0xMj
+AzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYy
+MCwxMDQ3MzY3MzM5XX0=
 -->
