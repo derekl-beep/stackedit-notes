@@ -3,7 +3,7 @@
 
 ## Linear System Theory
 
-Linear systems of ordinary differential equations (ODEs)
+Linear systems of ordinary differential equations (ODEs) 
 
 $$
 \dot{x}=Ax
@@ -19,7 +19,8 @@ $$
 x(t) = e^{At}x(0)
 $$
 
-, where $e^{At}=I+tA+\frac{t^2}{2!}A^2+\frac{t^3}{3!}A^3+...$. However, this infinite sum of matrices are numerically difficult.
+, where $e^{At}=I+tA+\frac{t^2}{2!}A^2+\frac{t^3}{3!}A^3+...$. 
+However, computing this infinite sum of matrices are numerically difficult.
 
 ### Eigenvalues and Eigenvector of the System Matrix
 
@@ -43,6 +44,7 @@ $$
 
 , we have $$AT=TD$$.
 
+MATLAB functions:
 ```matlab
 >> [T, D] = eig(A)
 ```
@@ -83,7 +85,7 @@ Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDE5Nzg1MSwxMjIyNjg4MDAyLC01MT
+eyJoaXN0b3J5IjpbMTc1OTc5MzQ5MywxMjIyNjg4MDAyLC01MT
 Y0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIsLTE3NDg2OTc2
 MjVdfQ==
 -->
