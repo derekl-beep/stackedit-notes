@@ -327,7 +327,7 @@ $$DV01=-\frac{P(y+0.01\%)-P(y-0.01\%)}{2}$$. This is similar to the **central di
 
 ## DV01 Hedging
 
-Market makers in the fixed income markets would like to maintain a DV01-neutural portfolio
+Market makers in the fixed income markets would like to maintain a DV01-neutural portfolio. A DV01-neutral portfolio implies a small changes in the yield (or the overall interest rates) 
  
 
 ---
@@ -335,9 +335,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzNzE4Njc1LDM3ODcwNDM1OSw0MTcyOD
-E5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwx
-NTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MT
-A0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbMTkyOTU5MjY0MywzNzg3MDQzNTksNDE3Mj
+gxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEs
+MTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3Nz
+EwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
 
 -->
