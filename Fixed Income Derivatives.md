@@ -227,7 +227,13 @@ Let $f(t)$ denote the forward rate on a loan from year $t−0.5$ to year $t$. Th
 
 ### Forward rates and spot rates
 
-$$f(t)=\frac{2(1+\frac{\hat{}{})}{}$$
+$$f(t)=\frac{2(1+\frac{\hat{r}(t)}{2})^{2t}}{(1+\frac{\hat{r}(t-0.5)}{2})^{2t-1}}-1$$
+
+#### Proof
+
+Consider two investment alternatives: 
+1. A 
+
 
 $$
 \begin{aligned}
@@ -251,7 +257,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTg3OTMyMywzNDI0Mzk1MzQsMTc2OT
+eyJoaXN0b3J5IjpbLTYzMDA3NjAwNCwzNDI0Mzk1MzQsMTc2OT
 ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
 LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
 Q3Mjk3LDU1MzIxNDg2NF19
