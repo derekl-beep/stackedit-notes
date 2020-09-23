@@ -241,6 +241,8 @@ $$ \begin{aligned}
 \end{aligned}
 $$
 
+By definition, we choose $\bar{x}$ s.t. $f(\bar{x})=0$, so
+$$\Delta \dot{x} = $$
 
 
 ## References
@@ -257,7 +259,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDE2ODIzMSwtMTM1NDgwNTQ5LC02Mj
+eyJoaXN0b3J5IjpbMTIwMDUwNTQyOSwtMTM1NDgwNTQ5LC02Mj
 cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
 NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
 cwOTMyNjIwLDEwNDczNjczMzldfQ==
