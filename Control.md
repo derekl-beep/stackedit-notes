@@ -28,7 +28,7 @@ $$A \xi = \lambda \xi$$
 
 Any vector $\xi_i \in \mathbb{R}^n \neq 0$ and constant $\lambda_i \in \mathbb{R}$ satisfying this equation are the **eigenvector** and the **eigenvalue** of matrix $A$.
 
-Tackling dynamical systems in the eigenvector coordinates are advantageous.
+Tackling dynamical systems in the eigenvector coordinates are advantageous. It gives us diagonal system dynamics, which is easier to be solved.
 
 Define 
 
@@ -51,7 +51,7 @@ MATLAB functions:
 
 ### Transformed coordinates
 
-By defining the $z$ coordinates, which is the direction of the eigenvectors, we can simplify the calculations by decoupling the dynamics. This gives diagonal system dynamics, which is easier to be tackled.
+By defining the $z$ coordinates, which is the direction of the eigenvectors, we can simplify the calculations by decoupling the dynamics. 
  
 Define $x=Tz$
 
@@ -82,7 +82,7 @@ The dynamics are, hence, decoupled in the transformed coordinates, e.g. $$\dot{z
 
 Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\lambda_i t}z_i(0)$$ for $i=1,2,...,n$.
 
-In matrix format, we have
+In matrix format, we have 
 $$
 z(t) = e^{Dt}z(0)
 =\begin{bmatrix}  
@@ -102,7 +102,7 @@ $$.
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA0MTI0MTcsLTE5MjcwNTc3LDEyMj
-I2ODgwMDIsLTUxNjQxMzc1LC0xODE1MzYwODY2LDk5NjUwNDMw
-MiwtMTc0ODY5NzYyNV19
+eyJoaXN0b3J5IjpbLTQ5MjQyNzUwOSwtMTkyNzA1NzcsMTIyMj
+Y4ODAwMiwtNTE2NDEzNzUsLTE4MTUzNjA4NjYsOTk2NTA0MzAy
+LC0xNzQ4Njk3NjI1XX0=
 -->
