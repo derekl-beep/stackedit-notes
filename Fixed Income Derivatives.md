@@ -225,7 +225,9 @@ This subsection, however, focuses exclusively on forward rates over **sequential
 
 Let $f(t)$ denote the forward rate on a loan from year $t−0.5$ to year $t$. Then, investing 1 unit of currency from year $t−0.5$ for six months generates proceeds, at year $t$, of $$\Big(1+\frac{f(t)}{2} \Big)$$.
 
-Forward rates are related to spot rates.
+### Forward rates and spot rates
+
+$$f(t)=\frac{2(1+\frac{\hat{}{})}{}$$
 
 $$
 \begin{aligned}
@@ -249,8 +251,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOT
-Q0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIs
-NTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMT
-Q4NjRdfQ==
+eyJoaXN0b3J5IjpbLTcxNTg3OTMyMywzNDI0Mzk1MzQsMTc2OT
+ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
+LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
+Q3Mjk3LDU1MzIxNDg2NF19
 -->
