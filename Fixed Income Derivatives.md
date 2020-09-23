@@ -304,15 +304,15 @@ The yield of 5s of 2/15/2011 at 2/15/2001 is $y=5%$. What is its $DV01$?
 
 $P(y)=100$ because $c=y=0.05$.
 
-$P(y+0.01\%)=$
+$P(y+0.01\%)=\Big (\frac{0.05}{0.0501} \Big[ 1-\frac{1}{(1+\frac{0.0501}{2})^{20}} \Big] +\frac{1}{(1+\frac{0.0501}{2})^{20}} \Big) \times100=$
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDczOTQ2LDM0MjQzOTUzNCwxNzY5MT
-EzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUs
-ODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyND
-cyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbMTA5NDQ4NTEzNywzNDI0Mzk1MzQsMTc2OT
+ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
+LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
+Q3Mjk3LDU1MzIxNDg2NF19
 -->
