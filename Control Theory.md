@@ -102,7 +102,7 @@ $$.
 
 ### Computing 
 
-Given $A=TDT^{-1}$, the computation of $e^{At}$ can be simplified by the use of the eigenv.
+Given $A=TDT^{-1}$, the computation of $e^{At}$ can be simplified by the use of the eigenvector and eigenvalue matrices as $$e^{At}=T e^{Dt} T^{-1}$$.
 
 #### Proof
 $$
@@ -141,5 +141,5 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDYwOTczMTcsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbLTIwODM4Mzk5MjYsMTA0NzM2NzMzOV19
 -->
