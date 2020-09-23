@@ -148,7 +148,7 @@ $\omega=\infty$, continuous compounding (theoretical modelling)
 
 ## Bond Yields
 
-The definition of yield-to-maturity of a coupon bond for settlement on a coupon payment is 
+The definition of yield-to-maturity (YTM) of a USD coupon bond (compounded semiannually) for settlement on a coupon payment is 
 
 $$
 \begin{aligned}
@@ -171,6 +171,7 @@ $$105.856=\frac{2.25}{1+\frac{1}{y}} + \frac{2.25}{(1+\frac{1}{y})^2} + \frac{10
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MT
-MwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbMjU2MjI5MTM2LDgxNTE4MTU5Miw1NzY3Nz
+cxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
+
 -->
