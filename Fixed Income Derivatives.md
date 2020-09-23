@@ -218,9 +218,9 @@ In fact, the discount factor, the swap rate, the spot rate and the forward rate 
 
 
 $$\begin{aligned}
-P &= \frac{c}{2}\bigg[ \frac{1}{\big(1+\frac{\hat{r}(0.5)}{2}\big)} +\frac{1}{\big(1+\frac{\hat{r}(1)}{2}\big)^2}+ \dots +\frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} \bigg] + \frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} 
-\\
-&=\frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} +\frac{c}{2} \sum_{i=1}^{2T}\frac{1}{\big(1+\frac{\hat{r}(\frac{i}{2})}{2}\big)^{i}}
+	P &= \frac{c}{2}\bigg[ \frac{1}{\big(1+\frac{\hat{r}(0.5)}{2}\big)} +\frac{1}{\big(1+\frac{\hat{r}(1)}{2}\big)^2}+ \dots +\frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} \bigg] + \frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} 
+	\\
+	&=\frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} +\frac{c}{2} \sum_{i=1}^{2T}\frac{1}{\big(1+\frac{\hat{r}(\frac{i}{2})}{2}\big)^{i}}
 \end{aligned}
 $$, where $P$ is the bond price, $c$ is the coupon rate; $\hat{r}(t)$ is the $t$-year spot rate compounded semiannually; and $T$ is the time to maturity in years.
 
@@ -264,11 +264,12 @@ $$f(t)=2\bigg[ \frac{d(t-0.5)}{d(t)} -1\bigg]$$
 
 
 
+### Calculating a bond price by forward rates
 
-#### Example 
-
-A 100,000,000 1.5‐year loan, six months forward (i.e., a loan made in six months for 1.5 years) will pay 103,797,070 in two years.
-
+$$\begin{aligned}
+	P &= \frac{c}{2}\bigg[ \frac{1}{\big(1+\frac{f(0.5)}{2}\big)} +\frac{1}{\big(1+\frac{\hat{r}(1)}{2}\big)^2}+ \dots +\frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} \bigg] + \frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} 
+\end{aligned}
+$$, where $P$ is the bond price, $c$ is the coupon rate; $\hat{r}(t)$ is the $t$-year spot rate compounded semiannually; and $T$ is the time to maturity in years.
 
 
 ---
@@ -276,7 +277,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTE1NDI4NSwzNDI0Mzk1MzQsMTc2OT
+eyJoaXN0b3J5IjpbLTgwOTM3OTkyMywzNDI0Mzk1MzQsMTc2OT
 ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
 LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
 Q3Mjk3LDU1MzIxNDg2NF19
