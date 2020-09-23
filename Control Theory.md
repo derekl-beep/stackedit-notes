@@ -69,9 +69,9 @@ $$
 
 $$
 \begin{aligned}
-\mathcal{L}^{-1}\left\{f(d)\right\} &= \mathcal{L}^{-1}\left\{f_1(\delta).f_2(\delta)\right\} \\
-& = \exp(mt) \star \left\{\frac{l}{2\sqrt{\pi t^3}} exp(-l^2/{4t})\right\} \\
-& = F_1 * F_2
+\dot{x} &= Ax  \\
+T\dot{z} &= ATz \\
+\dot{z} &= T^{-1}ATz \\
 \end{aligned}
 $$
 
@@ -153,6 +153,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNjU5OTI0LDE3NzA5MzI2MjAsMTA0Nz
-M2NzMzOV19
+eyJoaXN0b3J5IjpbLTEzODEyMDE1OTEsMTc3MDkzMjYyMCwxMD
+Q3MzY3MzM5XX0=
 -->
