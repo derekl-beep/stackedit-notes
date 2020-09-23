@@ -68,6 +68,15 @@ $$
 
 
 $$
+\begin{aligned}
+\mathcal{L}^{-1}\left\{f(d)\right\} &= \mathcal{L}^{-1}\left\{f_1(\delta).f_2(\delta)\right\} \\
+& = \exp(mt) \star \left\{\frac{l}{2\sqrt{\pi t^3}} exp(-l^2/{4t})\right\} \\
+& = F_1 * F_2
+\end{aligned}
+$$
+
+
+$$
 \begin{Bmatrix}  
 \dot{z_1} \\ \dot{z_2} \\ \vdots \\ \dot{z_n}
 \end{Bmatrix}
@@ -81,6 +90,7 @@ $$
 z_1 \\ z_2 \\ \vdots \\ z_n
 \end{Bmatrix}
 $$
+
 
 The dynamics are, hence, decoupled in the transformed coordinates, e.g. $$\dot{z}_i =  \lambda_i z_i$$ for $i=1,2,...,n$. 
 
@@ -143,6 +153,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDkzNTAwMiwxNzcwOTMyNjIwLDEwND
-czNjczMzldfQ==
+eyJoaXN0b3J5IjpbNTAxNjU5OTI0LDE3NzA5MzI2MjAsMTA0Nz
+M2NzMzOV19
 -->
