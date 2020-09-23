@@ -323,6 +323,9 @@ Therefore, $P(y-0.01\%)-P(y) \neq P(y)-P(y+0.01\%)$.
 For symmetry and higher accuracy, we redefine
 $$DV01=-\frac{P(y+0.01\%)-P(y-0.01\%)}{2}$$. This is similar to the **central difference** in finite difference methods to calculate for numerical differentiation, which results in a higher accuracy.
 
+### DV01 of bond & option
+
+
  
 
 ---
@@ -330,8 +333,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzE3MTAwLDQxNzI4MTk4NCwzNDI0Mz
-k1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMs
-NTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMD
-A0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbLTI2NTM0Nzg1OSw0MTcyODE5ODQsMzQyND
+M5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUzMDIz
+LDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMz
+AwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
