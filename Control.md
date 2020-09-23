@@ -1,5 +1,9 @@
+# Control Theory
+
 
 ## Overview
+
+// TBA
 
 ## Linear System Theory
 
@@ -97,12 +101,13 @@ z_1(0) \\ z_2(0) \\ \vdots \\ z_n(0)
 $$.
 
 
+## References
 
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjQyNzUwOSwtMTkyNzA1NzcsMTIyMj
-Y4ODAwMiwtNTE2NDEzNzUsLTE4MTUzNjA4NjYsOTk2NTA0MzAy
-LC0xNzQ4Njk3NjI1XX0=
+eyJoaXN0b3J5IjpbMjE3OTQ4NzYzLC0xOTI3MDU3NywxMjIyNj
+g4MDAyLC01MTY0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIs
+LTE3NDg2OTc2MjVdfQ==
 -->
