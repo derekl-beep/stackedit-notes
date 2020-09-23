@@ -200,7 +200,7 @@ Step 2: Linearize $f$ about $\bar{x}$ using the Jocabian matrix $\frac{Df}{Dx}|_
 
 ### Example
 
-Given 
+Given $$\begin{aligned} \dot{x_1} &= f_1(x_1, x_2) &= \end{aligned}$$
 
 ## References
 
@@ -216,7 +216,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTYxODA0MCwtMTM1NDgwNTQ5LC02Mj
+eyJoaXN0b3J5IjpbMTUzNzM1NDk0NywtMTM1NDgwNTQ5LC02Mj
 cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
 NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
 cwOTMyNjIwLDEwNDczNjczMzldfQ==
