@@ -1,5 +1,7 @@
 # Fixed Income Derivatives
 
+## Overiv
+
 This notes are based on my coursework of [MATH 4511](https://prog-crs.ust.hk/ugcourse/2020-21/MATH) - Quantitative Methods for Fixed Income Derivatives back at HKUST, Math Department.
 
 ### Course description
@@ -7,10 +9,14 @@ Bond, bond markets and interest-rate derivatives markets. Yields, forward rate a
 
 ### Prerequisite(s)
 - Multivariable calculus
-- 
+- Linear algebra
+- Probability
+- Background in financial markets
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzM2Mzk4NF19
+eyJoaXN0b3J5IjpbMzU3MzcwMDcyXX0=
 -->
