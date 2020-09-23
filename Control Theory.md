@@ -7,7 +7,7 @@
 
 ## Linear Systems
 
-Linear systems of ordinary differential equations (ODEs) ca
+Linear systems of ordinary differential equations (ODEs) 
 
 $$
 \dot{x}=Ax
@@ -26,11 +26,11 @@ $$
 , where $e^{At}=I+tA+\frac{t^2}{2!}A^2+\frac{t^3}{3!}A^3+...$. 
 However, computing this infinite sum of matrices are numerically difficult. 
 
-### Eigenvalues and Eigenvector of the System Matrix
+### Eigenvalues and Eigenvectors of the System Matrix
 
 $$A \xi = \lambda \xi$$
 
-Any vector $\xi_i \in \mathbb{R}^n \neq 0$ and constant $\lambda_i \in \mathbb{R}$ satisfying this equation are the **eigenvector** and the **eigenvalue** of matrix $A$.
+Any vector $\xi_i \in \mathbb{R}^n \neq 0$ and constant $\lambda_i \in \mathbb{R}$ satisfying this equation are the **eigenvector** and the **eigenvalue** of matrix $A$ respectively.
 
 Tackling dynamical systems in the eigenvector coordinates are advantageous. It gives us diagonal system dynamics, which is easier to be solved.
 
@@ -114,5 +114,5 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk3Mjc4MDRdfQ==
+eyJoaXN0b3J5IjpbLTEyNjQzMTM3NjJdfQ==
 -->
