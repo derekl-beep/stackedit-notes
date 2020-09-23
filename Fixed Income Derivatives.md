@@ -36,7 +36,7 @@ Reference books
 - Binomial interest‐rate model for bond options
 - Mortgage mathematics
 
-
+# 1 - Bond Prices, Discount Factors, and Arbitrage
 
 ## Discount Factors
 
@@ -133,7 +133,7 @@ The cost of the replicating portfolio = $\frac{-1.779}{100}\times 100.550+ \frac
 // TBA
 ```
 
-# Ch.2 Bond Prices, Spot Rates and Forward Rates
+# 2 Bond Prices, Spot Rates and Forward Rates
 
 ## Popular Compounding Frequencies
 
@@ -188,7 +188,7 @@ Pull to par is the movement of a **bond's price toward its face value** as it ap
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3Nz
-cxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
-
+eyJoaXN0b3J5IjpbODQyNTIzMTk1LDU5NTc2NzM2NSw4MTUxOD
+E1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1
+NTMyMTQ4NjRdfQ==
 -->
