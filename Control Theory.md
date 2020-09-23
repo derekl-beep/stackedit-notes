@@ -32,7 +32,7 @@ $$A \xi = \lambda \xi$$
 
 Any vector $\xi_i \in \mathbb{R}^n \neq 0$ and constant $\lambda_i \in \mathbb{R}$ satisfying this equation are the **eigenvector** and the **eigenvalue** of matrix $A$ respectively.
 
-Tackling dynamical systems in the eigenvector coordinates are advantageous. It gives us diagonal system dynamics, which is easier to be solved.
+Tackling dynamical systems in the eigenvector coordinates are advantageous. It gives us diagonal system dynamics, which is easier to solve.
 
 Define 
 
@@ -103,7 +103,7 @@ $$.
 
 ## References
 
-- Fourier Analysis (YouTube Playlist)
+- Control Boo (YouTube Playlist)
 Prof. Steven L. Brunton
 University of Washington
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>
@@ -114,5 +114,5 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQzMTM3NjJdfQ==
+eyJoaXN0b3J5IjpbLTI4NDg1MDc3MF19
 -->
