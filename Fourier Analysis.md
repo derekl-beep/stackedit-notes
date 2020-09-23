@@ -172,8 +172,9 @@ $$
 To extend the Fourier series to the Fourier transform, we take limitation of the period to the infinity, i.e. $[-L, L] \rarr (-\infty, \infty)$ and $\Delta \omega \rarr 0$. The resolution with which we can resolve the frequencies becomes infinitesimally small, and the summation in the Fourier series becomes a Riemann integral.
 
 $$
+\begin{aligned}
 f(x)
-	=\lim_{\Delta \omega \rarr 0} \sum_{k=-\infty}^{\infty} \Big( { \frac{\Delta \omega}{2 \pi} \int_{-\pi / \Delta \omega}^{\pi / \Delta \omega} {f(\xi)e^{i k\Delta \omega \xi}} d\xi \Big) e^{i k\Delta \omega x}}
+=\lim_{\Delta \omega \rarr 0} \sum_{k=-\infty}^{\infty} \Big( { \frac{\Delta \omega}{2 \pi} \int_{-\pi / \Delta \omega}^{\pi / \Delta \omega} {f(\xi)e^{i k\Delta \omega \xi}} d\xi \Big) e^{i k\Delta \omega x}}
 	\\
 	{}
 	\\
@@ -222,40 +223,11 @@ Expressing $\hat{g}(\omega)$ as a Fourier transform of $g(x)$ gives
 
 $$
 \begin{aligned}
-   \mathcal{F}^{-1}(\hat{f}(\omega) \hat{g}(\omega))
-  \end{aligned}\\
-  &\begin{aligned}
-=\frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) \Bigg(\int_{-\infty}^{\infty} {g(y)e^{-i \omega y}dy} \Bigg) e^{i \omega x} d \omega
-  \end{aligned}\\
-  &\begin{aligned}
- = \int_{-\infty}^{\infty} g(y) \Bigg(  \frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) e^{i \omega (x-y)} d\omega \Bigg) dy
-  \end{aligned}\\
-  &\begin{aligned}
-= \int_{-\infty}^{\infty} f(x-y)  g(y) dy
-\end{aligned}\\
-	&\begin{aligned}
-	= f*g
-	\end{aligned}
-\end{aligned}
-$$
-
-$$
-\begin{aligned}
-  &\begin{aligned}
-   \mathcal{F}^{-1}(\hat{f}(\omega) \hat{g}(\omega))
-  \end{aligned}\\
-  &\begin{aligned}
-=\frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) \Bigg(\int_{-\infty}^{\infty} {g(y)e^{-i \omega y}dy} \Bigg) e^{i \omega x} d \omega
-  \end{aligned}\\
-  &\begin{aligned}
- = \int_{-\infty}^{\infty} g(y) \Bigg(  \frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) e^{i \omega (x-y)} d\omega \Bigg) dy
-  \end{aligned}\\
-  &\begin{aligned}
-= \int_{-\infty}^{\infty} f(x-y)  g(y) dy
-\end{aligned}\\
-	&\begin{aligned}
-	= f*g
-	\end{aligned}
+\mathcal{F}^{-1}(\hat{f}(\omega) \hat{g}(\omega))
+&= \frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) \Bigg(\int_{-\infty}^{\infty} {g(y)e^{-i \omega y}dy} \Bigg) e^{i \omega x} d \omega \\
+&= \int_{-\infty}^{\infty} g(y) \Bigg(  \frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) e^{i \omega (x-y)} d\omega \Bigg) dy \\
+&= \int_{-\infty}^{\infty} f(x-y)  g(y) dy \\
+&= f*g
 \end{aligned}
 $$
 
@@ -297,11 +269,11 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjM0MDg5OCwtMjcyMzc3MjY0LC0xMz
-czNTg1NjM5LDEyNjk3MDQ1MjEsMTA1NDM4Njg2NCwtNjA2MTU5
-OTYxLDE1NzQ1OTUyMjksMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NC
-wxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3
-MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2Mz
-QzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIw
-ODY5ODJdfQ==
+eyJoaXN0b3J5IjpbLTExMjUyMzg2NzcsLTI3MjM3NzI2NCwtMT
+M3MzU4NTYzOSwxMjY5NzA0NTIxLDEwNTQzODY4NjQsLTYwNjE1
+OTk2MSwxNTc0NTk1MjI5LDE1MzQyMTc0OTYsLTE3ODMxOTMzNz
+QsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0LC0xNzEx
+NzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3Nj
+M0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcy
+MDg2OTgyXX0=
 -->
