@@ -367,7 +367,13 @@ $$
 \end{aligned}
 $$
 
+As duration and DV01 is linearly related, duration-neutral and DV01-neutral is the same hedging strategy.
+
+
+
 ## Convexity
+
+The convexity is a second‐order Taylor approximation of the price‐rate function
 
 
 ---
@@ -375,7 +381,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU5NDY0NzIsMzc4NzA0MzU5LDQxNz
+eyJoaXN0b3J5IjpbLTIxMTYzMTgzMDEsMzc4NzA0MzU5LDQxNz
 I4MTk4NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODEx
 LDE1MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3Nz
 cxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
