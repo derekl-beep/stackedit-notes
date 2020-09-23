@@ -215,7 +215,11 @@ In fact, the discount factor, the swap rate, the spot rate and the forward rate 
 
 ## Forward Rates
 
-A forward rate is the rate on a forward loan, which is an agreement to lend money at some time in the future to be repaid some time after that.
+A forward rate is the rate on a **forward loan**, which is an agreement to lend money at some time in the future to be repaid some time after that.
+
+#### Example 
+
+A 100,000,000 1.5‐year loan, six months forward (i.e., a loan made in six months for 1.5 years) will pay 103,797,070 in two years.
 
 
 
@@ -224,7 +228,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTM0ODI4MTYsMTc2OTExMzkwNiwtNz
+eyJoaXN0b3J5IjpbLTEzNzAzOTk3NzYsMTc2OTExMzkwNiwtNz
 M5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5
 Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1Mz
 IxNDg2NF19
