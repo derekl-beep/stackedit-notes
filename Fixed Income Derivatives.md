@@ -229,7 +229,7 @@ Forward rates are related to spot rates.
 
 $$
 \begin{aligned}
-	
+	\Big( 1+\frac{\hat{r}(t)}{2} \Big)^{2t} &= \Big( 1+\frac{\hat{r}(t-0.5)}{2} \Big)^{2(t-0.5)}
 \end{aligned}
 $$
 
@@ -246,8 +246,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzE3NDQ4NSwxNzY5MTEzOTA2LC03Mz
-k0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTky
-LDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMj
-E0ODY0XX0=
+eyJoaXN0b3J5IjpbLTIwOTc4NTk4MzcsMTc2OTExMzkwNiwtNz
+M5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5
+Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1Mz
+IxNDg2NF19
 -->
