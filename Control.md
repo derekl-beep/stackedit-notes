@@ -56,7 +56,10 @@ $$
 \lambda_1 & 0 & \dots & 0 \\  
 0 & \lambda_2 & \dots & 0 \\
 \vdots & \vdots &\ddots & \vdots \\
-x_m^T x_1 & x_m^T x_2 & \dots & x_m^T x_m
+0 & 0 & \dots & \lambda_n
+\end{bmatrix}
+\begin{bmatrix}
+z_1 \\ z_2 \\ \vdots \\ z_n
 \end{bmatrix}
 $$
 
@@ -69,7 +72,7 @@ Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ3MjY1NzUsMTIyMjY4ODAwMiwtNT
-E2NDEzNzUsLTE4MTUzNjA4NjYsOTk2NTA0MzAyLC0xNzQ4Njk3
-NjI1XX0=
+eyJoaXN0b3J5IjpbMjAwMDkyMjI1MiwxMjIyNjg4MDAyLC01MT
+Y0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIsLTE3NDg2OTc2
+MjVdfQ==
 -->
