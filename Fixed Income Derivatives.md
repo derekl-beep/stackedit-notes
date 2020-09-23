@@ -382,6 +382,13 @@ $$
 \end{aligned}
 $$. Dividing both side by the bond price gives
 
+$$
+\begin{aligned}
+	\frac{\Delta P}{P} &\approx  \frac{1}{P}\frac{dP}{dy}\Delta y+\frac{1}{2}\frac{1}{P}\frac{d^2P}{dy^2}\Delta y^2   \\
+	&= -D\Delta y+\frac{1}{2}C
+\end{aligned}
+$$
+
 
 
 ---
@@ -389,7 +396,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTY4NDk2MiwzNzg3MDQzNTksNDE3Mj
+eyJoaXN0b3J5IjpbMjAzNjY4MjYzNiwzNzg3MDQzNTksNDE3Mj
 gxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEs
 MTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3Nz
 EwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
