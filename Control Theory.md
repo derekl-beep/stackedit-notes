@@ -104,11 +104,32 @@ $$.
 
 We have $$A=TDT^{-1}$$.
 
-$$e^{At}=e^{TDT^{-1}t} \\ \\
+$$e^{At} \\
+=e^{TDT^{-1}t} \\ \\
 =I+t TDT^{-1}+\frac{t^2}{2!}(TDT^{-1})^2+\frac{t^3}{3!}(TDT^{-1})^3+... \\ \\
 =TT^{-1}+t TDT^{-1}+\frac{t^2}{2!}TD^2T^{-1}+\frac{t^3}{3!}TD^3T^{-1}+... \\\\
 =T(I+tD+\frac{t^2}{2!}D^2+\frac{t^3}{3!}D^3+...)T^{-1} \\ \\
 =T e^{Dt} T^{-1}
+$$
+
+$$
+\begin{aligned}
+  &\begin{aligned}
+   e^{At} 
+  \end{aligned} \\
+  &\begin{aligned}
+=\frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) \Bigg(\int_{-\infty}^{\infty} {g(y)e^{-i \omega y}dy} \Bigg) e^{i \omega x} d \omega
+  \end{aligned}\\
+  &\begin{aligned}
+ = \int_{-\infty}^{\infty} g(y) \Bigg(  \frac{1}{2\pi}\int_{-\infty}^{\infty} \hat{f}(\omega) e^{i \omega (x-y)} d\omega \Bigg) dy
+  \end{aligned}\\
+  &\begin{aligned}
+= \int_{-\infty}^{\infty} f(x-y)  g(y) dy
+\end{aligned}\\
+	&\begin{aligned}
+	= f*g
+	\end{aligned}
+\end{aligned}
 $$
 
 
@@ -124,5 +145,5 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTYyMzE0NSwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbNDEyNDI4NjEyLDEwNDczNjczMzldfQ==
 -->
