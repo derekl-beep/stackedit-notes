@@ -409,7 +409,10 @@ The risk that rates along the term structure move by different amounts is known 
 
 # 7 - The Science of Term Structure Models
 
-## Lognormal Model for 
+### Lognormal Model for Equity Prices (Black‐Scholes, 1973)
+
+$$\frac{\Delta S_t}{S_t}=\mu_t \Delta t+\sigma \Delta W_t$$
+
 # 9 - The Art of Term Structure Models: Drifts
 
 // TBA
@@ -430,9 +433,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDQ5OTc4NCwtMTE5NjM1NTYyNCwtOT
-QxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5ODQsMzQyNDM5NTM0
-LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NT
-c2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIz
-LDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbLTExMzQ0MjQxMzEsMTU0NDQ5OTc4NCwtMT
+E5NjM1NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5
+ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNT
+AzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0
+LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
