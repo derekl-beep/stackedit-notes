@@ -306,15 +306,17 @@ $P(y)=100$ because $c=y=0.05$.
 
 $P(y+0.01\%)=100 \Big (\frac{0.05}{0.0501} \Big[ 1-\frac{1}{(1+\frac{0.0501}{2})^{20}} \Big] +\frac{1}{(1+\frac{0.0501}{2})^{20}} \Big)=99.9221$
 
-$DV01=-99.9221+100=$
+$DV01=-99.9221+100=0.07791$
+
+For 1 basis point change in the yield, the bond price is approximately changed (either increase / decrease) by $0.07791.
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDM2NjM0NSwzNDI0Mzk1MzQsMTc2OT
-ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
-LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
-Q3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbNDE3MjgxOTg0LDM0MjQzOTUzNCwxNzY5MT
+EzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUs
+ODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyND
+cyOTcsNTUzMjE0ODY0XX0=
 -->
