@@ -248,6 +248,10 @@ $$\Delta \dot{x} = \frac{Df}{Dx}|_{\bar{x}} \Delta x = A \Delta x$$
 #### Remark
 The approximation is only true around the vincinity of $\bar{x}$, where the system is instantaneous stable, by adding feedback control, e.g. $u=-Kx$, we aim to stablize the system around $\bar{x}$. Therefore, $A=\frac{Df}{Dx}|_{\bar{x}}$ can be considered as time-invariant, and is a good linear approximation of $f(x)$ within the space we're interested in.
 
+### Example: Pendulum
+
+EOM: $\ddot{\theta}=-\frac{g}{L} \sin \theta -\delta \dot{\theta}$$
+
 ## References
 
 - Control Bootcamp (YouTube Playlist)
@@ -262,8 +266,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1NjM2MjEyLC0xMzU0ODA1NDksLTYyNz
-I1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5NjY2
-MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3Nz
-A5MzI2MjAsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbLTIxMjQwOTExNDYsLTEzNTQ4MDU0OSwtNj
+I3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2
+NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMT
+c3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
 -->
