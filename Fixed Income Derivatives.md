@@ -138,8 +138,16 @@ The cost of the replicating portfolio = $\frac{-1.779}{100}\times 100.550+ \frac
 
 ## Bond Yields
 
+The definition of yield-to-maturity of a coupon bond for settlement on a coupon payment is 
+
+$$
+\begin{aligned}
+P &= 
+\end{aligned}
+$$
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODM1OTQ5MiwtMTE0MTMwMDQyMyw0Mj
-gyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbLTE1MDcxNzYyODYsLTExNDEzMDA0MjMsND
+I4MjQ3Mjk3LDU1MzIxNDg2NF19
 -->
