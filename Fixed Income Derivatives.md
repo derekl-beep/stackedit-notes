@@ -409,8 +409,7 @@ The risk that rates along the term structure move by different amounts is known 
 
 # 7 - The Science of Term Structure Models
 
-// TBA
-
+## Lognormal Model for 
 # 9 - The Art of Term Structure Models: Drifts
 
 // TBA
@@ -431,9 +430,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTYzNTU2MjQsLTk0MTI5MzA3NCwzNz
-g3MDQzNTksNDE3MjgxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2
-LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MT
-gxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcs
-NTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbMTU0NDQ5OTc4NCwtMTE5NjM1NTYyNCwtOT
+QxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5ODQsMzQyNDM5NTM0
+LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NT
+c2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIz
+LDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
