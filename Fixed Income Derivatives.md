@@ -333,7 +333,7 @@ This makes use of the first-order Taylor expansion of the portfolio value r.s.t.
 
 ### Example
 
-A market maker sells $100M face value of the call option when the yield is 5%. How should the market maker hedge the market risk? Given $DV01$
+A market maker sells \$ 100M face value of the call option when the yield is 5\%. How should the market maker hedge the market risk? Given $DV01$ 
 
 Let $F$ be the face value for bond buying, then $F$ is subject to
 
@@ -342,7 +342,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDEwMDYxLDM3ODcwNDM1OSw0MTcyOD
+eyJoaXN0b3J5IjpbMTIzODU0NzU5LDM3ODcwNDM1OSw0MTcyOD
 E5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwx
 NTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MT
 A0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
