@@ -103,16 +103,16 @@ $$.
 
 ## References
 
-[1] Fourier Analysis (YouTube Playlist)
+- Fourier Analysis (YouTube Playlist)
 Prof. Steven L. Brunton
 University of Washington
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>
 
-Data-driven Science and Engineering - Machine Learning, Dynamical Systems and Control
+- Data-driven Science and Engineering - Machine Learning, Dynamical Systems and Control
 http://databookuw.com
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDIwNjc1N119
+eyJoaXN0b3J5IjpbMjAwODcyMzY0Nl19
 -->
