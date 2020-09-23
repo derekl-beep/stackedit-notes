@@ -302,17 +302,17 @@ The concept is similar to the delta value of an option, where $\Delta=\frac{\par
 
 The yield of 5s of 2/15/2011 at 2/15/2001 is $y=5%$. What is its $DV01$?
 
-$P(y)=100$
+$P(y)=100$ because $c=y=0.05$.
 
-$$
+$P(y+0.01\%)=$
 
 ---
 More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMyNzA3NjUsMzQyNDM5NTM0LDE3Nj
-kxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2
-NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyOD
-I0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbMjA1MDczOTQ2LDM0MjQzOTUzNCwxNzY5MT
+EzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUs
+ODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyND
+cyOTcsNTUzMjE0ODY0XX0=
 -->
