@@ -102,7 +102,7 @@ $$.
 
 ### Closed-form expression of  $e^{At}$
 
-Given $A=TDT^{-1}$, the computation of $e^{At}$ can be simplified by the use of the eigenvector and eigenvalue matrices as $$e^{At}=T e^{Dt} T^{-1}$$, and hence, $$x(t)=$$
+Given $A=TDT^{-1}$, the computation of $e^{At}$ can be simplified by the use of the eigenvector and eigenvalue matrices as $$e^{At}=T e^{Dt} T^{-1}$$, and hence, $$x(t)=T e^{Dt} T^{-1}x(0)$$.
 
 #### Proof
 $$
@@ -143,6 +143,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNDA5NzQ2LDE3NzA5MzI2MjAsMTA0Nz
-M2NzMzOV19
+eyJoaXN0b3J5IjpbLTQwMDkzNTAwMiwxNzcwOTMyNjIwLDEwND
+czNjczMzldfQ==
 -->
