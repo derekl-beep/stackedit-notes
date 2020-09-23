@@ -126,7 +126,15 @@ Stability tells us what the states of the systems will be as time goes to infini
 
 The basic solution given the initial condition is $$x(t)=Te^{Dt}T^{-1}x(0)$$.
 
-The stability of the system only depends on the time-varying quantities, i.e. $e^{Dt}$.
+The stability of the system only depends on the time-varying quantities, i.e. $e^{Dt}$. 
+
+$$e^{Dt}=\begin{bmatrix}  
+e^{\lambda_1 t} & 0 & \dots & 0 \\  
+0 & e^{\lambda_2 t} & \dots & 0 \\
+\vdots & \vdots &\ddots & \vdots \\
+0 & 0 & \dots & e^{\lambda_n t}
+\end{bmatrix}$$
+
 
 
 
@@ -143,6 +151,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxOTMyMjM0LDIwMzAxNzQwMDEsMTc3MD
-kzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbLTM0MTA0NTc0MiwyMDMwMTc0MDAxLDE3Nz
+A5MzI2MjAsMTA0NzM2NzMzOV19
 -->
