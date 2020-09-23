@@ -152,7 +152,9 @@ To control an unstable system with feedbacks, e.g. $u=-Kx$, the system behaviour
 
 $$\dot{x}=Ax+Bu=Ax-BKx=(A-BK)x$$
 
+### Discrete-time systems
 
+$$x_{k+1}=A_$$
 
 ## References
 
@@ -166,7 +168,7 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjE5NjY2MywtMTIwMzQ2NjU1MSwtOD
-U4NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2MjAsMTA0NzM2NzMz
-OV19
+eyJoaXN0b3J5IjpbOTMwNDU4NzY2LDE4NDYxOTY2NjMsLTEyMD
+M0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIw
+LDEwNDczNjczMzldfQ==
 -->
