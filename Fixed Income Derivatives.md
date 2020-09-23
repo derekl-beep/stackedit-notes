@@ -421,7 +421,7 @@ The risk that rates along the term structure move by different amounts is known 
 # 18 - Eurodollar Futures
 // TBA
 
-# 18II - The Black’s formula for caps and swaptions
+# 18II - The Black’s Formula for Caps and Swaptions
 
 //TBA
 
@@ -431,7 +431,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzgwNjExMjgsLTk0MTI5MzA3NCwzNz
+eyJoaXN0b3J5IjpbLTExOTYzNTU2MjQsLTk0MTI5MzA3NCwzNz
 g3MDQzNTksNDE3MjgxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2
 LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MT
 gxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcs
