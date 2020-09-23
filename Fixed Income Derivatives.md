@@ -267,7 +267,7 @@ $$f(t)=2\bigg[ \frac{d(t-0.5)}{d(t)} -1\bigg]$$
 ### Calculating a bond price by forward rates
 
 $$\begin{aligned}
-	P &= \frac{c}{2}\bigg[ \frac{1}{\big(1+\frac{f(0.5)}{2}\big)} +\frac{1}{\big(1+\frac{\hat{r}(1)}{2}\big)^2}+ \dots +\frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} \bigg] + \frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} 
+	P &= \frac{c}{2}\bigg[ \frac{1}{\big(1+\frac{f(0.5)}{2}\big)} +\frac{1}{\big(1+\frac{f(0.5)}{2}\big)\big(1+\frac{f(1)}{2}\big)}+ \dots +\frac{1}{\big(1+\frac{f(0.5)}{2}\big)\big(1+\frac{f(1)}{2}\big)\dots\big(1+\frac{f(T)}{2}\big)} \bigg] + \frac{1}{\big(1+\frac{\hat{r}(T)}{2}\big)^{2T}} 
 \end{aligned}
 $$, where $P$ is the bond price, $c$ is the coupon rate; $\hat{r}(t)$ is the $t$-year spot rate compounded semiannually; and $T$ is the time to maturity in years.
 
@@ -277,7 +277,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTM3OTkyMywzNDI0Mzk1MzQsMTc2OT
+eyJoaXN0b3J5IjpbMTg3NjExOTAzMiwzNDI0Mzk1MzQsMTc2OT
 ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
 LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
 Q3Mjk3LDU1MzIxNDg2NF19
