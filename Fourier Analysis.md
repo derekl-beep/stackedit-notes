@@ -79,15 +79,17 @@ The functions with different frequency are orthogonal to each others. This can b
 $$
 \begin{aligned}
 \langle \Psi_j, \Psi_k \rangle
-=\int_{-\pi}^{\pi} {e^{ikx} e^{-ijx}} dx
-=\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx
-= \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi}
-=\left\{ \begin{array}{l}
+&= \int_{-\pi}^{\pi} {e^{ikx} e^{-ijx}} dx \\
+&=\int_{-\pi}^{\pi} {e^{i(k-j)x}} dx \\
+&= \frac{1}{i(k-j)} \Big[ {e^{i(k-j)x}}  \Big]_{-\pi}^{\pi} \\
+&=\left\{ \begin{array}{l}
 	0, \text{if } j \neq k\\
 	2 \pi, \text{if } j=k 
 	\end{array}
-	\right. .
+	\right..
+\end{aligned}
 $$
+
 
 The Fourier series of a function can be expressed as an infinite sum of ...
 
@@ -268,11 +270,11 @@ https://github.com/dynamicslab/databook_python
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTYwMzA3NSwtMjcyMzc3MjY0LC0xMz
-czNTg1NjM5LDEyNjk3MDQ1MjEsMTA1NDM4Njg2NCwtNjA2MTU5
-OTYxLDE1NzQ1OTUyMjksMTUzNDIxNzQ5NiwtMTc4MzE5MzM3NC
-wxMjA3MTI3MzIyLDM1OTEwMTkyNiwzNDgzMDE5MTQsLTE3MTE3
-MzMzMDgsODE3MDgwOTU5LC0yMDgxMzUxNzU1LC0xMTM5NDc2Mz
-QzLDUxMzE2MjMzMyw4NDg2NjE1MiwtMTEyNDY2MDE0LDIwNzIw
-ODY5ODJdfQ==
+eyJoaXN0b3J5IjpbLTE3OTc2NDQ0MDQsLTI3MjM3NzI2NCwtMT
+M3MzU4NTYzOSwxMjY5NzA0NTIxLDEwNTQzODY4NjQsLTYwNjE1
+OTk2MSwxNTc0NTk1MjI5LDE1MzQyMTc0OTYsLTE3ODMxOTMzNz
+QsMTIwNzEyNzMyMiwzNTkxMDE5MjYsMzQ4MzAxOTE0LC0xNzEx
+NzMzMzA4LDgxNzA4MDk1OSwtMjA4MTM1MTc1NSwtMTEzOTQ3Nj
+M0Myw1MTMxNjIzMzMsODQ4NjYxNTIsLTExMjQ2NjAxNCwyMDcy
+MDg2OTgyXX0=
 -->
