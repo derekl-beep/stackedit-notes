@@ -294,7 +294,7 @@ Yield‐based risk management
 
 Suppose the price of a fixed income security is a function of a yield, $y$, then DV01 of the security is the change in price for one-basis point (i.e. 0.01%) of the change in yield.
 
-$$DV01=-\frac{1}{10,000} \frac{\partial P}{}$$
+$$DV01=-\frac{1}{10,000} \frac{\partial P}{\partial y}$$, or (practically)
 
 $$DV01=-P(y+0.01\%)+P(y)=-\Delta P(y)$$. This measures the sensitivity of the price of the security to the yield.
 
@@ -335,8 +335,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDUyMzMsNDE3MjgxOTg0LDM0MjQzOT
-UzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1
-OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMD
-QyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbMzc4NzA0MzU5LDQxNzI4MTk4NCwzNDI0Mz
+k1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMs
+NTk1NzY3MzY1LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMD
+A0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
 -->
