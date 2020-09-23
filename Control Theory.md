@@ -193,7 +193,8 @@ The exponential part always has an amplitude within a unity.
 
 The non-linear dynamics of a system of ODEs can be described as $$\dot{x}=f(x)$$, where $x \in \mathbb{R}^n$ is the state vector.
 
-
+Step 1: find the fixed points $\bar{x}$ s.t. $f(\bar{x})=0$
+Step 2: Linear 
 
 ## References
 
@@ -209,8 +210,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE4MjgxNCwtMTM1NDgwNTQ5LC02Mj
-cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
-NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
-cwOTMyNjIwLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbMTMyNTY0MTY4LC0xMzU0ODA1NDksLTYyNz
+I1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5NjY2
+MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3Nz
+A5MzI2MjAsMTA0NzM2NzMzOV19
 -->
