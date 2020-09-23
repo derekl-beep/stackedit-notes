@@ -2,7 +2,7 @@
 
 ## Overview
 
-These notes are based on my coursework of [MATH 4511](https://prog-crs.ust.hk/ugcourse/2020-21/MATH) - Quantitative Methods for Fixed Income Derivatives back at [HKUST](https://www.ust.hk/home), Math Department, instructed by [Prof. Wu Lixin](https://www.math.ust.hk/~malwu/).
+These notes are based on my coursework in [MATH 4511](https://prog-crs.ust.hk/ugcourse/2020-21/MATH) - Quantitative Methods for Fixed Income Derivatives back at [HKUST](https://www.ust.hk/home), Math Department, instructed by [Prof. Wu Lixin](https://www.math.ust.hk/~malwu/).
 
 ### Course description
 Bond, bond markets and interest-rate derivatives markets. Yields, forward rate and swap rates. Yield-based risk management and regression-based hedging. Mortgage mathematics. Binomial models for equity and fixed-income derivatives. Arbitrage pricing and risk-neutral valuation principle. Eurodollar futures. Lognormal models and Black formula for caps and swaptions.
@@ -186,9 +186,11 @@ Pull to par is the movement of a **bond's price toward its face value** as it ap
 
 
 ---
+More notes can be found on https://github.com/derekl-beep/cs-notes.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjMxNzQ0NCw1OTU3NjczNjUsODE1MT
+eyJoaXN0b3J5IjpbMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MT
 gxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcs
 NTUzMjE0ODY0XX0=
 -->
