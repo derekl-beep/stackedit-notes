@@ -50,10 +50,16 @@ Suppose the $1\frac{1}{4}\%$ s of November 30, 2010 (6 months from now) is tradi
 
 ### Bootstrapping the Discount Factors
 
+<p align="center">
+	<img src="https://i.imgur.com/GzOkgy7.png" 
+	height="50%" width="50%"/>
+</p>
+
+>Source: https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC01_2_Gibbs.ipynb
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0NzM3NjkwLDQyODI0NzI5Nyw1NTMyMT
+eyJoaXN0b3J5IjpbMjMxMjU1MjgxLDQyODI0NzI5Nyw1NTMyMT
 Q4NjRdfQ==
 -->
