@@ -16,7 +16,7 @@ Bond, bond markets and interest-rate derivatives markets. Yields, forward rate a
 ### Textbook and Reference Books
 
 Textbook
-- Bruce, T. (2002) Fixed Income Securities: Tools for Today's Markets, 2nd edition (Wiley Finance)
+- Bruce, T. (2012) Fixed Income Securities: Tools for Today's Markets, 3rd edition. Wiley Finance.
 
 Reference books  
 - McDonald, Robert, L. (2014). Derivatives Markets, 3rd ed. Pearson.  
@@ -133,7 +133,7 @@ The cost of the replicating portfolio = $\frac{-1.779}{100}\times 100.550+ \frac
 // TBA
 ```
 
-# 2 Bond Prices, Spot Rates and Forward Rates
+# 2 - Yields, Spot Rates and Forward Rates
 
 ## Popular Compounding Frequencies
 
@@ -188,7 +188,7 @@ Pull to par is the movement of a **bond's price toward its face value** as it ap
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyNTIzMTk1LDU5NTc2NzM2NSw4MTUxOD
-E1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1
-NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbMTQ4NjMxNzQ0NCw1OTU3NjczNjUsODE1MT
+gxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcs
+NTUzMjE0ODY0XX0=
 -->
