@@ -223,10 +223,12 @@ $$
 \dot{x_1} \\ \dot{x_2}
 \end{Bmatrix}
 	 \approx \begin{bmatrix}
-	 x_2 & x_1 \\ 
-	 2x_1 & 2x_2
+	 \bar{x}_2 & \bar{x}_1 \\ 
+	 2\bar{x}_1 & 2\bar{x}_2
 	 \end{bmatrix} 
-	 
+	 \begin{Bmatrix}
+x_1 \\ x_2
+\end{Bmatrix}
 $$
 
 ## References
@@ -243,8 +245,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzA5MjU4MCwtMTM1NDgwNTQ5LC02Mj
-cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
-NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
-cwOTMyNjIwLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbLTE5NTQ5NzQ4NzcsLTEzNTQ4MDU0OSwtNj
+I3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2
+NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMT
+c3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
 -->
