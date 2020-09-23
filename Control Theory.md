@@ -7,7 +7,7 @@
 
 ## Linear Systems
 
-Linear systems of ordinary differential equations (ODEs) 
+Linear systems of ordinary differential equations (ODEs) ca
 
 $$
 \dot{x}=Ax
@@ -36,7 +36,7 @@ Tackling dynamical systems in the eigenvector coordinates are advantageous. It g
 
 Define 
 
-$$T=[\xi_1 \ \xi_2 ... \xi_n]$$ and $$D=\text{diag}([\lambda_1, \lambda_2,...,\lambda_n])
+$$T=[\xi_1 \ \xi_2 ... \xi_n] \in \mathbb{R}^{n \times n}$$ and $$D=\text{diag}([\lambda_1, \lambda_2,...,\lambda_n])
 =\begin{bmatrix}  
 \lambda_1 & 0 & \dots & 0 \\  
 0 & \lambda_2 & \dots & 0 \\
@@ -48,7 +48,7 @@ $$
 
 We have $$AT=TD$$.
 
-MATLAB functions:
+MATLAB function:
 ```matlab
 >> [T, D] = eig(A);
 ```
@@ -114,5 +114,5 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU1MTU5MjBdfQ==
+eyJoaXN0b3J5IjpbLTE0Nzk3Mjc4MDRdfQ==
 -->
