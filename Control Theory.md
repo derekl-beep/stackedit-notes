@@ -102,7 +102,7 @@ $$.
 
 ### Computing 
 
-We have $$A=TDT^{-1}$$.
+Given $A=TDT^{-1}$, the computation of $e^{At}$ can be simplified by the use of the eigenv.
 
 #### Proof
 $$
@@ -141,5 +141,5 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDcyMzI5NSwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbLTE0NDYwOTczMTcsMTA0NzM2NzMzOV19
 -->
