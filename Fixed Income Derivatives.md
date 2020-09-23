@@ -81,11 +81,13 @@ d(0.5) \\ d(1.0) \\d(1.5)
 \end{aligned}
 $$
 
+### Example
 
+Suppose the $3/4$ s of November 30, 2011 is trading at $100.19. There is an arbitrag
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYyNTE2OTIsNDI4MjQ3Mjk3LDU1Mz
+eyJoaXN0b3J5IjpbLTE4NzU2MTYyODIsNDI4MjQ3Mjk3LDU1Mz
 IxNDg2NF19
 -->
