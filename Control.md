@@ -25,7 +25,7 @@ $$
 
 $$A \xi = \lambda \xi$$
 
-Any vector $\xi_i \in \mathbb{}\neq 0$ and constant $\lambda_i$ satisfying this equation are the eigenvector and the eigenvalue of matrix $A$.
+Any vector $\xi_i \in \mathbb{R}^n \neq 0$ and constant $\lambda_i \in \mathbb{R}$ satisfying this equation are the eigenvector and the eigenvalue of matrix $A$.
 
 Tackling dynamical systems in the eigen-coordinates are advantageous.
 
@@ -54,7 +54,7 @@ Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzAwMDI3MSwxMjIyNjg4MDAyLC01MT
-Y0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIsLTE3NDg2OTc2
-MjVdfQ==
+eyJoaXN0b3J5IjpbLTExMTA3ODk1NzYsMTIyMjY4ODAwMiwtNT
+E2NDEzNzUsLTE4MTUzNjA4NjYsOTk2NTA0MzAyLC0xNzQ4Njk3
+NjI1XX0=
 -->
