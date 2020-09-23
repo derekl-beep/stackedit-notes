@@ -231,7 +231,8 @@ $$
 \begin{aligned}
 	\Big( 1+\frac{\hat{r}(t)}{2} \Big)^{2t} &= \Big( 1+\frac{\hat{r}(t-0.5)}{2} \Big)^{2(t-0.5)} \Big(1+\frac{f(t)}{2} \Big) \\
 	&= \Big( 1+\frac{\hat{r}(t-0.5)}{2} \Big)^{2t-1} \Big(1+\frac{f(t)}{2} \Big) \\
-\frac{1}{d(t)} &= \frac{}{}
+\frac{1}{d(t)} &= \frac{1}{d(t-0.5)}\Big(1+\frac{f(t)}{2} \Big)  \\
+1+\frac{f(t)}{2} &= \frac{d(t-0.5)}{d(t)}
 \end{aligned}
 $$
 
@@ -248,8 +249,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODk3NjE1MCwxNzY5MTEzOTA2LC03Mz
-k0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTky
-LDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMj
-E0ODY0XX0=
+eyJoaXN0b3J5IjpbMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOT
+Q0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIs
+NTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMT
+Q4NjRdfQ==
 -->
