@@ -166,12 +166,17 @@ $$105.856=\frac{2.25}{1+\frac{1}{y}} + \frac{2.25}{(1+\frac{1}{y})^2} + \frac{10
 
 ### Price‐yield Relationship
 
+### Coupon-yield Relationship
+
+- Par bond: when $c=y,P(T)=1$.  
+- Premium bond: when $c > y, P(T) > 1$.  
+• Bond sold at discount: when c < y, P(T) < 1.
 
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2MjI5MTM2LDgxNTE4MTU5Miw1NzY3Nz
-cxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxNDg2NF19
-
+eyJoaXN0b3J5IjpbMTI4MTI0ODgxNiw4MTUxODE1OTIsNTc2Nz
+c3MTA0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRd
+fQ==
 -->
