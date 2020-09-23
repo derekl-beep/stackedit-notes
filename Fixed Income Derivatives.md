@@ -59,15 +59,20 @@ Suppose the $1\frac{1}{4}\%$ s of November 30, 2010 (6 months from now) is tradi
 
 With the prices of a series of U.S. Treasury bonds, we can extracted the discount factors directly. For example, 
 
-$$\begin{bmatrix}
-100+\frac{1\frac{1}{4}}{2} & 0 & 0 \\
-\frac{4\frac{7}{8}}{2} & 100
-\end{bmatrix}
+$$
+\begin{bmatrix}
+	100+\frac{1\frac{1}{4}}{2} & 0 & 0 \\
+	\frac{4\frac{7}{8}}{2} & 100+\frac{4\frac{7}{8}}{2} & 0 \\
+	\frac{4\frac{1}{2}}{2} & \frac{4\frac{1}{2}}{2} & 100+\frac{4\frac{1}{2}}{2} 
+\end{bmatrix} 
+\begin{Bmatrix}
+d(0.5) \\ d(1) \\d(1.5)
+\end{Bmatrix}
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTU1MjAwMCw0MjgyNDcyOTcsNTUzMj
+eyJoaXN0b3J5IjpbMTQzMjA5MjA5MCw0MjgyNDcyOTcsNTUzMj
 E0ODY0XX0=
 -->
