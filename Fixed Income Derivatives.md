@@ -415,6 +415,7 @@ The risk that rates along the term structure move by different amounts is known 
 
 // TBA
 
+# 16 - Swaps and Swapotions
 
 
 ---
@@ -422,7 +423,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NDU3OTMwLC05NDEyOTMwNzQsMzc4Nz
+eyJoaXN0b3J5IjpbMTIyMDY4ODIzLC05NDEyOTMwNzQsMzc4Nz
 A0MzU5LDQxNzI4MTk4NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwt
 NzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MT
 U5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1
