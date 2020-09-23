@@ -36,6 +36,8 @@ $$T=[\xi_1 \ \xi_2 ... \xi_n]$$ and $$D=\text{diag}([\lambda_1, \lambda_2,...,\l
 
 , we have $$AT=TD$$.
 
+### Transfor
+
 Define $x=Tz$
 
 $$
@@ -54,7 +56,7 @@ Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTA3ODk1NzYsMTIyMjY4ODAwMiwtNT
-E2NDEzNzUsLTE4MTUzNjA4NjYsOTk2NTA0MzAyLC0xNzQ4Njk3
-NjI1XX0=
+eyJoaXN0b3J5IjpbLTQxNzI1MTExMCwxMjIyNjg4MDAyLC01MT
+Y0MTM3NSwtMTgxNTM2MDg2Niw5OTY1MDQzMDIsLTE3NDg2OTc2
+MjVdfQ==
 -->
