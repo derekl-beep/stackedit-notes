@@ -81,7 +81,7 @@ $$
 \end{aligned}
 $$
 
-### Example
+### Example (Arbitrage)
 
 Suppose the $3/4$ s of November 30, 2011 is trading at $100.19. We can show that there is an arbitrage oppurtunty.
 
@@ -190,7 +190,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MT
-gxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcs
-NTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbMTUzNDIzNDIzMSwxNTAzMDUzMDIzLDU5NT
+c2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIz
+LDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
