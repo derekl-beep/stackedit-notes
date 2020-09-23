@@ -227,10 +227,7 @@ Let $f(t)$ denote the forward rate on a loan from year $t−0.5$ to year $t$. Th
 
 ### Forward rates and spot rates
 
-$$f(t)=2\bigg[ \frac{(1+\frac{\hat{r}(t)}{2})^{2t}}{(1+\frac{\hat{r}(t-0.5)}{2})^{2t-1}}-1 \bigg]$$, or
-
-
-$$$$
+$$f(t)=2\bigg[ \frac{(1+\frac{\hat{r}(t)}{2})^{2t}}{(1+\frac{\hat{r}(t-0.5)}{2})^{2t-1}}-1 \bigg]$$
 
 #### Proof
 
@@ -245,6 +242,9 @@ $$
 	&= \Big( 1+\frac{\hat{r}(t-0.5)}{2} \Big)^{2t-1} \Big(1+\frac{f(t)}{2} \Big) \\
 \end{aligned}
 $$, and rearranging the terms gives $$f(t)=2\bigg[ \frac{(1+\frac{\hat{r}(t)}{2})^{2t}}{(1+\frac{\hat{r}(t-0.5)}{2})^{2t-1}}-1 \bigg]$$.
+
+Alternatively, a spot rate can be expressed as the product of sequential forward rates, i.e. 
+$$$$
 
 ### Forward rates and discount factors
 
@@ -264,8 +264,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjk2OTEzNSwzNDI0Mzk1MzQsMTc2OT
-ExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1
-LDgxNTE4MTU5Miw1NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4Mj
-Q3Mjk3LDU1MzIxNDg2NF19
+eyJoaXN0b3J5IjpbLTE1NzY3NDQyMDcsMzQyNDM5NTM0LDE3Nj
+kxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2
+NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyOD
+I0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
