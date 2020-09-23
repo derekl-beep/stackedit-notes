@@ -101,14 +101,14 @@ $$
 	\begin{pmatrix}
 	F_1 \\ F_2 \\F_3
 	\end{pmatrix}
-	&= \begin{Bmatrix} 
+	&= \begin{pmatrix} 
 	\frac{0.75\%}{2} \\ \frac{0.75\%}{2} \\1+\frac{0.75\%}{2}
-	\end{Bmatrix} \\
-	\begin{Bmatrix}
-	d(0.5) \\ d(1.0) \\d(1.5)
-	\end{Bmatrix}
+	\end{pmatrix} \\
+	\begin{pmatrix}
+	F_1 \\ F_2 \\F_3
+	\end{pmatrix}
 	&= \begin{Bmatrix}
-	0.99925 \\ 0.99648 \\ 0.99135
+	-1.779 \\-1.790 \\98.166
 	\end{Bmatrix}
 \end{aligned}
 $$
@@ -116,6 +116,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MDM4NTc1LDQyODI0NzI5Nyw1NTMyMT
-Q4NjRdfQ==
+eyJoaXN0b3J5IjpbMTk0NjEwMjM1OSw0MjgyNDcyOTcsNTUzMj
+E0ODY0XX0=
 -->
