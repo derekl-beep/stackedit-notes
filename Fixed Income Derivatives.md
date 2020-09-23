@@ -435,7 +435,9 @@ $$\Delta r_t = \mu_t \Delta t+\sigma \sqrt{\Delta t} \epsilon_B$$, where $\epsil
 	\end{array}
 	\right..$
 
-$$r_{i,j} = r_{0,0} +\Delta t \sum_{k=1}^{j-1}{\mu_k} + (2i-j) \sigma \sqrt{\Delta t}, \forall i=0,1,2,...,j$$
+$$r_{i,j} = r_{0,0} +\Delta t \sum_{k=1}^{j-1}{\mu_k} + (2i-j) \sigma \sqrt{\Delta t}$$, where $j=0,1,...,N$ and $i=0,1,...,j$.
+
+
 
 
 
@@ -460,10 +462,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUzNjU3MjYsOTE5NTMzOTkyLDE1ND
-Q0OTk3ODQsLTExOTYzNTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQz
-NTksNDE3MjgxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mz
-k0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTky
-LDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMj
-E0ODY0XX0=
+eyJoaXN0b3J5IjpbMjk4MDk5NTc0LDkxOTUzMzk5MiwxNTQ0ND
+k5Nzg0LC0xMTk2MzU1NjI0LC05NDEyOTMwNzQsMzc4NzA0MzU5
+LDQxNzI4MTk4NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwtNzM5ND
+Q0ODExLDE1MDMwNTMwMjMsNTk1NzY3MzY1LDgxNTE4MTU5Miw1
+NzY3NzcxMDQsLTExNDEzMDA0MjMsNDI4MjQ3Mjk3LDU1MzIxND
+g2NF19
 -->
