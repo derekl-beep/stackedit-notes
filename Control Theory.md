@@ -191,7 +191,7 @@ The exponential part always has an amplitude within a unity.
 
 ## Linearizing Around a Fixed Point
 
-
+The non-linear dynamics of a system of ODEs can be described as $$\dot{x}=f(x)$$
 
 ## References
 
@@ -207,8 +207,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ4MDU0OSwtNjI3MjUxODk3LC00OD
-EyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2
-NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMD
-Q3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbMTIwMzgzMTQyOSwtMTM1NDgwNTQ5LC02Mj
+cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
+NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
+cwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
