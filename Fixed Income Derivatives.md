@@ -42,12 +42,14 @@ Reference books
 
 The discount factor for a particular term indicate the **present value** of one unit currency to be received at the end of the term. 
 
+The discount factor of a currency can usually extracted from the Tre
+
 Denote the discount factor for $t$ years by $d(t)$.
 
-Suppose the $1\frac{1}{4}\%$ s of November 30, 2010 (6 months from now) is trading at $100.550, so we have $$100.550 = (100+\frac{1\frac{1}{4}}{2})d(0.5)$$
+Suppose the $1\frac{1}{4}\%$ s of November 30, 2010 (6 months from now) is trading at $100.550, so we have $$\begin{aligned} 100.550 &= (100+\frac{1\frac{1}{4}}{2})d(0.5) \\ d(0.5)&=0.99925\end{aligned}$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNjIwNzEsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbMjAzMzY4MTc2OSw1NTMyMTQ4NjRdfQ==
 -->
