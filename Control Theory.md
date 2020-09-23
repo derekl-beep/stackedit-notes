@@ -140,9 +140,12 @@ e^{\lambda_1 t} & 0 & \dots & 0 \\
 
 Given $\lambda = a + ib \in \mathbb{C}$, $$e^{\lambda t}=e^{at}[\cos{(bt)}+i\sin{(bt)}]$$. The amplitude of the sinusoidal terms is always within unity. The exponential term (the real part of the eigenvalue), hence, determines the stability behaviour of the system.
 
-```
-<insert picture>
-```
+<p align="center">
+	<img src="https://i.imgur.com/rpPx8Ug.jpg" 
+	height="50%" width="50%"/>
+</p>
+
+> Source: https://youtu.be/h7nJ6ZL4Lf0?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
 
 The system is stable if and only if all the real part of the eigenvalues of the system matrix are non-positive. $$\text{Re}(\lambda_i) \leq0, \forall i = 1,2,...,n$$
 
@@ -192,7 +195,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzI1MTg5NywtNDgxMjI0OTQ1LC02ND
-QxNDQ1MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1MSwtODU4NDUx
-NCwyMDMwMTc0MDAxLDE3NzA5MzI2MjAsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbODAyMTIwMTgxLC02MjcyNTE4OTcsLTQ4MT
+IyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1
+NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwND
+czNjczMzldfQ==
 -->
