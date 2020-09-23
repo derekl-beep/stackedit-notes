@@ -233,8 +233,13 @@ $$.
 
 #### Proof
 
-By
-$$\dot{x}=f(x)=f(\bar{x})+\frac{Df}{Dx}|_{\bar{x}} \cdot (x-\bar{x}) + \frac{D^2f}{Dx^2}|_{\bar{x}} \cdot (x-\bar{x})^2 + \dots $$
+By the Taylor expression,
+
+$$ \begin{aligned}
+\dot{x}=f(x)&=f(\bar{x})+\frac{Df}{Dx}|_{\bar{x}} \cdot (x-\bar{x}) + \frac{D^2f}{Dx^2}|_{\bar{x}} \cdot (x-\bar{x})^2 + \dots  \\
+&\approx f(\bar{x})+\frac{Df}{Dx}|_{\bar{x}} \cdot (x-\bar{x})
+\end{aligned}
+$$
 
 
 
@@ -252,7 +257,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjg0NzcwNSwtMTM1NDgwNTQ5LC02Mj
+eyJoaXN0b3J5IjpbMTM4MDE2ODIzMSwtMTM1NDgwNTQ5LC02Mj
 cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
 NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
 cwOTMyNjIwLDEwNDczNjczMzldfQ==
