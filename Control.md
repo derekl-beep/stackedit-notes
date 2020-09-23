@@ -50,17 +50,14 @@ $$
 
 $$
 \begin{bmatrix}  
-x_1^T x_1 & x_1^T x_2 & \dots & x_1^T x_m \\  
-x_2^T x_1 & x_2^T x_2 & \dots & x_2^T x_m \\
+\dot{z_1} \\ \dot{z_2} \\ \vdots \\ \dot{z_n}
+\end{bmatrix}
+= \begin{bmatrix}  
+\lambda_1 & 0 & \dots & 0 \\  
+0 & \lambda_2 & \dots & 0 \\
 \vdots & \vdots &\ddots & \vdots \\
 x_m^T x_1 & x_m^T x_2 & \dots & x_m^T x_m
 \end{bmatrix}
-= \begin{bmatrix}  
-x_1^T x_1 & x_1^T x_2 & \dots & x_1^T x_m \\  
-x_2^T x_1 & x_2^T x_2 & \dots & x_2^T x_m \\
-\vdots & \vdots &\ddots & \vdots \\
-x_m^T x_1 & x_m^T x_2 & \dots & x_m^T x_m
-\end{bmatrix}_{m \times m}
 $$
 
 The dynamics are, hence, decoupled in the transformed coordinates, e.g. $$\dot{z}_i =  \lambda_i z_i$$,  for $i=1,2,...,n$. 
@@ -72,7 +69,7 @@ Solving the differential equations for indivdiual coordinate gives $$z_i(t)=e^{\
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDc1MjMwODEsMTIyMjY4ODAwMiwtNT
+eyJoaXN0b3J5IjpbLTEwMTQ3MjY1NzUsMTIyMjY4ODAwMiwtNT
 E2NDEzNzUsLTE4MTUzNjA4NjYsOTk2NTA0MzAyLC0xNzQ4Njk3
 NjI1XX0=
 -->
