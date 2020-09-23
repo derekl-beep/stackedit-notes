@@ -88,13 +88,13 @@ Suppose the $3/4$ s of November 30, 2011 is trading at $100.19. We can show that
 The fair price of the bond, calculated with the discount factors is
 $$B_{fair}=\frac{3}{8}d(0.5) + \frac{3}{8}d(1.0) + (100+\frac{3}{8})d(0.5) = 100.255$$, which is higher than the market price, implying this bond is undervalued by the market.
 
-We can short a replicating portfolio of the $3/4$ s of November 30, 2011, and longing a  $3/4$ s of November 30, 2011 to make a profit. 
+We can short a replicating portfolio of the $3/4$ s of November 30, 2011, and long a portfolio of the $3/4$ s of November 30, 2011 to make a profit. 
 
-
+To construct the replicating portfolio, denote the face values of the $1\frac{1}{4}$s, $1\frac{4}{4}$s
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkzOTgyMzcsNDI4MjQ3Mjk3LDU1Mz
-IxNDg2NF19
+eyJoaXN0b3J5IjpbLTYyNjU4NjAzMiw0MjgyNDcyOTcsNTUzMj
+E0ODY0XX0=
 -->
