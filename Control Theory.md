@@ -148,7 +148,9 @@ The system is stable if and only if all the real part of the eigenvalues of the 
 <insert picture>
 ```
 
-To control an unstable system with feedbacks, we can modify the eigenvalues of the system by ad
+To control an unstable system with feedbacks, e.g. $u=-Kx$, we can modify the system 
+
+$$\dot{x}=Ax+Bu=Ax-BKx=(A-BK)x$$
 
 
 ## References
@@ -163,6 +165,6 @@ http://databookuw.com
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg5NjI5MjksLTg1ODQ1MTQsMjAzMD
-E3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbNDA3NjY1NzExLC04NTg0NTE0LDIwMzAxNz
+QwMDEsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
 -->
