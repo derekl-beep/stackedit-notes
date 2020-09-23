@@ -95,14 +95,14 @@ $$
 \begin{aligned}
 	\begin{pmatrix}
 		1+\frac{1.25\%}{2} & \frac{4.875\%}{2} & \frac{4.5\%}{2} \\
-		\frac{4\frac{7}{8}}{2} & 100+\frac{4\frac{7}{8}}{2} & 0 \\
-		\frac{4\frac{1}{2}}{2} & \frac{4\frac{1}{2}}{2} & 100+\frac{4\frac{1}{2}}{2} 
+		0 & 1+\frac{4.875\%}{2} & \frac{4.5\%}{2} \\
+		0 & 0 & 1+\frac{4.5\%}{2}
 	\end{pmatrix} 
-	\begin{Bmatrix}
-	d(0.5) \\ d(1.0) \\d(1.5)
-	\end{Bmatrix}
+	\begin{pmatrix}
+	F_1 \\ F_2 \\F_3
+	\end{pmatrix}
 	&= \begin{Bmatrix} 
-	100.550 \\ 104.513 \\ 105.856
+	\frac{0.75\%}{2} \\ \frac{0.75\%}{2} \\1+\frac{0.75\%}{2}
 	\end{Bmatrix} \\
 	\begin{Bmatrix}
 	d(0.5) \\ d(1.0) \\d(1.5)
@@ -116,6 +116,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc5MTYyNjgsNDI4MjQ3Mjk3LDU1Mz
-IxNDg2NF19
+eyJoaXN0b3J5IjpbMzQ0MDM4NTc1LDQyODI0NzI5Nyw1NTMyMT
+Q4NjRdfQ==
 -->
