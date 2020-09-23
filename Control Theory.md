@@ -210,9 +210,14 @@ $$
  $$
 	 \frac{Df}{Dx}
 	 =\begin{bmatrix}
-		\frac{\partial f_1}{}
+		\frac{\partial f_1}{\partial x_1} & \frac{\partial f_1}{\partial x_2} \\
+		\frac{\partial f_2}{\partial x_1} & \frac{\partial f_2}{\partial x_2}
 	 \end{bmatrix}
- $$
+	 = \begin{bmatrix}
+	 x_2 & x_1 \\ 
+	 2x_1 & 2x_2
+	 \end{bmatrix}
+ $$, and hence 
 
 ## References
 
@@ -228,7 +233,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjI2NTc4MywtMTM1NDgwNTQ5LC02Mj
+eyJoaXN0b3J5IjpbMTU0MDM1MzMwOSwtMTM1NDgwNTQ5LC02Mj
 cyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2
 NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNz
 cwOTMyNjIwLDEwNDczNjczMzldfQ==
