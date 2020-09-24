@@ -272,10 +272,11 @@ $$\begin{aligned}
 $$, where $P$ is the bond price, $c$ is the coupon rate; $f(t)$ is the six-month forward lend at $t-0.5$ year; and $T$ is the time to maturity in years.
 
 ## Swap Rates
-// TBA
+To be available.
 
 ## Forward Rate Agreements (FRA)
-// TBA
+
+To be available.
 
 # 4 - One‐Factor Risk Metrics and Hedges
 
@@ -405,7 +406,8 @@ In reality, it is widely recognized that rates in different regions of the term 
 The risk that rates along the term structure move by different amounts is known as **curve risk**.
 
 # 6 - Regression‐based Hedging
-// TBA
+
+To be available.
 
 # 7 - The Science of Term Structure Models
 
@@ -450,17 +452,17 @@ $$P_{i,j}=\frac{\frac{1}{2}(P_{i+1,j+1}+P_{i,j+1})}{1+r_{i,j}\Delta t}$$
 
 # 9 - The Art of Term Structure Models: Drifts
 
-// TBA
+To be available.
 
 # 16 - Swaps and Swapotions
-// TBA
+To be available.
 
 # 18 - Eurodollar Futures
-// TBA
+To be available.
 
 # 18II - The Black’s Formula for Caps and Swaptions
 
-//TBA
+To be available.
 
 
 ---
@@ -468,10 +470,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzYzNDk1MTUsOTE5NTMzOTkyLDE1ND
-Q0OTk3ODQsLTExOTYzNTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQz
-NTksNDE3MjgxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mz
-k0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTky
-LDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMj
-E0ODY0XX0=
+eyJoaXN0b3J5IjpbLTIwMjE0MzcyMDksLTE5MzYzNDk1MTUsOT
+E5NTMzOTkyLDE1NDQ0OTk3ODQsLTExOTYzNTU2MjQsLTk0MTI5
+MzA3NCwzNzg3MDQzNTksNDE3MjgxOTg0LDM0MjQzOTUzNCwxNz
+Y5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3Njcz
+NjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0Mj
+gyNDcyOTcsNTUzMjE0ODY0XX0=
 -->
