@@ -317,10 +317,7 @@ $$, where $x \in \mathbb{R}^n, u \in \mathbb{R}^q, x \in \mathbb{R}^p$.
 `<Block diagram>`
 
 $$
-\begin{aligned}
-	\dot{x} &= Ax +Bu \\
-	y &= Cx
-\end{aligned}
+\frac{d}{dt}\hat{x} = A\hat{x} +Bu + K_f(y-\hat{y})
 $$
 
 
@@ -338,9 +335,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NT
-Y3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4
-MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMy
-wxODQ2MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAx
-NzQwMDEsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbLTE1MTA3MDQ2NTcsLTE0NzMyNDMyMDMsMj
+A3MjgyNTMzNSw3NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3
+ODI4MDgsLTEzNTQ4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5ND
+UsLTY0NDE0NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2NTUxLC04
+NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMDQ3MzY3Mz
+M5XX0=
 -->
