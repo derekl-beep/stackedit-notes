@@ -276,6 +276,7 @@ MATLAB function:
 >> obsv(A, C)
 ```
 
+In reality, we design an observer / an estimator to obtain the full-state estimation, and then design a controller to stabilise the system base 
 
 ## References
 
@@ -291,8 +292,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4NzI4NzMsLTE3MDg3ODI4MDgsLTEzNT
-Q4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUx
-MywxODQ2MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMz
-AxNzQwMDEsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbLTE0NDAzNjA2NTcsLTE3MDg3ODI4MDgsLT
+EzNTQ4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0
+NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LD
+IwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
 -->
