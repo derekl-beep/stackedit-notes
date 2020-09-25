@@ -327,7 +327,9 @@ $$
 \end{aligned}
 $$. Hence, $\begin{bmatrix} u \\ y \end{bmatrix}$ is like the input to the full-state estimator, and $(A-K_fC)$ is like the system matrix, defining the dynamics of $\hat{x}$.
 
-We can show 
+We can show if $(A-K_fC)$ is stable, $\hat{x}$ will stably converge to $x$, the true state.
+
+
 
 
 ## References
@@ -344,10 +346,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDMwNjczOCwtMTQ3MzI0MzIwMywyMD
-cyODI1MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4
-MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NS
-wtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1
-ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMz
-ldfQ==
+eyJoaXN0b3J5IjpbLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNz
+I4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0xNzA4Nzgy
+ODA4LC0xMzU0ODA1NDksLTYyNzI1MTg5NywtNDgxMjI0OTQ1LC
+02NDQxNDQ1MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1MSwtODU4
+NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2MjAsMTA0NzM2NzMzOV
+19
 -->
