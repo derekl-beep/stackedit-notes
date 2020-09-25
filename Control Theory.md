@@ -329,7 +329,9 @@ $$. Hence, $\begin{bmatrix} u \\ y \end{bmatrix}$ is like the input to the full-
 
 We can show if $(A-K_fC)$ is stable, $\hat{x}$ will stably converge to $x$, the true state.
 
+### Estimation errors
 
+$$\epsilon = x - \hat{x}$$
 
 
 ## References
@@ -346,10 +348,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkyNTEzNDUsLTgyMDcyNzEwLC0xND
-czMjQzMjAzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOTM5
-NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1NDksLTYyNzI1MTg5Ny
-wtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5NjY2MywtMTIw
-MzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2Mj
-AsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbMTAzNDIyNjEzMSwtMjEwOTI1MTM0NSwtOD
+IwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIy
+ODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OS
+wtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2
+MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMD
+EsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
 -->
