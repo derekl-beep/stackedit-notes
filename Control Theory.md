@@ -267,7 +267,7 @@ With full state measurements, we can design the input as $u=-Kx$ to stabilise th
 
 In reality, we rarely have measurements on all states, i.e. $$y=Cx$$, where $y \in \mathbb{R}^p$ is the measured state vector, and $C \in \mathbb{R}^{p \times n}$ is the measurement matrix, mapping the state vector in $\mathbb{R}^n$ to the measurement vector in $\mathbb{R}^p$.
 
-### Observability
+## Observability
 
 The observability of $(A,C)$ tells us if a full-state estimation if possible with a system matrix $A$ and a measurement matrix $C$, or equavilently, if we can estimate any state $x$ from the time-series measurements $y(t)$.
 
@@ -278,7 +278,8 @@ MATLAB function:
 
 In reality, we design an observer / an estimator, e.g. Kalman Filter, to obtain the full-state estimation, and then design a controller, e.g. LQR, to stabilise the system based on the estimation. 
 
-`<Insert the diagram>`
+`<Insert the block diagram>`
+
 
 
 
@@ -297,7 +298,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjQyOTA4MCwtMTczMjkzOTQwNiwtMT
+eyJoaXN0b3J5IjpbMTQ0NTY3NDYwNCwtMTczMjkzOTQwNiwtMT
 cwODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIy
 NDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NT
 EsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDcz
