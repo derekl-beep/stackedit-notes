@@ -345,9 +345,9 @@ $$
 \end{aligned}
 $$
 
-If $(A,C)$ is observable, then we can place the eigenvalues of $(A-K_f C)$ anywhere by choosing the 
+If $(A,C)$ is observable, then we can place the eigenvalues of $(A-K_f C)$ anywhere by choosing $K_f$.
 
-This implies if the system is observable, the error can be made to converge to zero.
+This implies if the system is observable, the error, $\epsilon$, can be made to converge to zero, or equivalently the full-state estimation converges to the true state.
 
 ## References
 
@@ -363,10 +363,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjMyMDAwMCwtMjEwOTI1MTM0NSwtOD
-IwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIy
-ODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OS
-wtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2
-MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMD
-EsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbNDY1NDI2NjI3LC0yMTA5MjUxMzQ1LC04Mj
+A3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Njc3MjI4
+NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgwNTQ5LC
+02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYx
+OTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMS
+wxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
