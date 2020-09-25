@@ -3,9 +3,8 @@
 
 ## Overview
 
-```
-// TBA
-```
+To be avaliable.
+
 ## Linear Systems
 
 Linear systems of ordinary differential equations (ODEs) 
@@ -258,6 +257,10 @@ $$\begin{Bmatrix} x_1 \\ x_2 \end{Bmatrix} = \begin{Bmatrix} \theta \\ \dot{\the
 $$\begin{Bmatrix} \dot{x}_1 \\ \dot{x}_2 \end{Bmatrix} = \begin{bmatrix} x_2 \\ -\sin x_1 - \delta x_2\end{bmatrix}$$, which is a non-linear function of the state vector. 
 
 
+## Full-State Estimation
+
+
+
 
 ## References
 
@@ -273,8 +276,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNj
-I3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2
-NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMT
-c3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbLTM2Nzg0ODIzNiwtMTcwODc4MjgwOCwtMT
+M1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0
+NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMj
+AzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
