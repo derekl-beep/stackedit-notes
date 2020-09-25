@@ -314,6 +314,9 @@ $$
 $$, where $x \in \mathbb{R}^n, u \in \mathbb{R}^q, x \in \mathbb{R}^p$.
 
 
+`<Block diagram>`
+
+
 
 
 ## References
@@ -330,9 +333,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYyNDg5NTcsNzU2NzcyMjg3LC0xNz
-MyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1NDksLTYyNzI1
-MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5NjY2My
-wtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3NzA5
-MzI2MjAsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbMjA3MjgyNTMzNSw3NTY3NzIyODcsLTE3Mz
+I5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3MjUx
+ODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2NjYzLC
+0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkz
+MjYyMCwxMDQ3MzY3MzM5XX0=
 -->
