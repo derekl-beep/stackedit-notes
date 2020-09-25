@@ -306,7 +306,12 @@ The columns of $V$ (the rows of $V^T$) are in order the most observable states i
 
 ## Full-State Estimation
 
-
+$$
+\begin{aligned}
+	\dot{x} &= Ax +Bu \\
+	y &= Cx
+\end{aligned}
+$$, where $x \in \mathbb{R}^n, u \in \mathbb{R}^n,x \in \mathbb{R}^n$
 
 
 ## References
@@ -323,9 +328,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0xNz
-A4NzgyODA4LC0xMzU0ODA1NDksLTYyNzI1MTg5NywtNDgxMjI0
-OTQ1LC02NDQxNDQ1MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1MS
-wtODU4NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2MjAsMTA0NzM2
-NzMzOV19
+eyJoaXN0b3J5IjpbLTk2OTgwMzY1MCw3NTY3NzIyODcsLTE3Mz
+I5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3MjUx
+ODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2NjYzLC
+0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkz
+MjYyMCwxMDQ3MzY3MzM5XX0=
 -->
