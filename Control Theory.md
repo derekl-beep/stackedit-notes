@@ -304,6 +304,8 @@ The Observability Gramian gives the information about the degree of observabilit
 
 The columns of $V$ (the rows of $V^T$) are in order the most observable states in the state-space, i.e. the direction with the highest signal-to-noise ratio.
 
+## Full-State Estimation
+
 
 
 
@@ -321,9 +323,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTAxNTE2MTMsLTE3MzI5Mzk0MDYsLT
-E3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3MjUxODk3LC00ODEy
-MjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2NT
-UxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMDQ3
-MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0xNz
+A4NzgyODA4LC0xMzU0ODA1NDksLTYyNzI1MTg5NywtNDgxMjI0
+OTQ1LC02NDQxNDQ1MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1MS
+wtODU4NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2MjAsMTA0NzM2
+NzMzOV19
 -->
