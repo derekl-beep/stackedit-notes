@@ -351,7 +351,7 @@ This implies if the system is observable, the error $\epsilon$ can be made to co
 
 ## The Kalman Filter
 
-
+The Kalman filer is an analog of the linear quadrutic regulator (LQR
 
 ## References
 
@@ -367,10 +367,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4MzQ3NTYxLC0yMTA5MjUxMzQ1LC04Mj
-A3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Njc3MjI4
-NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgwNTQ5LC
-02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYx
-OTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMS
-wxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbLTE1NzU0ODQzNzYsLTIxMDkyNTEzNDUsLT
+gyMDcyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2Nzcy
+Mjg3LC0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1ND
+ksLTYyNzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0
+NjE5NjY2MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MD
+AxLDE3NzA5MzI2MjAsMTA0NzM2NzMzOV19
 -->
