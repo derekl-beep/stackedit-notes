@@ -325,7 +325,10 @@ $$
 	\frac{d}{dt}\hat{x} &= A\hat{x} +Bu + K_f y -K_f C \hat{x} \\
 	&= (A-K_fC) \hat{x} + \begin{bmatrix} B &K_f\end{bmatrix} \begin{bmatrix} u \\ y \end{bmatrix}
 \end{aligned}
-$$. Hence, $\begin{bmatrix} u \\ y \end{bmatrix}$ is like the input to the estimator, and $$
+$$. Hence, $\begin{bmatrix} u \\ y \end{bmatrix}$ is like the input to the full-state estimator, and $(A-K_fC)$ is like the system matrix, defining the dynamics of $\hat{x}$.
+
+We can show 
+
 
 ## References
 
@@ -341,10 +344,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAzMTQ2NDEsLTE0NzMyNDMyMDMsMj
-A3MjgyNTMzNSw3NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3
-ODI4MDgsLTEzNTQ4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5ND
-UsLTY0NDE0NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2NTUxLC04
-NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMDQ3MzY3Mz
-M5XX0=
+eyJoaXN0b3J5IjpbMTA4MDMwNjczOCwtMTQ3MzI0MzIwMywyMD
+cyODI1MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4
+MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NS
+wtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1
+ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMz
+ldfQ==
 -->
