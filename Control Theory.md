@@ -1,4 +1,4 @@
-# Control Theory
+# Modern Control Theory
 
 
 ## Overview
@@ -346,10 +346,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNz
-I4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0xNzA4Nzgy
-ODA4LC0xMzU0ODA1NDksLTYyNzI1MTg5NywtNDgxMjI0OTQ1LC
-02NDQxNDQ1MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1MSwtODU4
-NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2MjAsMTA0NzM2NzMzOV
-19
+eyJoaXN0b3J5IjpbLTIxMDkyNTEzNDUsLTgyMDcyNzEwLC0xND
+czMjQzMjAzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOTM5
+NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1NDksLTYyNzI1MTg5Ny
+wtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5NjY2MywtMTIw
+MzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3NzA5MzI2Mj
+AsMTA0NzM2NzMzOV19
 -->
