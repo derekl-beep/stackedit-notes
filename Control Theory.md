@@ -302,7 +302,10 @@ The Observability Gramian gives the information about the degree of observabilit
 >> [U, S, V] = svd(obsv(A, C))
 ```
 
-The columns of $V$ (the rows of $V^T$) are in order the most observable states in the state-space. The direction with the highest signal-to-noise ratio.
+The columns of $V$ (the rows of $V^T$) are in order the most observable states in the state-space, i.e. the direction with the highest signal-to-noise ratio.
+
+
+
 
 ## References
 
@@ -318,9 +321,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTIyNTMwMywtMTczMjkzOTQwNiwtMT
-cwODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIy
-NDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NT
-EsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDcz
-NjczMzldfQ==
+eyJoaXN0b3J5IjpbLTIxMTAxNTE2MTMsLTE3MzI5Mzk0MDYsLT
+E3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3MjUxODk3LC00ODEy
+MjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2NT
+UxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMDQ3
+MzY3MzM5XX0=
 -->
