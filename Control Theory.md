@@ -345,7 +345,9 @@ $$
 \end{aligned}
 $$
 
+If $(A,C)$ is observable, then we can place the eigenvalues of $(A-K_f C)$ anywhere by choosing the 
 
+This implies if the system is observable, the error can be made to converge to zero.
 
 ## References
 
@@ -361,7 +363,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTMyNDA1NSwtMjEwOTI1MTM0NSwtOD
+eyJoaXN0b3J5IjpbLTg5NjMyMDAwMCwtMjEwOTI1MTM0NSwtOD
 IwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIy
 ODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OS
 wtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2
