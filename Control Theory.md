@@ -259,6 +259,8 @@ $$\begin{Bmatrix} \dot{x}_1 \\ \dot{x}_2 \end{Bmatrix} = \begin{bmatrix} x_2 \\ 
 
 ## Full-State Estimation
 
+$$\dot{x}=Ax+Bu$$, where $x \in \mathbb{R}^n, u \in \mathbb{R}^q$.
+
 
 
 
@@ -276,7 +278,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Nzg0ODIzNiwtMTcwODc4MjgwOCwtMT
+eyJoaXN0b3J5IjpbMTkwNzIxNTEwNiwtMTcwODc4MjgwOCwtMT
 M1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0
 NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMj
 AzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
