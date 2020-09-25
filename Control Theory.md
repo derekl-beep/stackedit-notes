@@ -261,7 +261,7 @@ $$\begin{Bmatrix} \dot{x}_1 \\ \dot{x}_2 \end{Bmatrix} = \begin{bmatrix} x_2 \\ 
 
 $$\dot{x}=Ax+Bu$$, where $x \in \mathbb{R}^n, u \in \mathbb{R}^q$.
 
-$$\dot{x} = Ax$$
+With full state measurements, we can design the input as $u=-Kx$ to stabilise the system, and we have $$\dot{x} = Ax - BKx = (A-BK)x$$.
 
 
 ## References
@@ -278,8 +278,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMzMjc3MDksLTE3MDg3ODI4MDgsLT
-EzNTQ4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0
-NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LD
-IwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbNjU4NTYwNjYyLC0xNzA4NzgyODA4LC0xMz
+U0ODA1NDksLTYyNzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1
+MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMD
+MwMTc0MDAxLDE3NzA5MzI2MjAsMTA0NzM2NzMzOV19
 -->
