@@ -357,10 +357,10 @@ The Kalman filer is an analog of the linear quadrutic regulator (LQR) for optima
 
 $$
 \begin{aligned}
-	\dot{x}&=Ax+Bu+w_d
-	y&=t
+	\dot{x}&=Ax+Bu+w_d \\
+	y&=Cx+w_n
 \end{aligned}
-$$
+$$, where $w_d \sim N(0,V_d)$ is the process noise, and $w_n \sim N(0,V_n)$is the measurement noise terms
 
 ## References
 
@@ -376,10 +376,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDUzODEwMiwtMjEwOTI1MTM0NSwtOD
-IwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIy
-ODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OS
-wtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2
-MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMD
-EsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbLTE0OTg2MDAzNTIsLTIxMDkyNTEzNDUsLT
+gyMDcyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2Nzcy
+Mjg3LC0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1ND
+ksLTYyNzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0
+NjE5NjY2MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MD
+AxLDE3NzA5MzI2MjAsMTA0NzM2NzMzOV19
 -->
