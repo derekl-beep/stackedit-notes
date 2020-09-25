@@ -290,9 +290,12 @@ The system is observable if
 1. the rank of $\mathcal{O}$ is $n$ 
 2. we can estimate $x$ from $y$.
 
-MA
+MATLAB command:
+```matlab
+>> rank(obsv(A, C))
+```
 
-The observability 
+The Observability Gramian tells
 
 ## References
 
@@ -308,7 +311,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUxMDU0MywtMTczMjkzOTQwNiwtMT
+eyJoaXN0b3J5IjpbMjA0OTgyMTQ4NSwtMTczMjkzOTQwNiwtMT
 cwODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIy
 NDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NT
 EsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDcz
