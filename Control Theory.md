@@ -361,7 +361,7 @@ $$
 	\dot{x}&=Ax+Bu+w_d \\
 	y&=Cx+w_n
 \end{aligned}
-$$, where $w_d \in \mathbb{R}^n \sim N(0,V_d)$ is the process noise, and $w_n \in \mathbb{R}^n \sim N(0,V_n)$is the measurement noise. Both are assumed to be Gaussian processes.
+$$, where $w_d \in \mathbb{R}^n \sim N(0,V_d)$ is the process noise, and $w_n \in \mathbb{R}^p \sim N(0,V_n)$is the measurement noise. Both are assumed to be Gaussian processes.
 
 The cost function for minimisation is $$J=\mathbb{E}{[(x-\hat{x})^T(x-\hat{x})]}$$.
 
@@ -386,7 +386,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDIwMDYyMCwtMzkwNjU2MTA3LC0yMT
+eyJoaXN0b3J5IjpbMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMT
 A5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1
 MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOC
 wtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0
