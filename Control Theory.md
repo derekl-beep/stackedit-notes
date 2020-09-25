@@ -280,6 +280,9 @@ In reality, we design an observer / an estimator, e.g. Kalman Filter, to obtain 
 
 `<Insert the diagram>`
 
+
+
+
 ## References
 
 - Control Bootcamp (YouTube Playlist)
@@ -294,8 +297,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLT
-EzNTQ4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0
-NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LD
-IwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbLTIyNjQyOTA4MCwtMTczMjkzOTQwNiwtMT
+cwODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIy
+NDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NT
+EsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDcz
+NjczMzldfQ==
 -->
