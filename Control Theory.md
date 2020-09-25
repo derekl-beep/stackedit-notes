@@ -331,7 +331,17 @@ We can show if $(A-K_fC)$ is stable, $\hat{x}$ will stably converge to $x$, the 
 
 ### Estimation errors
 
-$$\epsilon = x - \hat{x}$$
+The estimation error is defined as 
+$$\epsilon = x - \hat{x}$$.
+
+The rate of change of the estimation errors is hence
+
+$$
+\begin{aligned}
+	\frac{d}{dt} \epsilon &= 
+\end{aligned}
+$$
+
 
 
 ## References
@@ -348,7 +358,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDIyNjEzMSwtMjEwOTI1MTM0NSwtOD
+eyJoaXN0b3J5IjpbLTcxMTE2MDIwNiwtMjEwOTI1MTM0NSwtOD
 IwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIy
 ODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OS
 wtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2
