@@ -280,8 +280,12 @@ In reality, we design an observer / an estimator, e.g. Kalman Filter, to obtain 
 
 `<Insert the block diagram>`
 
-###
-$$\mathcal{O} =$$
+### Observablility matrix
+
+$$\mathcal{O} = \begin{bmatrix} 
+C \\ CA \\CA^2 \\ \vdots \\ CA^{n-1}
+\end{bmatrix}$$
+
 
 
 
@@ -299,7 +303,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTE0NjQ0NywtMTczMjkzOTQwNiwtMT
+eyJoaXN0b3J5IjpbLTkyMjE0MzQ5NCwtMTczMjkzOTQwNiwtMT
 cwODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIy
 NDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NT
 EsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDcz
