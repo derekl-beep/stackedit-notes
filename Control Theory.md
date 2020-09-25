@@ -269,7 +269,8 @@ In reality, we rarely have measurements on all states, i.e. $$y=Cx$$, where $y \
 
 ### Observability
 
-The observability of $(A,C)$ tells us if a full-state 
+The observability of $(A,C)$ tells us if a full-state estimation if possible with a system matrix $A$ and a measurement matrix $C$, or equavi
+
 
 ## References
 
@@ -285,8 +286,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg4MTI4MjYsLTE3MDg3ODI4MDgsLT
-EzNTQ4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0
-NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LD
-IwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbMTQwNDQ2ODc4MSwtMTcwODc4MjgwOCwtMT
+M1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0
+NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMj
+AzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
