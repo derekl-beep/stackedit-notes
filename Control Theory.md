@@ -265,7 +265,7 @@ With full state measurements, we can design the input as $u=-Kx$ to stabilise th
 
 `<Insert the block diagram>`
 
-In reality, we rarely have measurements on all states, i.e. $$y=Cx$$, where $y \in \mathbb{R}^p$ is the measured state b.
+In reality, we rarely have measurements on all states, i.e. $$y=Cx$$, where $y \in \mathbb{R}^p$ is the measured state vector, and $C \in \mathbb{R}^{p \times n}$ is the measurement matrix, mapping the state vector in $R^$.
 
 ## References
 
@@ -281,8 +281,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjU2MDMxNSwtMTcwODc4MjgwOCwtMT
-M1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0
-NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMj
-AzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbOTI4NjU0NywtMTcwODc4MjgwOCwtMTM1ND
+gwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEz
+LDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMD
+E3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
