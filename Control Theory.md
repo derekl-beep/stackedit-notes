@@ -362,7 +362,14 @@ $$
 \end{aligned}
 $$, where $w_d \sim N(0,V_d)$ is the process noise, and $w_n \sim N(0,V_n)$is the measurement noise. Both are assumed to be Gaussian processes.
 
-The cost function for minimisation is $$J=\mathbb{E}{((x-\hat{x})^T(x-))}$$
+The cost function for minimisation is $$J=\mathbb{E}{[(x-\hat{x})^T(x-\hat{x})]}$$.
+
+### MATLAB command
+```matlab
+>> Kf = lqe(A, C, Vd, Vn)
+```
+
+
 
 ## References
 
@@ -378,7 +385,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDg0MDY0MCwtMjEwOTI1MTM0NSwtOD
+eyJoaXN0b3J5IjpbLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtOD
 IwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIy
 ODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OS
 wtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2
