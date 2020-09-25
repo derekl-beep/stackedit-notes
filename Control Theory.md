@@ -263,6 +263,9 @@ $$\dot{x}=Ax+Bu$$, where $x \in \mathbb{R}^n, u \in \mathbb{R}^q$.
 
 With full state measurements, we can design the input as $u=-Kx$ to stabilise the system, and we have $$\dot{x} = Ax - BKx = (A-BK)x$$.
 
+`<Insert the block diagram>`
+
+
 
 ## References
 
@@ -278,8 +281,8 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4NTYwNjYyLC0xNzA4NzgyODA4LC0xMz
-U0ODA1NDksLTYyNzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1
-MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMD
-MwMTc0MDAxLDE3NzA5MzI2MjAsMTA0NzM2NzMzOV19
+eyJoaXN0b3J5IjpbLTI0Mzc4NjM0OCwtMTcwODc4MjgwOCwtMT
+M1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0
+NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMj
+AzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
 -->
