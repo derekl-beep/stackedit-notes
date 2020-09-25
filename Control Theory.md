@@ -286,7 +286,8 @@ $$\mathcal{O} = \begin{bmatrix}
 C \\ CA \\CA^2 \\ \vdots \\ CA^{n-1}
 \end{bmatrix}$$
 
-
+The system is observable if 
+1. the rank of $\mathcal{O}$ is $n$
 
 
 ## References
@@ -303,9 +304,9 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjE0MzQ5NCwtMTczMjkzOTQwNiwtMT
-cwODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIy
-NDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NT
-EsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDcz
-NjczMzldfQ==
+eyJoaXN0b3J5IjpbLTE5MzQ2MjcyNTgsLTE3MzI5Mzk0MDYsLT
+E3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3MjUxODk3LC00ODEy
+MjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2NT
+UxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMDQ3
+MzY3MzM5XX0=
 -->
