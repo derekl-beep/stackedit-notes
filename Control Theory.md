@@ -351,7 +351,16 @@ This implies if the system is observable, the error $\epsilon$ can be made to co
 
 ## The Kalman Filter
 
-The Kalman filer is an analog of the linear quadrutic regulator (LQR) for optimal full-state estimation, given information on the process and measurement noise. 
+The Kalman filer is an analog of the linear quadrutic regulator (LQR) for optimal full-state estimation, given information on the process noise (modelling error) and measurement noise. 
+
+### Mathematical formulation
+
+$$
+\begin{aligned}
+	\dot{x}&=Ax+Bu+w_d
+	y&=t
+\end{aligned}
+$$
 
 ## References
 
@@ -367,7 +376,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTc5OTAyOSwtMjEwOTI1MTM0NSwtOD
+eyJoaXN0b3J5IjpbMTY3NDUzODEwMiwtMjEwOTI1MTM0NSwtOD
 IwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIy
 ODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OS
 wtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2
