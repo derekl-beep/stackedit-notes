@@ -311,7 +311,7 @@ $$
 	\dot{x} &= Ax +Bu \\
 	y &= Cx
 \end{aligned}
-$$, where $x \in \mathbb{R}^n, u \in \mathbb{R}^q, x \in \mathbb{R}^p$.
+$$, where $x \in \mathbb{R}^n, u \in \mathbb{R}^q, y \in \mathbb{R}^p$ is the state vector, $u \in \mathbb{R}^q$ is the input vector, $y \in \mathbb{R}^p$ is the measurement vector.
 
 
 `<Block diagram>`
@@ -385,10 +385,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtOD
-IwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIy
-ODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OS
-wtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2
-MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMD
-EsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbMTU1ODkxOTI0MCwtMzkwNjU2MTA3LC0yMT
+A5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1
+MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOC
+wtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0
+MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MT
+QsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
+
 -->
