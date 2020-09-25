@@ -340,7 +340,8 @@ $$
 \begin{aligned}
 	\frac{d}{dt} \epsilon &= \frac{d}{dt} x - \frac{d}{dt} \hat{x} \\
 	&= (Ax-Bu)-(A\hat{x}+Bu-K_fy-K_fC\hat{x}) \\
-	&= A(x-\hat{x})
+	&= A(x-\hat{x}) - K_f C (x-\hat{x}) \\
+	&= (A-K_f C) \epsilon
 \end{aligned}
 $$
 
@@ -360,7 +361,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODU3MzAzMywtMjEwOTI1MTM0NSwtOD
+eyJoaXN0b3J5IjpbMTYzNTMyNDA1NSwtMjEwOTI1MTM0NSwtOD
 IwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIy
 ODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OS
 wtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2
