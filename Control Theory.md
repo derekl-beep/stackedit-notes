@@ -316,7 +316,7 @@ $$, where $x \in \mathbb{R}^n, u \in \mathbb{R}^q, y \in \mathbb{R}^p$ are the s
 
 `<Block diagram>`
 
-The dynamics of the estimated 
+The dynamics of the estimated state vector is formulated as
 $$
 \frac{d}{dt}\hat{x} = A\hat{x} +Bu + K_f(y-\hat{y})
 $$, where $\hat{y} = C\hat{x}$.
@@ -333,7 +333,7 @@ We can show if $(A-K_fC)$ is stable, $\hat{x}$ will stably converge to $x$, the 
 ### Estimation errors
 
 The estimation error is defined as 
-$$\epsilon = x - \hat{x}$$.
+$$\epsilon = x - \hat{x} \in \mathbb{R}^n$$.
 
 The rate of change of the estimation errors is hence
 
@@ -361,7 +361,7 @@ $$
 	\dot{x}&=Ax+Bu+w_d \\
 	y&=Cx+w_n
 \end{aligned}
-$$, where $w_d \sim N(0,V_d)$ is the process noise, and $w_n \sim N(0,V_n)$is the measurement noise. Both are assumed to be Gaussian processes.
+$$, where $w_d \in \mathbb{R}^n \sim N(0,V_d)$ is the process noise, and $w_n \in \mathbb{R}^n \sim N(0,V_n)$is the measurement noise. Both are assumed to be Gaussian processes.
 
 The cost function for minimisation is $$J=\mathbb{E}{[(x-\hat{x})^T(x-\hat{x})]}$$.
 
@@ -386,11 +386,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY1ODI4MzAsLTM5MDY1NjEwNywtMj
-EwOTI1MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3Mjgy
-NTMzNSw3NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MD
-gsLTEzNTQ4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0
-NDE0NDUxMywxODQ2MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NT
-E0LDIwMzAxNzQwMDEsMTc3MDkzMjYyMCwxMDQ3MzY3MzM5XX0=
+eyJoaXN0b3J5IjpbLTI2MDIwMDYyMCwtMzkwNjU2MTA3LC0yMT
+A5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1
+MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOC
+wtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0
+MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MT
+QsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
 
 -->
