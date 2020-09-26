@@ -454,7 +454,8 @@ $$
 m\ddot{x}+d\dot{x}+kx=u
 $$
 
- 
+### Laplace Transform
+ $$\mathcal{L}\bigg\{\frac{d}{dt}x\bigg\}=s\bar{x}(x)-x(0)$$
 
 
 ## References
@@ -471,11 +472,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjU4MDMwLC0yNDg0MjIxNzQsLTE5MD
-A0OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OTE2MywtMTQ2MjEx
-Nzk4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzND
-UsLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2
-NzcyMjg3LC0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0OD
-A1NDksLTYyNzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMs
-MTg0NjE5NjY2M119
+eyJoaXN0b3J5IjpbMTkwMzA5NDQwOSwtMjQ4NDIyMTc0LC0xOT
+AwNDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIx
+MTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMz
+Q1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1
+Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1ND
+gwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEz
+LDE4NDYxOTY2NjNdfQ==
 -->
