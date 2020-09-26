@@ -378,7 +378,14 @@ Linear: linear system
 Quadratic: a quadratic cost function
 Gaussian: Gaussian white noises
 
-
+$$
+\frac{d}{dt} \begin{bmatrix} 
+x \\ \epsilon
+\end{bmatrix}
+= \begin{bmatrix} 
+(A-BK_r) & BK-r \\ 0 & (A-K_fC)
+\end{bmatrix}
+$$
 
 
 
@@ -397,11 +404,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIxMTc5ODEsMTc5OTg0NzY5OCwtMz
-kwNjU2MTA3LC0yMTA5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0
-MzIwMywyMDcyODI1MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNi
-wtMTcwODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4
-MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0Nj
-Y1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEw
-NDczNjczMzldfQ==
+eyJoaXN0b3J5IjpbMjc0NTk5NTQ3LC0xNDYyMTE3OTgxLDE3OT
+k4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3
+MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIyODcsLT
+E3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3
+MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2Nj
+YzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3
+MDkzMjYyMF19
 -->
