@@ -433,7 +433,7 @@ $$\begin{aligned}
 \end{aligned}$$
 
 2. Frequency domain (transfer function):
-$$G(s)=C(sI-A^{-1})B$$
+$$G(s)=C(sI-A)^{-1}B$$
 
 3. Time domain (impulse response):
 $$y(t)=\int_{0}^{t}{h(t-\tau)u(\tau)d\tau}$$
@@ -455,11 +455,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA0OTIwOTcsLTIwMjQ2NDg0NjEsLT
-kyMzA1OTE2MywtMTQ2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2
-NTYxMDcsLTIxMDkyNTEzNDUsLTgyMDcyNzEwLC0xNDczMjQzMj
-AzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0x
-NzA4NzgyODA4LC0xMzU0ODA1NDksLTYyNzI1MTg5NywtNDgxMj
-I0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1
-MSwtODU4NDUxNF19
+eyJoaXN0b3J5IjpbMTA0MzQ4OTI3MywtMTkwMDQ5MjA5NywtMj
+AyNDY0ODQ2MSwtOTIzMDU5MTYzLC0xNDYyMTE3OTgxLDE3OTk4
+NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3MT
+AsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIyODcsLTE3
+MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3Mj
+UxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2NjYz
+LC0xMjAzNDY2NTUxXX0=
 -->
