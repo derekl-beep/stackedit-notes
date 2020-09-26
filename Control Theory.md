@@ -370,6 +370,17 @@ The cost function for minimisation is $$J=\mathbb{E}{[(x-\hat{x})^T(x-\hat{x})]}
 >> Kf = lqe(A, C, Vd, Vn)
 ```
 
+## Linear Quadratic Gaussian (LQG)
+
+`<Block diagram of LQG>`
+
+Linear: linear system
+Quadratic: a quadratic cost function
+Gaussian: Gaussian white noises
+
+
+
+
 
 
 ## References
@@ -386,11 +397,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMT
-A5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1
-MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOC
-wtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0
-MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MT
-QsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEwNDczNjczMzldfQ==
-
+eyJoaXN0b3J5IjpbLTE0NjIxMTc5ODEsMTc5OTg0NzY5OCwtMz
+kwNjU2MTA3LC0yMTA5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0
+MzIwMywyMDcyODI1MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNi
+wtMTcwODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4
+MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0Nj
+Y1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcwOTMyNjIwLDEw
+NDczNjczMzldfQ==
 -->
