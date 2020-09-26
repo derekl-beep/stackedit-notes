@@ -257,7 +257,7 @@ $$\begin{Bmatrix} x_1 \\ x_2 \end{Bmatrix} = \begin{Bmatrix} \theta \\ \dot{\the
 $$\begin{Bmatrix} \dot{x}_1 \\ \dot{x}_2 \end{Bmatrix} = \begin{bmatrix} x_2 \\ -\sin x_1 - \delta x_2\end{bmatrix}$$, which is a non-linear function of the state vector. 
 
 
-## Full-State Estimation
+## Motivation of Full-State Estimation
 
 $$\dot{x}=Ax+Bu$$, where $x \in \mathbb{R}^n, u \in \mathbb{R}^q$.
 
@@ -429,11 +429,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2MDA2MzY3LC0xNDYyMTE3OTgxLDE3OT
-k4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3
-MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIyODcsLT
-E3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3
-MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2Nj
-YzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3
-MDkzMjYyMF19
+eyJoaXN0b3J5IjpbMTQyNjUzMDQ2MiwtMTQ2MjExNzk4MSwxNz
+k5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUsLTgyMDcy
+NzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC
+0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1NDksLTYy
+NzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5Nj
+Y2MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3
+NzA5MzI2MjBdfQ==
 -->
