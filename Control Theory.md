@@ -411,6 +411,9 @@ $$. Writing these two equations in block matrices gives the dynamics of state ve
 x \\ \epsilon
 \end{bmatrix}$.
 
+## Introduction to Robust Control
+
+
 
 
 
@@ -428,11 +431,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc2MTEwMDgsLTE0NjIxMTc5ODEsMT
-c5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1LC04MjA3
-MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Njc3MjI4Ny
-wtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgwNTQ5LC02
-MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOT
-Y2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwx
-NzcwOTMyNjIwXX0=
+eyJoaXN0b3J5IjpbLTkyMzA1OTE2MywtMTQ2MjExNzk4MSwxNz
+k5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUsLTgyMDcy
+NzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC
+0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1NDksLTYy
+NzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5Nj
+Y2MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3
+NzA5MzI2MjBdfQ==
 -->
