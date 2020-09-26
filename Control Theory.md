@@ -413,7 +413,8 @@ x \\ \epsilon
 
 ## Introduction to Robust Control
 
-Guaranteed Stability Margins for LQG regulators (Doyle, 1978). 
+Guaranteed Stability Margins for LQG regulators (Doyle, 1978). ***Abstract -- There are none***.
+
 
 
 
@@ -431,7 +432,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM5ODE2MzUsLTkyMzA1OTE2MywtMT
+eyJoaXN0b3J5IjpbLTE5MDQ5MjMwMjksLTkyMzA1OTE2MywtMT
 Q2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDky
 NTEzNDUsLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMz
 UsNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0x
