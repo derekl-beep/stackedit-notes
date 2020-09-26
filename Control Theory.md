@@ -397,7 +397,6 @@ $$
 
 #### Proof
 
-Given $u=-K_r\hat{x}$ and $\hat{x}=x-\epsilon$
 $$
 \begin{aligned}
 	\dot{x} &= Ax+Bu+w_d \\
@@ -405,8 +404,11 @@ $$
 	&= Ax - BK_rx + BK_r(x-\hat{x}) + w_d \\
 	&= Ax - BK_rx + BK_r\epsilon + w_d
 \end{aligned}
-$$, where we express $\hat{x} = x-(x-\hat{x})=x-\epsilon$. Also,
+$$, given $u=-K_r\hat{x}$ and $\hat{x}=x-\epsilon$. Also,
 
+$$
+\dot{\epsilon} = (A-K_fC)\epsilon + w_d -K_f w_n
+$$
 
 
 
@@ -425,11 +427,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMTY5NTgyLC0xNDYyMTE3OTgxLDE3OT
-k4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3
-MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIyODcsLT
-E3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3
-MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2Nj
-YzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3
-MDkzMjYyMF19
+eyJoaXN0b3J5IjpbLTE4NzYxMzg5NDMsLTE0NjIxMTc5ODEsMT
+c5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1LC04MjA3
+MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Njc3MjI4Ny
+wtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgwNTQ5LC02
+MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOT
+Y2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwx
+NzcwOTMyNjIwXX0=
 -->
