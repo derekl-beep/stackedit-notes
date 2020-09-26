@@ -447,6 +447,8 @@ $$|G(i \omega)| = A$$
 Angle of transfer function:
 $$\angle G(i \omega) = \phi$$
 
+## Example Frequency Response (Bode Plot) for Spring-Mass-Damper
+
 
 
 
@@ -464,11 +466,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODQyMjE3NCwtMTkwMDQ5MjA5NywtMj
-AyNDY0ODQ2MSwtOTIzMDU5MTYzLC0xNDYyMTE3OTgxLDE3OTk4
-NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3MT
-AsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIyODcsLTE3
-MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3Mj
-UxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2NjYz
-LC0xMjAzNDY2NTUxXX0=
+eyJoaXN0b3J5IjpbLTI0MzA1MDU4MiwtMjQ4NDIyMTc0LC0xOT
+AwNDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIx
+MTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMz
+Q1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1
+Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1ND
+gwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEz
+LDE4NDYxOTY2NjNdfQ==
 -->
