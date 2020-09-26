@@ -397,13 +397,17 @@ $$
 
 #### Proof
 
+Given $u=-K_r\hat{x}$ and $\hat{x}=x-\epsilon$
 $$
 \begin{aligned}
-	\dot{x} &= Ax - BK_r\hat{x} + w_d \\
+	\dot{x} &= Ax+Bu+w_d \\
+	&= Ax - BK_r\hat{x} + w_d \\
 	&= Ax - BK_rx + BK_r(x-\hat{x}) + w_d \\
 	&= Ax - BK_rx + BK_r\epsilon + w_d
 \end{aligned}
-$$, where we express $\hat{x} = x-(x-\hat{x})=x-\epsilon$.
+$$, where we express $\hat{x} = x-(x-\hat{x})=x-\epsilon$. Also,
+
+
 
 
 
@@ -421,11 +425,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjcyMjU0OSwtMTQ2MjExNzk4MSwxNz
-k5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUsLTgyMDcy
-NzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC
-0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1NDksLTYy
-NzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5Nj
-Y2MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3
-NzA5MzI2MjBdfQ==
+eyJoaXN0b3J5IjpbNzcwMTY5NTgyLC0xNDYyMTE3OTgxLDE3OT
+k4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3
+MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIyODcsLT
+E3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3
+MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2Nj
+YzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIwMzAxNzQwMDEsMTc3
+MDkzMjYyMF19
 -->
