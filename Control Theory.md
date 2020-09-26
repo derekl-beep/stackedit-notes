@@ -444,6 +444,11 @@ When a linear system is excited with a sine wave, e.g. $u(t)=\sin(\omega t)$, th
 Magnitude of transfer function:
 $$|G(i \omega)| = A$$
 
+Angle of transfer function:
+$$\angle G(i \omega) = \phi$$
+
+
+
 
 ## References
 
@@ -459,7 +464,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgwNzA4MiwtMTkwMDQ5MjA5NywtMj
+eyJoaXN0b3J5IjpbLTI0ODQyMjE3NCwtMTkwMDQ5MjA5NywtMj
 AyNDY0ODQ2MSwtOTIzMDU5MTYzLC0xNDYyMTE3OTgxLDE3OTk4
 NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3MT
 AsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIyODcsLTE3
