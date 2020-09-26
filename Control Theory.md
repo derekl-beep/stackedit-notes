@@ -439,7 +439,10 @@ $$G(s)=C(sI-A)^{-1}B$$
 $$y(t)=\int_{0}^{t}{h(t-\tau)u(\tau)d\tau}$$
 
 ### Transfer functions
-When a linear system is excited with a sine wave, e.g. $u(t)=\sin(\omega t)$, the responses are also sinusoidal with the same frequency, e.g. $y(t)=A\sin(\omega t +\phi)$, and possibly a different amplitude and a shift in phrase.
+When a linear system is excited with a sine wave, e.g. $u(t)=\sin(\omega t)$, the responses are also sinusoidal with the same frequency, e.g. $y(t)=A\sin(\omega t +\phi)$, and possibly a different amplitude and a shift in phrase. 
+
+Magnitude of transfer function:
+$$|G(i \omega)| = A$$
 
 
 ## References
@@ -456,11 +459,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzQwNTgwLC0xOTAwNDkyMDk3LC0yMD
-I0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIxMTc5ODEsMTc5OTg0
-NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1LC04MjA3MjcxMC
-wtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Njc3MjI4NywtMTcz
-MjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNT
-E4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMs
-LTEyMDM0NjY1NTFdfQ==
+eyJoaXN0b3J5IjpbLTE4MjgwNzA4MiwtMTkwMDQ5MjA5NywtMj
+AyNDY0ODQ2MSwtOTIzMDU5MTYzLC0xNDYyMTE3OTgxLDE3OTk4
+NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3MT
+AsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIyODcsLTE3
+MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3Mj
+UxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUxMywxODQ2MTk2NjYz
+LC0xMjAzNDY2NTUxXX0=
 -->
