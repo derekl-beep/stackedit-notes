@@ -400,9 +400,10 @@ $$
 $$
 \begin{aligned}
 	\dot{x} &= Ax - BK_r\hat{x} + w_d \\
-	&= Ax - BK_rx + BK_r(x-\hat{x}) + w_d
+	&= Ax - BK_rx + BK_r(x-\hat{x}) + w_d \\
+	&= Ax - BK_rx + BK_r\epsilon + w_d
 \end{aligned}
-$$
+$$, where we express $\hat{x} = x-(x-\hat{x})=x-\epsilon$.
 
 
 
@@ -420,7 +421,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODkwNzQ1NSwtMTQ2MjExNzk4MSwxNz
+eyJoaXN0b3J5IjpbMTk5MjcyMjU0OSwtMTQ2MjExNzk4MSwxNz
 k5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUsLTgyMDcy
 NzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC
 0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1NDksLTYy
