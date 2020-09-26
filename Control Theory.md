@@ -417,9 +417,9 @@ x \\ \epsilon
 There was a paper by John C. Doyle in 1978 that changes the modern control field: 
 Guaranteed Margins for LQG Regulators (Doyle, 1978). ***Abstract -- There are none***.
 
-Robustness: a measure of how sensitive 
+Robustness: a measure of how sensitive is the system to model uncertainties, time delays, disturbances, etc.
 
-Performance: 
+Performance: a measure of how fast the system responses.
 
 
 
@@ -437,11 +437,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjYwMzg3MywtOTIzMDU5MTYzLC0xND
-YyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1
-MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNS
-w3NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEz
-NTQ4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0ND
-UxMywxODQ2MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIw
-MzAxNzQwMDFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTA3OTYxLC05MjMwNTkxNjMsLTE0Nj
+IxMTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUx
+MzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LD
+c1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1
+NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NT
+EzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAz
+MDE3NDAwMV19
 -->
