@@ -413,7 +413,7 @@ x \\ \epsilon
 
 ## Introduction to Robust Control
 
-
+Guaranteed Stability Margins for LQG regulators (Doyle, 1978). 
 
 
 
@@ -431,11 +431,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzA1OTE2MywtMTQ2MjExNzk4MSwxNz
-k5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUsLTgyMDcy
-NzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC
-0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1NDksLTYy
-NzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5Nj
-Y2MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3
-NzA5MzI2MjBdfQ==
+eyJoaXN0b3J5IjpbLTEwNjM5ODE2MzUsLTkyMzA1OTE2MywtMT
+Q2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDky
+NTEzNDUsLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMz
+UsNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0x
+MzU0ODA1NDksLTYyNzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxND
+Q1MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwy
+MDMwMTc0MDAxXX0=
 -->
