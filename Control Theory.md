@@ -438,8 +438,8 @@ $$G(s)=C(sI-A)^{-1}B$$
 3. Time domain (impulse response):
 $$y(t)=\int_{0}^{t}{h(t-\tau)u(\tau)d\tau}$$
 
-
-When a linear system is excited with a sinusoidal input, says $u(t)=\sin(\omega t)$, the responses are also sinusoidal with the same frequency, e.g. $y(t)=A$
+### Transfer functions
+When a linear system is excited with a sine wave, e.g. $u(t)=\sin(\omega t)$, the responses are also sinusoidal with the same frequency, e.g. $y(t)=A\sin(\omega t +\phi)$, and possibly a different amplitude and a shift in phrase.
 
 
 ## References
@@ -456,7 +456,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODU3MjY1LC0xOTAwNDkyMDk3LC0yMD
+eyJoaXN0b3J5IjpbMTM3MzQwNTgwLC0xOTAwNDkyMDk3LC0yMD
 I0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIxMTc5ODEsMTc5OTg0
 NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1LC04MjA3MjcxMC
 wtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Njc3MjI4NywtMTcz
