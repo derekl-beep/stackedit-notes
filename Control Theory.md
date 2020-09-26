@@ -426,17 +426,19 @@ Performance: a measure of how fast the system responses.
 
 ## Three Equivalent Representations of Linear Systems
 
-State-space:
+1. State-space representation:
 $$\begin{aligned} 
 	\dot{x} &= Ax+Bu \\
 	y&=Cx
 \end{aligned}$$
 
-Frequency domain (transfer function):
+2. Frequency domain (transfer function):
 $$G(s)=C(sI-A^{-1})B$$
 
-Time domain (impulse response):
+3. Time domain (impulse response):
 $$y(t)=\int_{0}^{t}{h(t-\tau)u(\tau)d\tau}$$
+
+
 
 
 ## References
@@ -453,11 +455,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzA2OTUyLC0yMDI0NjQ4NDYxLC05Mj
-MwNTkxNjMsLTE0NjIxMTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2
-MTA3LC0yMTA5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMy
-wyMDcyODI1MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcw
-ODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyND
-k0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2NjMsLTEyMDM0NjY1NTEs
-LTg1ODQ1MTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MDA0OTIwOTcsLTIwMjQ2NDg0NjEsLT
+kyMzA1OTE2MywtMTQ2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2
+NTYxMDcsLTIxMDkyNTEzNDUsLTgyMDcyNzEwLC0xNDczMjQzMj
+AzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0x
+NzA4NzgyODA4LC0xMzU0ODA1NDksLTYyNzI1MTg5NywtNDgxMj
+I0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1
+MSwtODU4NDUxNF19
 -->
