@@ -455,7 +455,16 @@ m\ddot{x}+d\dot{x}+kx=u
 $$
 
 ### Laplace Transform
- $$\mathcal{L}\bigg\{\frac{d}{dt}x\bigg\}=s\bar{x}(x)-x(0)$$
+ $$
+ \begin{aligned}
+ \mathcal{L}\bigg\{\frac{d}{dt}x\bigg\}&=s\bar{x}(x)-x(0) \\
+& =s\bar{x}(s), \text{for x(0)=0}
+  \end{aligned}
+ $$
+
+$$
+
+$$
 
 
 ## References
@@ -472,7 +481,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzA5NDQwOSwtMjQ4NDIyMTc0LC0xOT
+eyJoaXN0b3J5IjpbMTg4Nzc3MTQ5MiwtMjQ4NDIyMTc0LC0xOT
 AwNDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIx
 MTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMz
 Q1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1
