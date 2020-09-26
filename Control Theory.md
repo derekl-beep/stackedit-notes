@@ -475,7 +475,8 @@ To simply the model, assume $m=d=k=1$, and we have
 
 $$\begin{aligned}
 \ddot{x} + \dot{x} + x &=u \\
-s^2\bar{x} + s\bar{x}
+s^2\bar{x} + s\bar{x} + \bar{x} &= \bar{u} \\
+G(s) := \frac{\bar{x}}{\bar{u}}&=\frac{1}{s^2+s+1}
 \end{aligned}$$
 
 
@@ -493,7 +494,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDA5MjY4NCwtMTQxMzk1NTUwMywtMj
+eyJoaXN0b3J5IjpbMjE0NzI2MjY3NywtMTQxMzk1NTUwMywtMj
 Q4NDIyMTc0LC0xOTAwNDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMw
 NTkxNjMsLTE0NjIxMTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MT
 A3LC0yMTA5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywy
