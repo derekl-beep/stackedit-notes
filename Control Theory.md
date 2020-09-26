@@ -462,9 +462,15 @@ $$
   \end{aligned}
  $$
 
-$$
+Also, 
 
 $$
+ \begin{aligned}
+ \mathcal{L}\bigg\{\frac{d^2}{dt^2}x\bigg\}&=s^2\bar{x}(x)
+  \end{aligned}
+$$
+
+
 
 
 ## References
@@ -481,11 +487,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Nzc3MTQ5MiwtMjQ4NDIyMTc0LC0xOT
-AwNDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIx
-MTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMz
-Q1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1
-Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1ND
-gwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEz
-LDE4NDYxOTY2NjNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTM5NTU1MDMsLTI0ODQyMjE3NCwtMT
+kwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MTYzLC0xNDYy
+MTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MT
+M0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3
+NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNT
+Q4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUx
+MywxODQ2MTk2NjYzXX0=
 -->
