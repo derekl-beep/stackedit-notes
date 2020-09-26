@@ -415,7 +415,7 @@ x \\ \epsilon
 
 
 There was a paper by John C. Doyle in 1978 that changes the modern control field: 
-Guaranteed Margins for LQG Regulators (Doyle, 1978). ***Abstract -- There are none***.
+Guaranteed Margins for LQG Regulators (Doyle, 1978). ***Abstract -- There are none***. [Link](https://authors.library.caltech.edu/93672/1/01101812.pdf).
 
 ### Robustness and Performance
 
@@ -440,11 +440,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjcxMzYzMywtOTIzMDU5MTYzLC0xND
-YyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1
-MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNS
-w3NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEz
-NTQ4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0ND
-UxMywxODQ2MTk2NjYzLC0xMjAzNDY2NTUxLC04NTg0NTE0LDIw
-MzAxNzQwMDFdfQ==
+eyJoaXN0b3J5IjpbLTIwMjQ2NDg0NjEsLTkyMzA1OTE2MywtMT
+Q2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDky
+NTEzNDUsLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMz
+UsNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0x
+MzU0ODA1NDksLTYyNzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxND
+Q1MTMsMTg0NjE5NjY2MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwy
+MDMwMTc0MDAxXX0=
 -->
