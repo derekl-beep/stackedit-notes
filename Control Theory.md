@@ -470,7 +470,13 @@ $$
   \end{aligned}
 $$
 
+To simply the model, assume $m=d=k=1$, and we have
 
+
+$$\begin{aligned}
+\ddot{x} + \dot{x} + x &=u \\
+s^2\bar{x} + s\bar{x}
+\end{aligned}$$
 
 
 ## References
@@ -487,11 +493,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM5NTU1MDMsLTI0ODQyMjE3NCwtMT
-kwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MTYzLC0xNDYy
-MTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MT
-M0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3
-NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNT
-Q4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5NDUsLTY0NDE0NDUx
-MywxODQ2MTk2NjYzXX0=
+eyJoaXN0b3J5IjpbLTQzMDA5MjY4NCwtMTQxMzk1NTUwMywtMj
+Q4NDIyMTc0LC0xOTAwNDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMw
+NTkxNjMsLTE0NjIxMTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MT
+A3LC0yMTA5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywy
+MDcyODI1MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwOD
+c4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0
+NSwtNjQ0MTQ0NTEzXX0=
 -->
