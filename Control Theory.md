@@ -449,7 +449,12 @@ $$\angle G(i \omega) = \phi$$
 
 ## Example Frequency Response (Bode Plot) for Spring-Mass-Damper
 
+Equation of Motion:
 
+
+### Derivation
+
+$$$$
 
 
 ## References
@@ -466,7 +471,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzA1MDU4MiwtMjQ4NDIyMTc0LC0xOT
+eyJoaXN0b3J5IjpbMTE3MzQwMTcxNywtMjQ4NDIyMTc0LC0xOT
 AwNDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIx
 MTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMz
 Q1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1
