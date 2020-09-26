@@ -426,7 +426,10 @@ Performance: a measure of how fast the system responses.
 
 ## Three Equivalent Representations of Linear Systems
 
+State-space:
 
+Transfer function (in frequency domain):
+$$G(s)=C(sI-A^{-1})B$$
 
 
 ## References
@@ -443,7 +446,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzczMzc1NSwtMjAyNDY0ODQ2MSwtOT
+eyJoaXN0b3J5IjpbMTQxNzcxNTc1NCwtMjAyNDY0ODQ2MSwtOT
 IzMDU5MTYzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1
 NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMyMD
 MsMjA3MjgyNTMzNSw3NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3
