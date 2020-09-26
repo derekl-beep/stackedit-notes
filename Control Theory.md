@@ -397,7 +397,12 @@ $$
 
 #### Proof
 
-
+$$
+\begin{aligned}
+	\dot{x} &= Ax - BK_r\hat{x} + w_d \\
+	&= Ax - BK_rx + BK_r(x-\hat{x}) + w_d
+\end{aligned}
+$$
 
 
 
@@ -415,11 +420,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NDQ1MTEsLTE0NjIxMTc5ODEsMTc5OT
-g0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1LC04MjA3Mjcx
-MCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Njc3MjI4NywtMT
-czMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgwNTQ5LC02Mjcy
-NTE4OTcsLTQ4MTIyNDk0NSwtNjQ0MTQ0NTEzLDE4NDYxOTY2Nj
-MsLTEyMDM0NjY1NTEsLTg1ODQ1MTQsMjAzMDE3NDAwMSwxNzcw
-OTMyNjIwXX0=
+eyJoaXN0b3J5IjpbMTIwODkwNzQ1NSwtMTQ2MjExNzk4MSwxNz
+k5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUsLTgyMDcy
+NzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC
+0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1NDksLTYy
+NzI1MTg5NywtNDgxMjI0OTQ1LC02NDQxNDQ1MTMsMTg0NjE5Nj
+Y2MywtMTIwMzQ2NjU1MSwtODU4NDUxNCwyMDMwMTc0MDAxLDE3
+NzA5MzI2MjBdfQ==
 -->
