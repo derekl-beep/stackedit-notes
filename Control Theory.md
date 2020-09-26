@@ -468,7 +468,8 @@ $$
  \begin{aligned}
  \mathcal{L}\bigg\{\frac{d^2}{dt^2}x\bigg\}&=s^2\bar{x}(x)
   \end{aligned}
-$$
+$$, where $\bar{x}$ is the Laplace transform of $x$.
+
 
 To simply the model, assume $m=d=k=1$, and we have
 
@@ -494,11 +495,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMxMTU5MTAsLTE0MTM5NTU1MDMsLT
-I0ODQyMjE3NCwtMTkwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIz
-MDU5MTYzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1Nj
-EwNywtMjEwOTI1MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMs
-MjA3MjgyNTMzNSw3NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MD
-g3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3MjUxODk3LC00ODEyMjQ5
-NDUsLTY0NDE0NDUxM119
+eyJoaXN0b3J5IjpbMTc3NTY5NjczNiwtMTQxMzk1NTUwMywtMj
+Q4NDIyMTc0LC0xOTAwNDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMw
+NTkxNjMsLTE0NjIxMTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MT
+A3LC0yMTA5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywy
+MDcyODI1MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwOD
+c4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0
+NSwtNjQ0MTQ0NTEzXX0=
 -->
