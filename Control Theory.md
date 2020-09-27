@@ -541,6 +541,11 @@ $$, and assuming a zero initial condition, i.e. $x(0) = 0$, gives
 $$\bar{x}(s) = (sI-A)^{-1}B\bar{u}$$.
 
 Taking the Laplace transform of the measurement equation gives
+$$\bar{y}(s)=C\bar{x}(s)$$.
+
+
+Combining the two equations gives
+$$\bar{y}(s)=C(sI-A)^{-1}B\bar{u}(s)$$
 
 
 
@@ -561,11 +566,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg4MTU3OTYsMjAyMTMzNjE1MSwtMT
-g3MjQ2MTY4MCwxNzc1Njk2NzM2LC0xNDEzOTU1NTAzLC0yNDg0
-MjIxNzQsLTE5MDA0OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OT
-E2MywtMTQ2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcs
-LTIxMDkyNTEzNDUsLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNz
-I4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0xNzA4Nzgy
-ODA4LC0xMzU0ODA1NDldfQ==
+eyJoaXN0b3J5IjpbLTMyMzgyMDQ4LDIwMjEzMzYxNTEsLTE4Nz
+I0NjE2ODAsMTc3NTY5NjczNiwtMTQxMzk1NTUwMywtMjQ4NDIy
+MTc0LC0xOTAwNDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNj
+MsLTE0NjIxMTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0y
+MTA5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyOD
+I1MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4Mjgw
+OCwtMTM1NDgwNTQ5XX0=
 -->
