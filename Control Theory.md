@@ -480,6 +480,9 @@ s^2\bar{x} + s\bar{x} + \bar{x} &= \bar{u} \\
 G(s)  \coloneqq  \frac{\bar{x}}{\bar{u}}&=\frac{1}{s^2+s+1} 
 \end{aligned}$$
 
+`<>`
+
+## Laplace Transforms and Transfer Functions
 
 
 
@@ -498,11 +501,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDQzOTkwLDE3NzU2OTY3MzYsLTE0MT
-M5NTU1MDMsLTI0ODQyMjE3NCwtMTkwMDQ5MjA5NywtMjAyNDY0
-ODQ2MSwtOTIzMDU5MTYzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OT
-gsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3MTAsLTE0
-NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIyODcsLTE3MzI5Mz
-k0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3MjUxODk3
-LC00ODEyMjQ5NDVdfQ==
+eyJoaXN0b3J5IjpbLTQ0ODkzODc4MCwxNzc1Njk2NzM2LC0xND
+EzOTU1NTAzLC0yNDg0MjIxNzQsLTE5MDA0OTIwOTcsLTIwMjQ2
+NDg0NjEsLTkyMzA1OTE2MywtMTQ2MjExNzk4MSwxNzk5ODQ3Nj
+k4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUsLTgyMDcyNzEwLC0x
+NDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOT
+M5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1NDksLTYyNzI1MTg5
+NywtNDgxMjI0OTQ1XX0=
 -->
