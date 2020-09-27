@@ -464,6 +464,9 @@ $$. Rearranging the terms gives $$\alpha=\frac{C_{1,1}-C_{0,1}}{P_{1,1}-P_{0,1}}
 
 The value of the option is thus $$C_{0,0}=\alpha P_{0,0}+\beta$$, which is unique.
 
+### Risk-neural pricing probability
+
+The price of an option can be expressed as the expected pre
 
 
 
@@ -488,7 +491,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODM4MzE1NSwtMjAyMTQzNzIwOSwtMT
+eyJoaXN0b3J5IjpbMTgyMDY1NDAxMSwtMjAyMTQzNzIwOSwtMT
 kzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5NjM1
 NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5ODQsMz
 QyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUz
