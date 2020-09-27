@@ -514,7 +514,7 @@ $$
 \end{aligned}
 $$, where we have assumed $dv=\frac{d}{dt}x(t)$ and $u=e^{-st}$.
 
-The Laplace transform makes it possible 
+The Laplace transform makes derivative operations become polynomial operations in the $s$ domain. 
 
 
 ### Dynamical Systems
@@ -550,11 +550,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTE5MDE2OCwyMDIxMzM2MTUxLC0xOD
-cyNDYxNjgwLDE3NzU2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQy
-MjE3NCwtMTkwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MT
-YzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywt
-MjEwOTI1MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3Mj
-gyNTMzNSw3NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4
-MDgsLTEzNTQ4MDU0OV19
+eyJoaXN0b3J5IjpbMzI3NDAwOTYzLDIwMjEzMzYxNTEsLTE4Nz
+I0NjE2ODAsMTc3NTY5NjczNiwtMTQxMzk1NTUwMywtMjQ4NDIy
+MTc0LC0xOTAwNDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNj
+MsLTE0NjIxMTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0y
+MTA5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyOD
+I1MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4Mjgw
+OCwtMTM1NDgwNTQ5XX0=
 -->
