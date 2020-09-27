@@ -502,6 +502,13 @@ It is a generalised one-sided Fourier transform for functions not necessarily bo
 
 The Laplace transform of a function $x(t)$ is defined as $$\mathcal{L}\{x(t)\}=\int_{0^-}^{\infty}{x(t)e^{-st}}dt = \bar{x}(s)$$, where $s \in \mathbb{C}$ is a complex number frequency parameter.
 
+The Laplace transforms of the derivatives are
+
+$$
+\begin{aligned}
+	\mathcal{L}\bigg\{\frac{d}{dt}x(t)\bigg\}=\int_{0}^{}{}
+\end{aligned}
+$$
 
 ### Dynamical Systems
 
@@ -536,11 +543,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc5NzIwMjQsMjAyMTMzNjE1MSwtMT
-g3MjQ2MTY4MCwxNzc1Njk2NzM2LC0xNDEzOTU1NTAzLC0yNDg0
-MjIxNzQsLTE5MDA0OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OT
-E2MywtMTQ2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcs
-LTIxMDkyNTEzNDUsLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNz
-I4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0xNzA4Nzgy
-ODA4LC0xMzU0ODA1NDldfQ==
+eyJoaXN0b3J5IjpbMTU2MTM3NzgxMiwyMDIxMzM2MTUxLC0xOD
+cyNDYxNjgwLDE3NzU2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQy
+MjE3NCwtMTkwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MT
+YzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywt
+MjEwOTI1MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3Mj
+gyNTMzNSw3NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4
+MDgsLTEzNTQ4MDU0OV19
 -->
