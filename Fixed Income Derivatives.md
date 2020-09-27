@@ -468,7 +468,7 @@ The value of the option is thus $$C_{0,0}=\alpha P_{0,0}+\beta$$, which is uniqu
 
 The price of an option can be expressed as the expected present value, based on the risk-neural probability $q_0$
 
-$$C_{0,0}=(1+r_{0,0}\Delta t)^{-1}(q_0C_{0,1}+(1-q_0)C_{1,1})$$.
+$$C_{0,0}=(1+r_{0,0}\Delta t)^{-1}(q_0C_{0,1}+(1-q_0)C_{1,1})$$, where $q_0$ is given by $$P_{0,0}=(1+r_0,0 \Delta t)^{-1}(q_0 P_{0,1}+(1-q_0)P_{1,1}\bigg]$$ 
 
 #### Proof
 
@@ -479,8 +479,7 @@ $$
 	&=(1+r_{0,0}\Delta)^{-1}\bigg( \frac{P_{1,1}-P_{0,0}(1+r_{0,0}\Delta t)}{P_{1,1}-P_{0,1}}C_{0,1}+ \frac{P_{0,0}(1+r_{0,0}\Delta t)-P_{0,1}}{P_{1,1}-P_{0,1}}C_{1,1} \bigg) \\
 	&=(1+r_{0,0}\Delta t)^{-1}\bigg[q_0C_{0,1}+(1-q_0)C_{1,1}\bigg]
 \end{aligned}
-$$, wher
-
+$$
 
 
 
@@ -504,7 +503,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODczMTcyOSwtMjAyMTQzNzIwOSwtMT
+eyJoaXN0b3J5IjpbMTM2MDM4OTY0MSwtMjAyMTQzNzIwOSwtMT
 kzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5NjM1
 NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5ODQsMz
 QyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUz
