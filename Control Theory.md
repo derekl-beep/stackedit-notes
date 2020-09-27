@@ -555,7 +555,7 @@ $$\begin{aligned}
 
 ### Special Cases
 
-The Lap an impulse excitation, i.e. $$u(t)=\delta(t)$$, the Lap
+The Laplace transform of an impulse excitation, i.e. $u(t)=\delta(t)$, is a unity, $$\mathcal{L}\{\delta(t)\}=1$$, and hence the inverse Laplace transform of the transfer function is the impulsive reposes of the system, i.e. $$y(t) = \$$
 
 
 ## References
@@ -572,11 +572,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTExMTU4MCwyMDIxMzM2MTUxLC0xOD
-cyNDYxNjgwLDE3NzU2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQy
-MjE3NCwtMTkwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MT
-YzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywt
-MjEwOTI1MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3Mj
-gyNTMzNSw3NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4
-MDgsLTEzNTQ4MDU0OV19
+eyJoaXN0b3J5IjpbLTEyNjYzNTY4OTUsMjAyMTMzNjE1MSwtMT
+g3MjQ2MTY4MCwxNzc1Njk2NzM2LC0xNDEzOTU1NTAzLC0yNDg0
+MjIxNzQsLTE5MDA0OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OT
+E2MywtMTQ2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcs
+LTIxMDkyNTEzNDUsLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNz
+I4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0xNzA4Nzgy
+ODA4LC0xMzU0ODA1NDldfQ==
 -->
