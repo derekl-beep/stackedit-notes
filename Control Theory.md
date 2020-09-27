@@ -555,7 +555,7 @@ $$\begin{aligned}
 
 ### Special Cases
 
-The Laplace transform of an impulse excitation, i.e. $u(t)=\delta(t)$, is a unity, $$\mathcal{L}\{\delta(t)\}=1$$, and hence the inverse Laplace transform of the transfer function is the impulsive reposes of the system, i.e. $$y_{impulse}(t) = \mathcal{L}^{-1}\{G(s)\}$$.
+The Laplace transform of an impulse excitation, i.e. $u(t)=\delta(t)$, is a unity, $$\mathcal{L}\{\delta(t)\}=1$$, and hence the inverse Laplace transform of the transfer function is the impulse response of the system, i.e. $$y_{impulse}(t) = \mathcal{L}^{-1}\{G(s)\}$$. This equality has been applied in the area of system identification.
 
 
 ## References
@@ -572,11 +572,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI2ODYyMjIsMjAyMTMzNjE1MSwtMT
-g3MjQ2MTY4MCwxNzc1Njk2NzM2LC0xNDEzOTU1NTAzLC0yNDg0
-MjIxNzQsLTE5MDA0OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OT
-E2MywtMTQ2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcs
-LTIxMDkyNTEzNDUsLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNz
-I4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOTM5NDA2LC0xNzA4Nzgy
-ODA4LC0xMzU0ODA1NDldfQ==
+eyJoaXN0b3J5IjpbMTQxMTAzMjQ0NywtMTUzMjY4NjIyMiwyMD
+IxMzM2MTUxLC0xODcyNDYxNjgwLDE3NzU2OTY3MzYsLTE0MTM5
+NTU1MDMsLTI0ODQyMjE3NCwtMTkwMDQ5MjA5NywtMjAyNDY0OD
+Q2MSwtOTIzMDU5MTYzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OTgs
+LTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3MTAsLTE0Nz
+MyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIyODcsLTE3MzI5Mzk0
+MDYsLTE3MDg3ODI4MDhdfQ==
 -->
