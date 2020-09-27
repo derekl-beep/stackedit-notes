@@ -555,7 +555,7 @@ $$\begin{aligned}
 
 ### Special Cases
 
-The Laplace transform of an impulse excitation, i.e. $u(t)=\delta(t)$, is a unity, $$\mathcal{L}\{\delta(t)\}=1$$, and hence the inverse Laplace transform of the transfer function is the impulsive reposes of the system, i.e. $$y(t) = \$$
+The Laplace transform of an impulse excitation, i.e. $u(t)=\delta(t)$, is a unity, $$\mathcal{L}\{\delta(t)\}=1$$, and hence the inverse Laplace transform of the transfer function is the impulsive reposes of the system, i.e. $$y_{impulse}(t) = \mathcal{L}^{-1}\{G(s)\}$$.
 
 
 ## References
@@ -572,7 +572,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjYzNTY4OTUsMjAyMTMzNjE1MSwtMT
+eyJoaXN0b3J5IjpbLTE1MzI2ODYyMjIsMjAyMTMzNjE1MSwtMT
 g3MjQ2MTY4MCwxNzc1Njk2NzM2LC0xNDEzOTU1NTAzLC0yNDg0
 MjIxNzQsLTE5MDA0OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OT
 E2MywtMTQ2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcs
