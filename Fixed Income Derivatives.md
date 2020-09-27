@@ -432,8 +432,8 @@ $$\Delta r_t = \mu_t \Delta t + \sigma \sqrt{\Delta t} \epsilon$$, where  $\epsi
 ### Binomial model for interest rates
 
 $$\Delta r_t = \mu_t \Delta t+\sigma \sqrt{\Delta t} \epsilon_B$$, where $\epsilon_B =\left\{ \begin{array}{l}
-	1, \text{with prob. } 0.5\\
-	-1, \text{with prob. } 0.5 
+	1, &\text{with prob. } 0.5\\
+	-1, &\text{with prob. } 0.5 
 	\end{array}
 	\right..$
 
@@ -506,11 +506,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5ODk4NzQ0LDExNDQ1NzQ0NDgsLTIwMj
-E0MzcyMDksLTE5MzYzNDk1MTUsOTE5NTMzOTkyLDE1NDQ0OTk3
-ODQsLTExOTYzNTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQzNTksND
-E3MjgxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4
-MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Nj
-c3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0
-XX0=
+eyJoaXN0b3J5IjpbLTE0NTgyMzk0NzAsOTY5ODk4NzQ0LDExND
+Q1NzQ0NDgsLTIwMjE0MzcyMDksLTE5MzYzNDk1MTUsOTE5NTMz
+OTkyLDE1NDQ0OTk3ODQsLTExOTYzNTU2MjQsLTk0MTI5MzA3NC
+wzNzg3MDQzNTksNDE3MjgxOTg0LDM0MjQzOTUzNCwxNzY5MTEz
+OTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsOD
+E1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcy
+OTddfQ==
 -->
