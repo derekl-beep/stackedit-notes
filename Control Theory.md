@@ -528,6 +528,8 @@ $$
 $$, the Laplace transform of the equation of motion is
 $$G(s) = C(sI - A)^{-1}B$$.
 
+With the transfer function $G(s)$, we can solve for the Laplace transformed response $\bar{y}(s)$ with linear algebra, i.e. $$$$
+
 ### Proof
 
 Taking the Laplace transform of the system equation gives
@@ -571,7 +573,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzA2NTc1OCwyMDIxMzM2MTUxLC0xOD
+eyJoaXN0b3J5IjpbLTc0ODE2MTE3MywyMDIxMzM2MTUxLC0xOD
 cyNDYxNjgwLDE3NzU2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQy
 MjE3NCwtMTkwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MT
 YzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywt
