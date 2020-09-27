@@ -480,7 +480,7 @@ s^2\bar{x} + s\bar{x} + \bar{x} &= \bar{u} \\
 G(s)  \coloneqq  \frac{\bar{x}}{\bar{u}}&=\frac{1}{s^2+s+1} 
 \end{aligned}$$
 
-`<>`
+`<Insert Bode Plot>`
 
 ## Laplace Transforms and Transfer Functions
 
@@ -501,11 +501,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODkzODc4MCwxNzc1Njk2NzM2LC0xND
-EzOTU1NTAzLC0yNDg0MjIxNzQsLTE5MDA0OTIwOTcsLTIwMjQ2
-NDg0NjEsLTkyMzA1OTE2MywtMTQ2MjExNzk4MSwxNzk5ODQ3Nj
-k4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUsLTgyMDcyNzEwLC0x
-NDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2NzcyMjg3LC0xNzMyOT
-M5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1NDksLTYyNzI1MTg5
-NywtNDgxMjI0OTQ1XX0=
+eyJoaXN0b3J5IjpbLTE4NzI0NjE2ODAsMTc3NTY5NjczNiwtMT
+QxMzk1NTUwMywtMjQ4NDIyMTc0LC0xOTAwNDkyMDk3LC0yMDI0
+NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIxMTc5ODEsMTc5OTg0Nz
+Y5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1LC04MjA3MjcxMCwt
+MTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Njc3MjI4NywtMTczMj
+kzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4
+OTcsLTQ4MTIyNDk0NV19
 -->
