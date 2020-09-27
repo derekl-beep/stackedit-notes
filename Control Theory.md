@@ -500,7 +500,7 @@ The Fourier transform of a function $f(x)$ is defined as $$\mathcal{F}\{f(x)\}=\
 
 It is a generalised one-sided Fourier transform for functions not necessarily bounded at $x=\pm \infty$.
 
-The Laplace transform of a function $x(t)$ is defined as $$\mathcal{L}\{x(t)\}=\int_{0^-}^{\infty}{x(t)e^{-st}}dt = \bar{x}(s)$$.
+The Laplace transform of a function $x(t)$ is defined as $$\mathcal{L}\{x(t)\}=\int_{0^-}^{\infty}{x(t)e^{-st}}dt = \bar{x}(s)$$
 
 ### Dynamical Systems
 
@@ -535,11 +535,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTMzNjE1MSwtMTg3MjQ2MTY4MCwxNz
-c1Njk2NzM2LC0xNDEzOTU1NTAzLC0yNDg0MjIxNzQsLTE5MDA0
-OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OTE2MywtMTQ2MjExNz
-k4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUs
-LTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2Nz
-cyMjg3LC0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1
-NDksLTYyNzI1MTg5N119
+eyJoaXN0b3J5IjpbLTYwNDExNjM5MSwyMDIxMzM2MTUxLC0xOD
+cyNDYxNjgwLDE3NzU2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQy
+MjE3NCwtMTkwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MT
+YzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywt
+MjEwOTI1MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3Mj
+gyNTMzNSw3NTY3NzIyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4
+MDgsLTEzNTQ4MDU0OV19
 -->
