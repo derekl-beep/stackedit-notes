@@ -476,9 +476,10 @@ $$
 \begin{aligned}
 	C_{0,0} &= \alpha P_{0,0} + \beta \\
 	&= \frac{C_{1,1}-C_{0,1}}{P_{1,1}-P_{0,1}}P_{0,0} + \frac{P_{1,1}C_{0,1}-P_{1,0}C_{1,1}}{(1+r_{0,0}\Delta t)(P_{1,1}-P_{1,0})} \\
-	&=(1+r_{0,0}\Delta)^{-1}\bigg( \frac{P_{1,1}-P_{0,0}(1+r_{0,0}\Delta t)}{P_{1,1}-P_{0,1}}C_{0,1}+ \frac{P_{1,1}-P_{0,0}(1+r_{0,0}\Delta t)}{P_{1,1}-P_{0,1}}C_{0,1} \bigg)
+	&=(1+r_{0,0}\Delta)^{-1}\bigg( \frac{P_{1,1}-P_{0,0}(1+r_{0,0}\Delta t)}{P_{1,1}-P_{0,1}}C_{0,1}+ \frac{P_{0,0}(1+r_{0,0}\Delta t)-P_{0,1}}{P_{1,1}-P_{0,1}}C_{1,1} \bigg) \\
+	&=(1+r_{0,0}\Delta t)^{-1}\bigg[q_0C_{0,1}+(1-q_0)C_{1,1}\bigg]
 \end{aligned}
-$$
+$$, wher
 
 
 
@@ -503,10 +504,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA5OTk5ODEsLTIwMjE0MzcyMDksLT
-E5MzYzNDk1MTUsOTE5NTMzOTkyLDE1NDQ0OTk3ODQsLTExOTYz
-NTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3MjgxOTg0LD
-M0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1
-MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMT
-E0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbLTE4ODczMTcyOSwtMjAyMTQzNzIwOSwtMT
+kzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5NjM1
+NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5ODQsMz
+QyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUz
+MDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMT
+QxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
