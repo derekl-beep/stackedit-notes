@@ -448,7 +448,8 @@ $$P_{i,j}=\frac{\frac{1}{2}(P_{i+1,j+1}+P_{i,j+1})}{1+r_{i,j}\Delta t}$$
 
 ### Expectation pricing
 
-$$C_{i,j}=\frac{\frac{1}{2}(C_{i+1,j+1}+C_{i,j+1})}{1+r_{i,j}\Delta t}$$
+$$C_{i,j}=\frac{\frac{1}{2}(C_{i+1,j+1}+C_{i,j+1})}{1+r_{i,j}\Delta t}$$. However, this pricing model often leads to arbitrage oppurtunties, because the probability is not dis
+
 
 ### Arbitrage pricing
 
@@ -505,10 +506,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDU3NDQ0OCwtMjAyMTQzNzIwOSwtMT
-kzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5NjM1
-NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5ODQsMz
-QyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUz
-MDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMT
-QxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbLTE5NTQ2NzcxMzMsMTE0NDU3NDQ0OCwtMj
+AyMTQzNzIwOSwtMTkzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5
+OTc4NCwtMTE5NjM1NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OS
+w0MTcyODE5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0
+NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNT
+c2Nzc3MTA0LC0xMTQxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4
+NjRdfQ==
 -->
