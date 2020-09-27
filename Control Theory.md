@@ -560,7 +560,10 @@ The Laplace transform of an impulse excitation, i.e. $u(t)=\delta(t)$, is a unit
 ## Benefits of Feedback
 
 - stability
-- uncertiain
+- uncertainty
+- disturbance
+
+
 
 
 ## References
@@ -577,7 +580,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDcwMTU3MCwyNDEwNjY4NjcsMTQxMT
+eyJoaXN0b3J5IjpbLTkwNjUzNTY3NywyNDEwNjY4NjcsMTQxMT
 AzMjQ0NywtMTUzMjY4NjIyMiwyMDIxMzM2MTUxLC0xODcyNDYx
 NjgwLDE3NzU2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQyMjE3NC
 wtMTkwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MTYzLC0x
