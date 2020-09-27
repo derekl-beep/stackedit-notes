@@ -451,7 +451,7 @@ $$P_{i,j}=\frac{\frac{1}{2}(P_{i+1,j+1}+P_{i,j+1})}{1+r_{i,j}\Delta t}$$
 ### Arbitrage pricing
 
 We can consider two alternative portfolios:
-1. a call option on a bond
+1. a call option on bond
 2. $\alpha$ and $\beta$ units of bond and cash
 
 To ensure the two portfolios have the same values requires
@@ -462,7 +462,9 @@ $$
 \end{aligned}
 $$. Rearranging the terms gives $$\alpha=\frac{C_{1,1}-C_{0,1}}{P_{1,1}-P_{0,1}}$$, and $$\beta=\frac{P_{1,1}C_{0,1}-P_{1,0}C_{1,1}}{(1+r_{0,0}\Delta t)(P_{1,1}-P_{1,0})}$$.
 
-The value of the op
+The value of the option is thus $$C_{0,0}=\alpha P_{0,0}+\beta$$, which is unique.
+
+
 
 
 
@@ -486,7 +488,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDc0MTUwNSwtMjAyMTQzNzIwOSwtMT
+eyJoaXN0b3J5IjpbMjAwODM4MzE1NSwtMjAyMTQzNzIwOSwtMT
 kzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5NjM1
 NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5ODQsMz
 QyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUz
