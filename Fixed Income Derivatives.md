@@ -452,8 +452,13 @@ $$P_{i,j}=\frac{\frac{1}{2}(P_{i+1,j+1}+P_{i,j+1})}{1+r_{i,j}\Delta t}$$
 
 We can consider two alternative portfolios:
 1. a call option on a bond
-2. 
+2. $\alpha$ and $\beta$ units of bond and cash
 
+$$
+\begin{aligned}
+	
+\end{aligned}
+$$
 
 
 
@@ -477,10 +482,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA1MjIzODksLTIwMjE0MzcyMDksLT
-E5MzYzNDk1MTUsOTE5NTMzOTkyLDE1NDQ0OTk3ODQsLTExOTYz
-NTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3MjgxOTg0LD
-M0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1
-MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMT
-E0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbMTc0Mzk1MzEwNSwtMjAyMTQzNzIwOSwtMT
+kzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5NjM1
+NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5ODQsMz
+QyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUz
+MDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMT
+QxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
 -->
