@@ -495,7 +495,7 @@ G(s)  \coloneqq  \frac{\bar{x}}{\bar{u}}&=\frac{1}{s^2+s+1}
 
 ### Laplace Transformation
 
-It is a gen
+It is a generalisation of the Fourier transform for functions not necessarily bounded at $x=\pm \infty$.
 
 Given the state-space formulation 
 $$
@@ -528,7 +528,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzUxMTIyNTAsLTE4NzI0NjE2ODAsMT
+eyJoaXN0b3J5IjpbLTIwODI1MzgzMDYsLTE4NzI0NjE2ODAsMT
 c3NTY5NjczNiwtMTQxMzk1NTUwMywtMjQ4NDIyMTc0LC0xOTAw
 NDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIxMT
 c5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1
