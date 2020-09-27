@@ -72,14 +72,8 @@ $$
 	&= \begin{Bmatrix} 
 	100.550 \\ 104.513 \\ 105.856
 	\end{Bmatrix} \\
-	\begin{Bmatrix}
-	d(0.5) \\ d(1.0) \\d(1.5)
-	\end{Bmatrix}
-	&= \begin{Bmatrix}
-	0.99925 \\ 0.99648 \\ 0.99135
-	\end{Bmatrix}
 \end{aligned}
-$$
+$$. Solving the system of 
 
 ### Example (Arbitrage)
 
@@ -506,11 +500,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgyMzk0NzAsOTY5ODk4NzQ0LDExND
-Q1NzQ0NDgsLTIwMjE0MzcyMDksLTE5MzYzNDk1MTUsOTE5NTMz
-OTkyLDE1NDQ0OTk3ODQsLTExOTYzNTU2MjQsLTk0MTI5MzA3NC
-wzNzg3MDQzNTksNDE3MjgxOTg0LDM0MjQzOTUzNCwxNzY5MTEz
-OTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3NjczNjUsOD
-E1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0MjgyNDcy
-OTddfQ==
+eyJoaXN0b3J5IjpbLTE1MTk5Mzg0MjQsLTE0NTgyMzk0NzAsOT
+Y5ODk4NzQ0LDExNDQ1NzQ0NDgsLTIwMjE0MzcyMDksLTE5MzYz
+NDk1MTUsOTE5NTMzOTkyLDE1NDQ0OTk3ODQsLTExOTYzNTU2Mj
+QsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3MjgxOTg0LDM0MjQz
+OTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMy
+w1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMw
+MDQyM119
 -->
