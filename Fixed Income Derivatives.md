@@ -498,7 +498,9 @@ $$\Delta r_t =(\mu_t + \lambda_t)\Delta t + \sigma \sqrt{\Delta t} \epsilon_B$$,
 
 $$
 \begin{aligned}
-\end{ali}
+	r_{i,j+1} &= r_{i,j}+(\mu_j+\lambda_j)\Delta t - \sigma \sqrt{\Delta t} \\
+	r_{j+1,j+1} &= 
+\end{aligned}
 $$
 
 
@@ -519,7 +521,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MzQyMzA0LDExODI4Mzk0NDcsLTUyNj
+eyJoaXN0b3J5IjpbMTg1NzY1NDAxLDExODI4Mzk0NDcsLTUyNj
 YyNDc0NSwtMTE2NzQ1NjQzMiwtMTc5Mjg0MzI3NCwtMTQ1ODIz
 OTQ3MCw5Njk4OTg3NDQsMTE0NDU3NDQ0OCwtMjAyMTQzNzIwOS
 wtMTkzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5
