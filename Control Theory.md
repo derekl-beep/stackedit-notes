@@ -492,13 +492,24 @@ G(s)  \coloneqq  \frac{\bar{x}}{\bar{u}}&=\frac{1}{s^2+s+1}
 
 ## Laplace Transforms and Transfer Functions
 
+
+### Laplace Transformation
+
+It is a gen
+
 Given the state-space formulation 
 $$
 \begin{aligned}
+	\dot{x} &= Ax+Bu \\
+	y &= Cx
 \end{aligned}
-$$
+$$, the Laplace transform of the equation of motion is
+$$G(s) = C(sI - A)^{-1}B$$.
 
-Laplace transform of the state-space equation of motion is
+### Proof
+
+
+
 
 
 
@@ -517,11 +528,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjQ4MzUzMiwtMTg3MjQ2MTY4MCwxNz
-c1Njk2NzM2LC0xNDEzOTU1NTAzLC0yNDg0MjIxNzQsLTE5MDA0
-OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OTE2MywtMTQ2MjExNz
-k4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUs
-LTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2Nz
-cyMjg3LC0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1
-NDksLTYyNzI1MTg5N119
+eyJoaXN0b3J5IjpbLTEzMzUxMTIyNTAsLTE4NzI0NjE2ODAsMT
+c3NTY5NjczNiwtMTQxMzk1NTUwMywtMjQ4NDIyMTc0LC0xOTAw
+NDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIxMT
+c5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1
+LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Nj
+c3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgw
+NTQ5LC02MjcyNTE4OTddfQ==
 -->
