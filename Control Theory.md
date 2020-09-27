@@ -495,7 +495,11 @@ G(s)  \coloneqq  \frac{\bar{x}}{\bar{u}}&=\frac{1}{s^2+s+1}
 
 ### Laplace Transformation
 
-It is a generalisation of the Fourier transform for functions not necessarily bounded at $x=\pm \infty$.
+It is a generalised one-sided Fourier transform for functions not necessarily bounded at $x=\pm \infty$.
+
+For example, 
+
+$$\mathcal{L}\{x(t)\}=\int_{}^{}{}$$
 
 Given the state-space formulation 
 $$
@@ -528,11 +532,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI1MzgzMDYsLTE4NzI0NjE2ODAsMT
-c3NTY5NjczNiwtMTQxMzk1NTUwMywtMjQ4NDIyMTc0LC0xOTAw
-NDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIxMT
-c5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1
-LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Nj
-c3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgw
-NTQ5LC02MjcyNTE4OTddfQ==
+eyJoaXN0b3J5IjpbMzQxODE1NTk5LC0xODcyNDYxNjgwLDE3Nz
+U2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQyMjE3NCwtMTkwMDQ5
+MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MTYzLC0xNDYyMTE3OT
+gxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwt
+ODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3Nz
+IyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0
+OSwtNjI3MjUxODk3XX0=
 -->
