@@ -488,7 +488,20 @@ $$
 
 A risk premium is the extra return demanded by investors for taking risks. In the context of interest-rate modelling, the risk premium, $\lambda_t$, acts as 
 
-$$\Delta r_t =(\mu_t + \lambda_t)\Delta t + \sigma \sqrt{\Delta t} \es$$
+$$\Delta r_t =(\mu_t + \lambda_t)\Delta t + \sigma \sqrt{\Delta t} \epsilon_B$$, where $\epsilon_B =\left\{ \begin{array}{l}
+	1, &\text{with prob. } 0.5\\
+	-1, &\text{with prob. } 0.5 
+	\end{array}
+	\right.$.
+
+### Interest rate tree
+
+$$
+\begin{aligned}
+\end{ali}
+$$
+
+
 
 # 16 - Swaps and Swapotions
 To be available.
@@ -506,11 +519,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQzNTUxODIsMTE4MjgzOTQ0NywtNT
-I2NjI0NzQ1LC0xMTY3NDU2NDMyLC0xNzkyODQzMjc0LC0xNDU4
-MjM5NDcwLDk2OTg5ODc0NCwxMTQ0NTc0NDQ4LC0yMDIxNDM3Mj
-A5LC0xOTM2MzQ5NTE1LDkxOTUzMzk5MiwxNTQ0NDk5Nzg0LC0x
-MTk2MzU1NjI0LC05NDEyOTMwNzQsMzc4NzA0MzU5LDQxNzI4MT
-k4NCwzNDI0Mzk1MzQsMTc2OTExMzkwNiwtNzM5NDQ0ODExLDE1
-MDMwNTMwMjNdfQ==
+eyJoaXN0b3J5IjpbNDU5MzQyMzA0LDExODI4Mzk0NDcsLTUyNj
+YyNDc0NSwtMTE2NzQ1NjQzMiwtMTc5Mjg0MzI3NCwtMTQ1ODIz
+OTQ3MCw5Njk4OTg3NDQsMTE0NDU3NDQ0OCwtMjAyMTQzNzIwOS
+wtMTkzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5
+NjM1NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5OD
+QsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAz
+MDUzMDIzXX0=
 -->
