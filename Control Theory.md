@@ -492,6 +492,14 @@ G(s)  \coloneqq  \frac{\bar{x}}{\bar{u}}&=\frac{1}{s^2+s+1}
 
 ## Laplace Transforms and Transfer Functions
 
+Given the state-space formulation 
+$$
+\begin{aligned}
+\end{aligned}
+$$
+
+Laplace transform of the state-space equation of motion is
+
 
 
 
@@ -509,11 +517,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzMDE1ODcxLC0xODcyNDYxNjgwLDE3Nz
-U2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQyMjE3NCwtMTkwMDQ5
-MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MTYzLC0xNDYyMTE3OT
-gxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwt
-ODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3Nz
-IyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0
-OSwtNjI3MjUxODk3XX0=
+eyJoaXN0b3J5IjpbLTQ0MjQ4MzUzMiwtMTg3MjQ2MTY4MCwxNz
+c1Njk2NzM2LC0xNDEzOTU1NTAzLC0yNDg0MjIxNzQsLTE5MDA0
+OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OTE2MywtMTQ2MjExNz
+k4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUs
+LTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2Nz
+cyMjg3LC0xNzMyOTM5NDA2LC0xNzA4NzgyODA4LC0xMzU0ODA1
+NDksLTYyNzI1MTg5N119
 -->
