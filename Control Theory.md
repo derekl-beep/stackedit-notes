@@ -557,6 +557,11 @@ $$\begin{aligned}
 
 The Laplace transform of an impulse excitation, i.e. $u(t)=\delta(t)$, is a unity, $$\mathcal{L}\{\delta(t)\}=1$$, and hence the inverse Laplace transform of the transfer function is the impulse response of the system, i.e. $$y_{impulse}(t) = \mathcal{L}^{-1}\{G(s)\}$$. This equality has been applied in the area of system identification.
 
+## Benefits of Feedback
+
+- stability
+- uncertiain
+
 
 ## References
 
@@ -572,11 +577,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMDY2ODY3LDE0MTEwMzI0NDcsLTE1Mz
-I2ODYyMjIsMjAyMTMzNjE1MSwtMTg3MjQ2MTY4MCwxNzc1Njk2
-NzM2LC0xNDEzOTU1NTAzLC0yNDg0MjIxNzQsLTE5MDA0OTIwOT
-csLTIwMjQ2NDg0NjEsLTkyMzA1OTE2MywtMTQ2MjExNzk4MSwx
-Nzk5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUsLTgyMD
-cyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUzMzUsNzU2NzcyMjg3
-LC0xNzMyOTM5NDA2XX0=
+eyJoaXN0b3J5IjpbLTIzMDcwMTU3MCwyNDEwNjY4NjcsMTQxMT
+AzMjQ0NywtMTUzMjY4NjIyMiwyMDIxMzM2MTUxLC0xODcyNDYx
+NjgwLDE3NzU2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQyMjE3NC
+wtMTkwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MTYzLC0x
+NDYyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywtMjEwOT
+I1MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMz
+NSw3NTY3NzIyODddfQ==
 -->
