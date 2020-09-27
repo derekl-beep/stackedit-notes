@@ -496,16 +496,13 @@ G(s)  \coloneqq  \frac{\bar{x}}{\bar{u}}&=\frac{1}{s^2+s+1}
 
 The Fourier transform of a function $f(x)$ is defined as $$\mathcal{F}\{f(x)\}=\int_{-\infty}^{\infty}{f(x)e^{-i\omega x}}dx=\bar{f}(\omega)$$.
 
-
-
-
 ### Laplace Transformation
 
 It is a generalised one-sided Fourier transform for functions not necessarily bounded at $x=\pm \infty$.
 
 The Laplace transform of a function $x(t)$ is defined as $$\mathcal{L}\{x(t)\}=\int_{0^-}^{\infty}{x(t)e^{-st}}dt = \bar{x}(s)$$.
 
-
+### Dynamical Systems
 
 Given the state-space formulation 
 $$
@@ -538,7 +535,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjIxODU1MCwtMTg3MjQ2MTY4MCwxNz
+eyJoaXN0b3J5IjpbMjAyMTMzNjE1MSwtMTg3MjQ2MTY4MCwxNz
 c1Njk2NzM2LC0xNDEzOTU1NTAzLC0yNDg0MjIxNzQsLTE5MDA0
 OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OTE2MywtMTQ2MjExNz
 k4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMDkyNTEzNDUs
