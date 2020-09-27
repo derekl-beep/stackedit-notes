@@ -437,6 +437,14 @@ $$G(s)=C(sI-A)^{-1}B$$
 
 3. Time domain (impulse response):
 $$y(t)=\int_{0}^{t}{h(t-\tau)u(\tau)d\tau}$$
+<p align="center">
+	<img src="https://i.imgur.com/cLLAT5O.jpg" 
+	height="50%" width="50%"/>
+</p>
+
+> Source: https://youtu.be/h7nJ6ZL4Lf0?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
+
+
 
 ### Transfer functions
 When a linear system is excited with a sine wave, e.g. $u(t)=\sin(\omega t)$, the responses are also sinusoidal with the same frequency, e.g. $y(t)=A\sin(\omega t +\phi)$, and possibly a different amplitude and a shift in phrase. 
@@ -501,11 +509,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI0NjE2ODAsMTc3NTY5NjczNiwtMT
-QxMzk1NTUwMywtMjQ4NDIyMTc0LC0xOTAwNDkyMDk3LC0yMDI0
-NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIxMTc5ODEsMTc5OTg0Nz
-Y5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1LC04MjA3MjcxMCwt
-MTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Njc3MjI4NywtMTczMj
-kzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4
-OTcsLTQ4MTIyNDk0NV19
+eyJoaXN0b3J5IjpbLTE3MDM4NTcyMTksLTE4NzI0NjE2ODAsMT
+c3NTY5NjczNiwtMTQxMzk1NTUwMywtMjQ4NDIyMTc0LC0xOTAw
+NDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIxMT
+c5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1
+LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Nj
+c3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgw
+NTQ5LC02MjcyNTE4OTddfQ==
 -->
