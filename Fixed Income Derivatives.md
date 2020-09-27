@@ -446,6 +446,13 @@ Given a binomial tree for interest rates, the bond price tree can be constructed
 
 $$P_{i,j}=\frac{\frac{1}{2}(P_{i+1,j+1}+P_{i,j+1})}{1+r_{i,j}\Delta t}$$
 
+### Expectation pricing
+
+### Arbitrage pricing
+
+We can consider two alternative portfolios:
+1. a call option on a bond
+2. 
 
 
 
@@ -470,10 +477,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE0MzcyMDksLTE5MzYzNDk1MTUsOT
-E5NTMzOTkyLDE1NDQ0OTk3ODQsLTExOTYzNTU2MjQsLTk0MTI5
-MzA3NCwzNzg3MDQzNTksNDE3MjgxOTg0LDM0MjQzOTUzNCwxNz
-Y5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMyw1OTU3Njcz
-NjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMwMDQyMyw0Mj
-gyNDcyOTcsNTUzMjE0ODY0XX0=
+eyJoaXN0b3J5IjpbLTE1OTA1MjIzODksLTIwMjE0MzcyMDksLT
+E5MzYzNDk1MTUsOTE5NTMzOTkyLDE1NDQ0OTk3ODQsLTExOTYz
+NTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3MjgxOTg0LD
+M0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1
+MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMT
+E0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
 -->
