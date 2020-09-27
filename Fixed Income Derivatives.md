@@ -467,7 +467,7 @@ $$. Rearranging the terms gives $$\alpha=\frac{C_{1,1}-C_{0,1}}{P_{1,1}-P_{0,1}}
 
 The price of an option can be expressed as the expected present value, based on the risk-neural probability $q_0$
 
-$$C_{0,0}=(1+r_{0,0}\Delta t)^{-1}\Big[q_0C_{0,1}+(1-q_0)C_{1,1}\Big]$$, where $q_0$ is given by the bond price tree as$$P_{0,0}=(1+r_{0,0} \Delta t)^{-1}\Big[q_0 P_{0,1}+(1-q_0)P_{1,1}\Big]$$.
+$$C_{0,0}=(1+r_{0,0}\Delta t)^{-1}\Big[q_0C_{0,1}+(1-q_0)C_{1,1}\Big]$$, where $q_0$ is given by the **bond price tree** as$$P_{0,0}=(1+r_{0,0} \Delta t)^{-1}\Big[q_0 P_{0,1}+(1-q_0)P_{1,1}\Big]$$.
 
 #### Proof
 
@@ -502,11 +502,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjYyNDc0NSwtMTE2NzQ1NjQzMiwtMT
-c5Mjg0MzI3NCwtMTQ1ODIzOTQ3MCw5Njk4OTg3NDQsMTE0NDU3
-NDQ0OCwtMjAyMTQzNzIwOSwtMTkzNjM0OTUxNSw5MTk1MzM5OT
-IsMTU0NDQ5OTc4NCwtMTE5NjM1NTYyNCwtOTQxMjkzMDc0LDM3
-ODcwNDM1OSw0MTcyODE5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MD
-YsLTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUx
-ODE1OTJdfQ==
+eyJoaXN0b3J5IjpbMTE4MjgzOTQ0NywtNTI2NjI0NzQ1LC0xMT
+Y3NDU2NDMyLC0xNzkyODQzMjc0LC0xNDU4MjM5NDcwLDk2OTg5
+ODc0NCwxMTQ0NTc0NDQ4LC0yMDIxNDM3MjA5LC0xOTM2MzQ5NT
+E1LDkxOTUzMzk5MiwxNTQ0NDk5Nzg0LC0xMTk2MzU1NjI0LC05
+NDEyOTMwNzQsMzc4NzA0MzU5LDQxNzI4MTk4NCwzNDI0Mzk1Mz
+QsMTc2OTExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1
+NzY3MzY1XX0=
 -->
