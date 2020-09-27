@@ -484,7 +484,9 @@ $$
 
 # 9 - The Art of Term Structure Models: Drifts
 
-To be available.
+### Risk premiums
+
+A risk 
 
 # 16 - Swaps and Swapotions
 To be available.
@@ -502,11 +504,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjgzOTQ0NywtNTI2NjI0NzQ1LC0xMT
-Y3NDU2NDMyLC0xNzkyODQzMjc0LC0xNDU4MjM5NDcwLDk2OTg5
-ODc0NCwxMTQ0NTc0NDQ4LC0yMDIxNDM3MjA5LC0xOTM2MzQ5NT
-E1LDkxOTUzMzk5MiwxNTQ0NDk5Nzg0LC0xMTk2MzU1NjI0LC05
-NDEyOTMwNzQsMzc4NzA0MzU5LDQxNzI4MTk4NCwzNDI0Mzk1Mz
-QsMTc2OTExMzkwNiwtNzM5NDQ0ODExLDE1MDMwNTMwMjMsNTk1
-NzY3MzY1XX0=
+eyJoaXN0b3J5IjpbMTI1Njc4NjgwLDExODI4Mzk0NDcsLTUyNj
+YyNDc0NSwtMTE2NzQ1NjQzMiwtMTc5Mjg0MzI3NCwtMTQ1ODIz
+OTQ3MCw5Njk4OTg3NDQsMTE0NDU3NDQ0OCwtMjAyMTQzNzIwOS
+wtMTkzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5
+NjM1NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5OD
+QsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAz
+MDUzMDIzXX0=
 -->
