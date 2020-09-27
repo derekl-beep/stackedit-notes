@@ -468,7 +468,16 @@ The value of the option is thus $$C_{0,0}=\alpha P_{0,0}+\beta$$, which is uniqu
 
 The price of an option can be expressed as the expected present value, based on the risk-neural probability $q_0$
 
-$$C_{0,0}=(1+r_{0,0}\Delta t)^{-1}(q_0C_{0,1}+(1-q_0)C_{1,1})$$, where
+$$C_{0,0}=(1+r_{0,0}\Delta t)^{-1}(q_0C_{0,1}+(1-q_0)C_{1,1})$$.
+
+#### Proof
+
+$$
+\begin{aligned}
+	C_{0,0} &= \alpha P_{0,0} + \beta \\
+	&= \frac{C_{1,1}-C_{0,1}}{P_{1,1}-P_{0,1}}
+\end{aligned}
+$$
 
 
 
@@ -493,7 +502,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDYyOTY5MSwtMjAyMTQzNzIwOSwtMT
+eyJoaXN0b3J5IjpbLTgzNzU3MzA5MCwtMjAyMTQzNzIwOSwtMT
 kzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5NjM1
 NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5ODQsMz
 QyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUz
