@@ -481,6 +481,9 @@ G(s)  \coloneqq  \frac{\bar{x}}{\bar{u}}&=\frac{1}{s^2+s+1}
 \end{aligned}$$
 
 
+
+
+
 ## References
 
 - Control Bootcamp (YouTube Playlist)
@@ -495,11 +498,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTY5NjczNiwtMTQxMzk1NTUwMywtMj
-Q4NDIyMTc0LC0xOTAwNDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMw
-NTkxNjMsLTE0NjIxMTc5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MT
-A3LC0yMTA5MjUxMzQ1LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywy
-MDcyODI1MzM1LDc1Njc3MjI4NywtMTczMjkzOTQwNiwtMTcwOD
-c4MjgwOCwtMTM1NDgwNTQ5LC02MjcyNTE4OTcsLTQ4MTIyNDk0
-NSwtNjQ0MTQ0NTEzXX0=
+eyJoaXN0b3J5IjpbMTc4NDQzOTkwLDE3NzU2OTY3MzYsLTE0MT
+M5NTU1MDMsLTI0ODQyMjE3NCwtMTkwMDQ5MjA5NywtMjAyNDY0
+ODQ2MSwtOTIzMDU5MTYzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OT
+gsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3MTAsLTE0
+NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3NzIyODcsLTE3MzI5Mz
+k0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0OSwtNjI3MjUxODk3
+LC00ODEyMjQ5NDVdfQ==
 -->
