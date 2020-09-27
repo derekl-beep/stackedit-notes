@@ -66,14 +66,18 @@ $$
 		\frac{4\frac{7}{8}}{2} & 100+\frac{4\frac{7}{8}}{2} & 0 \\
 		\frac{4\frac{1}{2}}{2} & \frac{4\frac{1}{2}}{2} & 100+\frac{4\frac{1}{2}}{2} 
 	\end{bmatrix} 
-	\begin{Bmatrix}
+	\begin{bmatrix}
 	d(0.5) \\ d(1.0) \\d(1.5)
-	\end{Bmatrix}
-	&= \begin{Bmatrix} 
+	\end{bmatrix}
+	&= \begin{bmatrix} 
 	100.550 \\ 104.513 \\ 105.856
-	\end{Bmatrix} \\
+	\end{bmatrix} \\
 \end{aligned}
-$$. Solving the system of 
+$$. Solving the system of equations gives $$
+\begin{bmatrix} d(0.5) \\ d(1.0) \\d(1.5) \end{bmatrix}
+= \begin{bmatrix}0.99925 \\ 0.99648 \\ 0.99135 \end{bmatrix}$$.
+
+
 
 ### Example (Arbitrage)
 
@@ -500,7 +504,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk5Mzg0MjQsLTE0NTgyMzk0NzAsOT
+eyJoaXN0b3J5IjpbLTE3OTI4NDMyNzQsLTE0NTgyMzk0NzAsOT
 Y5ODk4NzQ0LDExNDQ1NzQ0NDgsLTIwMjE0MzcyMDksLTE5MzYz
 NDk1MTUsOTE5NTMzOTkyLDE1NDQ0OTk3ODQsLTExOTYzNTU2Mj
 QsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3MjgxOTg0LDM0MjQz
