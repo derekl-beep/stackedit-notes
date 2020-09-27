@@ -460,7 +460,7 @@ $$
 	C_{0,1} &= \alpha P_{0,1} + \beta(1+r_{0,0}\Delta t) \\
 	C_{1,1} &= \alpha P_{1,1} + \beta(1+r_{0,0}\Delta t) 
 \end{aligned}
-$$. Rearranging the terms gives 
+$$. Rearranging the terms gives $$\alpha=\frac{C_{1,1}-C_{0,1}}{P_{1,1}-P_{0,1}}$$, and $$\beta=\frac{}{}$$
 
 
 
@@ -484,10 +484,10 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODUwNTQ2MywtMjAyMTQzNzIwOSwtMT
-kzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5NjM1
-NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5ODQsMz
-QyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAzMDUz
-MDIzLDU5NTc2NzM2NSw4MTUxODE1OTIsNTc2Nzc3MTA0LC0xMT
-QxMzAwNDIzLDQyODI0NzI5Nyw1NTMyMTQ4NjRdfQ==
+eyJoaXN0b3J5IjpbLTE3NTI3NjYwOTAsLTIwMjE0MzcyMDksLT
+E5MzYzNDk1MTUsOTE5NTMzOTkyLDE1NDQ0OTk3ODQsLTExOTYz
+NTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3MjgxOTg0LD
+M0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1
+MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMT
+E0MTMwMDQyMyw0MjgyNDcyOTcsNTUzMjE0ODY0XX0=
 -->
