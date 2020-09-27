@@ -438,11 +438,11 @@ $$G(s)=C(sI-A)^{-1}B$$
 3. Time domain (impulse response):
 $$y(t)=\int_{0}^{t}{h(t-\tau)u(\tau)d\tau}$$
 <p align="center">
-	<img src="https://i.imgur.com/cLLAT5O.jpg" 
+	<img src="https://i.imgur.com/mbrLdyx.png" 
 	height="50%" width="50%"/>
 </p>
 
-> Source: https://youtu.be/h7nJ6ZL4Lf0?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
+> Source: https://pt.slideshare.net/AndreiPopescu9/transfer-function/5?smtNoRedir=1
 
 
 
@@ -509,11 +509,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM4NTcyMTksLTE4NzI0NjE2ODAsMT
-c3NTY5NjczNiwtMTQxMzk1NTUwMywtMjQ4NDIyMTc0LC0xOTAw
-NDkyMDk3LC0yMDI0NjQ4NDYxLC05MjMwNTkxNjMsLTE0NjIxMT
-c5ODEsMTc5OTg0NzY5OCwtMzkwNjU2MTA3LC0yMTA5MjUxMzQ1
-LC04MjA3MjcxMCwtMTQ3MzI0MzIwMywyMDcyODI1MzM1LDc1Nj
-c3MjI4NywtMTczMjkzOTQwNiwtMTcwODc4MjgwOCwtMTM1NDgw
-NTQ5LC02MjcyNTE4OTddfQ==
+eyJoaXN0b3J5IjpbNjMzMDE1ODcxLC0xODcyNDYxNjgwLDE3Nz
+U2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQyMjE3NCwtMTkwMDQ5
+MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MTYzLC0xNDYyMTE3OT
+gxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwt
+ODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMzNSw3NTY3Nz
+IyODcsLTE3MzI5Mzk0MDYsLTE3MDg3ODI4MDgsLTEzNTQ4MDU0
+OSwtNjI3MjUxODk3XX0=
 -->
