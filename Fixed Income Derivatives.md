@@ -499,9 +499,12 @@ $$\Delta r_t =(\mu_t + \lambda_t)\Delta t + \sigma \sqrt{\Delta t} \epsilon_B$$,
 $$
 \begin{aligned}
 	r_{i,j+1} &= r_{i,j}+(\mu_j+\lambda_j)\Delta t - \sigma \sqrt{\Delta t} \\
-	r_{j+1,j+1} &= 
+	r_{j+1,j+1} &= r_{i,j}+(\mu_j+\lambda_j)\Delta t + \sigma \sqrt{\Delta t}
 \end{aligned}
-$$
+$$, where $i=0,1,...,j$ and $j=0,1,...,N$.
+
+
+
 
 
 
@@ -521,11 +524,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzY1NDAxLDExODI4Mzk0NDcsLTUyNj
-YyNDc0NSwtMTE2NzQ1NjQzMiwtMTc5Mjg0MzI3NCwtMTQ1ODIz
-OTQ3MCw5Njk4OTg3NDQsMTE0NDU3NDQ0OCwtMjAyMTQzNzIwOS
-wtMTkzNjM0OTUxNSw5MTk1MzM5OTIsMTU0NDQ5OTc4NCwtMTE5
-NjM1NTYyNCwtOTQxMjkzMDc0LDM3ODcwNDM1OSw0MTcyODE5OD
-QsMzQyNDM5NTM0LDE3NjkxMTM5MDYsLTczOTQ0NDgxMSwxNTAz
-MDUzMDIzXX0=
+eyJoaXN0b3J5IjpbMTc0NDM3NTk4NiwxMTgyODM5NDQ3LC01Mj
+Y2MjQ3NDUsLTExNjc0NTY0MzIsLTE3OTI4NDMyNzQsLTE0NTgy
+Mzk0NzAsOTY5ODk4NzQ0LDExNDQ1NzQ0NDgsLTIwMjE0MzcyMD
+ksLTE5MzYzNDk1MTUsOTE5NTMzOTkyLDE1NDQ0OTk3ODQsLTEx
+OTYzNTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3MjgxOT
+g0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUw
+MzA1MzAyM119
 -->
