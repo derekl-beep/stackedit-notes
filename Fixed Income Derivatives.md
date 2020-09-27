@@ -412,8 +412,8 @@ To be available.
 ### Binomial Model for Equity Prices
 
 $$\frac{\Delta S_t}{S_t}=\mu_t \Delta t+\sigma \Delta W_t=\mu_t \Delta t+\sigma \sqrt{\Delta t} \epsilon_B$$, where $\epsilon_B =\left\{ \begin{array}{l}
-	1, \text{with prob. } 0.5\\
-	-1, \text{with prob. } 0.5 
+	1, &\text{with prob. } 0.5\\
+	-1, &\text{with prob. } 0.5 
 	\end{array}
 	\right..$
 
@@ -504,11 +504,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTI4NDMyNzQsLTE0NTgyMzk0NzAsOT
-Y5ODk4NzQ0LDExNDQ1NzQ0NDgsLTIwMjE0MzcyMDksLTE5MzYz
-NDk1MTUsOTE5NTMzOTkyLDE1NDQ0OTk3ODQsLTExOTYzNTU2Mj
-QsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3MjgxOTg0LDM0MjQz
-OTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MTEsMTUwMzA1MzAyMy
-w1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3NzEwNCwtMTE0MTMw
-MDQyM119
+eyJoaXN0b3J5IjpbLTExNjc0NTY0MzIsLTE3OTI4NDMyNzQsLT
+E0NTgyMzk0NzAsOTY5ODk4NzQ0LDExNDQ1NzQ0NDgsLTIwMjE0
+MzcyMDksLTE5MzYzNDk1MTUsOTE5NTMzOTkyLDE1NDQ0OTk3OD
+QsLTExOTYzNTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3
+MjgxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MT
+EsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3
+NzEwNF19
 -->
