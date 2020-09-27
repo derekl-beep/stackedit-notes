@@ -461,15 +461,13 @@ $$
 	C_{0,1} &= \alpha P_{0,1} + \beta(1+r_{0,0}\Delta t) \\
 	C_{1,1} &= \alpha P_{1,1} + \beta(1+r_{0,0}\Delta t) 
 \end{aligned}
-$$. Rearranging the terms gives $$\alpha=\frac{C_{1,1}-C_{0,1}}{P_{1,1}-P_{0,1}}$$, and $$\beta=\frac{P_{1,1}C_{0,1}-P_{1,0}C_{1,1}}{(1+r_{0,0}\Delta t)(P_{1,1}-P_{1,0})}$$.
-
-The value of the option is thus $$C_{0,0}=\alpha P_{0,0}+\beta$$, which is unique.
+$$. Rearranging the terms gives $$\alpha=\frac{C_{1,1}-C_{0,1}}{P_{1,1}-P_{0,1}}$$, and $$\beta=\frac{P_{1,1}C_{0,1}-P_{1,0}C_{1,1}}{(1+r_{0,0}\Delta t)(P_{1,1}-P_{1,0})}$$. The value of the option is thus $$C_{0,0}=\alpha P_{0,0}+\beta$$, which is unique.
 
 ### Risk-neural pricing probability
 
 The price of an option can be expressed as the expected present value, based on the risk-neural probability $q_0$
 
-$$C_{0,0}=(1+r_{0,0}\Delta t)^{-1}\bigg[q_0C_{0,1}+(1-q_0)C_{1,1}\bigg]$$, where $q_0$ is given by the bond price tree as$$P_{0,0}=(1+r_{0,0} \Delta t)^{-1}\bigg[q_0 P_{0,1}+(1-q_0)P_{1,1}\bigg]$$.
+$$C_{0,0}=(1+r_{0,0}\Delta t)^{-1}\Big[q_0C_{0,1}+(1-q_0)C_{1,1}\Big]$$, where $q_0$ is given by the bond price tree as$$P_{0,0}=(1+r_{0,0} \Delta t)^{-1}\Big[q_0 P_{0,1}+(1-q_0)P_{1,1}\Big]$$.
 
 #### Proof
 
@@ -477,8 +475,8 @@ $$
 \begin{aligned}
 	C_{0,0} &= \alpha P_{0,0} + \beta \\
 	&= \frac{C_{1,1}-C_{0,1}}{P_{1,1}-P_{0,1}}P_{0,0} + \frac{P_{1,1}C_{0,1}-P_{1,0}C_{1,1}}{(1+r_{0,0}\Delta t)(P_{1,1}-P_{1,0})} \\
-	&=(1+r_{0,0}\Delta)^{-1}\bigg( \frac{P_{1,1}-P_{0,0}(1+r_{0,0}\Delta t)}{P_{1,1}-P_{0,1}}C_{0,1}+ \frac{P_{0,0}(1+r_{0,0}\Delta t)-P_{0,1}}{P_{1,1}-P_{0,1}}C_{1,1} \bigg) \\
-	&=(1+r_{0,0}\Delta t)^{-1}\bigg[q_0C_{0,1}+(1-q_0)C_{1,1}\bigg]
+	&=(1+r_{0,0}\Delta)^{-1}\bigg[ \frac{P_{1,1}-P_{0,0}(1+r_{0,0}\Delta t)}{P_{1,1}-P_{0,1}}C_{0,1}+ \frac{P_{0,0}(1+r_{0,0}\Delta t)-P_{0,1}}{P_{1,1}-P_{0,1}}C_{1,1} \bigg] \\
+	&=(1+r_{0,0}\Delta t)^{-1}\Big[q_0C_{0,1}+(1-q_0)C_{1,1}\Big]
 \end{aligned}
 $$
 
@@ -504,11 +502,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc0NTY0MzIsLTE3OTI4NDMyNzQsLT
-E0NTgyMzk0NzAsOTY5ODk4NzQ0LDExNDQ1NzQ0NDgsLTIwMjE0
-MzcyMDksLTE5MzYzNDk1MTUsOTE5NTMzOTkyLDE1NDQ0OTk3OD
-QsLTExOTYzNTU2MjQsLTk0MTI5MzA3NCwzNzg3MDQzNTksNDE3
-MjgxOTg0LDM0MjQzOTUzNCwxNzY5MTEzOTA2LC03Mzk0NDQ4MT
-EsMTUwMzA1MzAyMyw1OTU3NjczNjUsODE1MTgxNTkyLDU3Njc3
-NzEwNF19
+eyJoaXN0b3J5IjpbLTUyNjYyNDc0NSwtMTE2NzQ1NjQzMiwtMT
+c5Mjg0MzI3NCwtMTQ1ODIzOTQ3MCw5Njk4OTg3NDQsMTE0NDU3
+NDQ0OCwtMjAyMTQzNzIwOSwtMTkzNjM0OTUxNSw5MTk1MzM5OT
+IsMTU0NDQ5OTc4NCwtMTE5NjM1NTYyNCwtOTQxMjkzMDc0LDM3
+ODcwNDM1OSw0MTcyODE5ODQsMzQyNDM5NTM0LDE3NjkxMTM5MD
+YsLTczOTQ0NDgxMSwxNTAzMDUzMDIzLDU5NTc2NzM2NSw4MTUx
+ODE1OTJdfQ==
 -->
