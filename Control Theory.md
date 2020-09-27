@@ -499,7 +499,7 @@ It is a generalised one-sided Fourier transform for functions not necessarily bo
 
 For example, 
 
-$$\mathcal{L}\{x(t)\}=\int_{}^{}{}$$
+$$\mathcal{L}\{x(t)\}=\int_{0^-}^{\infty}{x(t)e^{-st}}dt = \bar{x}(s)$$
 
 Given the state-space formulation 
 $$
@@ -532,7 +532,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxODE1NTk5LC0xODcyNDYxNjgwLDE3Nz
+eyJoaXN0b3J5IjpbNzY3MjQ4MjQwLC0xODcyNDYxNjgwLDE3Nz
 U2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQyMjE3NCwtMTkwMDQ5
 MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MTYzLC0xNDYyMTE3OT
 gxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywtMjEwOTI1MTM0NSwt
