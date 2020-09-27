@@ -502,6 +502,8 @@ It is a generalised one-sided Fourier transform for functions not necessarily bo
 
 The Laplace transform of a function $x(t)$ is defined as $$\mathcal{L}\{x(t)\}=\int_{0^-}^{\infty}{x(t)e^{-st}}dt = \bar{x}(s)$$, where $s \in \mathbb{C}$ is a complex number frequency parameter.
 
+
+
 ### Dynamical Systems
 
 Given the state-space formulation 
@@ -535,7 +537,7 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzE3MDk1NCwyMDIxMzM2MTUxLC0xOD
+eyJoaXN0b3J5IjpbLTI3MDM1NDkxOCwyMDIxMzM2MTUxLC0xOD
 cyNDYxNjgwLDE3NzU2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQy
 MjE3NCwtMTkwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MT
 YzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywt
