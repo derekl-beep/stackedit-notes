@@ -565,7 +565,7 @@ The Laplace transform of an impulse excitation, i.e. $u(t)=\delta(t)$, is a unit
 
 ## Proportional-Integral (PI) Control
 
-
+The integral term in PI control reduces the steady-state error to zero.
 
 
 ## References
@@ -582,11 +582,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjcyMTA3OTYsMjQxMDY2ODY3LDE0MT
-EwMzI0NDcsLTE1MzI2ODYyMjIsMjAyMTMzNjE1MSwtMTg3MjQ2
-MTY4MCwxNzc1Njk2NzM2LC0xNDEzOTU1NTAzLC0yNDg0MjIxNz
-QsLTE5MDA0OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OTE2Mywt
-MTQ2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMD
-kyNTEzNDUsLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUz
-MzUsNzU2NzcyMjg3XX0=
+eyJoaXN0b3J5IjpbLTE3NjQ4MjYzOSwtMTA2NzIxMDc5NiwyND
+EwNjY4NjcsMTQxMTAzMjQ0NywtMTUzMjY4NjIyMiwyMDIxMzM2
+MTUxLC0xODcyNDYxNjgwLDE3NzU2OTY3MzYsLTE0MTM5NTU1MD
+MsLTI0ODQyMjE3NCwtMTkwMDQ5MjA5NywtMjAyNDY0ODQ2MSwt
+OTIzMDU5MTYzLC0xNDYyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MD
+Y1NjEwNywtMjEwOTI1MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMy
+MDMsMjA3MjgyNTMzNV19
 -->
