@@ -563,6 +563,8 @@ The Laplace transform of an impulse excitation, i.e. $u(t)=\delta(t)$, is a unit
 - uncertainty
 - disturbance
 
+## Proportional-Integral (PI) Control
+
 
 
 
@@ -580,11 +582,11 @@ More notes can be found on https://github.com/derekl-beep/cs-notes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjUzNTY3NywyNDEwNjY4NjcsMTQxMT
-AzMjQ0NywtMTUzMjY4NjIyMiwyMDIxMzM2MTUxLC0xODcyNDYx
-NjgwLDE3NzU2OTY3MzYsLTE0MTM5NTU1MDMsLTI0ODQyMjE3NC
-wtMTkwMDQ5MjA5NywtMjAyNDY0ODQ2MSwtOTIzMDU5MTYzLC0x
-NDYyMTE3OTgxLDE3OTk4NDc2OTgsLTM5MDY1NjEwNywtMjEwOT
-I1MTM0NSwtODIwNzI3MTAsLTE0NzMyNDMyMDMsMjA3MjgyNTMz
-NSw3NTY3NzIyODddfQ==
+eyJoaXN0b3J5IjpbLTEwNjcyMTA3OTYsMjQxMDY2ODY3LDE0MT
+EwMzI0NDcsLTE1MzI2ODYyMjIsMjAyMTMzNjE1MSwtMTg3MjQ2
+MTY4MCwxNzc1Njk2NzM2LC0xNDEzOTU1NTAzLC0yNDg0MjIxNz
+QsLTE5MDA0OTIwOTcsLTIwMjQ2NDg0NjEsLTkyMzA1OTE2Mywt
+MTQ2MjExNzk4MSwxNzk5ODQ3Njk4LC0zOTA2NTYxMDcsLTIxMD
+kyNTEzNDUsLTgyMDcyNzEwLC0xNDczMjQzMjAzLDIwNzI4MjUz
+MzUsNzU2NzcyMjg3XX0=
 -->
